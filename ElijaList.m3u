@@ -46,6 +46,12 @@ http://195.162.90.141:8080/c4f4d43363bea02c37593218d78b39b0
 #EXTINF:0 type="stream" channelId="-1" group="Футбол", Матч Футбол 3
 http://streamer.in-lan.net.ua:8080/ch0082
 #EXTINF:0 type="stream" channelId="-1" group="Футбол", Матч Премьер
+http://188.113.190.12/103/video.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Футбол", Матч Премьер HD
+http://217.25.216.4:8085/udp/238.2.16.250:1234
+#EXTINF:0 type="stream" channelId="-1" group="Футбол", Матч Премьер HD
+http://demo1.cdn.micro.im:63080/tXOTRkENh6dQf045/nashfutbolhd/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Футбол", Матч Премьер
 http://2ecba0eb.iptvzone.net/iptv/D76PCW8BZ47S3B/531/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Футбол", Матч Премьер
 http://193.111.2.200:8000/play/a049/index.m3u8
