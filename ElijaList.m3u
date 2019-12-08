@@ -1,31 +1,31 @@
 #EXTM3U
 #EXTINF:0 group-title="Матч Футбол 1", Матч! Футбол 1 [01]
 http://188.113.190.12/175/video.m3u8
-#EXTINF:0 group-title="Матч Футбол 1", Матч! Футбол 1 [02]
+#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [02]
 http://188.35.9.10:2025
-#EXTINF:0 group-title="Матч Футбол 1", Матч! Футбол 1 [03]
+#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [03]
 http://4f9cc916.ottv.info/iptv/ZVQP7WC8VPT42D/124/index.m3u8
-#EXTINF:0 group-title="Матч Футбол 1", Матч! Футбол 1 [04]
+#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [04]
 http://4f9cc916.ottv.info/iptv/ZVQP7WC8VPT42D/222/index.m3u8
-#EXTINF:0 group-title="Матч Футбол 1", Матч! Футбол 1 [05]
+#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [05]
 http://telesfor.kartoshkaka.ru/iptv/ZVQP7WC8VPT42D/124/index.m3u8
-#EXTINF:0 group-title="Матч Футбол 1", Матч! Футбол 1 [06]
+#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [06]
 http://telesfor.kartoshkaka.ru/iptv/ZVQP7WC8VPT42D/222/index.m3u8
-#EXTINF:0 group-title="Матч Футбол 1", Матч! Футбол 1 [07]
+#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [07]
 http://2ecba0eb.iptvzone.net/iptv/D76PCW8BZ47S3B/124/index.m3u8
-#EXTINF:0 group-title="Матч Футбол 1", Матч! Футбол 1 HD [08]
+#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 HD [08]
 http://188.35.9.10:2010
-#EXTINF:0 group-title="Матч Футбол 1", Матч! Футбол 1 HD [09]
+#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 HD [09]
 http://188.35.9.15:21151/udp/167u
-#EXTINF:0 group-title="Матч Футбол 1", Матч! Футбол 1 HD [10]
+#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 HD [10]
 http://188.35.9.11:21151/udp/167u
-#EXTINF:0 group-title="Матч Футбол 1", Матч! Футбол 1 HD [11]
+#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 HD [11]
 http://188.35.9.12:21151/udp/167u
-#EXTINF:0 group-title="Матч Футбол 1", Матч! Футбол 1 HD [12]
+#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 HD [12]
 http://2ecba0eb.iptvzone.net/iptv/D76PCW8BZ47S3B/222/index.m3u8
-#EXTINF:0 group-title="Матч Футбол 1", Матч! Футбол 1 HD [13]
+#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 HD [13]
 http://streamer.in-lan.net.ua:8080/ch0083
-#EXTINF:0 group-title="Матч Футбол 1", Матч! Футбол 1 HD [14]
+#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 HD [14]
 http://193.9.60.131:8000/play/a004/index.m3u8
 #EXTINF:0 group-title="Матч Футбол 2", Матч! Футбол 2 [01]
 http://188.35.9.26:12050/udp/238.0.12.3:69000
