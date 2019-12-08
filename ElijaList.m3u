@@ -157,17 +157,17 @@ http://ott-cdn.ucom.am/s81/04.m3u8?fluxustv.m3u8
 http://ott-cdn.ucom.am/s81/04.m3u8
 #EXTINF:0 group-title="SETANTA SPORTS", SETANTA SPORTS [05]
 http://ott-cdn.ucom.am/s81/03.m3u8
-#EXTINF:0 group-title="SETANTA SPORTS+", SETANTA SPORTS+ [01]
+#EXTINF:0 group-title="SETANTA SPORTS 2", SETANTA SPORTS 2 [01]
 http://92.43.140.200/s82/04.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
-#EXTINF:0 group-title="SETANTA SPORTS+", SETANTA SPORTS+ HD [02]
+#EXTINF:0 group-title="SETANTA SPORTS 2", SETANTA SPORTS 2 HD [02]
 http://178.124.183.13/hls/5T3FNFICQ4/bw5000000/playlist.m3u8?version=2
-#EXTINF:0 group-title="SETANTA SPORTS+", SETANTA SPORTS+ HD [03]
+#EXTINF:0 group-title="SETANTA SPORTS 2", SETANTA SPORTS 2 HD [03]
 http://178.124.183.13/hls/5T3FNFICQ4/bw5000000/playlist.m3u8?version=2?seg-user-zona-iptv.ru-v1-a1
-#EXTINF:0 group-title="SETANTA SPORTS+", SETANTA SPORTS+ [04]
+#EXTINF:0 group-title="SETANTA SPORTS 2", SETANTA SPORTS 2 [04]
 http://109.248.236.41:4433/udp/238.1.1.61:1234
-#EXTINF:0 group-title="SETANTA SPORTS+", SETANTA SPORTS+ HD [05]
+#EXTINF:0 group-title="SETANTA SPORTS 2", SETANTA SPORTS 2 HD [05]
 http://92.46.127.146:8080/SetantaSportPlus/tracks-v1a1/index.m3u8
-#EXTINF:0 group-title="SETANTA SPORTS+", SETANTA SPORTS+ HD [06]
+#EXTINF:0 group-title="SETANTA SPORTS 2", SETANTA SPORTS 2 HD [06]
 http://178.124.183.13/hls/5T3FNFICQ4/bw5000000/playlist.m3u8?version=2?seg-user-4pda-denms-ru-v1-a1
 #EXTINF:0 group-title="БЕЛАРУСЬ 5", БЕЛАРУСЬ 5 [01]
 http://persik.by/stream/1017/402000/932.m3u8
