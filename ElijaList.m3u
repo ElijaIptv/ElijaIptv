@@ -123,7 +123,7 @@ http://46.32.68.167/s/live/501/86.169.51.136/0/0.m3u8?version=2
 http://46.32.68.167/s/live/501/86.169.51.136/8/0.m3u8
 #EXTINF:0 group-title="EUROSPORT 1", EUROSPORT 1 [06]
 http://46.32.68.167/s/live/501/86.169.51.136/1/0.m3u8
-#EXTINF:0 group-title="EUROSPORT 2", EUROSPORT 2 [01]
+#EXTINF:0 group-title="EUROSPORT 2", EUROSPORT 2 North-East [01]
 http://217.25.216.4:8085/udp/238.2.15.171:1234
 #EXTINF:0 group-title="EUROSPORT 2", EUROSPORT 2 [02]
 http://46.32.68.167/s/live/502/86.169.51.136/0/0.m3u8?version=2
