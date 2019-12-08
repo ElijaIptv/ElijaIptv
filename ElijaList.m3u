@@ -1,177 +1,177 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1" group="Футбол", Матч Футбол 1
+#EXTINF:0 type="stream" channelId="-1" group-title="Футбол", Матч Футбол 1
 http://188.113.190.12/175/video.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Футбол", Матч Футбол 1
+#EXTINF:0 type="stream" channelId="-1" group-title="Футбол", Матч Футбол 1
 http://188.35.9.10:2025
-#EXTINF:0 type="stream" channelId="-1" group="Футбол", Матч Футбол 1
+#EXTINF:0 type="stream" channelId="-1" group-title="Футбол", Матч Футбол 1
 http://4f9cc916.ottv.info/iptv/ZVQP7WC8VPT42D/124/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Футбол", Матч Футбол 1
+#EXTINF:0 type="stream" channelId="-1" group-title="Футбол", Матч Футбол 1
 http://4f9cc916.ottv.info/iptv/ZVQP7WC8VPT42D/222/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Футбол", Матч Футбол 1
+#EXTINF:0 type="stream" channelId="-1" group-title="Футбол", Матч Футбол 1
 http://telesfor.kartoshkaka.ru/iptv/ZVQP7WC8VPT42D/124/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Футбол", Матч Футбол 1
+#EXTINF:0 type="stream" channelId="-1" group-title="Футбол", Матч Футбол 1
 http://telesfor.kartoshkaka.ru/iptv/ZVQP7WC8VPT42D/222/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Футбол", Матч Футбол 1
+#EXTINF:0 type="stream" channelId="-1" group-title="Футбол", Матч Футбол 1
 http://2ecba0eb.iptvzone.net/iptv/D76PCW8BZ47S3B/124/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Футбол", Матч Футбол 1 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="Футбол", Матч Футбол 1 HD
 http://188.35.9.10:2010
-#EXTINF:0 type="stream" channelId="-1" group="Футбол", Матч Футбол 1 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="Футбол", Матч Футбол 1 HD
 http://188.35.9.15:21151/udp/167u
-#EXTINF:0 type="stream" channelId="-1" group="Футбол", Матч Футбол 1 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="Футбол", Матч Футбол 1 HD
 http://188.35.9.11:21151/udp/167u
-#EXTINF:0 type="stream" channelId="-1" group="Футбол", Матч Футбол 1 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="Футбол", Матч Футбол 1 HD
 http://188.35.9.12:21151/udp/167u
-#EXTINF:0 type="stream" channelId="-1" group="Футбол", Матч Футбол 1 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="Футбол", Матч Футбол 1 HD
 http://2ecba0eb.iptvzone.net/iptv/D76PCW8BZ47S3B/222/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Футбол", Матч Футбол 1 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="Футбол", Матч Футбол 1 HD
 http://streamer.in-lan.net.ua:8080/ch0083
-#EXTINF:0 type="stream" channelId="-1" group="Футбол", Матч Футбол 1 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="Футбол", Матч Футбол 1 HD
 http://193.9.60.131:8000/play/a004/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Футбол", Матч Футбол 2
+#EXTINF:0 type="stream" channelId="-1" group-title="Футбол", Матч Футбол 2
 http://188.35.9.26:12050/udp/238.0.12.3:69000
-#EXTINF:0 type="stream" channelId="-1" group="Футбол", Матч Футбол 2
+#EXTINF:0 type="stream" channelId="-1" group-title="Футбол", Матч Футбол 2
 http://188.35.9.26:12051/udp/238.0.12.3:69000
-#EXTINF:0 type="stream" channelId="-1" group="Футбол", Матч Футбол 2
+#EXTINF:0 type="stream" channelId="-1" group-title="Футбол", Матч Футбол 2
 http://188.113.190.12/176/video.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Футбол", Матч Футбол 2
+#EXTINF:0 type="stream" channelId="-1" group-title="Футбол", Матч Футбол 2
 http://188.35.9.10:2026
-#EXTINF:0 type="stream" channelId="-1" group="Футбол", Матч Футбол 2 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="Футбол", Матч Футбол 2 HD
 http://188.35.9.11:21151/udp/168o
-#EXTINF:0 type="stream" channelId="-1" group="Футбол", Матч Футбол 3
+#EXTINF:0 type="stream" channelId="-1" group-title="Футбол", Матч Футбол 3
 http://188.113.190.12/177/video.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Футбол", Матч Футбол 3
+#EXTINF:0 type="stream" channelId="-1" group-title="Футбол", Матч Футбол 3
 http://188.35.9.15:2027
-#EXTINF:0 type="stream" channelId="-1" group="Футбол", Матч Футбол 3
+#EXTINF:0 type="stream" channelId="-1" group-title="Футбол", Матч Футбол 3
 http://195.162.90.141:8080/c4f4d43363bea02c37593218d78b39b0
-#EXTINF:0 type="stream" channelId="-1" group="Футбол", Матч Футбол 3
+#EXTINF:0 type="stream" channelId="-1" group-title="Футбол", Матч Футбол 3
 http://streamer.in-lan.net.ua:8080/ch0082
-#EXTINF:0 type="stream" channelId="-1" group="Футбол", Матч Премьер
+#EXTINF:0 type="stream" channelId="-1" group-title="Футбол", Матч Премьер
 http://188.113.190.12/103/video.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Футбол", Матч Премьер HD
+#EXTINF:0 type="stream" channelId="-1" group-title="Футбол", Матч Премьер HD
 http://217.25.216.4:8085/udp/238.2.16.250:1234
-#EXTINF:0 type="stream" channelId="-1" group="Футбол", Матч Премьер HD
+#EXTINF:0 type="stream" channelId="-1" group-title="Футбол", Матч Премьер HD
 http://demo1.cdn.micro.im:63080/tXOTRkENh6dQf045/nashfutbolhd/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Футбол", Матч Премьер
+#EXTINF:0 type="stream" channelId="-1" group-title="Футбол", Матч Премьер
 http://2ecba0eb.iptvzone.net/iptv/D76PCW8BZ47S3B/531/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Футбол", Матч Премьер
+#EXTINF:0 type="stream" channelId="-1" group-title="Футбол", Матч Премьер
 http://193.111.2.200:8000/play/a049/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Футбол", Матч Премьер
+#EXTINF:0 type="stream" channelId="-1" group-title="Футбол", Матч Премьер
 http://4f9cc916.ottv.info/iptv/ZVQP7WC8VPT42D/220/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Футбол", Матч Премьер
+#EXTINF:0 type="stream" channelId="-1" group-title="Футбол", Матч Премьер
 http://4f9cc916.ottv.info/iptv/ZVQP7WC8VPT42D/531/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Футбол", Матч Премьер
+#EXTINF:0 type="stream" channelId="-1" group-title="Футбол", Матч Премьер
 http://telesfor.kartoshkaka.ru/iptv/ZVQP7WC8VPT42D/220/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", Матч
+#EXTINF:0 type="stream" channelId="-1" group-title="Спорт", Матч
 http://4f9cc916.ottv.info/iptv/ZVQP7WC8VPT42D/212/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", Матч
+#EXTINF:0 type="stream" channelId="-1" group-title="Спорт", Матч
 http://4f9cc916.ottv.info/iptv/ZVQP7WC8VPT42D/535/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", Матч
+#EXTINF:0 type="stream" channelId="-1" group-title="Спорт", Матч
 http://telesfor.kartoshkaka.ru/iptv/ZVQP7WC8VPT42D/212/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", Матч
+#EXTINF:0 type="stream" channelId="-1" group-title="Спорт", Матч
 http://telesfor.kartoshkaka.ru/iptv/ZVQP7WC8VPT42D/535/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", Матч
+#EXTINF:0 type="stream" channelId="-1" group-title="Спорт", Матч
 http://46.32.68.167/s/live/3/44.33.11.22/0/0.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", Матч
+#EXTINF:0 type="stream" channelId="-1" group-title="Спорт", Матч
 http://178.163.127.23:4022/udp/234.0.0.204:2000
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", Матч
+#EXTINF:0 type="stream" channelId="-1" group-title="Спорт", Матч
 http://178.163.18.154:4022/udp/234.0.0.204:2000
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", Матч
+#EXTINF:0 type="stream" channelId="-1" group-title="Спорт", Матч
 http://streamer.in-lan.net.ua:8080/ch0086
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", Матч Арена
+#EXTINF:0 type="stream" channelId="-1" group-title="Спорт", Матч Арена
 http://46.32.68.167/s/live/506/86.169.51.136/2/0.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", Матч Арена
+#EXTINF:0 type="stream" channelId="-1" group-title="Спорт", Матч Арена
 http://46.32.68.167/s/live/506/86.169.51.136/0/0.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", Матч Арена
+#EXTINF:0 type="stream" channelId="-1" group-title="Спорт", Матч Арена
 http://193.9.60.131:8000/play/a00a/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", Матч Арена
+#EXTINF:0 type="stream" channelId="-1" group-title="Спорт", Матч Арена
 http://193.111.2.200:8000/play/a00n/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", Матч Арена
+#EXTINF:0 type="stream" channelId="-1" group-title="Спорт", Матч Арена
 http://109.171.7.31:81/udp/239.54.6.176:1224
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", Матч Арена
+#EXTINF:0 type="stream" channelId="-1" group-title="Спорт", Матч Арена
 http://mjqtknzshfsdk.nnzgc43omftgqzzooj2q.cmle.ru/iptv/EAEWFFWBXPVVLY/207/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", Матч Игра
+#EXTINF:0 type="stream" channelId="-1" group-title="Спорт", Матч Игра
 http://178.163.15.103:4022/udp/234.0.0.211:2000
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", Матч Игра
+#EXTINF:0 type="stream" channelId="-1" group-title="Спорт", Матч Игра
 http://178.57.121.38:8080/matchigra/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", Матч Игра
+#EXTINF:0 type="stream" channelId="-1" group-title="Спорт", Матч Игра
 http://31.130.21.78:81/udp/238.1.2.21:1234
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", Матч Страна
+#EXTINF:0 type="stream" channelId="-1" group-title="Спорт", Матч Страна
 http://4f9cc916.ottv.info/iptv/ZVQP7WC8VPT42D/107/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", Матч Страна
+#EXTINF:0 type="stream" channelId="-1" group-title="Спорт", Матч Страна
 http://telesfor.kartoshkaka.ru/iptv/ZVQP7WC8VPT42D/107/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", Матч Страна
+#EXTINF:0 type="stream" channelId="-1" group-title="Спорт", Матч Страна
 http://2ecba0eb.iptvzone.net/iptv/D76PCW8BZ47S3B/107/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", Матч Страна
+#EXTINF:0 type="stream" channelId="-1" group-title="Спорт", Матч Страна
 http://46.32.68.167/s/live/510/86.169.51.136/8/0.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", Матч Страна
+#EXTINF:0 type="stream" channelId="-1" group-title="Спорт", Матч Страна
 http://46.32.68.167/s/live/510/86.169.51.136/1/0.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", Матч Страна
+#EXTINF:0 type="stream" channelId="-1" group-title="Спорт", Матч Страна
 http://46.32.68.167/s/live/510/51.51.51.51/1/0.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", Матч Страна
+#EXTINF:0 type="stream" channelId="-1" group-title="Спорт", Матч Страна
 http://188.113.190.12/95/video.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", Матч Страна
+#EXTINF:0 type="stream" channelId="-1" group-title="Спорт", Матч Страна
 http://46.32.68.167/s/live/510/100.0.0.5/1/0.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", EUROSPORT 1
+#EXTINF:0 type="stream" channelId="-1" group-title="Спорт", EUROSPORT 1
 http://4f9cc916.ottv.info/iptv/ZVQP7WC8VPT42D/141/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", EUROSPORT 1
+#EXTINF:0 type="stream" channelId="-1" group-title="Спорт", EUROSPORT 1
 http://2ecba0eb.iptvzone.net/iptv/D76PCW8BZ47S3B/141/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", EUROSPORT 1
+#EXTINF:0 type="stream" channelId="-1" group-title="Спорт", EUROSPORT 1
 http://82.200.127.58:8080/udp/239.54.5.45:1224
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", EUROSPORT 1
+#EXTINF:0 type="stream" channelId="-1" group-title="Спорт", EUROSPORT 1
 http://46.32.68.167/s/live/501/86.169.51.136/0/0.m3u8?version=2
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", EUROSPORT 1
+#EXTINF:0 type="stream" channelId="-1" group-title="Спорт", EUROSPORT 1
 http://46.32.68.167/s/live/501/86.169.51.136/8/0.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", EUROSPORT 1
+#EXTINF:0 type="stream" channelId="-1" group-title="Спорт", EUROSPORT 1
 http://46.32.68.167/s/live/501/86.169.51.136/1/0.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", EUROSPORT 2
+#EXTINF:0 type="stream" channelId="-1" group-title="Спорт", EUROSPORT 2
 http://217.25.216.4:8085/udp/238.2.15.171:1234
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", EUROSPORT 2
+#EXTINF:0 type="stream" channelId="-1" group-title="Спорт", EUROSPORT 2
 http://46.32.68.167/s/live/502/86.169.51.136/0/0.m3u8?version=2
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", EUROSPORT 2
+#EXTINF:0 type="stream" channelId="-1" group-title="Спорт", EUROSPORT 2
 http://46.32.68.167/s/live/502/86.169.51.136/2/0.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", EUROSPORT 2
+#EXTINF:0 type="stream" channelId="-1" group-title="Спорт", EUROSPORT 2
 http://46.32.68.167/s/live/502/86.169.51.136/8/0.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", EUROSPORT 2
+#EXTINF:0 type="stream" channelId="-1" group-title="Спорт", EUROSPORT 2
 http://46.32.68.167/s/live/502/86.169.51.136/1/0.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", EUROSPORT 2
+#EXTINF:0 type="stream" channelId="-1" group-title="Спорт", EUROSPORT 2
 http://46.32.68.167/s/live/502/51.51.51.51/1/0.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", EUROSPORT 2
+#EXTINF:0 type="stream" channelId="-1" group-title="Спорт", EUROSPORT 2
 http://178.57.121.38:8080/eurosport2/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", VIASAT SPORT
+#EXTINF:0 type="stream" channelId="-1" group-title="Спорт", VIASAT SPORT
 http://2ecba0eb.iptvzone.net/iptv/D76PCW8BZ47S3B/160/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", VIASAT SPORT
+#EXTINF:0 type="stream" channelId="-1" group-title="Спорт", VIASAT SPORT
 http://46.180.99.15:81/udp/239.255.42.57:1234
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", VIASAT SPORT
+#EXTINF:0 type="stream" channelId="-1" group-title="Спорт", VIASAT SPORT
 http://83.246.208.234:81/udp/239.54.7.41:1234
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", VIASAT SPORT
+#EXTINF:0 type="stream" channelId="-1" group-title="Спорт", VIASAT SPORT
 http://185.184.233.174:5000/udp/225.1.2.133:1234
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", VIASAT SPORT
+#EXTINF:0 type="stream" channelId="-1" group-title="Спорт", VIASAT SPORT
 http://streamer.in-lan.net.ua:8080/ch0092
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", SETANTA SPORTS
+#EXTINF:0 type="stream" channelId="-1" group-title="Спорт", SETANTA SPORTS
 http://188.35.9.12:2028
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", SETANTA SPORTS
+#EXTINF:0 type="stream" channelId="-1" group-title="Спорт", SETANTA SPORTS
 http://92.43.140.200/s81/04.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", SETANTA SPORTS
+#EXTINF:0 type="stream" channelId="-1" group-title="Спорт", SETANTA SPORTS
 http://ott-cdn.ucom.am/s81/04.m3u8?fluxustv.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", SETANTA SPORTS
+#EXTINF:0 type="stream" channelId="-1" group-title="Спорт", SETANTA SPORTS
 http://ott-cdn.ucom.am/s81/04.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", SETANTA SPORTS
+#EXTINF:0 type="stream" channelId="-1" group-title="Спорт", SETANTA SPORTS
 http://ott-cdn.ucom.am/s81/03.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", SETANTA SPORTS+
+#EXTINF:0 type="stream" channelId="-1" group-title="Спорт", SETANTA SPORTS+
 http://92.43.140.200/s82/04.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", SETANTA SPORTS+ HD
+#EXTINF:0 type="stream" channelId="-1" group-title="Спорт", SETANTA SPORTS+ HD
 http://178.124.183.13/hls/5T3FNFICQ4/bw5000000/playlist.m3u8?version=2
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", SETANTA SPORTS+ HD
+#EXTINF:0 type="stream" channelId="-1" group-title="Спорт", SETANTA SPORTS+ HD
 http://178.124.183.13/hls/5T3FNFICQ4/bw5000000/playlist.m3u8?version=2?seg-user-zona-iptv.ru-v1-a1
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", SETANTA SPORTS+
+#EXTINF:0 type="stream" channelId="-1" group-title="Спорт", SETANTA SPORTS+
 http://109.248.236.41:4433/udp/238.1.1.61:1234
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", SETANTA SPORTS+ HD
+#EXTINF:0 type="stream" channelId="-1" group-title="Спорт", SETANTA SPORTS+ HD
 http://92.46.127.146:8080/SetantaSportPlus/tracks-v1a1/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", SETANTA SPORTS+ HD
+#EXTINF:0 type="stream" channelId="-1" group-title="Спорт", SETANTA SPORTS+ HD
 http://178.124.183.13/hls/5T3FNFICQ4/bw5000000/playlist.m3u8?version=2?seg-user-4pda-denms-ru-v1-a1
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", БЕЛАРУСЬ 5
+#EXTINF:0 type="stream" channelId="-1" group-title="Спорт", БЕЛАРУСЬ 5
 http://persik.by/stream/1017/402000/932.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", БЕЛАРУСЬ 5
+#EXTINF:0 type="stream" channelId="-1" group-title="Спорт", БЕЛАРУСЬ 5
 http://86.57.225.245:7002/play/a00k
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", БЕЛАРУСЬ 5 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="Спорт", БЕЛАРУСЬ 5 HD
 http://persik.by/stream/1017/402000/10408.m3u8
