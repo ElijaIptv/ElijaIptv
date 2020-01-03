@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 group-title="Bein Sports", Bein Sports [01]
+http://beastiptv.tv:25461/live/tigerwoods/tigerwoods/1569.ts
 #EXTINF:0 group-title="Матч Футбол 1", Матч! Футбол 1 [01]
 http://188.113.190.12/175/video.m3u8
 #EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [02]
