@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 group-title="Матч Футбол 1", Матч! Футбол 1 [01]
+#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [01]
 http://188.113.190.12/175/video.m3u8
 #EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [02]
 http://188.35.9.10:2025
@@ -7,6 +7,8 @@ http://188.35.9.10:2025
 http://188.35.9.11:2025
 #EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [04]
 http://46.19.43.248:9981/stream/channelid/354688218
+#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [05]
+http://cdn.iptv.monster/play/260/A94E407714F99C3/video.m3u8
 #EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 HD [08]
 http://188.35.9.10:2010
 #EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 HD [09]
@@ -27,6 +29,8 @@ http://188.35.9.10:2026
 http://188.35.9.11:2026
 #EXTINF:0 group-title="МатчФутбол2", Матч! Футбол 2 [06]
 http://46.19.43.248:9981/stream/channelid/1669396465
+#EXTINF:0 group-title="МатчФутбол2", Матч! Футбол 2 [07]
+http://cdn.iptv.monster/play/271/A94E407714F99C3/video.m3u8
 #EXTINF:0 group-title="МатчФутбол2", Матч! Футбол 2 HD [05]
 http://188.35.9.11:21151/udp/168o
 #EXTINF:0 group-title="МатчФутбол3", Матч! Футбол 3 [01]
@@ -37,6 +41,8 @@ http://188.35.9.15:2027
 http://188.35.9.11:2027
 #EXTINF:0 group-title="МатчФутбол3", Матч! Футбол 3 [04]
 http://46.19.43.248:9981/stream/channelid/2058911058
+#EXTINF:0 group-title="МатчФутбол3", Матч! Футбол 3 [05]
+http://cdn.iptv.monster/play/329/A94E407714F99C3/video.m3u8
 #EXTINF:0 group-title="МатчФутбол3", Матч! Футбол 3 HD [01]
 http://188.35.9.11:2012
 #EXTINF:0 group-title="МатчПремьер", Матч! Премьер [01]
