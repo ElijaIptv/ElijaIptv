@@ -1,22 +1,26 @@
 #EXTM3U
-#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [01]
-http://188.113.190.12/175/video.m3u8
-#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [02]
-http://188.35.9.10:2025
+#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [01n]
+https://95-213-224-184.livesports24.online/ntvmatchfoot1.m3u8
+#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [02n]
+http://78.129.228.178/iptv/XCAVNP7ZUPPBXC/124/index.m3u8
 #EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [03]
 http://188.35.9.11:2025
 #EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [04]
-http://46.19.43.248:9981/stream/channelid/354688218
-#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [05]
 http://cdn.iptv.monster/play/260/A94E407714F99C3/video.m3u8
-#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 HD [08]
-http://188.35.9.10:2010
-#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 HD [09]
-http://188.35.9.15:21151/udp/167u
-#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 HD [10]
+#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 HD [01n]
+http://78.111.93.102:53022/udp/239.99.1.108:1234
+#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 HD [02n]
+http://78.129.228.178/iptv/XCAVNP7ZUPPBXC/222/index.m3u8
+#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 HD [03]
 http://188.35.9.11:21151/udp/167u
-#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 HD [11]
+#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 HD [04]
 http://188.35.9.12:21151/udp/167u
+#EXTINF:0 group-title="МатчФутбол2", Матч! Футбол 2 [01n]
+https://95-213-224-184.livesports24.online/mfootball2rus.m3u8
+#EXTINF:0 group-title="МатчФутбол2", Матч! Футбол 2 [02n]
+http://78.129.228.178/iptv/XCAVNP7ZUPPBXC/530/index.m3u8
+#EXTINF:0 group-title="МатчФутбол2", Матч! Футбол 2 [03n]
+http://78.129.228.178/iptv/XCAVNP7ZUPPBXC/211/index.m3u8
 #EXTINF:0 group-title="МатчФутбол2", Матч! Футбол 2 [01]
 http://188.35.9.26:12050/udp/238.0.12.3:69000
 #EXTINF:0 group-title="МатчФутбол2", Матч! Футбол 2 [02]
@@ -33,6 +37,12 @@ http://46.19.43.248:9981/stream/channelid/1669396465
 http://cdn.iptv.monster/play/271/A94E407714F99C3/video.m3u8
 #EXTINF:0 group-title="МатчФутбол2", Матч! Футбол 2 HD [05]
 http://188.35.9.11:21151/udp/168o
+#EXTINF:0 group-title="МатчФутбол3", Матч! Футбол 3 [01n]
+http://78.129.228.178/iptv/XCAVNP7ZUPPBXC/522/index.m3u8
+#EXTINF:0 group-title="МатчФутбол3", Матч! Футбол 3 HD [01n]
+http://78.129.228.178/iptv/XCAVNP7ZUPPBXC/206/index.m3u8
+#EXTINF:0 group-title="МатчФутбол3", Матч! Футбол 3 HD [02n]
+http://ott-stream.sevstar.net/1930/video.m3u8?token=8330162968
 #EXTINF:0 group-title="МатчФутбол3", Матч! Футбол 3 [01]
 http://188.113.190.12/177/video.m3u8
 #EXTINF:0 group-title="МатчФутбол3", Матч! Футбол 3 [02]
@@ -57,6 +67,22 @@ http://demo1.cdn.micro.im:63080/tXOTRkENh6dQf045/nashfutbolhd/chunklist.m3u8
 http://217.25.216.4:8085/udp/238.2.16.250:1234
 #EXTINF:0 group-title="МатчПремьер", Матч! Премьер HD [03]
 http://demo1.cdn.micro.im:63080/tXOTRkENh6dQf045/nashfutbolhd/chunklist.m3u8
+#EXTINF:0 group-title="Матч", Матч! [01n]
+http://217.25.226.215:4022/udp/235.1.10.3:10000
+#EXTINF:0 group-title="Матч", Матч! [02n]
+http://178.163.50.209:4022/udp/234.0.0.204:2000
+#EXTINF:0 group-title="Матч", Матч! [03n]
+http://178.163.58.72:4022/udp/234.0.0.204:2000
+#EXTINF:0 group-title="Матч", Матч! [04n]
+http://178.163.47.26:4022/udp/234.0.0.204:2000
+#EXTINF:0 group-title="Матч", Матч! [05n]
+http://78.129.228.178/iptv/XCAVNP7ZUPPBXC/535/index.m3u8
+#EXTINF:0 group-title="Матч", Матч! HD [01n]
+http://37.235.254.189:81/udp/225.50.64.150:1234
+#EXTINF:0 group-title="Матч", Матч! HD [02n]
+http://217.25.216.4:8085/udp/225.1.2.95:2020
+#EXTINF:0 group-title="Матч", Матч! HD [03n]
+http://176.114.192.51:9988/udp/239.255.11.77:1234
 #EXTINF:0 group-title="Матч", Матч! [05]
 http://46.32.68.167/s/live/3/44.33.11.22/0/0.m3u8
 #EXTINF:0 group-title="Матч", Матч! [06]
@@ -107,6 +133,36 @@ http://188.35.9.5:10007/stolen/124n/parasite.install
 http://178.124.183.5/hls/CH_MATCHPLANETA/variant.m3u8
 #EXTINF:0 group-title="МатчПланета", Матч! Планета [02]
 http://109.248.236.41:4433/udp/238.1.1.39:1234?codec=mpeg4
+#EXTINF:0 group-title="Eurosport1", EUROSPORT 1 [01n]
+https://95-213-224-184.livesports24.online/eurosport1ru.m3u8
+#EXTINF:0 group-title="Eurosport1", EUROSPORT 1 [02n]
+http://163.172.179.78:8081/tv/eurosport-1/playlist.m3u8
+#EXTINF:0 group-title="Eurosport1", EUROSPORT 1 [03n]
+http://176.114.192.51:9988/udp/239.255.11.4:1234
+#EXTINF:0 group-title="Eurosport1", EUROSPORT 1 [04n]
+http://213.174.8.7:8000/play/15/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="Eurosport1", EUROSPORT 1 [05n]
+http://213.174.8.7:8000/play/15/index.m3u8
+#EXTINF:0 group-title="Eurosport1", EUROSPORT 1 [06n]
+http://217.25.216.4:8085/udp/238.2.15.168:1234
+#EXTINF:0 group-title="Eurosport1", EUROSPORT 1 [07n]
+http://217.25.216.4:8085/udp/225.1.2.113:2020
+#EXTINF:0 group-title="Eurosport1", EUROSPORT 1 HD [01n]
+http://fast.iptv.dog:80/vali/marti2019/6058
+#EXTINF:0 group-title="Eurosport1", EUROSPORT 1 HD [02n]
+http://fast.iptv.dog:80/vali/marti2019/17947
+#EXTINF:0 group-title="Eurosport1", EUROSPORT 1 HD [03n]
+http://217.12.74.56:81/udp/235.10.10.141:1234
+#EXTINF:0 group-title="Eurosport1", EUROSPORT 1 HD [04n]
+http://cdn.iptv.monster/play/145/A94E407714F99C3/video.m3u8
+#EXTINF:0 group-title="Eurosport1", EUROSPORT 1 HD [05n]
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FEurosport1HD&login=Martyn&key=CBxWefH
+#EXTINF:0 group-title="Eurosport1", EUROSPORT 1 HD [06n]
+http://217.25.216.4:8085/udp/225.1.2.115:2020
+#EXTINF:0 group-title="Eurosport1", EUROSPORT 1 HD [07n]
+http://nexterr.ottv.info/iptv/F7WWXGUG4PCU8S/228/index.m3u8
+#EXTINF:0 group-title="Eurosport1", EUROSPORT 1 HD [08n]
+http://217.25.216.4:8085/udp/238.2.16.145:1234
 #EXTINF:0 group-title="Eurosport1", EUROSPORT 1 [05]
 http://46.32.68.167/s/live/501/86.169.51.136/8/0.m3u8
 #EXTINF:0 group-title="Eurosport1", EUROSPORT 1 [06]
@@ -117,6 +173,26 @@ http://31.133.47.1:8800/eurosport
 http://109.248.236.41:4433/udp/238.1.1.114:1234
 #EXTINF:0 group-title="Eurosport1", EUROSPORT 1 [09]
 http://188.113.190.12/82/video.m3u8
+#EXTINF:0 group-title="Eurosport2", EUROSPORT 2 North-East [01n]
+http://cdn.iptv.monster/play/43/A94E407714F99C3/video.m3u8
+#EXTINF:0 group-title="Eurosport2", EUROSPORT 2 North-East [02n]
+http://178.124.183.150/hls/CH_EUROSPORT2_HLS/bw1200000/playlist.m3u8
+#EXTINF:0 group-title="Eurosport2", EUROSPORT 2 North-East [03n]
+http://fast.iptv.dog:80/vali/marti2019/2284
+#EXTINF:0 group-title="Eurosport2", EUROSPORT 2 North-East [04n]
+http://fast.iptv.dog:80/vali/marti2019/1218
+#EXTINF:0 group-title="Eurosport2", EUROSPORT 2 North-East [05n]
+http://178.49.82.251:81/udp/239.1.12.4:1234
+#EXTINF:0 group-title="Eurosport2", EUROSPORT 2 North-East [06n]
+http://217.25.216.4:8085/udp/238.2.15.171:1234
+#EXTINF:0 group-title="Eurosport2", EUROSPORT 2 North-East [07n]
+http://217.25.216.4:8085/udp/225.1.2.114:2020
+#EXTINF:0 group-title="Eurosport2", EUROSPORT 2 North-East [08n]
+http://31.133.47.1:8800/eurosport_2
+#EXTINF:0 group-title="Eurosport2", EUROSPORT 2 North-East HD [01n]
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FEurosport2HDPL&login=Martyn&key=CBxWefH
+#EXTINF:0 group-title="Eurosport2", EUROSPORT 2 North-East HD [02n]
+http://217.12.74.56:81/udp/235.10.10.142:1234
 #EXTINF:0 group-title="Eurosport2", EUROSPORT 2 North-East [01]
 http://217.25.216.4:8085/udp/238.2.15.171:1234
 #EXTINF:0 group-title="Eurosport2", EUROSPORT 2 North-East [03]
@@ -131,6 +207,8 @@ http://46.32.68.167/s/live/502/51.51.51.51/1/0.m3u8
 http://188.113.190.12/83/video.m3u8
 #EXTINF:0 group-title="Eurosport2", EUROSPORT 2 North-East [08]
 http://31.133.47.1:8800/eurosport_2
+#EXTINF:0 group-title="EurosportGold", EUROSPORT GOLD HD [01n]
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FEurosportGoldHD&login=Martyn&key=CBxWefH
 #EXTINF:0 group-title="SetantaSports", SETANTA SPORTS [01]
 http://188.35.9.12:2028
 #EXTINF:0 group-title="SetantaSports", SETANTA SPORTS [02]
