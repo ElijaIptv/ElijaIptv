@@ -147,6 +147,8 @@ http://213.174.8.7:8000/play/15/index.m3u8
 http://217.25.216.4:8085/udp/238.2.15.168:1234
 #EXTINF:0 group-title="Eurosport1", EUROSPORT 1 [07n]
 http://217.25.216.4:8085/udp/225.1.2.113:2020
+#EXTINF:0 group-title="Eurosport1", EUROSPORT 1 [08n]
+http://cdn.iptv.monster/play/15/A94E407714F99C3/video.m3u8
 #EXTINF:0 group-title="Eurosport1", EUROSPORT 1 HD [01n]
 http://fast.iptv.dog:80/vali/marti2019/6058
 #EXTINF:0 group-title="Eurosport1", EUROSPORT 1 HD [02n]
@@ -161,6 +163,8 @@ http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2F
 http://217.25.216.4:8085/udp/225.1.2.115:2020
 #EXTINF:0 group-title="Eurosport1", EUROSPORT 1 HD [07n]
 http://nexterr.ottv.info/iptv/F7WWXGUG4PCU8S/228/index.m3u8
+#EXTINF:0 group-title="Eurosport1", EUROSPORT 1 HD [08n]
+http://31.133.47.1:8800/eurosport
 #EXTINF:0 group-title="Eurosport1", EUROSPORT 1 HD [08n]
 http://217.25.216.4:8085/udp/238.2.16.145:1234
 #EXTINF:0 group-title="Eurosport1", EUROSPORT 1 [05]
@@ -273,11 +277,41 @@ http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8?denmstv.m3u8
 http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
 #EXTINF:0 group-title="OlympicChannel", Olympic Channel HD [04]
 http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
+#EXTINF:0 group-title="SkySport1", Sky Sport 1 [01n]
+http://fast.iptv.dog:80/vali/marti2019/6053
+#EXTINF:0 group-title="SkySport1", Sky Sport 1 HD [01n]
+http://fast.iptv.dog:80/vali/marti2019/17825
+#EXTINF:0 group-title="SkySport2", Sky Sport 2 [01n]
+http://fast.iptv.dog:80/vali/marti2019/6052
+#EXTINF:0 group-title="SkySport24", Sky Sport 24 [01n]
+http://fast.iptv.dog:80/vali/marti2019/521
+#EXTINF:0 group-title="SkySport24", Sky Sport 24 HD [01n]
+http://fast.iptv.dog:80/vali/marti2019/1131
 #EXTINF:0 group-title="SkySportsFootball", Sky Sports Football [01]
 http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
 #EXTINF:0 group-title="SkySportsMainEvent", Sky Sports Main Event [01]
 http://95.170.215.120:80/hls/m3u8/Sky-S-main-even.m3u8
+#EXTINF:0 group-title="FoxSoccerPlus", Fox Soccer Plus [01]
+http://fast.iptv.dog:80/vali/marti2019/19189
 #EXTINF:0 group-title="FoxSports", Fox Sports [01]
 http://45.58.62.92:8080
 #EXTINF:0 group-title="FoxSports", Fox Sports HD [01]
 http://95.170.215.118/hls/m3u8/Fox-Sport-1.m3u8
+#EXTINF:0 group-title="FoxSports1", Fox Sports 1 [01]
+http://fast.iptv.dog:80/vali/marti2019/2456
+#EXTINF:0 group-title="FoxSports1", Fox Sports 1 [02]
+http://fast.iptv.dog:80/vali/marti2019/540
+#EXTINF:0 group-title="FoxSports1", Fox Sports 1 [03]
+http://fast.iptv.dog:80/vali/marti2019/16718
+#EXTINF:0 group-title="FoxSports2", Fox Sports 2 [01]
+http://fast.iptv.dog:80/vali/marti2019/2455
+#EXTINF:0 group-title="FoxSports2", Fox Sports 2 [02]
+http://fast.iptv.dog:80/vali/marti2019/541
+#EXTINF:0 group-title="FoxSports2", Fox Sports 2 [03]
+http://fast.iptv.dog:80/vali/marti2019/16738
+#EXTINF:0 group-title="FoxSports3", Fox Sports 3 [03]
+http://fast.iptv.dog:80/vali/marti2019/542
+#EXTINF:0 group-title="FoxSports4", Fox Sports 4 [04]
+http://fast.iptv.dog:80/vali/marti2019/543
+#EXTINF:0 group-title="FoxSports5", Fox Sports 5 [05]
+http://fast.iptv.dog:80/vali/marti2019/544
