@@ -3,6 +3,12 @@
 https://95-213-224-184.livesports24.online/ntvmatchfoot1.m3u8
 #EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [02n]
 http://78.129.228.178/iptv/XCAVNP7ZUPPBXC/124/index.m3u8
+#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [03n]
+https://46-166-139-148.livesports24.online/ntvmatchfoot1.m3u8
+#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [04n]
+http://cdn.iptv.monster/play/54/A94E407714F99C3/video.m3u8
+#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [05n]
+http://mi4dazjtgfrda.nnqxu3lbpjygc6ron5zgo.cmle.ru/iptv/3XZ376R3C9MC6X/124/index.m3u8
 #EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [03]
 http://188.35.9.11:2025
 #EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [04]
@@ -11,6 +17,8 @@ http://cdn.iptv.monster/play/260/A94E407714F99C3/video.m3u8
 http://78.111.93.102:53022/udp/239.99.1.108:1234
 #EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 HD [02n]
 http://78.129.228.178/iptv/XCAVNP7ZUPPBXC/222/index.m3u8
+#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 HD [03n]
+https://rt-cache1.peers.tv/streaming/match_football1_hd/16/variable.m3u8
 #EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 HD [03]
 http://188.35.9.11:21151/udp/167u
 #EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 HD [04]
