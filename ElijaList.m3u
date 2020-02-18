@@ -185,13 +185,13 @@ http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
 #EXTINF:0 group-title="OlympicChannel", Olympic Channel HD [04]
 http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
 
-#EXTINF:0 group-title="SkySportsPremierLeague", Sky Sports Premier League [01]
+#EXTINF:0 group-title="SkySportsPremierLeague", Sky Sports Premier League UK [01]
 http://95.170.215.120:80/hls/m3u8/Sky-Sport-Pre-L.m3u8
-#EXTINF:0 group-title="SkySportsFootball", Sky Sports Football [01]
+#EXTINF:0 group-title="SkySportsFootball", Sky Sports Football UK [01]
 http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
-#EXTINF:0 group-title="SkySportsNews", Sky Sports News [01]
+#EXTINF:0 group-title="SkySportsNews", Sky Sports News UK [01]
 http://95.170.215.120/hls/m3u8/Sky-Sports-News.m3u8
-#EXTINF:0 group-title="SkySportsMainEvent", Sky Sports Main Event [01]
+#EXTINF:0 group-title="SkySportsMainEvent", Sky Sports Main Event UK [01]
 http://95.170.215.120:80/hls/m3u8/Sky-S-main-even.m3u8
 #EXTINF:0 group-title="SkySportsNewsDe", Sky Sports News DE [01]
 http://134.3.199.67:9981/stream/channelid/832246889
