@@ -121,7 +121,7 @@ http://playlist.hmara.tv:80/4a8a78be/0842ed94e1223a9207af5eae07af65a3e3a00dee.m3
 #EXTINF:0 group-title="Eurosport1", EUROSPORT 1 EN [05]
 http://ott.artmott.com/eurosport1/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 group-title="Eurosport2", EUROSPORT 2 North-East [01]
+#EXTINF:0 group-title="Eurosport2", EUROSPORT 2 [01]
 https://95-213-224-184.livesports24.online/ruseurosport2.m3u8
 #EXTINF:0 group-title="Eurosport2", EUROSPORT 2 North-East [02]
 http://217.25.216.4:8085/udp/238.2.15.171:1234
