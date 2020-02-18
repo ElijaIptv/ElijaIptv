@@ -123,18 +123,18 @@ http://ott.artmott.com/eurosport1/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 group-title="Eurosport2", EUROSPORT 2 [01]
 https://95-213-224-184.livesports24.online/ruseurosport2.m3u8
-#EXTINF:0 group-title="Eurosport2", EUROSPORT 2 North-East [02]
+#EXTINF:0 group-title="Eurosport2", EUROSPORT 2 [02]
 http://217.25.216.4:8085/udp/238.2.15.171:1234
-#EXTINF:0 group-title="Eurosport2", EUROSPORT 2 North-East [03]
+#EXTINF:0 group-title="Eurosport2", EUROSPORT 2 [03]
 http://217.25.216.4:8085/udp/225.1.2.114:2020
-#EXTINF:0 group-title="Eurosport2", EUROSPORT 2 North-East [04]
+#EXTINF:0 group-title="Eurosport2", EUROSPORT 2 [04]
 http://31.133.47.1:8800/eurosport_2
-#EXTINF:0 group-title="Eurosport2", EUROSPORT 2 North-East [05]
+#EXTINF:0 group-title="Eurosport2", EUROSPORT 2 [05]
 http://playlist.hmara.tv:80/4a8a78be/f1cb499a053a4f4bbfef49e59d78f20aa2110f1c.m3u8
-#EXTINF:0 group-title="Eurosport2", EUROSPORT 2 North-East HD [01]
+#EXTINF:0 group-title="Eurosport2", EUROSPORT 2 HD [01]
 http://62.122.92.220:81/udp/239.1.13.2:1234
 
-#EXTINF:0 group-title="Eurosport2", EUROSPORT 2 North-East PL HD [01]
+#EXTINF:0 group-title="Eurosport2", EUROSPORT 2 PL HD [01]
 http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FEurosport2HDPL&login=Martyn&key=CBxWefH
 
 #EXTINF:0 group-title="EurosportGold", EUROSPORT GOLD HD [01]
