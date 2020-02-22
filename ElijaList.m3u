@@ -3,8 +3,10 @@
 #EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [01]
 http://stream.browsers.dn.ua:7046/46
 #EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [02]
-https://95-213-224-184.livesports24.online/ntvmatchfoot1.m3u8
+http://server05.selo.su/tk987645378888203/90411/index.m3u8
 #EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [03]
+https://95-213-224-184.livesports24.online/ntvmatchfoot1.m3u8
+#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [04]
 https://46-166-139-148.livesports24.online/ntvmatchfoot1.m3u8
 #EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 HD [01]
 https://rt-cache1.peers.tv/streaming/match_football1_hd/16/variable.m3u8
@@ -18,8 +20,10 @@ http://188.35.9.11:21151/udp/167u
 #EXTINF:0 group-title="МатчФутбол2", Матч! Футбол 2 [01]
 http://stream.browsers.dn.ua:7007/7
 #EXTINF:0 group-title="МатчФутбол2", Матч! Футбол 2 [02]
-https://95-213-224-184.livesports24.online/mfootball2rus.m3u8
+http://server05.selo.su/tk987645378888203/90412/index.m3u8
 #EXTINF:0 group-title="МатчФутбол2", Матч! Футбол 2 [03]
+https://95-213-224-184.livesports24.online/mfootball2rus.m3u8
+#EXTINF:0 group-title="МатчФутбол2", Матч! Футбол 2 [04]
 https://46-166-139-148.livesports24.online/mfootball2rus.m3u8
 #EXTINF:0 group-title="МатчФутбол2", Матч! Футбол 2 hd [01]
 https://rt-cache1.peers.tv/streaming/match_football2_hd/16/variable.m3u8?|User-agent=DuneHD/1.0.3
@@ -27,6 +31,8 @@ https://rt-cache1.peers.tv/streaming/match_football2_hd/16/variable.m3u8?|User-a
 #EXTINF:0 group-title="МатчФутбол3", Матч! Футбол 3 [01]
 http://stream.browsers.dn.ua:7045/45
 #EXTINF:0 group-title="МатчФутбол3", Матч! Футбол 3 [02]
+http://server05.selo.su/tk987645378888203/90417/index.m3u8
+#EXTINF:0 group-title="МатчФутбол3", Матч! Футбол 3 [03]
 https://95-213-224-184.livesports24.online/rumatchf3.m3u8
 #EXTINF:0 group-title="МатчФутбол3", Матч! Футбол 3 HD [01]
 http://ott-stream.sevstar.net/1930/video.m3u8?token=8330162968
