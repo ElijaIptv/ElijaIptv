@@ -40,17 +40,17 @@ http://ott-stream.sevstar.net/1930/video.m3u8?token=8330162968
 #EXTINF:0 group-title="МатчПремьер", Матч! Премьер [01]
 http://server05.selo.su/tk987645378888203/90408/index.m3u8
 #EXTINF:0 group-title="МатчПремьер", Матч! Премьер [02]
-http://37.235.155.216:81/udp/225.50.67.1:1234?denms.ru
-#EXTINF:0 group-title="МатчПремьер", Матч! Премьер [03]
-http://182.73.122.74:10001/bysid/706
-#EXTINF:0 group-title="МатчПремьер", Матч! Премьер [04]
-http://188.191.36.106:8080/hls/nashfutbol.m3u8
-#EXTINF:0 group-title="МатчПремьер", Матч! Премьер [05]
-http://178.124.182.25:7013/play/a016_a13
-#EXTINF:0 group-title="МатчПремьер", Матч! Премьер [06]
 https://95-213-224-184.livesports24.online/mpremierrus.m3u8
-#EXTINF:0 group-title="МатчПремьер", Матч! Премьер [07]
+#EXTINF:0 group-title="МатчПремьер", Матч! Премьер [03]
 https://95-213-224-171.livesports24.online/mpremierrus.m3u8
+#EXTINF:0 group-title="МатчПремьер", Матч! Премьер [04]
+http://37.235.155.216:81/udp/225.50.67.1:1234?denms.ru
+#EXTINF:0 group-title="МатчПремьер", Матч! Премьер [05]
+http://182.73.122.74:10001/bysid/706
+#EXTINF:0 group-title="МатчПремьер", Матч! Премьер [06]
+http://188.191.36.106:8080/hls/nashfutbol.m3u8
+#EXTINF:0 group-title="МатчПремьер", Матч! Премьер [07]
+http://178.124.182.25:7013/play/a016_a13
 #EXTINF:0 group-title="МатчПремьер", Матч! Премьер HD [01]
 http://217.25.216.4:8085/udp/238.2.16.250:1234
 #EXTINF:0 group-title="МатчПремьер", Матч! Премьер HD [02]
@@ -102,32 +102,34 @@ http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FM
 #EXTINF:0 group-title="МатчСтрана", Матч! Страна [01]
 http://server05.selo.su/tk987645378888203/90406/index.m3u8
 #EXTINF:0 group-title="МатчСтрана", Матч! Страна [02]
-http://217.25.216.4:8085/udp/225.1.2.97:2020
-#EXTINF:0 group-title="МатчСтрана", Матч! Страна [03]
-http://cdn.iptv.monster/play/134/A94E407714F99C3/video.m3u8
-#EXTINF:0 group-title="МатчСтрана", Матч! Страна [04]
 https://95-213-224-184.livesports24.online/mnashsport.m3u8
-#EXTINF:0 group-title="МатчСтрана", Матч! Страна [05]
+#EXTINF:0 group-title="МатчСтрана", Матч! Страна [03]
 https://95-213-224-171.livesports24.online/mnashsport.m3u8
+#EXTINF:0 group-title="МатчСтрана", Матч! Страна [04]
+http://217.25.216.4:8085/udp/225.1.2.97:2020
+#EXTINF:0 group-title="МатчСтрана", Матч! Страна [05]
+http://cdn.iptv.monster/play/134/A94E407714F99C3/video.m3u8
 
 #EXTINF:0 group-title="МатчПланета", Матч! Планета [01]
 https://95-213-224-184.livesports24.online/matchplanetarus.m3u8
 
 #EXTINF:0 group-title="Eurosport1", EUROSPORT 1 [01]
-https://46-166-139-148.livesports24.online/eurosport1ru.m3u8
+https://46-166-151-34.livesports24.online/eurosport1ru.m3u8
 #EXTINF:0 group-title="Eurosport1", EUROSPORT 1 [02]
-https://95-213-224-184.livesports24.online/eurosport1ru.m3u8
+https://46-166-139-148.livesports24.online/eurosport1ru.m3u8
 #EXTINF:0 group-title="Eurosport1", EUROSPORT 1 [03]
-https://95-213-224-171.livesports24.online/eurosport1ru.m3u8
+https://95-213-224-184.livesports24.online/eurosport1ru.m3u8
 #EXTINF:0 group-title="Eurosport1", EUROSPORT 1 [04]
-http://163.172.179.78:8081/tv/eurosport-1/playlist.m3u8
+https://95-213-224-171.livesports24.online/eurosport1ru.m3u8
 #EXTINF:0 group-title="Eurosport1", EUROSPORT 1 [05]
-http://217.25.216.4:8085/udp/238.2.15.168:1234
+http://163.172.179.78:8081/tv/eurosport-1/playlist.m3u8
 #EXTINF:0 group-title="Eurosport1", EUROSPORT 1 [06]
-http://217.25.216.4:8085/udp/225.1.2.113:2020
+http://217.25.216.4:8085/udp/238.2.15.168:1234
 #EXTINF:0 group-title="Eurosport1", EUROSPORT 1 [07]
-http://31.133.47.1:8800/eurosport
+http://217.25.216.4:8085/udp/225.1.2.113:2020
 #EXTINF:0 group-title="Eurosport1", EUROSPORT 1 [08]
+http://31.133.47.1:8800/eurosport
+#EXTINF:0 group-title="Eurosport1", EUROSPORT 1 [09]
 http://playlist.hmara.tv:80/4a8a78be/e76baad19e20b359d979d095a5965c81faf6d6c5.m3u8
 #EXTINF:0 group-title="Eurosport1", EUROSPORT 1 HD [01]
 http://217.25.216.4:8085/udp/225.1.2.115:2020
@@ -144,16 +146,18 @@ http://playlist.hmara.tv:80/4a8a78be/0842ed94e1223a9207af5eae07af65a3e3a00dee.m3
 http://ott.artmott.com/eurosport1/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 group-title="Eurosport2", EUROSPORT 2 [01]
-https://46-166-139-148.livesports24.online/ruseurosport2.m3u8
+https://185-198-56-58.livesports24.online/ruseurosport2.m3u8
 #EXTINF:0 group-title="Eurosport2", EUROSPORT 2 [02]
-https://95-213-224-184.livesports24.online/ruseurosport2.m3u8
+https://46-166-139-148.livesports24.online/ruseurosport2.m3u8
 #EXTINF:0 group-title="Eurosport2", EUROSPORT 2 [03]
-http://217.25.216.4:8085/udp/238.2.15.171:1234
+https://95-213-224-184.livesports24.online/ruseurosport2.m3u8
 #EXTINF:0 group-title="Eurosport2", EUROSPORT 2 [04]
-http://217.25.216.4:8085/udp/225.1.2.114:2020
+http://217.25.216.4:8085/udp/238.2.15.171:1234
 #EXTINF:0 group-title="Eurosport2", EUROSPORT 2 [05]
-http://31.133.47.1:8800/eurosport_2
+http://217.25.216.4:8085/udp/225.1.2.114:2020
 #EXTINF:0 group-title="Eurosport2", EUROSPORT 2 [06]
+http://31.133.47.1:8800/eurosport_2
+#EXTINF:0 group-title="Eurosport2", EUROSPORT 2 [07]
 http://playlist.hmara.tv:80/4a8a78be/f1cb499a053a4f4bbfef49e59d78f20aa2110f1c.m3u8
 #EXTINF:0 group-title="Eurosport2", EUROSPORT 2 HD [01]
 http://62.122.92.220:81/udp/239.1.13.2:1234
@@ -165,15 +169,22 @@ http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2F
 http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FEurosportGoldHD&login=Martyn&key=CBxWefH
 
 #EXTINF:0 group-title="SetantaSports", SETANTA SPORTS [01]
+https://185-198-56-58.livesports24.online/rusetantaeurasia.m3u8
+#EXTINF:0 group-title="SetantaSports", SETANTA SPORTS [02]
+https://95-213-224-184.livesports24.online/rusetantaeurasia.m3u8
+#EXTINF:0 group-title="SetantaSports", SETANTA SPORTS [03]
 http://185.57.68.33:8091/226/tracks-v1a1/index.m3u8
 #EXTINF:0 group-title="SetantaSports", SETANTA SPORTS HD [01]
 http://188.35.9.12:2028
 
-#EXTINF:0 group-title="SetantaSports2", SETANTA SPORTS 2 [00]
+#EXTINF:0 group-title="SetantaSports2", SETANTA SPORTS 2 [01]
+https://46-166-139-147.livesports24.online/setantaplusru.m3u8
 
 #EXTINF:0 group-title="Беларусь5", БЕЛАРУСЬ 5 [01]
-https://46-166-139-148.livesports24.online/belarusss5.m3u8
+https://46-166-151-33.livesports24.online/belarusss5.m3u8
 #EXTINF:0 group-title="Беларусь5", БЕЛАРУСЬ 5 [02]
+https://95-213-224-184.livesports24.online/belarusss5.m3u8
+#EXTINF:0 group-title="Беларусь5", БЕЛАРУСЬ 5 [03]
 http://86.57.225.245:7002/play/a00k
 
 #EXTINF:0 group-title="ViasatSport", VIASAT SPORT [01]
@@ -191,7 +202,8 @@ http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FV
 #EXTINF:0 group-title="ViasatSport", VIASAT SPORT HD [01]
 https://user11183.clients-cdnnow.ru/hls/Viasat_Sport_HD/master.m3u8
 
-#EXTINF:0 group-title="СилаТВ", Сила ТВ [00]
+#EXTINF:0 group-title="СилаТВ", Сила ТВ [01]
+https://gcore.silatv.ru/streams/3431_1488/1080n/index.m3u8
 
 #EXTINF:0 group-title="Старт", Старт [01]
 http://strm.yandex.ru/kal/start/start0_169_720p.json/index-v1-a1.m3u8
