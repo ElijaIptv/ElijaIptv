@@ -1,15 +1,15 @@
 #EXTM3U
 
 #EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [01]
-http://s03.iptvx.tv:8090/s/882ff861/match-futbol-1.m3u8
-#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [02]
-http://persik.by/stream/6606/411484/346.m3u8
-#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [03]
-http://persik.by/stream/6606/411484/33.m3u8
-#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [04]
-https://95-213-224-179.livesports24.online/ntvmatchfoot1.m3u8
-#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [05]
 http://178.69.23.26:8000/play/36-ntv-match%21-futbol-1-b273610
+#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [02]
+http://s03.iptvx.tv:8090/s/882ff861/match-futbol-1.m3u8
+#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [03]
+http://persik.by/stream/6606/411484/346.m3u8
+#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [04]
+http://persik.by/stream/6606/411484/33.m3u8
+#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [05]
+https://95-213-224-179.livesports24.online/ntvmatchfoot1.m3u8
 
 #EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 HD [01]
 http://s03.iptvx.tv:8090/s/882ff861/match-futbol-1-hd-orig.m3u8
