@@ -255,11 +255,11 @@ http://s03.iptvx.tv:8090/s/882ff861/belarus5.m3u8
 http://persik.by/stream/6606/411484/932.m3u8
 
 #EXTINF:0 group-title="Беларусь5", БЕЛАРУСЬ 5 HD [01]
-http://s03.iptvx.tv:8090/s/882ff861/belarus5-by-hd-orig.m3u8
-#EXTINF:0 group-title="Беларусь5", БЕЛАРУСЬ 5 HD [02]
-http://persik.by/stream/6606/411484/10408.m3u8
-#EXTINF:0 group-title="Беларусь5", БЕЛАРУСЬ 5 HD [03]
 http://media1.skifnet.by/belarus5/index.m3u8
+#EXTINF:0 group-title="Беларусь5", БЕЛАРУСЬ 5 HD [02]
+http://s03.iptvx.tv:8090/s/882ff861/belarus5-by-hd-orig.m3u8
+#EXTINF:0 group-title="Беларусь5", БЕЛАРУСЬ 5 HD [03]
+http://persik.by/stream/6606/411484/10408.m3u8
 
 #EXTINF:0 group-title="Спорт1", Спорт 1 [01]
 http://persik.by/stream/6606/411484/270.m3u8
