@@ -1,16 +1,28 @@
 #EXTM3U
-#EXTINF:0 group-title="Кино",Кинопремьера HD
-http://s03.iptvx.tv:8090/s/882ff861/kinopremiera-hd-orig.m3u8
-#EXTINF:0 group-title="Кино",Премиальное HD
-http://s03.iptvx.tv:8090/s/882ff861/kino-premium-hd-orig.m3u8
-#EXTINF:0 group-title="Кино",Остросюжетное HD
-http://s03.iptvx.tv:8090/s/882ff861/ostrosujetnoe-hd-orig.m3u8
-#EXTINF:0 group-title="Кино",Наш Кинороман HD
-http://s03.iptvx.tv:8090/s/882ff861/nash-kinoroman-hd-orig.m3u8
-#EXTINF:0 group-title="Кино",Наше Крутое HD
-http://s03.iptvx.tv:8090/s/882ff861/nashe-krutoe-hd-orig.m3u8
-#EXTINF:0 group-title="Кино",Любимое HD
-http://s03.iptvx.tv:8090/s/882ff861/nashe-lubimoe-hd-orig.m3u8
+#EXTINF:0 group-title="Кино",Fox
+http://s03.iptvx.tv:8090/s/882ff861/fox.m3u8
+#EXTINF:0 group-title="Кино",FOX HD
+http://s03.iptvx.tv:8090/s/882ff861/fox-hd.m3u8
+#EXTINF:0 group-title="Кино",Fox Life
+http://s03.iptvx.tv:8090/s/882ff861/fox-life.m3u8
+#EXTINF:0 group-title="Кино",FOX Life HD
+http://s03.iptvx.tv:8090/s/882ff861/fox-life-hd.m3u8
+#EXTINF:0 group-title="Кино",Paramount Channel
+http://s03.iptvx.tv:8090/s/882ff861/paramount-channel.m3u8
+#EXTINF:0 group-title="Кино",Paramount Channel HD
+http://s03.iptvx.tv:8090/s/882ff861/paramount-channel-hd.m3u8
+#EXTINF:0 group-title="Кино",Paramount Comedy
+http://s03.iptvx.tv:8090/s/882ff861/paramount-comedy.m3u8
+#EXTINF:0 group-title="Кино",Paramount Comedy HD
+http://s03.iptvx.tv:8090/s/882ff861/paramount-comedy-hd.m3u8
+#EXTINF:0 group-title="Кино",Sony Entertainment Television
+http://s03.iptvx.tv:8090/s/882ff861/set.m3u8
+#EXTINF:0 group-title="Кино",Sony Entertainment Television HD
+http://s03.iptvx.tv:8090/s/882ff861/set-hd.m3u8
+#EXTINF:0 group-title="Кино",SONY Sci-Fi
+http://s03.iptvx.tv:8090/s/882ff861/sony-sci-fi.m3u8
+#EXTINF:0 group-title="Кино",Sony Turbo
+http://s03.iptvx.tv:8090/s/882ff861/sony-turbo.m3u8
 #EXTINF:0 group-title="Кино",VIP Premiere
 http://s03.iptvx.tv:8090/s/882ff861/vip-premiere-hd-orig.m3u8
 #EXTINF:0 group-title="Кино",VIP Megahit
@@ -31,28 +43,6 @@ http://s03.iptvx.tv:8090/s/882ff861/tv1000-action-hd.m3u8
 http://s03.iptvx.tv:8090/s/882ff861/tv1000-ru-kino.m3u8
 #EXTINF:0 group-title="Кино",TV1000 Русское Кино HD
 http://s03.iptvx.tv:8090/s/882ff861/tv1000-russkoje-hd.m3u8
-#EXTINF:0 group-title="Кино",Кинопоказ
-http://s03.iptvx.tv:8090/s/882ff861/kinopokaz.m3u8
-#EXTINF:0 group-title="Кино",Шокирующее HD
-http://s03.iptvx.tv:8090/s/882ff861/shokiruschee-hd-orig.m3u8
-#EXTINF:0 group-title="Кино",Комедийное HD
-http://s03.iptvx.tv:8090/s/882ff861/komedijnoe-hd-orig.m3u8
-#EXTINF:0 group-title="Кино",Мужское кино
-http://s03.iptvx.tv:8090/s/882ff861/muzhskoe-kino.m3u8
-#EXTINF:0 group-title="Кино",МУЖСКОЕ КИНО HD
-http://s03.iptvx.tv:8090/s/882ff861/muzhskoe-kino-hd.m3u8
-#EXTINF:0 group-title="Кино",Страшное HD
-http://s03.iptvx.tv:8090/s/882ff861/strashnoe-hd.m3u8
-#EXTINF:0 group-title="Кино",Киноужас HD
-http://s03.iptvx.tv:8090/s/882ff861/kinouzhas-hd-orig.m3u8
-#EXTINF:0 group-title="Кино",НСТ
-http://s03.iptvx.tv:8090/s/882ff861/hct.m3u8
-#EXTINF:0 group-title="Кино",SHOT TV
-http://s03.iptvx.tv:8090/s/882ff861/egoist-tv.m3u8
-#EXTINF:0 group-title="Кино",Победа
-http://s03.iptvx.tv:8090/s/882ff861/pobeda.m3u8
-#EXTINF:0 group-title="Кино",Дом Кино Премиум HD
-http://s03.iptvx.tv:8090/s/882ff861/dom-kino-premium-hd.m3u8
 #EXTINF:0 group-title="Кино",Amedia Premium
 http://s03.iptvx.tv:8090/s/882ff861/amedia-premium.m3u8
 #EXTINF:0 group-title="Кино",AMEDIA Premium HD
@@ -85,36 +75,46 @@ http://s03.iptvx.tv:8090/s/882ff861/kinokomedia.m3u8
 http://s03.iptvx.tv:8090/s/882ff861/kinokomedia-hd.m3u8
 #EXTINF:0 group-title="Кино",Родное кино
 http://s03.iptvx.tv:8090/s/882ff861/rodnoje_kino.m3u8
+#EXTINF:0 group-title="Кино",Кинопремьера HD
+http://s03.iptvx.tv:8090/s/882ff861/kinopremiera-hd-orig.m3u8
+#EXTINF:0 group-title="Кино",Премиальное HD
+http://s03.iptvx.tv:8090/s/882ff861/kino-premium-hd-orig.m3u8
+#EXTINF:0 group-title="Кино",Остросюжетное HD
+http://s03.iptvx.tv:8090/s/882ff861/ostrosujetnoe-hd-orig.m3u8
+#EXTINF:0 group-title="Кино",Наш Кинороман HD
+http://s03.iptvx.tv:8090/s/882ff861/nash-kinoroman-hd-orig.m3u8
+#EXTINF:0 group-title="Кино",Наше Крутое HD
+http://s03.iptvx.tv:8090/s/882ff861/nashe-krutoe-hd-orig.m3u8
+#EXTINF:0 group-title="Кино",Любимое HD
+http://s03.iptvx.tv:8090/s/882ff861/nashe-lubimoe-hd-orig.m3u8
+#EXTINF:0 group-title="Кино",Кинопоказ
+http://s03.iptvx.tv:8090/s/882ff861/kinopokaz.m3u8
+#EXTINF:0 group-title="Кино",Шокирующее HD
+http://s03.iptvx.tv:8090/s/882ff861/shokiruschee-hd-orig.m3u8
+#EXTINF:0 group-title="Кино",Комедийное HD
+http://s03.iptvx.tv:8090/s/882ff861/komedijnoe-hd-orig.m3u8
+#EXTINF:0 group-title="Кино",Мужское кино
+http://s03.iptvx.tv:8090/s/882ff861/muzhskoe-kino.m3u8
+#EXTINF:0 group-title="Кино",МУЖСКОЕ КИНО HD
+http://s03.iptvx.tv:8090/s/882ff861/muzhskoe-kino-hd.m3u8
+#EXTINF:0 group-title="Кино",Страшное HD
+http://s03.iptvx.tv:8090/s/882ff861/strashnoe-hd.m3u8
+#EXTINF:0 group-title="Кино",Киноужас HD
+http://s03.iptvx.tv:8090/s/882ff861/kinouzhas-hd-orig.m3u8
+#EXTINF:0 group-title="Кино",НСТ
+http://s03.iptvx.tv:8090/s/882ff861/hct.m3u8
+#EXTINF:0 group-title="Кино",SHOT TV
+http://s03.iptvx.tv:8090/s/882ff861/egoist-tv.m3u8
+#EXTINF:0 group-title="Кино",Победа
+http://s03.iptvx.tv:8090/s/882ff861/pobeda.m3u8
+#EXTINF:0 group-title="Кино",Дом Кино Премиум HD
+http://s03.iptvx.tv:8090/s/882ff861/dom-kino-premium-hd.m3u8
 #EXTINF:0 group-title="Кино",Кино ТВ
 http://s03.iptvx.tv:8090/s/882ff861/kino-tv.m3u8
 #EXTINF:0 group-title="Кино",Кино ТВ HD
 http://s03.iptvx.tv:8090/s/882ff861/kino-tv-hd.m3u8
 #EXTINF:0 group-title="Кино",Cinema
 http://s03.iptvx.tv:8090/s/882ff861/cinema.m3u8
-#EXTINF:0 group-title="Кино",Fox
-http://s03.iptvx.tv:8090/s/882ff861/fox.m3u8
-#EXTINF:0 group-title="Кино",FOX HD
-http://s03.iptvx.tv:8090/s/882ff861/fox-hd.m3u8
-#EXTINF:0 group-title="Кино",Fox Life
-http://s03.iptvx.tv:8090/s/882ff861/fox-life.m3u8
-#EXTINF:0 group-title="Кино",FOX Life HD
-http://s03.iptvx.tv:8090/s/882ff861/fox-life-hd.m3u8
-#EXTINF:0 group-title="Кино",Paramount Channel
-http://s03.iptvx.tv:8090/s/882ff861/paramount-channel.m3u8
-#EXTINF:0 group-title="Кино",Paramount Channel HD
-http://s03.iptvx.tv:8090/s/882ff861/paramount-channel-hd.m3u8
-#EXTINF:0 group-title="Кино",Paramount Comedy
-http://s03.iptvx.tv:8090/s/882ff861/paramount-comedy.m3u8
-#EXTINF:0 group-title="Кино",Paramount Comedy HD
-http://s03.iptvx.tv:8090/s/882ff861/paramount-comedy-hd.m3u8
-#EXTINF:0 group-title="Кино",Sony Entertainment Television
-http://s03.iptvx.tv:8090/s/882ff861/set.m3u8
-#EXTINF:0 group-title="Кино",Sony Entertainment Television HD
-http://s03.iptvx.tv:8090/s/882ff861/set-hd.m3u8
-#EXTINF:0 group-title="Кино",SONY Sci-Fi
-http://s03.iptvx.tv:8090/s/882ff861/sony-sci-fi.m3u8
-#EXTINF:0 group-title="Кино",Sony Turbo
-http://s03.iptvx.tv:8090/s/882ff861/sony-turbo.m3u8
 #EXTINF:0 group-title="Кино",Spike
 http://s03.iptvx.tv:8090/s/882ff861/spike.m3u8
 #EXTINF:0 group-title="Кино",Hollywood HD
