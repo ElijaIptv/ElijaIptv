@@ -1,519 +1,583 @@
 #EXTM3U
-#EXTINF:0,Кинопремьера HD
+#EXTINF:0 group-title="Кино",Кинопремьера HD
 http://s03.iptvx.tv:8090/s/882ff861/kinopremiera-hd-orig.m3u8
-#EXTINF:0,Премиальное HD
+#EXTINF:0 group-title="Кино",Премиальное HD
 http://s03.iptvx.tv:8090/s/882ff861/kino-premium-hd-orig.m3u8
-#EXTINF:0,Остросюжетное HD
+#EXTINF:0 group-title="Кино",Остросюжетное HD
 http://s03.iptvx.tv:8090/s/882ff861/ostrosujetnoe-hd-orig.m3u8
-#EXTINF:0,Наш Кинороман HD
+#EXTINF:0 group-title="Кино",Наш Кинороман HD
 http://s03.iptvx.tv:8090/s/882ff861/nash-kinoroman-hd-orig.m3u8
-#EXTINF:0,Наше Крутое HD
+#EXTINF:0 group-title="Кино",Наше Крутое HD
 http://s03.iptvx.tv:8090/s/882ff861/nashe-krutoe-hd-orig.m3u8
-#EXTINF:0,Любимое HD
+#EXTINF:0 group-title="Кино",Любимое HD
 http://s03.iptvx.tv:8090/s/882ff861/nashe-lubimoe-hd-orig.m3u8
-#EXTINF:0,VIP Premiere
+#EXTINF:0 group-title="Кино",VIP Premiere
 http://s03.iptvx.tv:8090/s/882ff861/vip-premiere-hd-orig.m3u8
-#EXTINF:0,VIP Megahit
+#EXTINF:0 group-title="Кино",VIP Megahit
 http://s03.iptvx.tv:8090/s/882ff861/vip-megahit-hd-orig.m3u8
-#EXTINF:0,VIP Comedy
+#EXTINF:0 group-title="Кино",VIP Comedy
 http://s03.iptvx.tv:8090/s/882ff861/vip-comedy-hd-orig.m3u8
-#EXTINF:0,VIP Serial
+#EXTINF:0 group-title="Кино",VIP Serial
 http://s03.iptvx.tv:8090/s/882ff861/vip-serial-hd-orig.m3u8
-#EXTINF:0,TV1000
+#EXTINF:0 group-title="Кино",TV1000
 http://s03.iptvx.tv:8090/s/882ff861/tv1000.m3u8
-#EXTINF:0,TV1000 HD
+#EXTINF:0 group-title="Кино",TV1000 HD
 http://s03.iptvx.tv:8090/s/882ff861/tv1000-hd.m3u8
-#EXTINF:0,TV1000 Action
+#EXTINF:0 group-title="Кино",TV1000 Action
 http://s03.iptvx.tv:8090/s/882ff861/tv1000-action.m3u8
-#EXTINF:0,TV1000 Action HD
+#EXTINF:0 group-title="Кино",TV1000 Action HD
 http://s03.iptvx.tv:8090/s/882ff861/tv1000-action-hd.m3u8
-#EXTINF:0,TV1000 Русское Кино
+#EXTINF:0 group-title="Кино",TV1000 Русское Кино
 http://s03.iptvx.tv:8090/s/882ff861/tv1000-ru-kino.m3u8
-#EXTINF:0,TV1000 Русское Кино HD
+#EXTINF:0 group-title="Кино",TV1000 Русское Кино HD
 http://s03.iptvx.tv:8090/s/882ff861/tv1000-russkoje-hd.m3u8
-#EXTINF:0,Кинопоказ
+#EXTINF:0 group-title="Кино",Кинопоказ
 http://s03.iptvx.tv:8090/s/882ff861/kinopokaz.m3u8
-#EXTINF:0,Шокирующее HD
+#EXTINF:0 group-title="Кино",Шокирующее HD
 http://s03.iptvx.tv:8090/s/882ff861/shokiruschee-hd-orig.m3u8
-#EXTINF:0,Комедийное HD
+#EXTINF:0 group-title="Кино",Комедийное HD
 http://s03.iptvx.tv:8090/s/882ff861/komedijnoe-hd-orig.m3u8
-#EXTINF:0,Мужское кино
+#EXTINF:0 group-title="Кино",Мужское кино
 http://s03.iptvx.tv:8090/s/882ff861/muzhskoe-kino.m3u8
-#EXTINF:0,МУЖСКОЕ КИНО HD
+#EXTINF:0 group-title="Кино",МУЖСКОЕ КИНО HD
 http://s03.iptvx.tv:8090/s/882ff861/muzhskoe-kino-hd.m3u8
-#EXTINF:0,Страшное HD
+#EXTINF:0 group-title="Кино",Страшное HD
 http://s03.iptvx.tv:8090/s/882ff861/strashnoe-hd.m3u8
-#EXTINF:0,Киноужас HD
+#EXTINF:0 group-title="Кино",Киноужас HD
 http://s03.iptvx.tv:8090/s/882ff861/kinouzhas-hd-orig.m3u8
-#EXTINF:0,НСТ
+#EXTINF:0 group-title="Кино",НСТ
 http://s03.iptvx.tv:8090/s/882ff861/hct.m3u8
-#EXTINF:0,SHOT TV
+#EXTINF:0 group-title="Кино",SHOT TV
 http://s03.iptvx.tv:8090/s/882ff861/egoist-tv.m3u8
-#EXTINF:0,Победа
+#EXTINF:0 group-title="Кино",Победа
 http://s03.iptvx.tv:8090/s/882ff861/pobeda.m3u8
-#EXTINF:0,Дом Кино Премиум HD
+#EXTINF:0 group-title="Кино",Дом Кино Премиум HD
 http://s03.iptvx.tv:8090/s/882ff861/dom-kino-premium-hd.m3u8
-#EXTINF:0,Amedia Premium
+#EXTINF:0 group-title="Кино",Amedia Premium
 http://s03.iptvx.tv:8090/s/882ff861/amedia-premium.m3u8
-#EXTINF:0,AMEDIA Premium HD
+#EXTINF:0 group-title="Кино",AMEDIA Premium HD
 http://s03.iptvx.tv:8090/s/882ff861/amedia-premium-hd.m3u8
-#EXTINF:0,Amedia Hit
+#EXTINF:0 group-title="Кино",Amedia Hit
 http://s03.iptvx.tv:8090/s/882ff861/amedia-hit.m3u8
-#EXTINF:0,AMEDIA HIT HD
+#EXTINF:0 group-title="Кино",AMEDIA HIT HD
 http://s03.iptvx.tv:8090/s/882ff861/amedia-hit-hd.m3u8
-#EXTINF:0,Amedia 1
+#EXTINF:0 group-title="Кино",Amedia 1
 http://s03.iptvx.tv:8090/s/882ff861/amedia-1.m3u8
-#EXTINF:0,AMEDIA 1 HD
+#EXTINF:0 group-title="Кино",AMEDIA 1 HD
 http://s03.iptvx.tv:8090/s/882ff861/amedia1-hd.m3u8
-#EXTINF:0,Amedia 2
+#EXTINF:0 group-title="Кино",Amedia 2
 http://s03.iptvx.tv:8090/s/882ff861/amedia-2.m3u8
-#EXTINF:0,Amedia 2 HD
+#EXTINF:0 group-title="Кино",Amedia 2 HD
 http://s03.iptvx.tv:8090/s/882ff861/amedia-2-hd.m3u8
-#EXTINF:0,Кинохит
+#EXTINF:0 group-title="Кино",Кинохит
 http://s03.iptvx.tv:8090/s/882ff861/kinohit.m3u8
-#EXTINF:0,Киномикс
+#EXTINF:0 group-title="Кино",Киномикс
 http://s03.iptvx.tv:8090/s/882ff861/kinomix.m3u8
-#EXTINF:0,Киномикс HD
+#EXTINF:0 group-title="Кино",Киномикс HD
 http://s03.iptvx.tv:8090/s/882ff861/kinomix-hd.m3u8
-#EXTINF:0,КИНОСВИДАНИЕ
+#EXTINF:0 group-title="Кино",КИНОСВИДАНИЕ
 http://s03.iptvx.tv:8090/s/882ff861/kinosvidanije.m3u8
-#EXTINF:0,Киносемья
+#EXTINF:0 group-title="Кино",Киносемья
 http://s03.iptvx.tv:8090/s/882ff861/kinosemja.m3u8
-#EXTINF:0,Кинокомедия
+#EXTINF:0 group-title="Кино",Кинокомедия
 http://s03.iptvx.tv:8090/s/882ff861/kinokomedia.m3u8
-#EXTINF:0,Кинокомедия HD
+#EXTINF:0 group-title="Кино",Кинокомедия HD
 http://s03.iptvx.tv:8090/s/882ff861/kinokomedia-hd.m3u8
-#EXTINF:0,Родное кино
+#EXTINF:0 group-title="Кино",Родное кино
 http://s03.iptvx.tv:8090/s/882ff861/rodnoje_kino.m3u8
-#EXTINF:0,Кино ТВ
+#EXTINF:0 group-title="Кино",Кино ТВ
 http://s03.iptvx.tv:8090/s/882ff861/kino-tv.m3u8
-#EXTINF:0,Кино ТВ HD
+#EXTINF:0 group-title="Кино",Кино ТВ HD
 http://s03.iptvx.tv:8090/s/882ff861/kino-tv-hd.m3u8
-#EXTINF:0,Cinema
+#EXTINF:0 group-title="Кино",Cinema
 http://s03.iptvx.tv:8090/s/882ff861/cinema.m3u8
-#EXTINF:0,Fox
+#EXTINF:0 group-title="Кино",Fox
 http://s03.iptvx.tv:8090/s/882ff861/fox.m3u8
-#EXTINF:0,FOX HD
+#EXTINF:0 group-title="Кино",FOX HD
 http://s03.iptvx.tv:8090/s/882ff861/fox-hd.m3u8
-#EXTINF:0,Fox Life
+#EXTINF:0 group-title="Кино",Fox Life
 http://s03.iptvx.tv:8090/s/882ff861/fox-life.m3u8
-#EXTINF:0,FOX Life HD
+#EXTINF:0 group-title="Кино",FOX Life HD
 http://s03.iptvx.tv:8090/s/882ff861/fox-life-hd.m3u8
-#EXTINF:0,Paramount Channel
+#EXTINF:0 group-title="Кино",Paramount Channel
 http://s03.iptvx.tv:8090/s/882ff861/paramount-channel.m3u8
-#EXTINF:0,Paramount Channel HD
+#EXTINF:0 group-title="Кино",Paramount Channel HD
 http://s03.iptvx.tv:8090/s/882ff861/paramount-channel-hd.m3u8
-#EXTINF:0,Paramount Comedy
+#EXTINF:0 group-title="Кино",Paramount Comedy
 http://s03.iptvx.tv:8090/s/882ff861/paramount-comedy.m3u8
-#EXTINF:0,Paramount Comedy HD
+#EXTINF:0 group-title="Кино",Paramount Comedy HD
 http://s03.iptvx.tv:8090/s/882ff861/paramount-comedy-hd.m3u8
-#EXTINF:0,Sony Entertainment Television
+#EXTINF:0 group-title="Кино",Sony Entertainment Television
 http://s03.iptvx.tv:8090/s/882ff861/set.m3u8
-#EXTINF:0,Sony Entertainment Television HD
+#EXTINF:0 group-title="Кино",Sony Entertainment Television HD
 http://s03.iptvx.tv:8090/s/882ff861/set-hd.m3u8
-#EXTINF:0,SONY Sci-Fi
+#EXTINF:0 group-title="Кино",SONY Sci-Fi
 http://s03.iptvx.tv:8090/s/882ff861/sony-sci-fi.m3u8
-#EXTINF:0,Sony Turbo
+#EXTINF:0 group-title="Кино",Sony Turbo
 http://s03.iptvx.tv:8090/s/882ff861/sony-turbo.m3u8
-#EXTINF:0,Spike
+#EXTINF:0 group-title="Кино",Spike
 http://s03.iptvx.tv:8090/s/882ff861/spike.m3u8
-#EXTINF:0,Hollywood HD
+#EXTINF:0 group-title="Кино",Hollywood HD
 http://s03.iptvx.tv:8090/s/882ff861/mgm-hd.m3u8
-#EXTINF:0,Русская Комедия
+#EXTINF:0 group-title="Кино",Русская Комедия
 http://s03.iptvx.tv:8090/s/882ff861/russkaja-comedija.m3u8
-#EXTINF:0,Русский Детектив
+#EXTINF:0 group-title="Кино",Русский Детектив
 http://s03.iptvx.tv:8090/s/882ff861/russkij-detektiv.m3u8
-#EXTINF:0,Русский Бестселлер
+#EXTINF:0 group-title="Кино",Русский Бестселлер
 http://s03.iptvx.tv:8090/s/882ff861/russkij-bestseller.m3u8
-#EXTINF:0,Русский Роман
+#EXTINF:0 group-title="Кино",Русский Роман
 http://s03.iptvx.tv:8090/s/882ff861/russkij-roman.m3u8
-#EXTINF:0,Русский Роман HD
+#EXTINF:0 group-title="Кино",Русский Роман HD
 http://s03.iptvx.tv:8090/s/882ff861/russkij-roman-hd.m3u8
-#EXTINF:0,Романтичное HD
+#EXTINF:0 group-title="Кино",Романтичное HD
 http://s03.iptvx.tv:8090/s/882ff861/romantichnoe-hd.m3u8
-#EXTINF:0,Русский Иллюзион
+#EXTINF:0 group-title="Кино",Русский Иллюзион
 http://s03.iptvx.tv:8090/s/882ff861/russkij-iluzion.m3u8
-#EXTINF:0,Русский Иллюзион HD
+#EXTINF:0 group-title="Кино",Русский Иллюзион HD
 http://s03.iptvx.tv:8090/s/882ff861/russkij-iluzion-hd.m3u8
-#EXTINF:0,Иллюзион +
+#EXTINF:0 group-title="Кино",Иллюзион +
 http://s03.iptvx.tv:8090/s/882ff861/iluzion-plus.m3u8
-#EXTINF:0,Иллюзион + HD
+#EXTINF:0 group-title="Кино",Иллюзион + HD
 http://s03.iptvx.tv:8090/s/882ff861/iluzion-plus-hd.m3u8
-#EXTINF:0,Любимое Кино
+#EXTINF:0 group-title="Кино",Любимое Кино
 http://s03.iptvx.tv:8090/s/882ff861/lubimoe-kino.m3u8
-#EXTINF:0,Наше новое кино
+#EXTINF:0 group-title="Кино",Наше новое кино
 http://s03.iptvx.tv:8090/s/882ff861/nashe-novoe-kino.m3u8
-#EXTINF:0,Еврокино
+#EXTINF:0 group-title="Кино",Еврокино
 http://s03.iptvx.tv:8090/s/882ff861/evrokino.m3u8
-#EXTINF:0,Еврокино HD
+#EXTINF:0 group-title="Кино",Еврокино HD
 http://s03.iptvx.tv:8090/s/882ff861/evrokino-hd.m3u8
-#EXTINF:0,TV XXI
+#EXTINF:0 group-title="Кино",TV XXI
 http://s03.iptvx.tv:8090/s/882ff861/tv-xxi.m3u8
-#EXTINF:0,Кинoсерия
+#EXTINF:0 group-title="Кино",Кинoсерия
 http://s03.iptvx.tv:8090/s/882ff861/mnogo-tv.m3u8
-#EXTINF:0,Ностальгия
+#EXTINF:0 group-title="Кино",Ностальгия
 http://s03.iptvx.tv:8090/s/882ff861/nostalgia.m3u8
-#EXTINF:0,Ретро ТВ
+#EXTINF:0 group-title="Кино",Ретро ТВ
 http://s03.iptvx.tv:8090/s/882ff861/retro.m3u8
-#EXTINF:0,Дом Кино
+#EXTINF:0 group-title="Кино",Дом Кино
 http://s03.iptvx.tv:8090/s/882ff861/dom-kino.m3u8
-#EXTINF:0,Bollywood HD
+#EXTINF:0 group-title="Кино",Bollywood HD
 http://s03.iptvx.tv:8090/s/882ff861/bollywood.m3u8
-#EXTINF:0,Индийское Кино
+#EXTINF:0 group-title="Кино",Индийское Кино
 http://s03.iptvx.tv:8090/s/882ff861/indija-tv.m3u8
-#EXTINF:0,Zee TV
+#EXTINF:0 group-title="Кино",Zee TV
 http://s03.iptvx.tv:8090/s/882ff861/zee-tv.m3u8
-#EXTINF:0,Первый канал
+#EXTINF:0 group-title="Общероссийские",Первый канал
 http://s03.iptvx.tv:8090/s/882ff861/pervyj.m3u8
-#EXTINF:0,Первый HD
+#EXTINF:0 group-title="Общероссийские",Первый HD
 http://s03.iptvx.tv:8090/s/882ff861/pervyj-hd-orig.m3u8
-#EXTINF:0,Россия 1
+#EXTINF:0 group-title="Общероссийские",Россия 1
 http://s03.iptvx.tv:8090/s/882ff861/rossija1.m3u8
-#EXTINF:0,Россия 1 HD
+#EXTINF:0 group-title="Общероссийские",Россия 1 HD
 http://s03.iptvx.tv:8090/s/882ff861/rossija-hd-orig.m3u8
-#EXTINF:0,НТВ
+#EXTINF:0 group-title="Общероссийские",НТВ
 http://s03.iptvx.tv:8090/s/882ff861/ntv.m3u8
-#EXTINF:0,НТВ HD
+#EXTINF:0 group-title="Общероссийские",НТВ HD
 http://s03.iptvx.tv:8090/s/882ff861/ntv-hd-orig.m3u8
-#EXTINF:0,НТВ Мир
+#EXTINF:0 group-title="Общероссийские",НТВ Мир
 http://s03.iptvx.tv:8090/s/882ff861/ntv-mir.m3u8
-#EXTINF:0,ТНТ
+#EXTINF:0 group-title="Общероссийские",ТНТ
 http://s03.iptvx.tv:8090/s/882ff861/TNT.m3u8
-#EXTINF:0,ТНТ HD
+#EXTINF:0 group-title="Общероссийские",ТНТ HD
 http://s03.iptvx.tv:8090/s/882ff861/tnt-hd-orig.m3u8
-#EXTINF:0,ТНТ4
+#EXTINF:0 group-title="Общероссийские",ТНТ4
 http://s03.iptvx.tv:8090/s/882ff861/tnt-4.m3u8
-#EXTINF:0,СТС
+#EXTINF:0 group-title="Общероссийские",СТС
 http://s03.iptvx.tv:8090/s/882ff861/CTC.m3u8
-#EXTINF:0,СТС HD
+#EXTINF:0 group-title="Общероссийские",СТС HD
 http://s03.iptvx.tv:8090/s/882ff861/ctc-hd.m3u8
-#EXTINF:0,СТС Love
+#EXTINF:0 group-title="Общероссийские",СТС Love
 http://s03.iptvx.tv:8090/s/882ff861/sts-love.m3u8
-#EXTINF:0,Домашний
+#EXTINF:0 group-title="Общероссийские",Домашний
 http://s03.iptvx.tv:8090/s/882ff861/domashnij.m3u8
-#EXTINF:0,Перец
+#EXTINF:0 group-title="Общероссийские",Перец
 http://s03.iptvx.tv:8090/s/882ff861/perec.m3u8
-#EXTINF:0,РЕН ТВ
+#EXTINF:0 group-title="Общероссийские",РЕН ТВ
 http://s03.iptvx.tv:8090/s/882ff861/ren-tv.m3u8
-#EXTINF:0,РЕН ТВ HD
+#EXTINF:0 group-title="Общероссийские",РЕН ТВ HD
 http://s03.iptvx.tv:8090/s/882ff861/rentv-hd-orig.m3u8
-#EXTINF:0,ТВ3
+#EXTINF:0 group-title="Общероссийские",ТВ3
 http://s03.iptvx.tv:8090/s/882ff861/tv-3.m3u8
-#EXTINF:0,ТВ3 HD
+#EXTINF:0 group-title="Общероссийские",ТВ3 HD
 http://s03.iptvx.tv:8090/s/882ff861/tv3-hd-orig.m3u8
-#EXTINF:0,Че
+#EXTINF:0 group-title="Общероссийские",Че
 http://s03.iptvx.tv:8090/s/882ff861/4e.m3u8
-#EXTINF:0,Звезда
+#EXTINF:0 group-title="Общероссийские",Звезда
 http://s03.iptvx.tv:8090/s/882ff861/zvezda.m3u8
-#EXTINF:0,ТВЦ
+#EXTINF:0 group-title="Общероссийские",ТВЦ
 http://s03.iptvx.tv:8090/s/882ff861/tvc.m3u8
-#EXTINF:0,5 канал
+#EXTINF:0 group-title="Общероссийские",5 канал
 http://s03.iptvx.tv:8090/s/882ff861/5kanal.m3u8
-#EXTINF:0,Россия Культура
+#EXTINF:0 group-title="Общероссийские",Россия Культура
 http://s03.iptvx.tv:8090/s/882ff861/rossija-k.m3u8
-#EXTINF:0,8 канал
+#EXTINF:0 group-title="Общероссийские",8 канал
 http://s03.iptvx.tv:8090/s/882ff861/8-kanal.m3u8
-#EXTINF:0,Мир
+#EXTINF:0 group-title="Общероссийские",Мир
 http://s03.iptvx.tv:8090/s/882ff861/mir.m3u8
-#EXTINF:0,Мир HD
+#EXTINF:0 group-title="Общероссийские",Мир HD
 http://s03.iptvx.tv:8090/s/882ff861/mir-hd.m3u8
-#EXTINF:0,Мир 24
+#EXTINF:0 group-title="Общероссийские",Мир 24
 http://s03.iptvx.tv:8090/s/882ff861/mir-24.m3u8
-#EXTINF:0,Сарафан
+#EXTINF:0 group-title="Общероссийские",Сарафан
 http://s03.iptvx.tv:8090/s/882ff861/sarafan.m3u8
-#EXTINF:0,КВН ТВ
+#EXTINF:0 group-title="Общероссийские",КВН ТВ
 http://s03.iptvx.tv:8090/s/882ff861/kvn-tv.m3u8
-#EXTINF:0,Супер
+#EXTINF:0 group-title="Общероссийские",Супер
 http://s03.iptvx.tv:8090/s/882ff861/super.m3u8
-#EXTINF:0,Пятница
+#EXTINF:0 group-title="Общероссийские",Пятница
 http://s03.iptvx.tv:8090/s/882ff861/piatnica.m3u8
-#EXTINF:0,Пятница HD
+#EXTINF:0 group-title="Общероссийские",Пятница HD
 http://s03.iptvx.tv:8090/s/882ff861/piatnica-hd.m3u8
-#EXTINF:0,Теледом HD
+#EXTINF:0 group-title="Общероссийские",Теледом HD
 http://s03.iptvx.tv:8090/s/882ff861/teledom-hd.m3u8
-#EXTINF:0,Подмосковье
+#EXTINF:0 group-title="Общероссийские",Подмосковье
 http://s03.iptvx.tv:8090/s/882ff861/podmoskovje.m3u8
-#EXTINF:0,Ю ТВ
+#EXTINF:0 group-title="Общероссийские",Ю ТВ
 http://s03.iptvx.tv:8090/s/882ff861/yu-tv.m3u8
-#EXTINF:0,Время
+#EXTINF:0 group-title="Общероссийские",Время
 http://s03.iptvx.tv:8090/s/882ff861/vremya.m3u8
-#EXTINF:0,9 канал (Израиль)
+#EXTINF:0 group-title="Общероссийские",9 канал (Израиль)
 http://s03.iptvx.tv:8090/s/882ff861/9-kanal.m3u8
-#EXTINF:0,RTVi
+#EXTINF:0 group-title="Общероссийские",RTVi
 http://s03.iptvx.tv:8090/s/882ff861/rtvi.m3u8
-#EXTINF:0,Дождь
+#EXTINF:0 group-title="Общероссийские",Дождь
 http://s03.iptvx.tv:8090/s/882ff861/dozhd.m3u8
-#EXTINF:0,Дождь HD
+#EXTINF:0 group-title="Общероссийские",Дождь HD
 http://s03.iptvx.tv:8090/s/882ff861/dozhd-hd.m3u8
-#EXTINF:0,Настоящее время HD
+#EXTINF:0 group-title="Общероссийские",Настоящее время HD
 http://s03.iptvx.tv:8090/s/882ff861/nastoyaschee-vremya-hd.m3u8
-#EXTINF:0,Россия 24
+#EXTINF:0 group-title="Новости",Россия 24
 http://s03.iptvx.tv:8090/s/882ff861/rossija24.m3u8
-#EXTINF:0,EuroNews
+#EXTINF:0 group-title="Новости",EuroNews
 http://s03.iptvx.tv:8090/s/882ff861/evronews.m3u8
-#EXTINF:0,Известия
+#EXTINF:0 group-title="Новости",Известия
 http://s03.iptvx.tv:8090/s/882ff861/izvestija.m3u8
-#EXTINF:0,Москва 24
+#EXTINF:0 group-title="Новости",Москва 24
 http://s03.iptvx.tv:8090/s/882ff861/moskva-24.m3u8
-#EXTINF:0,РБК
+#EXTINF:0 group-title="Новости",РБК
 http://s03.iptvx.tv:8090/s/882ff861/rbk.m3u8
-#EXTINF:0,BBC World
+#EXTINF:0 group-title="Новости",BBC World
 http://s03.iptvx.tv:8090/s/882ff861/bbc-world-news.m3u8
-#EXTINF:0,CNN
+#EXTINF:0 group-title="Новости",CNN
 http://s03.iptvx.tv:8090/s/882ff861/cnn.m3u8
-#EXTINF:0,RT
+#EXTINF:0 group-title="Новости",RT
 http://s03.iptvx.tv:8090/s/882ff861/rt-english.m3u8
-#EXTINF:0,RT HD
+#EXTINF:0 group-title="Новости",RT HD
 http://s03.iptvx.tv:8090/s/882ff861/russia-today-hd.m3u8
-#EXTINF:0,RT Док
+#EXTINF:0 group-title="Новости",RT Док
 http://s03.iptvx.tv:8090/s/882ff861/rt-doc.m3u8
-#EXTINF:0,RT Док HD
+#EXTINF:0 group-title="Новости",RT Док HD
 http://s03.iptvx.tv:8090/s/882ff861/russia-today-doc-hd.m3u8
-#EXTINF:0,Карусель
+#EXTINF:0 group-title="Детские",Карусель
 http://s03.iptvx.tv:8090/s/882ff861/karusel.m3u8
-#EXTINF:0,Мультимания
+#EXTINF:0 group-title="Детские",Мультимания
 http://s03.iptvx.tv:8090/s/882ff861/multimania.m3u8
-#EXTINF:0,Детский мир
+#EXTINF:0 group-title="Детские",Детский мир
 http://s03.iptvx.tv:8090/s/882ff861/detskij-mir.m3u8
-#EXTINF:0,Уникум
+#EXTINF:0 group-title="Детские",Уникум
 http://s03.iptvx.tv:8090/s/882ff861/detksij.m3u8
-#EXTINF:0,Уникум HD
+#EXTINF:0 group-title="Детские",Уникум HD
 http://s03.iptvx.tv:8090/s/882ff861/detskij-hd.m3u8
-#EXTINF:0,В гостях у сказки
+#EXTINF:0 group-title="Детские",В гостях у сказки
 http://s03.iptvx.tv:8090/s/882ff861/gosti-skazka.m3u8
-#EXTINF:0,Мульт
+#EXTINF:0 group-title="Детские",Мульт
 http://s03.iptvx.tv:8090/s/882ff861/mult.m3u8
-#EXTINF:0,Мультимузыка
+#EXTINF:0 group-title="Детские",Мультимузыка
 http://s03.iptvx.tv:8090/s/882ff861/strana.m3u8
-#EXTINF:0,СТС Kids
+#EXTINF:0 group-title="Детские",СТС Kids
 http://s03.iptvx.tv:8090/s/882ff861/ctc-kids.m3u8
-#EXTINF:0,СТС Kids HD
+#EXTINF:0 group-title="Детские",СТС Kids HD
 http://s03.iptvx.tv:8090/s/882ff861/ctc-kids-hd.m3u8
-#EXTINF:0,Рыжий
+#EXTINF:0 group-title="Детские",Рыжий
 http://s03.iptvx.tv:8090/s/882ff861/ryzhij.m3u8
-#EXTINF:0,Мульт HD
+#EXTINF:0 group-title="Детские",Мульт HD
 http://s03.iptvx.tv:8090/s/882ff861/tlum-hd.m3u8
-#EXTINF:0,Disney Channel
+#EXTINF:0 group-title="Детские",Disney Channel
 http://s03.iptvx.tv:8090/s/882ff861/disney.m3u8
-#EXTINF:0,Nickelodeon
+#EXTINF:0 group-title="Детские",Nickelodeon
 http://s03.iptvx.tv:8090/s/882ff861/nickelodeon.m3u8
-#EXTINF:0,Nickelodeon HD
+#EXTINF:0 group-title="Детские",Nickelodeon HD
 http://s03.iptvx.tv:8090/s/882ff861/nickelodeon-hd.m3u8
-#EXTINF:0,Cartoon Network
+#EXTINF:0 group-title="Детские",Cartoon Network
 http://s03.iptvx.tv:8090/s/882ff861/cartoon-network.m3u8
-#EXTINF:0,Cartoon Network HD
+#EXTINF:0 group-title="Детские",Cartoon Network HD
 http://s03.iptvx.tv:8090/s/882ff861/cartoon-network-hd.m3u8
-#EXTINF:0,Капитан Фантастика HD
+#EXTINF:0 group-title="Детские",Капитан Фантастика HD
 http://s03.iptvx.tv:8090/s/882ff861/ginger-hd.m3u8
-#EXTINF:0,Ani
+#EXTINF:0 group-title="Детские",Ani
 http://s03.iptvx.tv:8090/s/882ff861/ani.m3u8
-#EXTINF:0,Nick Jr
+#EXTINF:0 group-title="Детские",Nick Jr
 http://s03.iptvx.tv:8090/s/882ff861/nickjr.m3u8
-#EXTINF:0,NickJr Eng
+#EXTINF:0 group-title="Детские",NickJr Eng
 http://s03.iptvx.tv:8090/s/882ff861/nickjr-en.m3u8
-#EXTINF:0,TiJi
+#EXTINF:0 group-title="Детские",TiJi
 http://s03.iptvx.tv:8090/s/882ff861/tiji.m3u8
-#EXTINF:0,JimJam
+#EXTINF:0 group-title="Детские",JimJam
 http://s03.iptvx.tv:8090/s/882ff861/jimjam.m3u8
-#EXTINF:0,Gulli
+#EXTINF:0 group-title="Детские",Gulli
 http://s03.iptvx.tv:8090/s/882ff861/gulli.m3u8
-#EXTINF:0,Boomerang
+#EXTINF:0 group-title="Детские",Boomerang
 http://s03.iptvx.tv:8090/s/882ff861/boomerang.m3u8
-#EXTINF:0,2x2
+#EXTINF:0 group-title="Детские",2x2
 http://s03.iptvx.tv:8090/s/882ff861/2x2.m3u8
-#EXTINF:0,FAN
+#EXTINF:0 group-title="Детские",FAN
 http://s03.iptvx.tv:8090/s/882ff861/fan.m3u8
-#EXTINF:0,FAN HD
+#EXTINF:0 group-title="Детские",FAN HD
 http://s03.iptvx.tv:8090/s/882ff861/fan-hd.m3u8
-#EXTINF:0,О!
+#EXTINF: group-title="Детские"0,О!
 http://s03.iptvx.tv:8090/s/882ff861/kanal-o.m3u8
-#EXTINF:0,Niki Junior HD
+#EXTINF:0 group-title="Детские",Niki Junior HD
 http://s03.iptvx.tv:8090/s/882ff861/nikki-junior-hd.m3u8
-#EXTINF:0,Niki Kids HD
+#EXTINF:0 group-title="Детские",Niki Kids HD
 http://s03.iptvx.tv:8090/s/882ff861/nikki-kids-hd.m3u8
-#EXTINF:0,ПлюсПлюс
+#EXTINF:0 group-title="Детские",ПлюсПлюс
 http://s03.iptvx.tv:8090/s/882ff861/plus-plus2.m3u8
-#EXTINF:0,Піксель
+#EXTINF: group-title="Детские"0,Піксель
 http://s03.iptvx.tv:8090/s/882ff861/pixel-ua.m3u8
-#EXTINF:0,Малятко TV
+#EXTINF:0 group-title="Детские",Малятко TV
 http://s03.iptvx.tv:8090/s/882ff861/malyatko-tv-ua.m3u8
-#EXTINF:0,National Geographic
+#EXTINF:0 group-title="Познавательные",National Geographic
 http://s03.iptvx.tv:8090/s/882ff861/national-geographic.m3u8
-#EXTINF:0,National Geographic HD
+#EXTINF:0 group-title="Познавательные",National Geographic HD
 http://s03.iptvx.tv:8090/s/882ff861/nat-geo-hd-orig.m3u8
-#EXTINF:0,Discovery Channel
+#EXTINF:0 group-title="Познавательные",Discovery Channel
 http://s03.iptvx.tv:8090/s/882ff861/discovery.m3u8
-#EXTINF:0,Discovery Channel HD
+#EXTINF:0 group-title="Познавательные",Discovery Channel HD
 http://s03.iptvx.tv:8090/s/882ff861/discovery-hd-orig.m3u8
-#EXTINF:0,Discovery HD Showcase
+#EXTINF:0 group-title="Познавательные",Discovery HD Showcase
 http://s03.iptvx.tv:8090/s/882ff861/discovery-showcase-hd-orig.m3u8
-#EXTINF:0,Discovery Science
+#EXTINF:0 group-title="Познавательные",Discovery Science
 http://s03.iptvx.tv:8090/s/882ff861/discovery-science.m3u8
-#EXTINF:0,Discovery Science HD
+#EXTINF:0 group-title="Познавательные",Discovery Science HD
 http://s03.iptvx.tv:8090/s/882ff861/discovery-science-hd-orig.m3u8
-#EXTINF:0,DTX
+#EXTINF:0 group-title="Познавательные",DTX
 http://s03.iptvx.tv:8090/s/882ff861/dtx.m3u8
-#EXTINF:0,DTX HD
+#EXTINF:0 group-title="Познавательные",DTX HD
 http://s03.iptvx.tv:8090/s/882ff861/dtx-hd-orig.m3u8
-#EXTINF:0,ID Xtra
+#EXTINF:0 group-title="Познавательные",ID Xtra
 http://s03.iptvx.tv:8090/s/882ff861/id-xtra.m3u8
-#EXTINF:0,ID Xtra HD
+#EXTINF:0 group-title="Познавательные",ID Xtra HD
 http://s03.iptvx.tv:8090/s/882ff861/id-xtra-hd-orig.m3u8
-#EXTINF:0,TLC
+#EXTINF:0 group-title="Познавательные",TLC
 http://s03.iptvx.tv:8090/s/882ff861/tlc.m3u8
-#EXTINF:0,TLC HD
+#EXTINF:0 group-title="Познавательные",TLC HD
 http://s03.iptvx.tv:8090/s/882ff861/tlc-hd-orig.m3u8
-#EXTINF:0,Animal planet
+#EXTINF:0 group-title="Познавательные",Animal planet
 http://s03.iptvx.tv:8090/s/882ff861/animal-planet.m3u8
-#EXTINF:0,Animal Planet HD
+#EXTINF:0 group-title="Познавательные",Animal Planet HD
 http://s03.iptvx.tv:8090/s/882ff861/animal-planet-hd-orig.m3u8
-#EXTINF:0,Nat Geo Wild
+#EXTINF:0 group-title="Познавательные",Nat Geo Wild
 http://s03.iptvx.tv:8090/s/882ff861/nat-geo-wild.m3u8
-#EXTINF:0,Nat Geo Wild HD
+#EXTINF:0 group-title="Познавательные",Nat Geo Wild HD
 http://s03.iptvx.tv:8090/s/882ff861/nat-geo-wild-hd-orig.m3u8
-#EXTINF:0,В мире животных HD
+#EXTINF:0 group-title="Познавательные",В мире животных HD
 http://s03.iptvx.tv:8090/s/882ff861/animal-family-hd.m3u8
-#EXTINF:0,Viasat Nature
+#EXTINF:0 group-title="Познавательные",Viasat Nature
 http://s03.iptvx.tv:8090/s/882ff861/viasat-nature.m3u8
-#EXTINF:0,Viasat Nature HD
+#EXTINF:0 group-title="Познавательные",Viasat Nature HD
 http://s03.iptvx.tv:8090/s/882ff861/viasat-nature-hd.m3u8
-#EXTINF:0,Viasat Nature/History HD
+#EXTINF:0 group-title="Познавательные",Viasat Nature/History HD
 http://s03.iptvx.tv:8090/s/882ff861/viasat-history-hd-test.m3u8
-#EXTINF:0,Viasat Explore
+#EXTINF:0 group-title="Познавательные",Viasat Explore
 http://s03.iptvx.tv:8090/s/882ff861/viasat-explorer.m3u8
-#EXTINF:0,Viasat Explore HD
+#EXTINF:0 group-title="Познавательные",Viasat Explore HD
 http://s03.iptvx.tv:8090/s/882ff861/viasat-explore-hd.m3u8
-#EXTINF:0,Моя планета
+#EXTINF:0 group-title="Познавательные",Моя планета
 http://s03.iptvx.tv:8090/s/882ff861/moya-planeta.m3u8
-#EXTINF:0,Моя планета HD
+#EXTINF:0 group-title="Познавательные",Моя планета HD
 http://s03.iptvx.tv:8090/s/882ff861/planeta-hd.m3u8
-#EXTINF:0,Живая Планета
+#EXTINF:0 group-title="Познавательные",Живая Планета
 http://s03.iptvx.tv:8090/s/882ff861/zhivaya-planeta.m3u8
-#EXTINF:0,Живая природа HD
+#EXTINF:0 group-title="Познавательные",Живая природа HD
 http://s03.iptvx.tv:8090/s/882ff861/zhivaja-priroda-hd.m3u8
-#EXTINF:0,Travel Channel
+#EXTINF:0 group-title="Познавательные",Travel Channel
 http://s03.iptvx.tv:8090/s/882ff861/travel-channel.m3u8
-#EXTINF:0,Travel Channel HD
+#EXTINF:0 group-title="Познавательные",Travel Channel HD
 http://s03.iptvx.tv:8090/s/882ff861/travel-channel-hd.m3u8
-#EXTINF:0,Travel+Adventure
+#EXTINF:0 group-title="Познавательные",Travel+Adventure
 http://s03.iptvx.tv:8090/s/882ff861/travel-adventure.m3u8
-#EXTINF:0,Travel+Adventure HD
+#EXTINF:0 group-title="Познавательные",Travel+Adventure HD
 http://s03.iptvx.tv:8090/s/882ff861/travel-adventure-hd.m3u8
-#EXTINF:0,Приключения HD
+#EXTINF:0 group-title="Познавательные",Приключения HD
 http://s03.iptvx.tv:8090/s/882ff861/teletravel-hd.m3u8
-#EXTINF:0,Телепутешествия
+#EXTINF:0 group-title="Познавательные",Телепутешествия
 http://s03.iptvx.tv:8090/s/882ff861/teleputeshestvija.m3u8
-#EXTINF:0,Глазами Туриста HD
+#EXTINF:0 group-title="Познавательные",Глазами Туриста HD
 http://s03.iptvx.tv:8090/s/882ff861/glazami-turista-hd.m3u8
-#EXTINF:0,RTG
+#EXTINF:0 group-title="Познавательные",RTG
 http://s03.iptvx.tv:8090/s/882ff861/rtg-tv.m3u8
-#EXTINF:0,RTG HD
+#EXTINF:0 group-title="Познавательные",RTG HD
 http://s03.iptvx.tv:8090/s/882ff861/rtg-hd.m3u8
-#EXTINF:0,HD Media
+#EXTINF:0 group-title="Познавательные",HD Media
 http://s03.iptvx.tv:8090/s/882ff861/hd-media.m3u8
-#EXTINF:0,HD Life
+#EXTINF:0 group-title="Познавательные",HD Life
 http://s03.iptvx.tv:8090/s/882ff861/hd-life.m3u8
-#EXTINF:0,Ocean-TV
+#EXTINF:0 group-title="Познавательные",Ocean-TV
 http://s03.iptvx.tv:8090/s/882ff861/ocean-tv.m3u8
-#EXTINF:0,Морской
+#EXTINF:0 group-title="Познавательные",Морской
 http://s03.iptvx.tv:8090/s/882ff861/morskoj.m3u8
-#EXTINF:0,Зоопарк
+#EXTINF:0 group-title="Познавательные",Зоопарк
 http://s03.iptvx.tv:8090/s/882ff861/zoopark.m3u8
-#EXTINF:0,Охотник и Рыболов
+#EXTINF:0 group-title="Познавательные",Охотник и Рыболов
 http://s03.iptvx.tv:8090/s/882ff861/ohotnik-rybolov.m3u8
-#EXTINF:0,Охотник и рыболов HD
+#EXTINF:0 group-title="Познавательные",Охотник и рыболов HD
 http://s03.iptvx.tv:8090/s/882ff861/ohotnik-rybolov-hd.m3u8
-#EXTINF:0,Дикая Охота HD
+#EXTINF:0 group-title="Познавательные",Дикая Охота HD
 http://s03.iptvx.tv:8090/s/882ff861/dikaya-ohota-hd.m3u8
-#EXTINF:0,Дикая Рыбалка HD
+#EXTINF:0 group-title="Познавательные",Дикая Рыбалка HD
 http://s03.iptvx.tv:8090/s/882ff861/dikaya-rybalka-hd.m3u8
-#EXTINF:0,Охота и рыбалка
+#EXTINF:0 group-title="Познавательные",Охота и рыбалка
 http://s03.iptvx.tv:8090/s/882ff861/oxota-rybalka.m3u8
-#EXTINF:0,Диалоги о Рыбалке
+#EXTINF:0 group-title="Познавательные",Диалоги о Рыбалке
 http://s03.iptvx.tv:8090/s/882ff861/dialogi-rybalka.m3u8
-#EXTINF:0,Outdoor Channel
+#EXTINF:0 group-title="Познавательные",Outdoor Channel
 http://s03.iptvx.tv:8090/s/882ff861/outdoor-channel.m3u8
-#EXTINF:0,Оружие
+#EXTINF:0 group-title="Познавательные",Оружие
 http://s03.iptvx.tv:8090/s/882ff861/oruzhie.m3u8
-#EXTINF:0,Арсенал HD
+#EXTINF:0 group-title="Познавательные",Арсенал HD
 http://s03.iptvx.tv:8090/s/882ff861/arsenal-hd.m3u8
-#EXTINF:0,Мужской
+#EXTINF:0 group-title="Познавательные",Мужской
 http://s03.iptvx.tv:8090/s/882ff861/muzhskoj.m3u8
-#EXTINF:0,Fine Living
+#EXTINF:0 group-title="Познавательные",Fine Living
 http://s03.iptvx.tv:8090/s/882ff861/fine-living.m3u8
-#EXTINF:0,Fine Living HD
+#EXTINF:0 group-title="Познавательные",Fine Living HD
 http://s03.iptvx.tv:8090/s/882ff861/fine-living-hd.m3u8
-#EXTINF:0,CBS Reality
+#EXTINF:0 group-title="Познавательные",CBS Reality
 http://s03.iptvx.tv:8090/s/882ff861/cbs-reality.m3u8
-#EXTINF:0,Наука
+#EXTINF:0 group-title="Познавательные",Наука
 http://s03.iptvx.tv:8090/s/882ff861/nauka-20.m3u8
-#EXTINF:0,Наука HD
+#EXTINF:0 group-title="Познавательные",Наука HD
 http://s03.iptvx.tv:8090/s/882ff861/nauka-hd.m3u8
-#EXTINF:0,24 Техно
+#EXTINF:0 group-title="Познавательные",24 Техно
 http://s03.iptvx.tv:8090/s/882ff861/t24.m3u8
-#EXTINF:0,Galaxy TV
+#EXTINF:0 group-title="Познавательные",Galaxy TV
 http://s03.iptvx.tv:8090/s/882ff861/galaxy-hd.m3u8
-#EXTINF:0,Eureka HD
+#EXTINF:0 group-title="Познавательные",Eureka HD
 http://s03.iptvx.tv:8090/s/882ff861/eureka-hd.m3u8
-#EXTINF:0,Da Vinci Learning
+#EXTINF:0 group-title="Познавательные",Da Vinci Learning
 http://s03.iptvx.tv:8090/s/882ff861/da-vinci-learning.m3u8
-#EXTINF:0,History
+#EXTINF:0 group-title="Познавательные",History
 http://s03.iptvx.tv:8090/s/882ff861/history.m3u8
-#EXTINF:0,History HD
+#EXTINF:0 group-title="Познавательные",History HD
 http://s03.iptvx.tv:8090/s/882ff861/history-hd.m3u8
-#EXTINF:0,H2 HD
+#EXTINF:0 group-title="Познавательные",H2 HD
 http://s03.iptvx.tv:8090/s/882ff861/h2-hd.m3u8
-#EXTINF:0,Viasat History
+#EXTINF:0 group-title="Познавательные",Viasat History
 http://s03.iptvx.tv:8090/s/882ff861/viasat-history.m3u8
-#EXTINF:0,Viasat History HD
+#EXTINF:0 group-title="Познавательные",Viasat History HD
 http://s03.iptvx.tv:8090/s/882ff861/viasat-history-hd.m3u8
-#EXTINF:0,История
+#EXTINF:0 group-title="Познавательные",История
 http://s03.iptvx.tv:8090/s/882ff861/istorija.m3u8
-#EXTINF:0,365 Дней
+#EXTINF:0 group-title="Познавательные",365 Дней
 http://s03.iptvx.tv:8090/s/882ff861/365-dnej.m3u8
-#EXTINF:0,Кто есть кто
+#EXTINF:0 group-title="Познавательные",Кто есть кто
 http://s03.iptvx.tv:8090/s/882ff861/kto-est-kto.m3u8
-#EXTINF:0,Сов. Секретно
+#EXTINF:0 group-title="Познавательные",Сов. Секретно
 http://s03.iptvx.tv:8090/s/882ff861/sovershenno-sekretno.m3u8
-#EXTINF:0,Театр
+#EXTINF:0 group-title="Познавательные",Театр
 http://s03.iptvx.tv:8090/s/882ff861/teatr-tv.m3u8
-#EXTINF:0,Первый образовательный
+#EXTINF:0 group-title="Познавательные",Первый образовательный
 http://s03.iptvx.tv:8090/s/882ff861/pervyj-obrazovatelnyj.m3u8
-#EXTINF:0,Психология21
+#EXTINF:0 group-title="Познавательные",Психология21
 http://s03.iptvx.tv:8090/s/882ff861/psihologija-21.m3u8
-#EXTINF:0,Доктор
+#EXTINF:0 group-title="Познавательные",Доктор
 http://s03.iptvx.tv:8090/s/882ff861/zdorovoe-tv.m3u8
-#EXTINF:0,Вопросы и ответы
+#EXTINF:0 group-title="Познавательные",Вопросы и ответы
 http://s03.iptvx.tv:8090/s/882ff861/voprosy-otvety.m3u8
-#EXTINF:0,Живи
+#EXTINF:0 group-title="Познавательные",Живи
 http://s03.iptvx.tv:8090/s/882ff861/zhivi.m3u8
-#EXTINF:0,Мама
+#EXTINF:0 group-title="Познавательные",Мама
 http://s03.iptvx.tv:8090/s/882ff861/mama.m3u8
-#EXTINF:0,Усадьба
+#EXTINF:0 group-title="Познавательные",Усадьба
 http://s03.iptvx.tv:8090/s/882ff861/usadba.m3u8
-#EXTINF:0,Домашние животные
+#EXTINF:0 group-title="Познавательные",Домашние животные
 http://s03.iptvx.tv:8090/s/882ff861/domashnije-zhivotnye.m3u8
-#EXTINF:0,Бобер
+#EXTINF:0 group-title="Познавательные",Бобер
 http://s03.iptvx.tv:8090/s/882ff861/bober.m3u8
-#EXTINF:0,English Club TV
+#EXTINF:0 group-title="Познавательные",English Club TV
 http://s03.iptvx.tv:8090/s/882ff861/english-club.m3u8
-#EXTINF:0,E HD
+#EXTINF:0 group-title="Познавательные",E HD
 http://s03.iptvx.tv:8090/s/882ff861/kanal-e-hd.m3u8
-#EXTINF:0,Fashion TV
+#EXTINF:0 group-title="Познавательные",Fashion TV
 http://s03.iptvx.tv:8090/s/882ff861/fashion-tv.m3u8
-#EXTINF:0,World Fashion
+#EXTINF:0 group-title="Познавательные",World Fashion
 http://s03.iptvx.tv:8090/s/882ff861/world-fashion.m3u8
-#EXTINF:0,Еда
+#EXTINF:0 group-title="Познавательные",Еда
 http://s03.iptvx.tv:8090/s/882ff861/eda.m3u8
-#EXTINF:0,ЕДА HD
+#EXTINF:0 group-title="Познавательные",ЕДА HD
 http://s03.iptvx.tv:8090/s/882ff861/eda-hd.m3u8
-#EXTINF:0,Food Network
+#EXTINF:0 group-title="Познавательные",Food Network
 http://s03.iptvx.tv:8090/s/882ff861/food-network.m3u8
-#EXTINF:0,Food Network HD
+#EXTINF:0 group-title="Познавательные",Food Network HD
 http://s03.iptvx.tv:8090/s/882ff861/food-network-hd.m3u8
-#EXTINF:0,Кухня ТВ
+#EXTINF:0 group-title="Познавательные",Кухня ТВ
 http://s03.iptvx.tv:8090/s/882ff861/kuxnya-tv.m3u8
-#EXTINF:0,Кухня ТВ HD
+#EXTINF:0 group-title="Познавательные",Кухня ТВ HD
 http://s03.iptvx.tv:8090/s/882ff861/kyxnya-hd.m3u8
-#EXTINF:0,Телекафе
+#EXTINF:0 group-title="Познавательные",Телекафе
 http://s03.iptvx.tv:8090/s/882ff861/telekafe.m3u8
+#EXTINF:0 group-title="Музыкальные",1HD
+http://s03.iptvx.tv:8090/s/882ff861/1hd.m3u8
+#EXTINF:0 group-title="Музыкальные",MTV Russia
+http://s03.iptvx.tv:8090/s/882ff861/mtv-russia.m3u8
+#EXTINF:0 group-title="Музыкальные",MTV Russia HD
+http://s03.iptvx.tv:8090/s/882ff861/mtv-russia-hd.m3u8
+#EXTINF:0 group-title="Музыкальные",МУЗ
+http://s03.iptvx.tv:8090/s/882ff861/muz-tv.m3u8
+#EXTINF:0 group-title="Музыкальные",Музыка Первого
+http://s03.iptvx.tv:8090/s/882ff861/muzyka-pervogo.m3u8
+#EXTINF:0 group-title="Музыкальные",Europa Plus TV
+http://s03.iptvx.tv:8090/s/882ff861/evropa-plus-tv.m3u8
+#EXTINF:0 group-title="Музыкальные",Music Box
+http://s03.iptvx.tv:8090/s/882ff861/music-box-russian.m3u8
+#EXTINF:0 group-title="Музыкальные",ТНТ Music
+http://s03.iptvx.tv:8090/s/882ff861/tnt-music.m3u8
+#EXTINF:0 group-title="Музыкальные",RU TV
+http://s03.iptvx.tv:8090/s/882ff861/ru-tv.m3u8
+#EXTINF:0 group-title="Музыкальные",Жара
+http://s03.iptvx.tv:8090/s/882ff861/zhara.m3u8
+#EXTINF:0 group-title="Музыкальные",Жара HD
+http://s03.iptvx.tv:8090/s/882ff861/zhara-hd.m3u8
+#EXTINF:0 group-title="Музыкальные",О2 ТВ HD
+http://s03.iptvx.tv:8090/s/882ff861/o2-tv-hd.m3u8
+#EXTINF:0 group-title="Музыкальные",Наше ТВ
+http://s03.iptvx.tv:8090/s/882ff861/nashe-tv.m3u8
+#EXTINF:0 group-title="Музыкальные",Bridge TV
+http://s03.iptvx.tv:8090/s/882ff861/bridge-tv.m3u8
+#EXTINF:0 group-title="Музыкальные",Bridge TV Deluxe HD
+http://s03.iptvx.tv:8090/s/882ff861/bridge-tv-hd.m3u8
+#EXTINF:0 group-title="Музыкальные",BRIDGE TV Русский Хит
+http://s03.iptvx.tv:8090/s/882ff861/rusong-tv.m3u8
+#EXTINF:0 group-title="Музыкальные",Bridge TV Classic
+http://s03.iptvx.tv:8090/s/882ff861/bridge-classic.m3u8
+#EXTINF:0 group-title="Музыкальные",Bridge TV Hits
+http://s03.iptvx.tv:8090/s/882ff861/dance-tv.m3u8
+#EXTINF:0 group-title="Музыкальные",Ля-минор
+http://s03.iptvx.tv:8090/s/882ff861/la-minor.m3u8
+#EXTINF:0 group-title="Музыкальные",Шансон ТВ
+http://s03.iptvx.tv:8090/s/882ff861/shanson-tv.m3u8
+#EXTINF:0 group-title="Музыкальные",C Music TV
+http://s03.iptvx.tv:8090/s/882ff861/c-music-hd.m3u8
+#EXTINF:0 group-title="Музыкальные",iConcerts
+http://s03.iptvx.tv:8090/s/882ff861/iconcerts-hd.m3u8
+#EXTINF:0 group-title="Музыкальные",Mezzo Live HD
+http://s03.iptvx.tv:8090/s/882ff861/mezzo-hd.m3u8
+#EXTINF:0 group-title="Музыкальные",MTV Live HD
+http://s03.iptvx.tv:8090/s/882ff861/mtv-live-hd.m3u8
+#EXTINF:0 group-title="Музыкальные",MCM
+http://s03.iptvx.tv:8090/s/882ff861/mcm.m3u8
+#EXTINF:0 group-title="Музыкальные",MTV Hits
+http://s03.iptvx.tv:8090/s/882ff861/mtv-hits.m3u8
+#EXTINF:0 group-title="Музыкальные",MTV Dance
+http://s03.iptvx.tv:8090/s/882ff861/mtv-dance.m3u8
+#EXTINF:0 group-title="Музыкальные",MTV Rocks
+http://s03.iptvx.tv:8090/s/882ff861/mtv-rocks.m3u8
+#EXTINF:0 group-title="Музыкальные",VH1 European
+http://s03.iptvx.tv:8090/s/882ff861/vh1-europe.m3u8
+#EXTINF:0 group-title="Музыкальные",VH1 Classic
+http://s03.iptvx.tv:8090/s/882ff861/vh1-classic.m3u8
+#EXTINF:0 group-title="Музыкальные",4ever Music HD
+http://s03.iptvx.tv:8090/s/882ff861/4ever-music-hd.m3u8
+#EXTINF:0 group-title="Музыкальные",EU Music HD
+http://s03.iptvx.tv:8090/s/882ff861/eu-music-hd.m3u8
