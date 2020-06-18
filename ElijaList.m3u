@@ -12,6 +12,7 @@ http://178.69.23.26:8000/play/36-ntv-match%21-futbol-1-b273610
 http://s03.iptvx.tv:8090/s/882ff861/match-futbol-1.m3u8
 #EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [06]
 http://persik.by/stream/6606/411484/346.m3u8
+
 #EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 HD [01]
 http://s03.iptvx.tv:8090/s/882ff861/futbol1-hd-orig.m3u8
 #EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 HD [02]
@@ -21,12 +22,10 @@ http://persik.by/stream/6606/411484/10266.m3u8
 #EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 HD [04]
 http://212.19.23.86:666/udp/239.191.255.132:15283
 #EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 HD [05]
-http://s03.iptvx.tv:8090/s/882ff861/match-futbol-1-hd-orig.m3u8
-#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 HD [06]
 http://live02-cdn.tv.ti.ru:80/dtv/id472_NBN_SG--NTVFutbol1/04/plst.m3u8
-#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 HD [07]
+#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 HD [06]
 http://188.35.9.11:2010
-#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 HD [08]
+#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 HD [07]
 http://51.15.8.25:25461/YaDpiIV5za/zvdYEzFsAJ/52462?play_token=vykt4a6DsE&token=ShdRVxJZRlwUAAgBAAhcVVNSUF1RVQwFB1ZUAANRCF1TVgoBWQgFAAZGHRYRRBdWB1prUQISDwJTAABTGhBESlRHZl8FE15EB1ACB1UCRx9EQ11VAxIPBlQMAlkPAgIPCBkbRghVRlxYEV1YThIASxJSRlYHXGpTBENbAlMQC1dEWVUaQ14KOVIBXFUMVEcJRAYWFERZRkdDD1wUWl4dG1NcTUQARQFEDApEWA4cR1AJQlpMFEkXDUNnZ0MaEFRBRVBXRQheCkQMRkVHQBxHWhVoRl0VREdSAFhXExQIEwkTGRtbAEk7BVkKX1EBRAxcCEQWAkQBFxtDWF0PX0ZeS25FUFJDCwoTWghM
 
 #EXTINF:0 group-title="МатчФутбол2", Матч! Футбол 2 [01]
@@ -76,7 +75,14 @@ http://s03.iptvx.tv:8090/s/882ff861/match-futbol-3-hd-orig.m3u8
 http://persik.by/stream/6606/411484/10268.m3u8
 
 #EXTINF:0 group-title="МатчПремьер", Матч! Премьер [01]
+http://persik.by/stream/6606/411484/284.m3u8
+#EXTINF:0 group-title="МатчПремьер", Матч! Премьер [02]
+http://persik.by/stream/6606/411484/10264.m3u8
+  
 #EXTINF:0 group-title="МатчПремьер", Матч! Премьер HD [01]
+http://hlstv.kem.211.ru/239.211.200.170/stream.m3u8
+#EXTINF:0 group-title="МатчПремьер", Матч! Премьер HD [02]
+http://85.192.50.107:5050/udp/230.3.4.175:5678
 
 #EXTINF:0 group-title="Матч", Матч! [01]
 http://82.200.127.58:8080/udp/239.0.14.45:1224
@@ -106,11 +112,15 @@ http://s03.iptvx.tv:8090/s/882ff861/match.m3u8
 http://vs-msk-02.tv.ti.ru:80/dtv/id166_NBN_SG--Rossia2/03/plst.m3u8
 #EXTINF:0 group-title="Матч", Матч! [14]
 http://iptv.ktkru.ru:8003/index.m3u8
+#EXTINF:0 group-title="Матч", Матч! [15]
+http://hlstv.kem.211.ru/239.211.211.27/stream.m3u8
 
 #EXTINF:0 group-title="Матч", Матч! HD [01]
 http://195.191.208.80:80/jwt/4497e44f4252b7acb1d1412d7e0fd83b882181e9-520-0-24h502315-None-90559203-1587035792--v2A0n6gqPo7LzFYq89o-QvUbXYdxs_gCJqlVLkKfy5o-0
 #EXTINF:0 group-title="Матч", Матч! HD [02]
 http://51.15.8.25:25461/YaDpiIV5za/zvdYEzFsAJ/52457?play_token=vykt4a6DsE&token=ShdRVxJZRlwUAAgBAAhcVVNSUF1RVQwFB1ZUAANRCF1TVgoBWQgFAAZGHRYRRBdWB1prUQISDwJTAABTGhBESlRHZl8FE15EB1ACB1UCRx9EQ11VAxIPBlQMAlkPAgIPCBkbRghVRlxYEV1YThIASxJSRlYHXGpTBENbAlMQC1dEWVUaQ14KOVIBXFUMVEcJRAYWFERZRkdDD1wUWl4dG1NcTUQARQFEDApEWA4cR1AJQlpMFEkXDUNnZ0MaEFRBRVBXRQheCkQMRkVHQBxHWhVoRl0VREdSAFhXExQIEwkTGRtbAEk7BVkKX1EBRAxcCEQWAkQBFxtDWF0PX0ZeS25FUFJDCwoTWghM
+#EXTINF:0 group-title="Матч", Матч! HD [03]
+http://s03.iptvx.tv:8090/s/882ff861/match-tv-hd-orig.m3u8
 
 #EXTINF:0 group-title="МатчАрена", Матч! Арена [01]
 http://persik.by/stream/6606/411484/724.m3u8
@@ -128,6 +138,8 @@ http://51.15.8.25:25461/YaDpiIV5za/zvdYEzFsAJ/52495?play_token=vykt4a6DsE&token=
 http://hlstv.kem.211.ru/239.211.211.35/stream.m3u8
 
 #EXTINF:0 group-title="МатчАрена", Матч! Арена HD [01]
+http://s03.iptvx.tv:8090/s/882ff861/match-arena-hd-orig.m3u8
+#EXTINF:0 group-title="МатчАрена", Матч! Арена HD [02]
 http://mytv.fun:8080/lwt5tj7ww/3k8v6i9a0l/36895
 
 #EXTINF:0 group-title="МатчИгра", Матч! Игра [01]
@@ -147,6 +159,8 @@ http://mytv.fun:8080/v5bqtzaker/oj3hf0zc4o/5374
 http://212.19.13.173:4022/udp/239.191.255.144:15283
 #EXTINF:0 group-title="МатчИгра", Матч! Игра HD [03]
 http://s03.iptvx.tv:8090/s/882ff861/match-igra-hd-orig.m3u8
+#EXTINF:0 group-title="МатчИгра", Матч! Игра HD [04]
+http://hlstv.kem.211.ru/239.211.200.11/stream.m3u8
 
 #EXTINF:0 group-title="МатчСтрана", Матч! Страна [01]
 http://live02-cdn.tv.ti.ru:80/dtv/id475_NBN_SG--telekanalsport/03/plst.m3u8
@@ -156,8 +170,11 @@ http://vs-msk-02.tv.ti.ru:80/dtv/id475_NBN_SG--telekanalsport/03/plst.m3u8
 http://s03.iptvx.tv:8090/s/882ff861/match-nash-sport.m3u8
 #EXTINF:0 group-title="МатчСтрана", Матч! Страна [04]
 http://188.35.9.5:10007/stolen/124n/parasite.install
+#EXTINF:0 group-title="МатчСтрана", Матч! Страна [05]
+http://persik.by/stream/6606/411484/10271.m3u8
 
 #EXTINF:0 group-title="МатчПланета", Матч! Планета [01]
+http://s03.iptvx.tv:8090/s/882ff861/match-planeta.m3u8
 
 #EXTINF:0 group-title="Eurosport1", EUROSPORT 1 [01]
 http://82.200.127.58:8080/udp/239.54.5.45:1224
@@ -181,16 +198,20 @@ http://s03.iptvx.tv:8090/s/882ff861/evrosport.m3u8
 http://79.142.197.7:8888/Eurosport/mono.m3u8
 
 #EXTINF:0 group-title="Eurosport1", EUROSPORT 1 HD [01]
-http://vs-msk-02.tv.ti.ru:80/dtv/id219_NBN_SG--EuroSportHD/04/plst.m3u8
+http://s03.iptvx.tv:8090/s/882ff861/eurosport-hd-orig.m3u8
 #EXTINF:0 group-title="Eurosport1", EUROSPORT 1 HD [02]
 http://srb.00387.info/SR:EuroSport1HD/index.m3u8?token=test
+#EXTINF:0 group-title="Eurosport1", EUROSPORT 1 HD [03]
+http://vs-msk-02.tv.ti.ru:80/dtv/id219_NBN_SG--EuroSportHD/04/plst.m3u8
 
 #EXTINF:0 group-title="Eurosport2", EUROSPORT 2 [01]
-http://212.164.223.102:8888/udp/233.7.70.14:5000
+http://s03.iptvx.tv:8090/s/882ff861/evrosport-2.m3u8
 #EXTINF:0 group-title="Eurosport2", EUROSPORT 2 [02]
 http://188.35.9.11:21141/udp/185v
 #EXTINF:0 group-title="Eurosport2", EUROSPORT 2 [03]
 http://51.15.215.116:8081/tv/eurosport-2/playlist.m3u8?|User-agent=deooleg
+#EXTINF:0 group-title="Eurosport2", EUROSPORT 2 [04]
+http://212.164.223.102:8888/udp/233.7.70.14:5000
 
 #EXTINF:0 group-title="Eurosport2", EUROSPORT 2 HD [01]
 http://vs-msk-02.tv.ti.ru:80/dtv/id340_NBN_SG--Eurosport2HD/04/plst.m3u8
@@ -203,8 +224,6 @@ http://s03.iptvx.tv:8090/s/882ff861/eurosport-hd-orig.m3u8
 #EXTINF:0 group-title="Eurosport2", EUROSPORT 2 HD [05]
 http://astra.realcrimea.net:8000/play/a06v
 #EXTINF:0 group-title="Eurosport2", EUROSPORT 2 HD [06]
-http://s03.iptvx.tv:8090/s/882ff861/evrosport-2.m3u8
-#EXTINF:0 group-title="Eurosport2", EUROSPORT 2 HD [07]
 http://163.172.179.78:8081/tv/eurosport-2/playlist.m3u8?|User-agent=deooleg
 
 #EXTINF:0 group-title="Eurosport2", EUROSPORT 2 4K [01]
@@ -215,15 +234,22 @@ http://s03.iptvx.tv:8090/s/882ff861/eurosport-gold-hd-orig.m3u8
 
 #EXTINF:0 group-title="SetantaSports", SETANTA SPORTS [01]
 
-#EXTINF:0 group-title="SetantaSports", SETANTA SPORTS HD [01]
+#EXTINF:0 group-title="SetantaSports1", SETANTA SPORTS 1 HD [01]
 http://s03.iptvx.tv:8090/s/882ff861/setanta-sport-hd-orig.m3u8
+#EXTINF:0 group-title="SetantaSports1", SETANTA SPORTS 1 HD [01]
 https://95-213-224-179.livesports24.online/rusetantaeurasia.m3u8
 
 #EXTINF:0 group-title="SetantaSports2", SETANTA SPORTS 2 [01]
 http://51.15.8.25:25461/YaDpiIV5za/zvdYEzFsAJ/52459?play_token=vykt4a6DsE&token=ShdRVxJZRlwUAAgBAAhcVVNSUF1RVQwFB1ZUAANRCF1TVgoBWQgFAAZGHRYRRBdWB1prUQISDwJTAABTGhBESlRHZl8FE15EB1ACB1UCRx9EQ11VAxIPBlQMAlkPAgIPCBkbRghVRlxYEV1YThIASxJSRlYHXGpTBENbAlMQC1dEWVUaQ14KOVIBXFUMVEcJRAYWFERZRkdDD1wUWl4dG1NcTUQARQFEDApEWA4cR1AJQlpMFEkXDUNnZ0MaEFRBRVBXRQheCkQMRkVHQBxHWhVoRl0VREdSAFhXExQIEwkTGRtbAEk7BVkKX1EBRAxcCEQWAkQBFxtDWF0PX0ZeS25FUFJDCwoTWghM
 
-#EXTINF:0 group-title="SetantaSports", SETANTA SPORTS+ [01]
+#EXTINF:0 group-title="SetantaSports2", SETANTA SPORTS 2 HD [01]
+http://s03.iptvx.tv:8090/s/882ff861/setanta-sport-plus-hd-orig.m3u8
+
+#EXTINF:0 group-title="SetantaSportsPlus", SETANTA SPORTS+ [01]
 http://195.158.29.129/live_360/live.stream+_360p.m3u8
+
+#EXTINF:0 group-title="SetantaSportsUa", SETANTA SPORTS HD UA [01]
+http://s03.iptvx.tv:8090/s/882ff861/setanta-sport-ua-hd-orig.m3u8
 
 #EXTINF:0 group-title="Беларусь5", БЕЛАРУСЬ 5 [01]
 http://s03.iptvx.tv:8090/s/882ff861/belarus5.m3u8
@@ -237,14 +263,74 @@ http://media1.skifnet.by/belarus5/index.m3u8
 #EXTINF:0 group-title="Беларусь5", БЕЛАРУСЬ 5 HD [03]
 http://s03.iptvx.tv:8090/s/882ff861/belarus5-by-hd-orig.m3u8
 
-#EXTINF:0 group-title="ViasatSport", VIASAT SPORT [01]
+#EXTINF:0 group-title="Спорт1", Спорт 1 [01]
+http://persik.by/stream/6606/411484/270.m3u8
+
+#EXTINF:0 group-title="Спорт2", Спорт 2 [01]
+http://persik.by/stream/6606/411484/309.m3u8
+
+#EXTINF:0 group-title="Спорт1UA", Спорт 1 UA [01]
+http://s03.iptvx.tv:8090/s/882ff861/sport1-ua.m3u8
+
+#EXTINF:0 group-title="Спорт2UA", Спорт 2 UA [02]
+http://s03.iptvx.tv:8090/s/882ff861/sport2-ua.m3u8
+
+#EXTINF:0 group-title="ViasatSport", VIASAT Sport [01]
 http://82.200.127.58:8080/udp/239.54.5.94:1234
+#EXTINF:0 group-title="ViasatSport", VIASAT Sport [02]
 http://109.239.208.82:80/viasatshd/index.m3u8
+#EXTINF:0 group-title="ViasatSport", VIASAT Sport [03]
 http://s03.iptvx.tv:8090/s/882ff861/viasat-sport.m3u8
 
-#EXTINF:0 group-title="ViasatSport", VIASAT SPORT HD [01]
+#EXTINF:0 group-title="ViasatSport", VIASAT Sport HD [01]
+http://live-ng-01.more.tv/hls/Viasat_Sport_HD/master.m3u8
+
+#EXTINF:0 group-title="ViasatSportFootball", VIASAT Sport Football [01]
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/5422
+
+#EXTINF:0 group-title="ViasatSportFootball", VIASAT Sport Football HD [01]
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/13202
+
+#EXTINF:0 group-title="ViasatSportPremium", VIASAT Sport Premium FI [01]
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/673369
+
+#EXTINF:0 group-title="ViasatSportPremium", VIASAT Sport Premium HD FI [01]
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/5418
 
 #EXTINF:0 group-title="СилаТВ", Сила ТВ [01]
+
+#EXTINF:0 group-title="Футбол1UA", Футбол 1 UA [01]
+http://s03.iptvx.tv:8090/s/882ff861/futbol1-ua.m3u8
+#EXTINF:0 group-title="Футбол1UA", Футбол 1 UA [02]
+http://45.88.104.104/play/410/test/index.m3u8
+
+#EXTINF:0 group-title="Футбол1UA", Футбол 1 HD UA [01]
+http://s03.iptvx.tv:8090/s/882ff861/futbol1-hd-orig.m3u8
+
+#EXTINF:0 group-title="Футбол2UA", Футбол 2 UA [01]
+http://s03.iptvx.tv:8090/s/882ff861/futbol2-ua.m3u8
+#EXTINF:0 group-title="Футбол2UA", Футбол 2 UA [02]
+http://45.88.104.104/play/411/test/index.m3u8
+
+#EXTINF:0 group-title="Футбол2UA", Футбол 2 HD UA [01]
+http://s03.iptvx.tv:8090/s/882ff861/futbol2-hd-orig.m3u8
+
+#EXTINF:0 group-title="Футбол3UA", Футбол 3 UA [01]
+http://s03.iptvx.tv:8090/s/882ff861/futbol3-ua.m3u8
+
+#EXTINF:0 group-title="Футбол3UA", Футбол 3 HD UA [01]
+http://s03.iptvx.tv:8090/s/882ff861/futbol3-ua-hd-orig.m3u8
+#EXTINF:0 group-title="Футбол3UA", Футбол 3 HD UA [02]
+https://95-213-224-179.livesports24.online/football3ua.m3u8
+
+#EXTINF:0 group-title="Футбол", Футбол [01]
+http://persik.by/stream/6606/411484/440.m3u8
+#EXTINF:0 group-title="Футбол", Футбол [02]
+http://176.197.26.198:81/udp/239.255.42.163:1234
+#EXTINF:0 group-title="Футбол", Футбол [03]
+http://s03.iptvx.tv:8090/s/882ff861/futbol.m3u8
+#EXTINF:0 group-title="Футбол", Футбол [04]
+http://hlstv.kem.211.ru/239.211.211.108/stream.m3u8
 
 #EXTINF:0 group-title="Старт", Старт [01]
 http://strm.yandex.ru/kal/start/start0_169_720p.json/index-v1-a1.m3u8
@@ -256,30 +342,79 @@ http://strm.yandex.ru/kal/start/start0_169_1080p.json/index-v1-a1.m3u8
 #EXTINF:0 group-title="QazSport", Qaz Sport [00]
 
 #EXTINF:0 group-title="OlympicChannel", Olympic Channel [01]
-http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
-#EXTINF:0 group-title="OlympicChannel", Olympic Channel [02]
-http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8?denmstv.m3u8
-#EXTINF:0 group-title="OlympicChannel", Olympic Channel [03]
-http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
-#EXTINF:0 group-title="OlympicChannel", Olympic Channel HD [04]
-http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
 
-#EXTINF:0 group-title="SkySportsPremierLeague", Sky Sports Premier League UK [01]
-http://95.170.215.120:80/hls/m3u8/Sky-Sport-Pre-L.m3u8
-#EXTINF:0 group-title="SkySportsFootball", Sky Sports Football UK [01]
-http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
-#EXTINF:0 group-title="SkySportsNews", Sky Sports News UK [01]
-http://95.170.215.120/hls/m3u8/Sky-Sports-News.m3u8
-#EXTINF:0 group-title="SkySportsMainEvent", Sky Sports Main Event UK [01]
-http://95.170.215.120:80/hls/m3u8/Sky-S-main-even.m3u8
-#EXTINF:0 group-title="SkySportsNewsDe", Sky Sports News DE [01]
-http://134.3.199.67:9981/stream/channelid/832246889
-#EXTINF:0 group-title="SkySportsNewsDe", Sky Sports News DE HD [01]
-http://tv.fast-iptv.info:12974/live/Y1DPT1hAN9/W9fsyYiPRC/529.ts
-#EXTINF:0 group-title="SkySportsNewsDe", Sky Sports News DE HD [02]
-http://178.196.237.240:3000/play/ccSkyNEwscc
+#EXTINF:0 group-title="OlympicChannel", Olympic Channel HD [01]
+
+#EXTINF:0 group-title="SkySportPremierLeague", Sky Sport Premier League HD UK [01]
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/671301
+#EXTINF:0 group-title="SkySportPremierLeague", Sky Sport Premier League HD UK [02]
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/671420
+
+#EXTINF:0 group-title="SkySportFootball", Sky Sport Football UK [01]
+
+#EXTINF:0 group-title="SkySport1", Sky Sport 1 HD DE [01]
+http://rocksat.ddns.net:25461/3mfvbsvk/578jtxaw/55705
+#EXTINF:0 group-title="SkySport1", Sky Sport 1 HD DE [02]
+http://topiptv.net:5890/aliali123/aliali123/1293
+
+#EXTINF:0 group-title="SkySportNews", Sky Sport News DE [01]
+http://178.199.75.214:3000/play/ccSkyNEwscc
+#EXTINF:0 group-title="SkySportNews", Sky Sport News DE [02]
+http://31.177.62.139:8008/play/s25
+
+#EXTINF:0 group-title="SkySportNews", Sky Sport News UK [01]
+
+#EXTINF:0 group-title="SkySportMainEvent", Sky Sport Main Event UK [01]
 
 #EXTINF:0 group-title="FoxSports", Fox Sports [01]
 http://45.58.62.92:8080
-#EXTINF:0 group-title="FoxSportsNl", Fox Sports NL HD [01]
-http://95.170.215.118/hls/m3u8/Fox-Sport-1.m3u8
+#EXTINF:0 group-title="FoxSports", Fox Sports [01]
+http://cdn.miip.tv:8080/canada/123456/6472
+#EXTINF:0 group-title="FoxSports1", Fox Sports 1 USA [01]
+http://cdn.miip.tv:8080/canada/123456/537
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/137256
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/494720
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/63735
+#EXTINF:0 group-title="FoxSports2", Fox Sports 2 USA [01]
+http://cdn.miip.tv:8080/canada/123456/538
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/494259
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/63365
+#EXTINF:0 group-title="FoxSports1", Fox Sports 1 NL [01]
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/5143
+#EXTINF:0 group-title="FoxSports2", Fox Sports 2 NL [01]
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/5142
+#EXTINF:0 group-title="FoxSports3", Fox Sports 3 NL [01]
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/6485
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/5141
+#EXTINF:0 group-title="FoxSports4", Fox Sports 4 NL [01]
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/64848
+#EXTINF:0 group-title="FoxSports5", Fox Sports 5 NL [01]
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/64338
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/513532
+#EXTINF:0 group-title="FoxSports6", Fox Sports 6 NL [01]
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/513821
+#EXTINF:0 group-title="FoxSports2", Fox Sports 2 LAM [01]
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/67132
+
+#EXTINF:0 group-title="BeinSports", Bein Sports [01]
+http://localhd.tv:8081/sonic-eg.com/SaL57OxhWi/892
+
+#EXTINF:0 group-title="BtSport1", BT Sport 1 [01]
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/383
+#EXTINF:0 group-title="BtSport1", BT Sport 1 HD [01]
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/384
+
+#EXTINF:0 group-title="SportTv1", Sport Tv 1 [01]
+http://85.244.70.140:8000/play/a00r
+
+#EXTINF:0 group-title="SuperTennis", Super Tennis HD [01]
+http://s03.iptvx.tv:8090/s/882ff861/super-tennis-hd.m3u8
+
+#EXTINF:0 group-title="Ufc", UFC HD [01]
+http://s03.iptvx.tv:8090/s/882ff861/ufc-hd.m3u8
+
+#EXTINF:0 group-title="M1Global", M1 Global [01]
+http://s03.iptvx.tv:8090/s/882ff861/m1-global-tv.m3u8
+
+#EXTINF:0 group-title="M1Global", M1 Global HD [01]
+http://s03.iptvx.tv:8090/s/882ff861/m1-global-hd.m3u8
