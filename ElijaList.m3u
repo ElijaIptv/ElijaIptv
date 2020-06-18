@@ -48,20 +48,20 @@ http://persik.by/stream/6606/411484/10267.m3u8
 #EXTINF:0 group-title="МатчФутбол2", Матч! Футбол 2 HD [05]
 http://51.15.8.25:25461/YaDpiIV5za/zvdYEzFsAJ/52461?play_token=vykt4a6DsE&token=ShdRVxJZRlwUAAgBAAhcVVNSUF1RVQwFB1ZUAANRCF1TVgoBWQgFAAZGHRYRRBdWB1prUQISDwJTAABTGhBESlRHZl8FE15EB1ACB1UCRx9EQ11VAxIPBlQMAlkPAgIPCBkbRghVRlxYEV1YThIASxJSRlYHXGpTBENbAlMQC1dEWVUaQ14KOVIBXFUMVEcJRAYWFERZRkdDD1wUWl4dG1NcTUQARQFEDApEWA4cR1AJQlpMFEkXDUNnZ0MaEFRBRVBXRQheCkQMRkVHQBxHWhVoRl0VREdSAFhXExQIEwkTGRtbAEk7BVkKX1EBRAxcCEQWAkQBFxtDWF0PX0ZeS25FUFJDCwoTWghM
 
-#EXTINF:0 group-title="МатчФутбол3", Матч! Футбол 3 [01]
-http://s03.iptvx.tv:8090/s/882ff861/match-futbol-3.m3u8
-#EXTINF:0 group-title="МатчФутбол3", Матч! Футбол 3 [02]
-http://persik.by/stream/6606/411484/10218.m3u8
-#EXTINF:0 group-title="МатчФутбол3", Матч! Футбол 3 [03]
-https://95-213-224-179.livesports24.online/rumatchf3.m3u8
-#EXTINF:0 group-title="МатчФутбол3", Матч! Футбол 3 [04]
-http://188.35.9.26:13051/udp/238.0.13.3:69000
-#EXTINF:0 group-title="МатчФутбол3", Матч! Футбол 3 [05]
-http://188.35.9.18:13050/udp/238.0.13.3:69000
-#EXTINF:0 group-title="МатчФутбол3", Матч! Футбол 3 [06]
-http://178.69.23.26:8000/play/36-ntv-match%21-futbol-3-b1f79e5
 #EXTINF:0 group-title="МатчФутбол3", Матч! Футбол 3 [07]
 http://92.38.127.16:8000/play/a031
+#EXTINF:0 group-title="МатчФутбол3", Матч! Футбол 3 [02]
+http://s03.iptvx.tv:8090/s/882ff861/match-futbol-3.m3u8
+#EXTINF:0 group-title="МатчФутбол3", Матч! Футбол 3 [03]
+http://persik.by/stream/6606/411484/10218.m3u8
+#EXTINF:0 group-title="МатчФутбол3", Матч! Футбол 3 [04]
+https://95-213-224-179.livesports24.online/rumatchf3.m3u8
+#EXTINF:0 group-title="МатчФутбол3", Матч! Футбол 3 [05]
+http://188.35.9.26:13051/udp/238.0.13.3:69000
+#EXTINF:0 group-title="МатчФутбол3", Матч! Футбол 3 [06]
+http://188.35.9.18:13050/udp/238.0.13.3:69000
+#EXTINF:0 group-title="МатчФутбол3", Матч! Футбол 3 [07]
+http://178.69.23.26:8000/play/36-ntv-match%21-futbol-3-b1f79e5
 #EXTINF:0 group-title="МатчФутбол3", Матч! Футбол 3 [08]
 http://178.217.72.66:80/225.201.2.102/tracks-v1a1/mono.m3u8
 
