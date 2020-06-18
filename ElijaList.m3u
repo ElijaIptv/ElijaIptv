@@ -66,11 +66,11 @@ http://178.69.23.26:8000/play/36-ntv-match%21-futbol-3-b1f79e5
 http://178.217.72.66:80/225.201.2.102/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 group-title="МатчФутбол3", Матч! Футбол 3 HD [01]
-http://s03.iptvx.tv:8090/s/882ff861/match-futbol-3-hd-orig.m3u8
-#EXTINF:0 group-title="МатчФутбол3", Матч! Футбол 3 HD [02]
-http://persik.by/stream/6606/411484/10268.m3u8
-#EXTINF:0 group-title="МатчФутбол3", Матч! Футбол 3 HD [03]
 http://vs-msk-02.tv.ti.ru:80/dtv/id471_NBN_SG--NTV_Futbol_3/04/plst.m3u8
+#EXTINF:0 group-title="МатчФутбол3", Матч! Футбол 3 HD [02]
+http://s03.iptvx.tv:8090/s/882ff861/match-futbol-3-hd-orig.m3u8
+#EXTINF:0 group-title="МатчФутбол3", Матч! Футбол 3 HD [03]
+http://persik.by/stream/6606/411484/10268.m3u8
 
 #EXTINF:0 group-title="МатчПремьер", Матч! Премьер [01]
 http://persik.by/stream/6606/411484/284.m3u8
