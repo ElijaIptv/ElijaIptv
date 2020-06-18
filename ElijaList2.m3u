@@ -325,7 +325,7 @@ http://s03.iptvx.tv:8090/s/882ff861/2x2.m3u8
 http://s03.iptvx.tv:8090/s/882ff861/fan.m3u8
 #EXTINF:0 group-title="Детские",FAN HD
 http://s03.iptvx.tv:8090/s/882ff861/fan-hd.m3u8
-#EXTINF: group-title="Детские"0,О!
+#EXTINF:0 group-title="Детские",О!
 http://s03.iptvx.tv:8090/s/882ff861/kanal-o.m3u8
 #EXTINF:0 group-title="Детские",Niki Junior HD
 http://s03.iptvx.tv:8090/s/882ff861/nikki-junior-hd.m3u8
@@ -333,7 +333,7 @@ http://s03.iptvx.tv:8090/s/882ff861/nikki-junior-hd.m3u8
 http://s03.iptvx.tv:8090/s/882ff861/nikki-kids-hd.m3u8
 #EXTINF:0 group-title="Детские",ПлюсПлюс
 http://s03.iptvx.tv:8090/s/882ff861/plus-plus2.m3u8
-#EXTINF: group-title="Детские"0,Піксель
+#EXTINF:0 group-title="Детские",Піксель
 http://s03.iptvx.tv:8090/s/882ff861/pixel-ua.m3u8
 #EXTINF:0 group-title="Детские",Малятко TV
 http://s03.iptvx.tv:8090/s/882ff861/malyatko-tv-ua.m3u8
