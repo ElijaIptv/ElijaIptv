@@ -78,32 +78,18 @@ http://persik.by/stream/6606/411484/284.m3u8
 http://persik.by/stream/6606/411484/10264.m3u8
   
 #EXTINF:0 group-title="МатчПремьер", Матч! Премьер HD [01]
-http://hlstv.kem.211.ru/239.211.200.170/stream.m3u8
-#EXTINF:0 group-title="МатчПремьер", Матч! Премьер HD [02]
 http://85.192.50.107:5050/udp/230.3.4.175:5678
+#EXTINF:0 group-title="МатчПремьер", Матч! Премьер HD [02]
+http://hlstv.kem.211.ru/239.211.200.170/stream.m3u8
 
-#EXTINF:0 group-title="Матч", Матч! [01]
-http://s03.iptvx.tv:8090/s/882ff861/match.m3u8
-#EXTINF:0 group-title="Матч", Матч! [02]
-http://persik.by/stream/6606/411484/276.m3u8
-#EXTINF:0 group-title="Матч", Матч! [03]
-http://persik.by/stream/6606/411484/1077.m3u8
-#EXTINF:0 group-title="Матч", Матч! [04]
-http://vs-msk-02.tv.ti.ru:80/dtv/id166_NBN_SG--Rossia2/03/plst.m3u8
-#EXTINF:0 group-title="Матч", Матч! [05]
-http://hlstv.kem.211.ru/239.211.211.27/stream.m3u8
-#EXTINF:0 group-title="Матч", Матч! [06]
-http://178.163.56.58:81/udp/234.0.0.204:2000
-#EXTINF:0 group-title="Матч", Матч! [07]
-https://ch.iptvmate.net/5e935ac9d3e2460fcd4db847.m3u8
 #EXTINF:0 group-title="Матч", Матч! [08]
 http://178.69.23.26:8000/play/36-ntv-match%21-d649cee
+#EXTINF:0 group-title="Матч", Матч! [04]
+http://vs-msk-02.tv.ti.ru:80/dtv/id166_NBN_SG--Rossia2/03/plst.m3u8
 #EXTINF:0 group-title="Матч", Матч! [09]
 http://82.200.127.58:8080/udp/239.0.42.53:1224
 #EXTINF:0 group-title="Матч", Матч! [10]
 http://92.38.127.16:8000/play/a037
-#EXTINF:0 group-title="Матч", Матч! [11]
-http://92.38.127.16:8000/play/a07k
 #EXTINF:0 group-title="Матч", Матч! [12]
 http://82.200.127.58:8080/udp/239.0.14.45:1224
 #EXTINF:0 group-title="Матч", Матч! [13]
@@ -112,6 +98,20 @@ http://82.200.127.58:8080/udp/239.0.42.83:1224
 http://iptv.ktkru.ru:8003/index.m3u8
 #EXTINF:0 group-title="Матч", Матч! [15]
 http://82.200.127.58:8080/udp/239.0.23.8:1224
+#EXTINF:0 group-title="Матч", Матч! [01]
+http://s03.iptvx.tv:8090/s/882ff861/match.m3u8
+#EXTINF:0 group-title="Матч", Матч! [02]
+http://persik.by/stream/6606/411484/276.m3u8
+#EXTINF:0 group-title="Матч", Матч! [03]
+http://persik.by/stream/6606/411484/1077.m3u8
+#EXTINF:0 group-title="Матч", Матч! [05]
+http://hlstv.kem.211.ru/239.211.211.27/stream.m3u8
+#EXTINF:0 group-title="Матч", Матч! [06]
+http://178.163.56.58:81/udp/234.0.0.204:2000
+#EXTINF:0 group-title="Матч", Матч! [07]
+https://ch.iptvmate.net/5e935ac9d3e2460fcd4db847.m3u8
+#EXTINF:0 group-title="Матч", Матч! [11]
+http://92.38.127.16:8000/play/a07k
 
 #EXTINF:0 group-title="Матч", Матч! HD [01]
 http://s03.iptvx.tv:8090/s/882ff861/match-tv-hd-orig.m3u8
