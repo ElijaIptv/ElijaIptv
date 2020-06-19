@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:0,Матч! Футбол 1 HD
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://193.187.175.214:7100/r/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0ZVVEJBTEwxSEQvdmFyaWFudC5tM3U4P3ZlcnNpb249MiZoZA==/variant.m3u8
 #EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [01]
 http://178.69.23.26:8000/play/36-ntv-match%21-futbol-1-b273610
 #EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [02]
