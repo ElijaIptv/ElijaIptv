@@ -67,18 +67,20 @@ http://188.40.48.89:80/restrimfree/fWVyipZrS0/4344
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4345
 #EXTINF:431 group-title="Фильмы" tvg-logo="http://ttv.run/uploads/i7gAxYLIjKM3zfcuVL5mGNZJ92p0V3.png",Киносерия
 http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/431/stream.m3u8
-#EXTINF:373 group-title="Фильмы" tvg-logo="http://ttv.run/uploads/JUnIt4flcwcD3Gu3qInuPL7D5rmt15.png",Классика кино HD
-http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/373/stream.m3u8
-#EXTINF:-1 group-title="Фильмы",Комедия
-http://188.40.48.89:80/restrimfree/fWVyipZrS0/4346
 #EXTINF:-1 group-title="Фильмы",Родное кино
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4347
 #EXTINF:255 group-title="Фильмы" tvg-logo="http://ttv.run/uploads/VfssgK3zwuThjr8m165bhEEtbphbjV.png",Родное кино
 http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/255/stream.m3u8
-#EXTINF:-1 group-title="Фильмы",Любимое Кино
-http://188.40.48.89:80/restrimfree/fWVyipZrS0/4348
 #EXTINF:-1 group-title="Фильмы",Наше новое кино
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4349
+#EXTINF:256 group-title="Фильмы" tvg-logo="http://ttv.run/uploads/k58anKMOduPf0vzjdiFIhHRFP3Pe0z.png",Индийское кино
+http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/256/stream.m3u8
+#EXTINF:373 group-title="Фильмы" tvg-logo="http://ttv.run/uploads/JUnIt4flcwcD3Gu3qInuPL7D5rmt15.png",Классика кино HD
+http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/373/stream.m3u8
+#EXTINF:-1 group-title="Фильмы",Комедия
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4346
+#EXTINF:-1 group-title="Фильмы",Любимое Кино
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4348
 #EXTINF:-1 group-title="Фильмы",Дом Кино
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4329
 #EXTINF:-1 group-title="Фильмы",Дом кино Премиум HD
@@ -95,10 +97,14 @@ http://188.40.48.89:80/restrimfree/fWVyipZrS0/4351
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4352
 #EXTINF:-1 group-title="Фильмы",НСТ
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4353
+#EXTINF:156 group-title="Фильмы" tvg-logo="http://ttv.run/uploads/fKYzdlWRz68qd9mRZnWuxMY73EyaSz.png",НСТ
+http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/156/stream.m3u8
 #EXTINF:-1 group-title="Фильмы",Ultra HD Cinema
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4354
 #EXTINF:-1 group-title="Фильмы",TV XXI Век
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4357
+#EXTINF:158 group-title="Фильмы" tvg-logo="http://ttv.run/uploads/TKchoTWZFRMmGDBok08zoEFJ8mJJCe.png",TV XXI (TV21)
+http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/158/stream.m3u8
 #EXTINF:-1 group-title="Фильмы",Иллюзион +
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4358
 #EXTINF:-1 group-title="Фильмы",Русский Иллюзион
@@ -153,18 +159,12 @@ http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/565/stream.m3u
 http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/541/stream.m3u8
 #EXTINF:169 group-title="Фильмы" tvg-logo="http://ttv.run/uploads/xHDVuTxJKgnEo40lDEcfmPls0iqYlM.png",Star Cinema HD
 http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/169/stream.m3u8
-#EXTINF:158 group-title="Фильмы" tvg-logo="http://ttv.run/uploads/TKchoTWZFRMmGDBok08zoEFJ8mJJCe.png",TV XXI (TV21)
-http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/158/stream.m3u8
 #EXTINF:-1 group-title="Фильмы" catchup="default" catchup-source="http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/548/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="10" tvg-logo="http://ttv.run/uploads/G14GaLX0bxNlAat8PSGPnJeIyFPeJF.png",VHS EVGENIY
 http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/548/stream.m3u8
 #EXTINF:168 group-title="Фильмы" tvg-logo="http://ttv.run/uploads/1x5yLKFYH8gBbGmDKTyFKMcGffTPYa.png",Zee TV Россия
 http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/168/stream.m3u8
 #EXTINF:-1 group-title="Фильмы" tvg-logo="http://ttv.run/uploads/2H358rzue16pTQFh9c9Eq7d9O6uz4R.png",Драма TIC EVGENIY
 http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/604/stream.m3u8
-#EXTINF:256 group-title="Фильмы" tvg-logo="http://ttv.run/uploads/k58anKMOduPf0vzjdiFIhHRFP3Pe0z.png",Индийское кино
-http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/256/stream.m3u8
-#EXTINF:156 group-title="Фильмы" tvg-logo="http://ttv.run/uploads/fKYzdlWRz68qd9mRZnWuxMY73EyaSz.png",НСТ
-http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/156/stream.m3u8
 #EXTINF:147 group-title="Фильмы" tvg-logo="http://ttv.run/uploads/50jC8OhULEckoKrDTJ6I8swJ8gwR0K.png",Русская комедия
 http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/147/stream.m3u8
 #EXTINF:146 group-title="Фильмы" tvg-logo="http://ttv.run/uploads/Voa1RNNwTAKy1A8eR375OlBuh6NcQd.png",Русский бестселлер
