@@ -114,95 +114,260 @@ http://188.40.48.89:80/restrimfree/fWVyipZrS0/4386
 #EXTINF:-1 group-title="Фильмы",SHOT TV
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4387
 #EXTINF:141 group-title="Фильмы" tvg-logo="http://ttv.run/uploads/NbdxfVLZtRUQzzfvQPNRVMVAl2Hp0O.png",Amedia 1
-#EXTGRP:Фильмы
 http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/141/stream.m3u8
 #EXTINF:155 group-title="Фильмы" catchup="default" catchup-source="http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/155/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="10" tvg-logo="http://ttv.run/uploads/Ar9H7QNBHtjXBq8Hph1EaPV34hAQBl.png",Cinema
-#EXTGRP:Фильмы
 http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/155/stream.m3u8
 #EXTINF:-1 group-title="Фильмы" catchup="default" catchup-source="http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/549/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="10" tvg-logo="http://ttv.run/uploads/MbiO721HBg9h1oJQ90i2e2ixTN1WmH.png",Fear (ужасы) EVGENIY
-#EXTGRP:Фильмы
 http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/549/stream.m3u8
 #EXTINF:167 group-title="Фильмы" catchup="default" catchup-source="http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/167/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="10" tvg-logo="http://ttv.run/uploads/wFgzzgsDV4LwoJH6MSjXoE1uJssaHm.png",FilmBox Arthouse
-#EXTGRP:Фильмы
 http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/167/stream.m3u8
 #EXTINF:166 group-title="Фильмы" catchup="default" catchup-source="http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/166/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="10" tvg-logo="http://ttv.run/uploads/lyZZJN77tAtO1483Dp3vah5xjOc2EB.png",FilmBox Baltic
-#EXTGRP:Фильмы
 http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/166/stream.m3u8
 #EXTINF:149 group-title="Фильмы" tvg-logo="http://ttv.run/uploads/JLRyCQFxiRCkExwp3lAVIMqG9xis4r.png",Fox Life
-#EXTGRP:Фильмы
 http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/149/stream.m3u8
 #EXTINF:-1 group-title="Фильмы" tvg-logo="http://ttv.run/uploads/uuJT0F7N4Oxq52DyxWMWhK2D5QFKbs.png",ITC Kino HD
-#EXTGRP:Фильмы
 http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/602/stream.m3u8
 #EXTINF:577 group-title="Фильмы" tvg-logo="http://ttv.run/uploads/UfcxD3gRXa2VhoEMyWWBMju9hQFzlw.png",Kino 24
-#EXTGRP:Фильмы
 http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/577/stream.m3u8
 #EXTINF:-1 group-title="Фильмы" tvg-logo="http://ttv.run/uploads/1tRoRXY75cIfHGwYxvYDozl5Z15WNx.png",NurTV HD
-#EXTGRP:Фильмы
 http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/565/stream.m3u8
 #EXTINF:-1 group-title="Фильмы" tvg-logo="http://ttv.run/uploads/4wSnKoBFjc2RDCA09nypYpBDOgO7jM.png",Russian Комедии EVGENIY
-#EXTGRP:Фильмы
 http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/541/stream.m3u8
 #EXTINF:152 group-title="Фильмы" tvg-logo="http://ttv.run/uploads/zLWEgf9BbxBr1TR2Qj2NxVQBuPecEP.png",Sony Sci-Fi
-#EXTGRP:Фильмы
 http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/152/stream.m3u8
 #EXTINF:150 group-title="Фильмы" tvg-logo="http://ttv.run/uploads/CaPjVaQrpyN138TarQ7CYBqBOz0ZF7.png",Sony Turbo
-#EXTGRP:Фильмы
 http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/150/stream.m3u8
 #EXTINF:165 group-title="Фильмы" tvg-logo="http://ttv.run/uploads/eQiJA4GL3OM5hNC0RrzNOp0jSLMo2l.png",Spike
-#EXTGRP:Фильмы
 http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/165/stream.m3u8
 #EXTINF:169 group-title="Фильмы" tvg-logo="http://ttv.run/uploads/xHDVuTxJKgnEo40lDEcfmPls0iqYlM.png",Star Cinema HD
-#EXTGRP:Фильмы
 http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/169/stream.m3u8
 #EXTINF:158 group-title="Фильмы" tvg-logo="http://ttv.run/uploads/TKchoTWZFRMmGDBok08zoEFJ8mJJCe.png",TV XXI (TV21)
-#EXTGRP:Фильмы
 http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/158/stream.m3u8
 #EXTINF:-1 group-title="Фильмы" catchup="default" catchup-source="http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/548/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="10" tvg-logo="http://ttv.run/uploads/G14GaLX0bxNlAat8PSGPnJeIyFPeJF.png",VHS EVGENIY
-#EXTGRP:Фильмы
 http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/548/stream.m3u8
 #EXTINF:168 group-title="Фильмы" tvg-logo="http://ttv.run/uploads/1x5yLKFYH8gBbGmDKTyFKMcGffTPYa.png",Zee TV Россия
-#EXTGRP:Фильмы
 http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/168/stream.m3u8
 #EXTINF:-1 group-title="Фильмы" tvg-logo="http://ttv.run/uploads/2H358rzue16pTQFh9c9Eq7d9O6uz4R.png",Драма TIC EVGENIY
-#EXTGRP:Фильмы
 http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/604/stream.m3u8
 #EXTINF:256 group-title="Фильмы" tvg-logo="http://ttv.run/uploads/k58anKMOduPf0vzjdiFIhHRFP3Pe0z.png",Индийское кино
-#EXTGRP:Фильмы
 http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/256/stream.m3u8
 #EXTINF:251 group-title="Фильмы" tvg-logo="http://ttv.run/uploads/NwSI2onGJ8tZkGOciU7jIgGT7sAhJl.png",Киносвидание
-#EXTGRP:Фильмы
 http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/251/stream.m3u8
 #EXTINF:250 group-title="Фильмы" tvg-logo="http://ttv.run/uploads/JXi9pew5TSttqQg5DWT0UO1ZLFiqHQ.png",Киносемья
-#EXTGRP:Фильмы
 http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/250/stream.m3u8
 #EXTINF:431 group-title="Фильмы" tvg-logo="http://ttv.run/uploads/i7gAxYLIjKM3zfcuVL5mGNZJ92p0V3.png",Киносерия
-#EXTGRP:Фильмы
 http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/431/stream.m3u8
 #EXTINF:373 group-title="Фильмы" tvg-logo="http://ttv.run/uploads/JUnIt4flcwcD3Gu3qInuPL7D5rmt15.png",Классика кино HD
-#EXTGRP:Фильмы
 http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/373/stream.m3u8
 #EXTINF:456 group-title="Фильмы" tvg-logo="http://ttv.run/uploads/pxYseYBDSbosTPELHvm3TpHukp1QB8.png",Мир сериала
-#EXTGRP:Фильмы
 http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/456/stream.m3u8
 #EXTINF:156 group-title="Фильмы" tvg-logo="http://ttv.run/uploads/fKYzdlWRz68qd9mRZnWuxMY73EyaSz.png",НСТ
-#EXTGRP:Фильмы
 http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/156/stream.m3u8
 #EXTINF:255 group-title="Фильмы" tvg-logo="http://ttv.run/uploads/VfssgK3zwuThjr8m165bhEEtbphbjV.png",Родное кино
-#EXTGRP:Фильмы
 http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/255/stream.m3u8
 #EXTINF:147 group-title="Фильмы" tvg-logo="http://ttv.run/uploads/50jC8OhULEckoKrDTJ6I8swJ8gwR0K.png",Русская комедия
-#EXTGRP:Фильмы
 http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/147/stream.m3u8
 #EXTINF:146 group-title="Фильмы" tvg-logo="http://ttv.run/uploads/Voa1RNNwTAKy1A8eR375OlBuh6NcQd.png",Русский бестселлер
-#EXTGRP:Фильмы
 http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/146/stream.m3u8
 #EXTINF:144 group-title="Фильмы" tvg-logo="http://ttv.run/uploads/E9Imfr8aHN5midPVpNhJ3fo49FHbQE.png",Русский иллюзион
-#EXTGRP:Фильмы
 http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/144/stream.m3u8
 #EXTINF:585 group-title="Фильмы" tvg-logo="http://ttv.run/uploads/IHt2SSQathdtB1q2LvKf4H8CrBmeXp.png",Сериал UHD 4k
-#EXTGRP:Фильмы
 http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/585/stream.m3u8
 #EXTINF:15 group-title="Фильмы" catchup="default" catchup-source="http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/15/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="10" tvg-logo="http://ttv.run/uploads/07bjT0brQLyETHscCfGFtvsdaRiUdH.png",ТВ 3
-#EXTGRP:Фильмы
 http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/15/stream.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="foxlife",Fox Life HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
+#EXTVLCOPT:http-referrer=https://megafon.tv
+https://play.megafon.tv/out/u/v1-video-6782116.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Кино" tvg-id="sony-tv",Sony ТВ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
+#EXTVLCOPT:http-referrer=https://megafon.tv
+https://play.megafon.tv/out/u/v1-video-6370559.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Кино" tvg-id="paramount-comedy",Paramount Comedy HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
+#EXTVLCOPT:http-referrer=https://megafon.tv
+https://play.megafon.tv/out/u/v1-video-7986586.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Кино" tvg-id="spike",Spike HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
+#EXTVLCOPT:http-referrer=https://megafon.tv
+https://play.megafon.tv/out/u/v1-video-6782128.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Кино" tvg-id="fox",Fox HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
+#EXTVLCOPT:http-referrer=https://megafon.tv
+https://play.megafon.tv/out/u/v1-video-7731409.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Кино" tvg-id="domkino-premium",Дом кино Премиум HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
+#EXTVLCOPT:http-referrer=https://megafon.tv
+https://play.megafon.tv/out/u/v1-video-5612948.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Кино" tvg-id="kinouzhas",Киноужас HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
+#EXTVLCOPT:http-referrer=https://megafon.tv
+https://play.megafon.tv/out/u/v1-video-7986582.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Кино" tvg-id="kinoseria",Киносерия HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
+#EXTVLCOPT:http-referrer=https://megafon.tv
+https://play.megafon.tv/out/u/v1-video-7986563.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Кино" tvg-id="prodvizhenie",Продвижение
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
+#EXTVLCOPT:http-referrer=https://megafon.tv
+https://play.megafon.tv/out/u/v1-video-5612984.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Кино" tvg-id="nst",Настоящее страшное ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
+#EXTVLCOPT:http-referrer=https://megafon.tv
+https://play.megafon.tv/out/u/v1-video-7731340.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Кино" tvg-id="sony-scifi",Sony Sci-Fi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
+#EXTVLCOPT:http-referrer=https://megafon.tv
+https://play.megafon.tv/out/u/v1-video-6782109.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Кино" tvg-id="russkaya-komedia",Русская комедия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
+#EXTVLCOPT:http-referrer=https://megafon.tv
+https://play.megafon.tv/out/u/v1-video-6348298.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Кино" tvg-id="russky-illuzion",Русский иллюзион
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
+#EXTVLCOPT:http-referrer=https://megafon.tv
+https://play.megafon.tv/out/u/v1-video-6348331.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Кино" tvg-id="evrokino",Еврокино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
+#EXTVLCOPT:http-referrer=https://megafon.tv
+https://play.megafon.tv/out/u/v1-video-7969097.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Кино" tvg-id="hollywood",Hollywood
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
+#EXTVLCOPT:http-referrer=https://megafon.tv
+https://play.megafon.tv/out/u/v1-video-7969088.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Кино" tvg-id="kino-tv",КиноТВ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
+#EXTVLCOPT:http-referrer=https://megafon.tv
+https://play.megafon.tv/out/u/v1-video-7969543.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Кино" tvg-id="russky-detektiv",Русский детектив
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
+#EXTVLCOPT:http-referrer=https://megafon.tv
+https://play.megafon.tv/out/u/v1-video-6348349.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Кино" tvg-id="sony-turbo",Sony Turbo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
+#EXTVLCOPT:http-referrer=https://megafon.tv
+https://play.megafon.tv/out/u/v1-video-6782132.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Кино" tvg-id="russky-bestseller",Русский бестселлер
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
+#EXTVLCOPT:http-referrer=https://megafon.tv
+https://play.megafon.tv/out/u/v1-video-6348329.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Кино" tvg-id="amedia1",А1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
+#EXTVLCOPT:http-referrer=https://megafon.tv
+https://play.megafon.tv/out/u/v1-video-6370556.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Кино" tvg-id="amedia2",А2 SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
+#EXTVLCOPT:http-referrer=https://megafon.tv
+https://play.megafon.tv/out/u/v1-video-7731110.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Кино" tvg-id="amedia-hit",Amedia Hit HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
+#EXTVLCOPT:http-referrer=https://megafon.tv
+https://play.megafon.tv/out/u/v1-video-6370552.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Кино" tvg-id="amedia-premium",Amedia Premium HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
+#EXTVLCOPT:http-referrer=https://megafon.tv
+https://play.megafon.tv/out/u/v1-video-6370555.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Кино" tvg-id="illuzion-plus",Иллюзион+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
+#EXTVLCOPT:http-referrer=https://megafon.tv
+https://play.megafon.tv/out/u/v1-video-6348371.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Кино" tvg-id="russky-roman",Русский роман HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
+#EXTVLCOPT:http-referrer=https://megafon.tv
+https://play.megafon.tv/out/u/v1-video-7986599.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Кино" tvg-id="bollywood-hd",Bollywood HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
+#EXTVLCOPT:http-referrer=https://megafon.tv
+https://play.megafon.tv/out/u/v1-video-6370563.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Кино" tvg-id="lubimoe-kino",Любимое кино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
+#EXTVLCOPT:http-referrer=https://megafon.tv
+https://play.megafon.tv/out/u/v1-video-6348387.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Кино" tvg-id="mir-seriala",Мир сериала
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
+#EXTVLCOPT:http-referrer=https://megafon.tv
+https://play.megafon.tv/out/u/v1-video-6348382.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Кино" tvg-id="zee-tv",Zee-TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
+#EXTVLCOPT:http-referrer=https://megafon.tv
+https://play.megafon.tv/out/u/v1-video-7731223.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Кино" tvg-id="ntv-xit",НТВ Хит
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
+#EXTVLCOPT:http-referrer=https://megafon.tv
+https://play.megafon.tv/out/u/v1-video-5308442.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Кино" tvg-id="ntv-serial",НТВ Сериал
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
+#EXTVLCOPT:http-referrer=https://megafon.tv
+https://play.megafon.tv/out/u/v1-video-6348330.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Кино" tvg-id="feniks-plus-kino",Феникс+ Кино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
+#EXTVLCOPT:http-referrer=https://megafon.tv
+https://play.megafon.tv/out/u/v1-video-5612950.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Кино" tvg-id="filmbox-arthouse",FilmBox ArtHouse
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
+#EXTVLCOPT:http-referrer=https://megafon.tv
+https://play.megafon.tv/out/u/v1-video-7969112.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Кино" tvg-id="filmbox-ru",FilmBox Russia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
+#EXTVLCOPT:http-referrer=https://megafon.tv
+https://play.megafon.tv/out/u/v1-video-7969114.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Кино" tvg-id="domkino",Дом Кино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
+#EXTVLCOPT:http-referrer=https://megafon.tv
+https://play.megafon.tv/out/u/v1-video-6348302.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Кино" tvg-id="star-cinema",Star Cinema HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
+#EXTVLCOPT:http-referrer=https://megafon.tv
+https://play.megafon.tv/out/u/v1-video-7986602.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Кино" tvg-id="star-family",Star Family HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
+#EXTVLCOPT:http-referrer=https://megafon.tv
+https://play.megafon.tv/out/u/v1-video-6370554.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Кино" tvg-id="bolt-ru",Bolt HD Россия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
+#EXTVLCOPT:http-referrer=https://megafon.tv
+https://play.megafon.tv/out/u/v1-video-6370544.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Кино" tvg-id="fanhd",FAN HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
+#EXTVLCOPT:http-referrer=https://megafon.tv
+https://play.megafon.tv/out/u/v1-video-6370561.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Кино" tvg-id="paramount-channel",Paramount Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
+#EXTVLCOPT:http-referrer=https://megafon.tv
+https://play.megafon.tv/out/u/v1-video-7731227.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Кино" tvg-id="nashe-novoe-kino",Наше новое кино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
+#EXTVLCOPT:http-referrer=https://megafon.tv
+https://play.megafon.tv/out/u/v1-video-6348304.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Кино" tvg-id="pobeda",Победа HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
+#EXTVLCOPT:http-referrer=https://megafon.tv
+https://play.megafon.tv/out/u/v1-video-6361995.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Кино" tvg-id="nash-detektiv",Наш детектив
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
+#EXTVLCOPT:http-referrer=https://megafon.tv
+https://play.megafon.tv/out/u/v1-video-6348404.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Кино" tvg-id="nash-kinoroman",Наш кинороман
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
+#EXTVLCOPT:http-referrer=https://megafon.tv
+https://play.megafon.tv/out/u/v1-video-6348340.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Кино" tvg-id="kinomiks",Киномикс
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
+#EXTVLCOPT:http-referrer=https://megafon.tv
+https://play.megafon.tv/out/u/v1-video-6348397.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Кино" tvg-id="kinoxit",Кинохит
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
+#EXTVLCOPT:http-referrer=https://megafon.tv
+https://play.megafon.tv/out/u/v1-video-6348311.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Кино" tvg-id="kinosemiya",Киносемья
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
+#EXTVLCOPT:http-referrer=https://megafon.tv
+https://play.megafon.tv/out/u/v1-video-6348320.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Кино" tvg-id="rodnoe-kino",Родное кино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
+#EXTVLCOPT:http-referrer=https://megafon.tv
+https://play.megafon.tv/out/u/v1-video-6348306.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Кино" tvg-id="retro-tv",Ретро ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
+#EXTVLCOPT:http-referrer=https://megafon.tv
+https://play.megafon.tv/out/u/v1-video-6348323.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
