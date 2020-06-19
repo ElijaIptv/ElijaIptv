@@ -13,6 +13,8 @@ http://83.172.32.25:8012/tv/sonyscifi
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4384
 #EXTINF:150 group-title="Фильмы" tvg-logo="http://ttv.run/uploads/CaPjVaQrpyN138TarQ7CYBqBOz0ZF7.png",Sony Turbo
 http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/150/stream.m3u8
+#EXTINF:-1 group-title="Фильмы",Sony Turbo
+http://83.172.32.25:8012/tv/sonyturbo
 #EXTINF:-1 group-title="Фильмы",Fox HD
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4379
 #EXTINF:-1 group-title="Фильмы",Fox HD
@@ -113,6 +115,8 @@ http://188.40.48.89:80/restrimfree/fWVyipZrS0/4344
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4345
 #EXTINF:-1 group-title="Фильмы",Киномикс
 http://178.217.72.66:80/225.201.2.60/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Фильмы",Киномикс
+http://83.172.32.25:8012/tv/kinoplus
 #EXTINF:431 group-title="Фильмы" tvg-logo="http://ttv.run/uploads/i7gAxYLIjKM3zfcuVL5mGNZJ92p0V3.png",Киносерия
 http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/431/stream.m3u8
 #EXTINF:-1 group-title="Фильмы",Киносерия
@@ -151,6 +155,8 @@ http://178.217.72.66:80/225.201.2.161/tracks-v1a1/mono.m3u8
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4330
 #EXTINF:-1 group-title="Фильмы",Дом Кино Премиум HD
 http://178.217.72.66:80/225.201.2.112/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Фильмы",Дом Кино Премиум HD
+http://83.172.32.25:8012/tv/domkinopremiumhd
 #EXTINF:-1 group-title="Фильмы",Кино ТВ HD
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4331
 #EXTINF:-1 group-title="Фильмы",Кино ТВ
@@ -219,6 +225,8 @@ http://188.40.48.89:80/restrimfree/fWVyipZrS0/4385
 http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/456/stream.m3u8
 #EXTINF:-1 group-title="Фильмы",Мир сериала
 http://178.217.72.66:80/225.201.2.219/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Фильмы",Мир сериала
+http://83.172.32.25:8012/tv/mirseriala
 #EXTINF:-1 group-title="Фильмы",SHOT TV
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4387
 #EXTINF:-1 group-title="Фильмы" catchup="default" catchup-source="http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/549/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="10" tvg-logo="http://ttv.run/uploads/MbiO721HBg9h1oJQ90i2e2ixTN1WmH.png",Fear (ужасы) EVGENIY
