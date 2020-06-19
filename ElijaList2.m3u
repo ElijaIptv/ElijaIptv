@@ -47,6 +47,10 @@ http://188.40.48.89:80/restrimfree/fWVyipZrS0/4333
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4334
 #EXTINF:-1 group-title="Фильмы",TV 1000 Русское кино HD
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4335
+#EXTINF:-1 group-title="Фильмы",Spike HD
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4386
+#EXTINF:165 group-title="Фильмы" tvg-logo="http://ttv.run/uploads/eQiJA4GL3OM5hNC0RrzNOp0jSLMo2l.png",Spike
+http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/165/stream.m3u8
 #EXTINF:-1 group-title="Фильмы",Кинохит HD
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4339
 #EXTINF:-1 group-title="Фильмы",Киносемья HD
@@ -137,10 +141,6 @@ http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/155/stream.m3u
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4385
 #EXTINF:456 group-title="Фильмы" tvg-logo="http://ttv.run/uploads/pxYseYBDSbosTPELHvm3TpHukp1QB8.png",Мир сериала
 http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/456/stream.m3u8
-#EXTINF:-1 group-title="Фильмы",Spike HD
-http://188.40.48.89:80/restrimfree/fWVyipZrS0/4386
-#EXTINF:165 group-title="Фильмы" tvg-logo="http://ttv.run/uploads/eQiJA4GL3OM5hNC0RrzNOp0jSLMo2l.png",Spike
-http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/165/stream.m3u8
 #EXTINF:-1 group-title="Фильмы",SHOT TV
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4387
 #EXTINF:-1 group-title="Фильмы" catchup="default" catchup-source="http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/549/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="10" tvg-logo="http://ttv.run/uploads/MbiO721HBg9h1oJQ90i2e2ixTN1WmH.png",Fear (ужасы) EVGENIY
