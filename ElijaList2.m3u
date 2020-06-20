@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="Фильмы",Sony Channel HD
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4381
+#EXTINF:-1 group-title="Фильмы",Sony Channel HD
+http://vs-msk-02.tv.ti.ru:80/dtv/id397_NBN_SG--SETHD/04/plst.m3u8
+#EXTINF:-1 group-title="Фильмы",Sony Channel HD
+http://live02-cdn.tv.ti.ru:80/dtv/id397_NBN_SG--SETHD/04/plst.m3u8
 #EXTINF:-1 group-title="Фильмы",Sony Channel
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4382
 #EXTINF:-1 group-title="Фильмы",Sony Sci-Fi
@@ -35,18 +39,24 @@ http://188.40.48.89:80/restrimfree/fWVyipZrS0/4356
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4371
 #EXTINF:-1 group-title="Фильмы",Paramount Comedy HD
 http://83.172.32.25:8012/tv/paramountcomedy
-#EXTINF:-1 group-title="Фильмы",ViP Premiere
+#EXTINF:-1 group-title="Фильмы",ViP Premiere HD
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4336
-#EXTINF:-1 group-title="Фильмы",ViP Premiere
+#EXTINF:-1 group-title="Фильмы",ViP Premiere HD
 http://178.217.72.66:80/225.201.2.172/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Фильмы",ViP Megahit  HD
+#EXTINF:-1 group-title="Фильмы",ViP Premiere HD
+http://195.144.197.170:8886/udp/237.0.1.84:10000
+#EXTINF:-1 group-title="Фильмы",ViP Megahit HD
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4337
-#EXTINF:-1 group-title="Фильмы",VIP Megahit
+#EXTINF:-1 group-title="Фильмы",VIP Megahit HD
 http://178.217.72.66:80/225.201.2.171/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Фильмы",VIP Megahit HD
+http://188.35.9.5:10020/stolen/403x/hot.dll
 #EXTINF:-1 group-title="Фильмы",ViP Comedy HD
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4338
 #EXTINF:-1 group-title="Фильмы",VIP Comedy
 http://178.217.72.66:80/225.201.2.170/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Фильмы",ViP Comedy HD
+http://195.144.197.170:8886/udp/237.0.1.86:10000
 #EXTINF:-1 group-title="Фильмы",ViP Serial
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4378
 #EXTINF:-1 group-title="Фильмы",Amedia Hit HD
