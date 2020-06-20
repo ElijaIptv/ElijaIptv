@@ -35,13 +35,13 @@ http://178.217.72.66/225.201.2.100/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="МатчФутбол2", Матч! Футбол 2 [02]
 http://178.69.23.26:8000/play/36-ntv-match%21-futbol-2-d5fc7df
 #EXTINF:0 group-title="МатчФутбол2", Матч! Футбол 2 [03]
-#http://s03.iptvx.tv:8090/s/882ff861/match-futbol-2.m3u8
-#EXTINF:0 group-title="МатчФутбол2", Матч! Футбол 2 [04]
-#http://persik.by/stream/6606/411484/10217.m3u8
-#EXTINF:0 group-title="МатчФутбол2", Матч! Футбол 2 [05]
-http://188.35.9.18:12050/udp/238.0.12.3:69000
-#EXTINF:0 group-title="МатчФутбол2", Матч! Футбол 2 [06]
 http://92.38.127.16:8000/play/a030
+#EXTINF:0 group-title="МатчФутбол2", Матч! Футбол 2 [04]
+#http://s03.iptvx.tv:8090/s/882ff861/match-futbol-2.m3u8
+#EXTINF:0 group-title="МатчФутбол2", Матч! Футбол 2 [05]
+#http://persik.by/stream/6606/411484/10217.m3u8
+#EXTINF:0 group-title="МатчФутбол2", Матч! Футбол 2 [06]
+#http://188.35.9.18:12050/udp/238.0.12.3:69000
 
 #EXTINF:0 group-title="МатчФутбол2", Матч! Футбол 2 HD [01]
 http://vs-msk-02.tv.ti.ru:80/dtv/id473_NBN_SG--NTVFootball2/04/plst.m3u8
@@ -54,7 +54,7 @@ http://live02-cdn.tv.ti.ru:80/dtv/id473_NBN_SG--NTVFootball2/04/plst.m3u8
 #EXTINF:0 group-title="МатчФутбол2", Матч! Футбол 2 HD [05]
 #http://persik.by/stream/6606/411484/10267.m3u8
 #EXTINF:0 group-title="МатчФутбол2", Матч! Футбол 2 HD [06]
-http://51.15.8.25:25461/YaDpiIV5za/zvdYEzFsAJ/52461?play_token=vykt4a6DsE&token=ShdRVxJZRlwUAAgBAAhcVVNSUF1RVQwFB1ZUAANRCF1TVgoBWQgFAAZGHRYRRBdWB1prUQISDwJTAABTGhBESlRHZl8FE15EB1ACB1UCRx9EQ11VAxIPBlQMAlkPAgIPCBkbRghVRlxYEV1YThIASxJSRlYHXGpTBENbAlMQC1dEWVUaQ14KOVIBXFUMVEcJRAYWFERZRkdDD1wUWl4dG1NcTUQARQFEDApEWA4cR1AJQlpMFEkXDUNnZ0MaEFRBRVBXRQheCkQMRkVHQBxHWhVoRl0VREdSAFhXExQIEwkTGRtbAEk7BVkKX1EBRAxcCEQWAkQBFxtDWF0PX0ZeS25FUFJDCwoTWghM
+#http://51.15.8.25:25461/YaDpiIV5za/zvdYEzFsAJ/52461?play_token=vykt4a6DsE&token=ShdRVxJZRlwUAAgBAAhcVVNSUF1RVQwFB1ZUAANRCF1TVgoBWQgFAAZGHRYRRBdWB1prUQISDwJTAABTGhBESlRHZl8FE15EB1ACB1UCRx9EQ11VAxIPBlQMAlkPAgIPCBkbRghVRlxYEV1YThIASxJSRlYHXGpTBENbAlMQC1dEWVUaQ14KOVIBXFUMVEcJRAYWFERZRkdDD1wUWl4dG1NcTUQARQFEDApEWA4cR1AJQlpMFEkXDUNnZ0MaEFRBRVBXRQheCkQMRkVHQBxHWhVoRl0VREdSAFhXExQIEwkTGRtbAEk7BVkKX1EBRAxcCEQWAkQBFxtDWF0PX0ZeS25FUFJDCwoTWghM
 
 #EXTINF:0 group-title="МатчФутбол3", Матч! Футбол 3 [01]
 http://178.217.72.66/225.201.2.102/tracks-v1a1/mono.m3u8
