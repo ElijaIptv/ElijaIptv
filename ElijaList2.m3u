@@ -153,6 +153,12 @@ http://188.40.48.89:80/restrimfree/fWVyipZrS0/4351
 http://83.172.32.25:8012/tv/amc
 #EXTINF:-1 group-title="Фильмы",ЕвроКино
 http://178.217.72.66:80/225.201.2.198/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Фильмы",Cinema
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4370
+#EXTINF:-1 group-title="Фильмы",Cinema
+http://83.172.32.25:8012/tv/parkrazvlecheniy
+#EXTINF:155 group-title="Фильмы" catchup="default" catchup-source="http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/155/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="10" tvg-logo="http://ttv.run/uploads/Ar9H7QNBHtjXBq8Hph1EaPV34hAQBl.png",Cinema
+http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/155/stream.m3u8
 #EXTINF:-1 group-title="Фильмы",SHOT TV
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4387
 #EXTINF:-1 group-title="Фильмы",Любимое Кино
@@ -165,12 +171,8 @@ http://188.40.48.89:80/restrimfree/fWVyipZrS0/4357
 http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/158/stream.m3u8
 #EXTINF:-1 group-title="Фильмы",TV XXI
 http://178.217.72.66:80/225.201.2.68/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Фильмы",Cinema
-http://188.40.48.89:80/restrimfree/fWVyipZrS0/4370
-#EXTINF:-1 group-title="Фильмы",Cinema
-http://83.172.32.25:8012/tv/parkrazvlecheniy
-#EXTINF:155 group-title="Фильмы" catchup="default" catchup-source="http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/155/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="10" tvg-logo="http://ttv.run/uploads/Ar9H7QNBHtjXBq8Hph1EaPV34hAQBl.png",Cinema
-http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/155/stream.m3u8
+#EXTINF:15 group-title="Фильмы" catchup="default" catchup-source="http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/15/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="10" tvg-logo="http://ttv.run/uploads/07bjT0brQLyETHscCfGFtvsdaRiUdH.png",ТВ 3
+http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/15/stream.m3u8
 #EXTINF:-1 group-title="Фильмы",Сиеста HD
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4368
 #EXTINF:-1 group-title="Фильмы",Комедия
@@ -259,8 +261,6 @@ http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/548/stream.m3u
 http://178.217.72.66:80/225.201.2.17/tracks-v1a1/mono.m3u8
 #EXTINF:373 group-title="Фильмы" tvg-logo="http://ttv.run/uploads/JUnIt4flcwcD3Gu3qInuPL7D5rmt15.png",Классика кино HD
 http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/373/stream.m3u8
-#EXTINF:15 group-title="Фильмы" catchup="default" catchup-source="http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/15/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="10" tvg-logo="http://ttv.run/uploads/07bjT0brQLyETHscCfGFtvsdaRiUdH.png",ТВ 3
-http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/15/stream.m3u8
 #EXTINF:-1 group-title="Фильмы",Победа HD
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4332
 #EXTINF:-1 group-title="Фильмы",Ultra HD Cinema
