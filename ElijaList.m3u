@@ -198,9 +198,9 @@ http://s03.iptvx.tv:8090/s/882ff861/match-planeta.m3u8
 #EXTINF:0 group-title="Eurosport1", EUROSPORT 1 [01]
 http://178.217.72.66:80/225.201.2.93/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Eurosport1", EUROSPORT 1 [02]
-http://s03.iptvx.tv:8090/s/882ff861/evrosport.m3u8
+http://163.172.179.78:8081/tv/eurosport-1/playlist.m3u8
 #EXTINF:0 group-title="Eurosport1", EUROSPORT 1 [03]
-http://163.172.179.78:8081/tv/eurosport-1/playlist.m3u8?|User-agent=deooleg
+http://s03.iptvx.tv:8090/s/882ff861/evrosport.m3u8
 #EXTINF:0 group-title="Eurosport1", EUROSPORT 1 [04]
 http://178.217.72.66/225.201.2.93/index.m3u8
 #EXTINF:0 group-title="Eurosport1", EUROSPORT 1 [05]
@@ -209,29 +209,37 @@ http://178.217.72.66/225.201.2.93/tracks-v1a1/mono.m3u8
 http://live-ng-01.more.tv/hls/Eurosport_Rus_HD/master.m3u8
 #EXTINF:0 group-title="Eurosport1", EUROSPORT 1 [07]
 http://92.38.127.16:8000/play/a06u
-#EXTINF:0 group-title="Eurosport1", EUROSPORT 1 [07]
-http://163.172.179.78:8081/tv/eurosport-1/chunks.m3u8
 #EXTINF:0 group-title="Eurosport1", EUROSPORT 1 [08]
-http://51.15.215.116:8081/tv/eurosport-1/playlist.m3u8
+http://163.172.179.78:8081/tv/eurosport-1/chunks.m3u8
 #EXTINF:0 group-title="Eurosport1", EUROSPORT 1 [09]
-http://82.200.127.58:8080/udp/239.54.5.45:1224
+http://51.15.215.116:8081/tv/eurosport-1/playlist.m3u8
 #EXTINF:0 group-title="Eurosport1", EUROSPORT 1 [10]
+http://82.200.127.58:8080/udp/239.54.5.45:1224
+#EXTINF:0 group-title="Eurosport1", EUROSPORT 1 [11]
 http://79.142.197.7:8888/Eurosport/mono.m3u8
 
 #EXTINF:0 group-title="Eurosport1", EUROSPORT 1 HD [01]
 http://vs-msk-02.tv.ti.ru:80/dtv/id219_NBN_SG--EuroSportHD/04/plst.m3u8
 #EXTINF:0 group-title="Eurosport1", EUROSPORT 1 HD [02]
-http://s03.iptvx.tv:8090/s/882ff861/eurosport-hd-orig.m3u8
+http://188.35.9.12:21031/udp/033z
 #EXTINF:0 group-title="Eurosport1", EUROSPORT 1 HD [03]
+http://188.35.9.26:16050/udp/238.0.16.3:69000
+#EXTINF:0 group-title="Eurosport1", EUROSPORT 1 HD [04]
+http://188.35.9.26:16051/udp/238.0.16.3:69000
+#EXTINF:0 group-title="Eurosport1", EUROSPORT 1 HD [05]
+http://s03.iptvx.tv:8090/s/882ff861/eurosport-hd-orig.m3u8
+#EXTINF:0 group-title="Eurosport1", EUROSPORT 1 HD [06]
 http://srb.00387.info/SR:EuroSport1HD/index.m3u8?token=test
 
 #EXTINF:0 group-title="Eurosport2", EUROSPORT 2 [01]
 http://188.35.9.11:21141/udp/185v
 #EXTINF:0 group-title="Eurosport2", EUROSPORT 2 [02]
-http://s03.iptvx.tv:8090/s/882ff861/evrosport-2.m3u8
+http://163.172.179.78:8081/tv/eurosport-2/playlist.m3u8
 #EXTINF:0 group-title="Eurosport2", EUROSPORT 2 [03]
-http://51.15.215.116:8081/tv/eurosport-2/playlist.m3u8?|User-agent=deooleg
+http://s03.iptvx.tv:8090/s/882ff861/evrosport-2.m3u8
 #EXTINF:0 group-title="Eurosport2", EUROSPORT 2 [04]
+http://51.15.215.116:8081/tv/eurosport-2/playlist.m3u8?|User-agent=deooleg
+#EXTINF:0 group-title="Eurosport2", EUROSPORT 2 [05]
 http://212.164.223.102:8888/udp/233.7.70.14:5000
 
 #EXTINF:-1 group-title="Eurosport2",EUROSPORT 2 HD [01]
