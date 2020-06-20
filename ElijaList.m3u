@@ -16,19 +16,19 @@ http://178.217.72.66/225.201.2.53/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 HD [01]
 http://vs-msk-02.tv.ti.ru:80/dtv/id472_NBN_SG--NTVFutbol1/04/plst.m3u8
 #EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 HD [02]
-http://178.217.72.66/225.201.2.34/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 HD [03]
 http://live02-cdn.tv.ti.ru:80/dtv/id472_NBN_SG--NTVFutbol1/04/plst.m3u8
+#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 HD [03]
+http://178.217.72.66/225.201.2.34/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 HD [04]
 #http://s03.iptvx.tv:8090/s/882ff861/match-futbol-1-hd-orig.m3u8
 #EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 HD [05]
 #http://persik.by/stream/6606/411484/10266.m3u8
 #EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 HD [06]
-http://188.35.9.11:2010
+#http://188.35.9.11:2010
 #EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 HD [07]
-http://212.19.23.86:666/udp/239.191.255.132:15283
+#http://212.19.23.86:666/udp/239.191.255.132:15283
 #EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 HD [07]
-http://51.15.8.25:25461/YaDpiIV5za/zvdYEzFsAJ/52462?play_token=vykt4a6DsE&token=ShdRVxJZRlwUAAgBAAhcVVNSUF1RVQwFB1ZUAANRCF1TVgoBWQgFAAZGHRYRRBdWB1prUQISDwJTAABTGhBESlRHZl8FE15EB1ACB1UCRx9EQ11VAxIPBlQMAlkPAgIPCBkbRghVRlxYEV1YThIASxJSRlYHXGpTBENbAlMQC1dEWVUaQ14KOVIBXFUMVEcJRAYWFERZRkdDD1wUWl4dG1NcTUQARQFEDApEWA4cR1AJQlpMFEkXDUNnZ0MaEFRBRVBXRQheCkQMRkVHQBxHWhVoRl0VREdSAFhXExQIEwkTGRtbAEk7BVkKX1EBRAxcCEQWAkQBFxtDWF0PX0ZeS25FUFJDCwoTWghM
+#http://51.15.8.25:25461/YaDpiIV5za/zvdYEzFsAJ/52462?play_token=vykt4a6DsE&token=ShdRVxJZRlwUAAgBAAhcVVNSUF1RVQwFB1ZUAANRCF1TVgoBWQgFAAZGHRYRRBdWB1prUQISDwJTAABTGhBESlRHZl8FE15EB1ACB1UCRx9EQ11VAxIPBlQMAlkPAgIPCBkbRghVRlxYEV1YThIASxJSRlYHXGpTBENbAlMQC1dEWVUaQ14KOVIBXFUMVEcJRAYWFERZRkdDD1wUWl4dG1NcTUQARQFEDApEWA4cR1AJQlpMFEkXDUNnZ0MaEFRBRVBXRQheCkQMRkVHQBxHWhVoRl0VREdSAFhXExQIEwkTGRtbAEk7BVkKX1EBRAxcCEQWAkQBFxtDWF0PX0ZeS25FUFJDCwoTWghM
 
 #EXTINF:0 group-title="МатчФутбол2", Матч! Футбол 2 [01]
 http://178.217.72.66/225.201.2.100/tracks-v1a1/mono.m3u8
