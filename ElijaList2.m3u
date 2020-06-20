@@ -141,6 +141,8 @@ http://178.217.72.66:80/225.201.2.45/tracks-v1a1/mono.m3u8
 http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/256/stream.m3u8
 #EXTINF:-1 group-title="Фильмы",Индийское Кино
 http://83.172.32.25:8012/tv/indiatv
+#EXTINF:-1 group-title="Фильмы",Bollywood HD
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4363
 #EXTINF:-1 group-title="Фильмы",Hollywood HD
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4350
 #EXTINF:-1 group-title="Фильмы",Hollywood HD
@@ -175,6 +177,8 @@ http://83.172.32.25:8012/tv/domkinopremiumhd
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4331
 #EXTINF:-1 group-title="Фильмы",Кино ТВ
 http://178.217.72.66:80/225.201.2.223/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Фильмы",Кино ТВ
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4369
 #EXTINF:-1 group-title="Фильмы",Страшное HD
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4352
 #EXTINF:-1 group-title="Фильмы",НСТ
@@ -199,8 +203,6 @@ http://178.217.72.66:80/225.201.2.194/tracks-v1a1/mono.m3u8
 http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/144/stream.m3u8
 #EXTINF:-1 group-title="Фильмы",Феникс+ Кино
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4360
-#EXTINF:-1 group-title="Фильмы",Bollywood HD
-http://188.40.48.89:80/restrimfree/fWVyipZrS0/4363
 #EXTINF:-1 group-title="Фильмы",BOLT
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4364
 #EXTINF:-1 group-title="Фильмы",Русский роман HD
@@ -215,8 +217,6 @@ http://188.40.48.89:80/restrimfree/fWVyipZrS0/4367
 http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/147/stream.m3u8
 #EXTINF:-1 group-title="Фильмы",Сиеста HD
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4368
-#EXTINF:-1 group-title="Фильмы",кино!
-http://188.40.48.89:80/restrimfree/fWVyipZrS0/4369
 #EXTINF:-1 group-title="Фильмы",Cinema
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4370
 #EXTINF:-1 group-title="Фильмы",Cinema
