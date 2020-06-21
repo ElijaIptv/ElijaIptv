@@ -396,29 +396,29 @@ http://strm.yandex.ru/kal/start/start0_169_1080p.json/index-v1-a1.m3u8
 
 #EXTINF:0 group-title="OlympicChannel", Olympic Channel HD [01]
 
-#EXTINF:0 group-title="SkySportPremierLeague", Sky Sport Premier League HD UK [01]
+#EXTINF:0 group-title="SkySportsPremierLeague", Sky Sports Premier League HD UK [01]
 http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/671420
-#EXTINF:0 group-title="SkySportPremierLeague", Sky Sport Premier League HD UK [02]
+#EXTINF:0 group-title="SkySportsPremierLeague", Sky Sports Premier League HD UK [02]
 http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/671301
 
-#EXTINF:0 group-title="SkySportFootball", Sky Sport Football UK [01]
+#EXTINF:0 group-title="SkySportsFootball", Sky Sports Football UK [01]
 
-#EXTINF:0 group-title="SkySportMix", Sky Sport Mix UK [01]
+#EXTINF:0 group-title="SkySportsMix", Sky Sports Mix UK [01]
 http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/6534
 
-#EXTINF:0 group-title="SkySport1", Sky Sport 1 HD DE [01]
+#EXTINF:0 group-title="SkySports1", Sky Sports 1 HD DE [01]
 http://rocksat.ddns.net:25461/3mfvbsvk/578jtxaw/55705
-#EXTINF:0 group-title="SkySport1", Sky Sport 1 HD DE [02]
+#EXTINF:0 group-title="SkySports1", Sky Sports 1 HD DE [02]
 http://topiptv.net:5890/aliali123/aliali123/1293
 
-#EXTINF:0 group-title="SkySportNews", Sky Sport News DE [01]
+#EXTINF:0 group-title="SkySportsNews", Sky Spors News DE [01]
 http://178.199.75.214:3000/play/ccSkyNEwscc
-#EXTINF:0 group-title="SkySportNews", Sky Sport News DE [02]
+#EXTINF:0 group-title="SkySportsNews", Sky Sports News DE [02]
 http://31.177.62.139:8008/play/s25
 
-#EXTINF:0 group-title="SkySportNews", Sky Sport News UK [01]
+#EXTINF:0 group-title="SkySportsNews", Sky Sports News UK [01]
 
-#EXTINF:0 group-title="SkySportMainEvent", Sky Sport Main Event UK [01]
+#EXTINF:0 group-title="SkySportsMainEvent", Sky Sports Main Event UK [01]
 
 #EXTINF:0 group-title="FoxSports", Fox Sports [01]
 http://45.58.62.92:8080
