@@ -465,9 +465,9 @@ http://85.244.70.140:8000/play/a00r
 #http://s03.iptvx.tv:8090/s/882ff861/super-tennis-hd.m3u8
 
 #EXTINF:0 group-title="Ufc", UFC HD [01]
-#http://s03.iptvx.tv:8090/s/882ff861/ufc-hd.m3u8
-#EXTINF:0 group-title="Ufc", UFC HD [02]
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4548
+#EXTINF:0 group-title="Ufc", UFC HD [02]
+#http://s03.iptvx.tv:8090/s/882ff861/ufc-hd.m3u8
 
 #EXTINF:0 group-title="M1Global", M1 Global [01]
 #http://s03.iptvx.tv:8090/s/882ff861/m1-global-tv.m3u8
