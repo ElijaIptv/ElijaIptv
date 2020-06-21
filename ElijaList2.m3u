@@ -23,6 +23,8 @@ http://83.172.32.25:8012/tv/sonyturbo
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4379
 #EXTINF:-1 group-title="Фильмы",Fox HD
 http://83.172.32.25:8012/tv/fox
+#EXTINF:-1 group-title="Фильмы",Fox
+http://live-ng-01.more.tv/hls/FOX_HD/index_2.m3u8
 #EXTINF:-1 group-title="Фильмы",Fox Life HD
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4380
 #EXTINF:-1 group-title="Фильмы",Fox Life HD
@@ -35,6 +37,10 @@ http://178.217.72.66:80/225.201.2.203/tracks-v1a1/mono.m3u8
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4355
 #EXTINF:-1 group-title="Фильмы",Paramount Channel
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4356
+#EXTINF:-1 group-title="Фильмы",Paramount Channel
+http://live02-cdn.tv.ti.ru:80/dtv/id986_NBN_SG--Paramount/03/plst.m3u8
+#EXTINF:-1 group-title="Фильмы",Paramount Channel 
+http://vs-msk-02.tv.ti.ru:80/dtv/id986_NBN_SG--Paramount/03/plst.m3u8
 #EXTINF:-1 group-title="Фильмы",Paramount Comedy HD
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4371
 #EXTINF:-1 group-title="Фильмы",Paramount Comedy HD
@@ -77,12 +83,16 @@ http://188.40.48.89:80/restrimfree/fWVyipZrS0/4372
 http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/141/stream.m3u8
 #EXTINF:-1 group-title="Фильмы",Amedia 1
 http://178.217.72.66:80/225.201.2.65/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Фильмы",Amedia 1
+http://83.172.32.25:8012/tv/amedia1
 #EXTINF:-1 group-title="Фильмы",A2 HD
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4373
 #EXTINF:-1 group-title="Фильмы",Amedia 2
 http://83.172.32.25:8012/tv/amedia2
 #EXTINF:-1 group-title="Фильмы",TV 1000 HD
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4333
+#EXTINF:-1 group-title="Фильмы",TV 1000 HD
+http://195.191.208.78:8080/tv1000hd/index.m3u8
 #EXTINF:-1 group-title="Фильмы",TV 1000 Action HD
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4334
 #EXTINF:-1 group-title="Фильмы",TV 1000 Русское кино HD
@@ -135,6 +145,8 @@ http://178.217.72.66:80/225.201.2.181/tracks-v1a1/mono.m3u8
 http://83.172.32.25:8012/tv/kinopokaz
 #EXTINF:-1 group-title="Фильмы",Мужское Кино
 http://178.217.72.66:80/225.201.2.182/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Фильмы",Мужское Кино
+http://live02-cdn.tv.ti.ru:80/dtv/id653_NBN_SG--MuzskoeKino/03/plst.m3u8
 #EXTINF:-1 group-title="Фильмы",Родное кино
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4347
 #EXTINF:255 group-title="Фильмы" tvg-logo="http://ttv.run/uploads/VfssgK3zwuThjr8m165bhEEtbphbjV.png",Родное кино
@@ -163,6 +175,10 @@ http://188.40.48.89:80/restrimfree/fWVyipZrS0/4351
 http://83.172.32.25:8012/tv/amc
 #EXTINF:-1 group-title="Фильмы",ЕвроКино
 http://178.217.72.66:80/225.201.2.198/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Фильмы",ЕвроКино
+http://live02-cdn.tv.ti.ru:80/dtv/id203_NBN_SG--EuroKino/03/plst.m3u8
+#EXTINF:-1 group-title="Фильмы",ЕвроКино
+http://vs-msk-02.tv.ti.ru:80/dtv/id203_NBN_SG--EuroKino/03/plst.m3u8
 #EXTINF:-1 group-title="Фильмы",Cinema
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4370
 #EXTINF:-1 group-title="Фильмы",Cinema
