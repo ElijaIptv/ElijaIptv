@@ -430,18 +430,6 @@ http://212.19.13.173:4022/udp/239.191.254.179:13343
 #EXTINF:0 group-title="News",БОБЕР
 #EXTGRP:News
 http://89.106.234.3:80/bober_38_39.m3u8
-#EXTINF:0 group-title="XXX",BLUE HUSTLER
-#EXTGRP:XXX
-#http://178.217.72.66/225.201.2.61/index.m3u8
-#EXTINF:0 group-title="XXX",BLUE HUSTLER
-#EXTGRP:XXX
-#http://78.107.248.201:4022/udp/233.33.221.106:5050
-#EXTINF:0 group-title="XXX",BLUE HUSTLER EUROPE
-#EXTGRP:XXX
-#http://195.181.162.217:25461/098038/098038/35603
-#EXTINF:0 group-title="XXX",BLUE HUSTLER EUROPE
-#EXTGRP:XXX
-#http://ux.mytvxweb.me:25461/tatiana3/tatiana3/330351
 #EXTINF:0 group-title="Sport",БОКС ТВ
 #EXTGRP:Sport
 http://live02-cdn.tv.ti.ru:80/dtv/id1266_NBN_SG--BoksTV/03/plst.m3u8
@@ -454,24 +442,6 @@ http://mytv.fun:8080/lwt5tj7ww/3k8v6i9a0l/5372
 #EXTINF:0 group-title="Sport",БОКС ТВ HD
 #EXTGRP:Sport
 http://mytv.fun:8080/bcshablcl/h1n49hq8ol/5372
-#EXTINF:0 group-title="XXX",BRAZZERS HD
-#EXTGRP:XXX
-#http://62.112.9.63:88/Brazzers/index.m3u8?token=test
-#EXTINF:0 group-title="XXX",BRAZZERS TV
-#EXTGRP:XXX
-#http://109.248.79.124:4044/udp/239.195.2.4:1234
-#EXTINF:0 group-title="XXX",BRAZZERS TV EUROPE
-#EXTGRP:XXX
-#http://vs-msk-02.tv.ti.ru:80/dtv/id358_NBN_SG--Brazzers/03/plst.m3u8
-#EXTINF:0 group-title="XXX",BRAZZERS TV EUROPE
-#EXTGRP:XXX
-#http://live02-cdn.tv.ti.ru:80/dtv/id358_NBN_SG--Brazzers/03/plst.m3u8
-#EXTINF:0 group-title="XXX",BRAZZERS TV EUROPE
-#EXTGRP:XXX
-#http://195.181.162.217:80/039456/039456/35604
-#EXTINF:0 group-title="XXX",BRAZZERS TV EUROPE
-#EXTGRP:XXX
-#http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/910/index.m3u8
 #EXTINF:0 group-title="Music",BRIDGE TV DANCE
 #EXTGRP:Music
 http://astra.realcrimea.net:8000/play/a0bj
@@ -910,18 +880,6 @@ http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/14367
 #EXTINF:0 group-title="Kids",DISNEY XD TR
 #EXTGRP:Kids
 http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/6888
-#EXTINF:0 group-title="XXX",DORCEL HD
-#EXTGRP:XXX
-#http://130.180.93.142:8001/1:0:19:4205:2F44:13E:820000:0:0:0
-#EXTINF:0 group-title="XXX",DORCEL TV HD
-#EXTGRP:XXX
-#http://178.132.4.190:8080/BagkijO4TF/1109338580/1203
-#EXTINF:0 group-title="XXX",DORCEL TV HD
-#EXTGRP:XXX
-#http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/874.ts
-#EXTINF:0 group-title="XXX",DORCEL TV HD
-#EXTGRP:XXX
-#http://185.229.139.65:8011/play/dorcelhd/index.m3u8
 #EXTINF:0 group-title="Kids",DUCK TV AL
 #EXTGRP:Kids
 http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/9960
@@ -958,9 +916,6 @@ http://79.142.197.7:8888/Enter_film/mono.m3u8
 #EXTINF:0 group-title="Movies",ENTER-ФІЛЬМ
 #EXTGRP:Movies
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4742
-#EXTINF:0 group-title="XXX",EROXXX HD
-#EXTGRP:XXX
-#http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/5015/index.m3u8
 #EXTINF:0 group-title="News",ЕСПРЕСО
 #EXTGRP:News
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4717
@@ -2704,18 +2659,6 @@ http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/936/index.m3u8
 #EXTINF:0 group-title="News",НТН
 #EXTGRP:News
 https://ch.iptvmate.net/4603bde36dc850f6cc670ba3e0a6ad81.m3u8
-#EXTINF:0 group-title="XXX",NURTV HD
-#EXTGRP:XXX
-#http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/565/stream.m3u8
-#EXTINF:0 group-title="XXX",NUR TV
-#EXTGRP:XXX
-#http://185.57.68.33:8091/228/tracks-v1a1/index.m3u8
-#EXTINF:0 group-title="XXX",НЮ АРТ ТВ
-#EXTGRP:XXX
-#http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/229/stream.m3u8
-#EXTINF:0 group-title="XXX",НЮАРТ TV
-#EXTGRP:XXX
-#http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/2057/index.m3u8
 #EXTINF:0 group-title="News",OBOZ TV
 #EXTGRP:News
 http://player.obozrevatel.com/live2/stream.m3u8
@@ -2911,15 +2854,6 @@ http://188.40.48.89:80/restrimfree/fWVyipZrS0/4692
 #EXTINF:0 group-title="Humor",ПЯТНИЦА! (+7)
 #EXTGRP:Humor
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4693
-#EXTINF:0 group-title="XXX",PENTHOUSE GOLD HD
-#EXTGRP:XXX
-http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/5011/index.m3u8
-#EXTINF:0 group-title="XXX",PENTHOUSE HD
-#EXTGRP:XXX
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/875.ts
-#EXTINF:0 group-title="XXX",PENTHOUSE TV
-#EXTGRP:XXX
-http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/1073/index.m3u8
 #EXTINF:0 group-title="News",ПЕРШИЙ ЗАХІДНИЙ (ЛЬВІВ)
 #EXTGRP:News
 http://hls.cdn.ua/1zahid.com_live/_definst_/livestream/chunklist_w406301318.m3u8
@@ -2971,24 +2905,6 @@ http://hrv.00387.info/PlanetSport2HD/index.m3u8?token=test
 #EXTINF:0 group-title="Cognitive",ПЛАНЕТА HD
 #EXTGRP:Cognitive
 http://31.131.95.131:81/udp/239.195.4.50:1234
-#EXTINF:0 group-title="XXX",PLAY TV
-#EXTGRP:XXX
-https://ch.iptvmate.net/5e933cda85266b43961c605a.m3u8
-#EXTINF:0 group-title="XXX",PLAYBOY
-#EXTGRP:XXX
-http://188.35.9.12:21101/udp/127h
-#EXTINF:0 group-title="XXX",PLAYBOY TV
-#EXTGRP:XXX
-http://37.235.150.21:81/udp/225.50.70.2:1234
-#EXTINF:0 group-title="XXX",PLAYBOY TV
-#EXTGRP:XXX
-http://109.248.79.124:4044/udp/239.195.2.5:1234
-#EXTINF:0 group-title="XXX",PLAYBOY TV HD (18+)
-#EXTGRP:XXX
-http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/19674
-#EXTINF:0 group-title="XXX",PLAYBOY(18+)
-#EXTGRP:XXX
-http://45.88.104.104/play/242/test/index.m3u8
 #EXTINF:0 group-title="Cognitive",ПОЕХАЛИ!
 #EXTGRP:Cognitive
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4449
@@ -3055,9 +2971,6 @@ http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/ind
 #EXTINF:0 group-title="Cognitive",ПРИКЛЮЧЕНИЯ HD
 #EXTGRP:Cognitive
 http://217.70.122.1:8085/travel/mono.m3u8
-#EXTINF:0 group-title="XXX",PRIVATE HD
-#EXTGRP:XXX
-http://130.180.93.142:8001/1:0:19:4225:2f44:13e:820000:0:0:0
 #EXTINF:0 group-title="Sport",REAL MADRID TV (ENGLISH)
 #EXTGRP:Sport
 https://ch.iptvmate.net/5e935f077105fc39963852f6.m3u8
