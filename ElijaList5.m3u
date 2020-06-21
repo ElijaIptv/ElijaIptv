@@ -1,1 +1,4171 @@
+#EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/EPG" tvg-shift=-1 cache=1000
+#EXTINF:0,START
+https://gdb.rferl.org/aa2ddb6d-34e4-48e9-8050-6dc3c83789fe_w1023_r1_s.jpg
+#EXTINF:0 group-title="News",1+1
+#EXTGRP:News
+http://fr01.spr24.net/151/index.m3u8?token=rCEqTFvRhtEvXt
+#EXTINF:0 group-title="News",1+1
+#EXTGRP:News
+http://79.142.197.7:8888/1plus1/mono.m3u8
+#EXTINF:0 group-title="News",1+1 INTERNATIONAL
+#EXTGRP:News
+http://188.35.9.26:2051/udp/238.0.2.1:69000
+#EXTINF:0 group-title="Movies",2+2
+#EXTGRP:Movies
+https://95-213-224-183.livesports24.online/ua2plus2.m3u8
+#EXTINF:0 group-title="Movies",2+2
+#EXTGRP:Movies
+http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/995/index.m3u8
+#EXTINF:0 group-title="Movies",2+2
+#EXTGRP:Movies
+http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/50/stream.m3u8
+#EXTINF:0 group-title="Movies",2+2
+#EXTGRP:Movies
+https://95-213-224-179.livesports24.online/ua2plus2.m3u8
+#EXTINF:0 group-title="Movies",2+2
+#EXTGRP:Movies
+https://95-213-224-187.livesports24.online/ua2plus2.m3u8
+#EXTINF:0 group-title="Movies",2+2 HD
+#EXTGRP:Movies
+http://188.35.9.11:2030/udp/025t
+#EXTINF:0 group-title="News",24 КАНАЛ
+#EXTGRP:News
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+#EXTINF:0 group-title="Cognitive",24 ТЕХНО
+#EXTGRP:Cognitive
+http://astra.realcrimea.net:8000/play/a029
+#EXTINF:0 group-title="Humor",2Х2
+#EXTGRP:Humor
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4401
+#EXTINF:0 group-title="Humor",2X2 (+2)
+#EXTGRP:Humor
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4694
+#EXTINF:0 group-title="Humor",2X2 (+4)
+#EXTGRP:Humor
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4695
+#EXTINF:0 group-title="Humor",2X2 (+7)
+#EXTGRP:Humor
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4696
+#EXTINF:0 group-title="Humor",2X2
+#EXTGRP:Humor
+http://astra.realcrimea.net:8000/play/a05w
+#EXTINF:0 group-title="Humor",2X2
+#EXTGRP:Humor
+http://fr01.spr24.net/5245/index.m3u8?token=rCEqTFvRhtEvXt
+#EXTINF:0 group-title="Humor",2X2
+#EXTGRP:Humor
+http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/34/stream.m3u8
+#EXTINF:0 group-title="Humor",2X2
+#EXTGRP:Humor
+http://live02-cdn.tv.ti.ru:80/dtv/id105_NBN_SG--2x2/03/plst.m3u8
+#EXTINF:0 group-title="Humor",2X2
+#EXTGRP:Humor
+http://vs-msk-02.tv.ti.ru:80/dtv/id105_NBN_SG--2x2/03/plst.m3u8
+#EXTINF:0 group-title="Humor",2X2
+#EXTGRP:Humor
+http://79.105.96.45:5055/udp/239.4.0.106:2020
+#EXTINF:0 group-title="Humor",2X2
+#EXTGRP:Humor
+http://193.233.22.189:8082/udp/239.191.254.151:13343
+#EXTINF:0 group-title="Humor",2X2
+#EXTGRP:Humor
+http://82.200.127.58:8080/udp/239.54.5.20:1224
+#EXTINF:0 group-title="News",5 КАНАЛ
+#EXTGRP:News
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4327
+#EXTINF:0 group-title="News",5 КАНАЛ
+#EXTGRP:News
+http://vs-msk-02.tv.ti.ru:80/dtv/id256_NBN_SG--5kanal/03/plst.m3u8
+#EXTINF:0 group-title="News",5 КАНАЛ
+#EXTGRP:News
+http://79.105.96.45:5055/udp/239.28.0.5:2020
+#EXTINF:0 group-title="News",5 КАНАЛ
+#EXTGRP:News
+http://live02-cdn.tv.ti.ru:80/dtv/id256_NBN_SG--5kanal/03/plst.m3u8
+#EXTINF:0 group-title="News",5 КАНАЛ
+#EXTGRP:News
+http://94.241.0.44:8888/udp/225.77.225.65:5000
+#EXTINF:0 group-title="News",5 КАНАЛ HD
+#EXTGRP:News
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4716
+#EXTINF:0 group-title="News",7 КАНАЛ
+#EXTGRP:News
+http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
+#EXTINF:0 group-title="News",7 КАНАЛ
+#EXTGRP:News
+https://ch.iptvmate.net/5e9350c479fed15e9d592214.m3u8
+#EXTINF:0 group-title="News",7 КАНАЛ
+#EXTGRP:News
+http://cdn10.live-tv.od.ua:8081/7tvod/7tvod/playlist.m3u8
+#EXTINF:0 group-title="News",KANAL 5 HD
+#EXTGRP:News
+http://uk4321.com:8080/P75CX5KoB0/WBdYJjzfHf/813
+#EXTINF:0 group-title="News",KANAL 7 HD
+#EXTGRP:News
+http://mn-nl.mncdn.com/blutv_kanal7/smil:kanal7_hd.smil/chunklist_b2064000.m3u8
+#EXTINF:0 group-title="News",KANAL 7 HD
+#EXTGRP:News
+http://uk4321.com:8080/P75CX5KoB0/WBdYJjzfHf/739
+#EXTINF:0 group-title="News",KANAL 9
+#EXTGRP:News
+https://livesd2.vedge.infomaniak.com/livecast/livesd2/master.m3u8
+#EXTINF:0 group-title="News",KANAL 9 HD
+#EXTGRP:News
+http://uk4321.com:8080/P75CX5KoB0/WBdYJjzfHf/818
+#EXTINF:0 group-title="News",KANAL 9 HD
+#EXTGRP:News
+http://176.10.117.3:5000/play/a03n
+#EXTINF:0 group-title="News",KANAL T
+#EXTGRP:News
+http://207.180.223.92:1935/live/kanalt/playlist.m3u8
+#EXTINF:0 group-title="News",КАНАЛ 4
+#EXTGRP:News
+https://5656.ga/ch4.m3u8
+#EXTINF:0 group-title="News",КАНАЛ 6
+#EXTGRP:News
+https://5656.ga/ch6.m3u8
+#EXTINF:0 group-title="Movies",AMEDIA 1
+#EXTGRP:Movies
+http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/141/stream.m3u8
+#EXTINF:0 group-title="Movies",AMEDIA 1
+#EXTGRP:Movies
+http://83.172.32.25:8012/tv/amedia1
+#EXTINF:0 group-title="Movies",AMEDIA 2
+#EXTGRP:Movies
+http://83.172.32.25:8012/tv/amedia2
+#EXTINF:0 group-title="Movies",AMEDIA HBO
+#EXTGRP:Movies
+http://188.35.9.11:21131/udp/164g
+#EXTINF:0 group-title="Movies",AMEDIA HIT
+#EXTGRP:Movies
+http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/556/index.m3u8
+#EXTINF:0 group-title="Movies",AMEDIA HIT HD
+#EXTGRP:Movies
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4375
+#EXTINF:0 group-title="Movies",AMEDIA HIT HD
+#EXTGRP:Movies
+http://83.172.32.25:8012/tv/amediahithd
+#EXTINF:0 group-title="Movies",AMEDIA2
+#EXTGRP:Movies
+https://sc.id-tv.kz/amedia_2_36_37.m3u8
+#EXTINF:0 group-title="Movies",AMEDIA PREMIUM
+#EXTGRP:Movies
+http://178.69.23.26:8000/play/36-ntv-amedia-premium-52cf229
+#EXTINF:0 group-title="Movies",AMEDIA PREMIUM
+#EXTGRP:Movies
+http://178.217.72.66/225.201.2.67/index.m3u8
+#EXTINF:0 group-title="Movies",AMEDIA PREMIUM FHD RU
+#EXTGRP:Movies
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/36900
+#EXTINF:0 group-title="Movies",AMEDIA PREMIUM HD
+#EXTGRP:Movies
+http://185.220.35.73:3000/xdh0m4/duduKBnd/454
+#EXTINF:0 group-title="Movies",AMEDIA PREMIUM HD
+#EXTGRP:Movies
+http://83.172.32.25:8012/tv/amediapremiumhd
+#EXTINF:0 group-title="Movies",AMEDIA PREMIUM HD
+#EXTGRP:Movies
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4377
+#EXTINF:0 group-title="Movies",AMEDIA PREMIUM HD
+#EXTGRP:Movies
+http://hlstv.kem.211.ru/239.211.211.171/stream.m3u8
+#EXTINF:0 group-title="Movies",AMEDIA PREMIUM HD (SD)
+#EXTGRP:Movies
+http://78.129.228.178/iptv/BACU6GGT7XNVQC/555/index.m3u8
+#EXTINF:0 group-title="Movies",AMEDIA PREMIUM HD (SD)
+#EXTGRP:Movies
+http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/555/index.m3u8
+#EXTINF:0 group-title="Cognitive",ANIMAL PLANET
+#EXTGRP:Cognitive
+http://77.89.204.107:8000/play/a0b2/index.m3u8
+#EXTINF:0 group-title="Cognitive",ANIMAL PLANET
+#EXTGRP:Cognitive
+http://79.133.121.141:81/udp/239.191.254.32:13343
+#EXTINF:0 group-title="Cognitive",ANIMAL PLANET
+#EXTGRP:Cognitive
+http://178.217.72.66/225.201.2.91/index.m3u8
+#EXTINF:0 group-title="Cognitive",ANIMAL PLANET
+#EXTGRP:Cognitive
+http://151.252.75.222:4022/udp/236.0.6.46:1120
+#EXTINF:0 group-title="Cognitive",ANIMAL PLANET
+#EXTGRP:Cognitive
+http://178.217.72.66/225.201.2.91/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Cognitive",ANIMAL PLANET
+#EXTGRP:Cognitive
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4429
+#EXTINF:0 group-title="Cognitive",ANIMAL PLANET (РЕЗЕРВ3)
+#EXTGRP:Cognitive
+http://178.69.23.26:8000/play/36-ntv-animal-planet-929edf3
+#EXTINF:0 group-title="Cognitive",ANIMAL PLANET BG
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/37967
+#EXTINF:0 group-title="Cognitive",ANIMAL PLANET CA
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/632749
+#EXTINF:0 group-title="Cognitive",ANIMAL PLANET CZ
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/18707
+#EXTINF:0 group-title="Cognitive",ANIMAL PLANET FHD
+#EXTGRP:Cognitive
+http://uk4321.com:8080/P75CX5KoB0/WBdYJjzfHf/1094
+#EXTINF:0 group-title="Cognitive",ANIMAL PLANET FHD DK
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/8181
+#EXTINF:0 group-title="Cognitive",ANIMAL PLANET FHD RU
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/36899
+#EXTINF:0 group-title="Cognitive",ANIMAL PLANET HD
+#EXTGRP:Cognitive
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4428
+#EXTINF:0 group-title="Cognitive",ANIMAL PLANET HD
+#EXTGRP:Cognitive
+http://82.200.127.58:8080/udp/239.54.7.94:1224
+#EXTINF:0 group-title="Cognitive",ANIMAL PLANET HD
+#EXTGRP:Cognitive
+http://vs-msk-02.tv.ti.ru:80/dtv/id112_NBN_SG--AnimalPlannetHD/04/plst.m3u8
+#EXTINF:0 group-title="Cognitive",ANIMAL PLANET HD
+#EXTGRP:Cognitive
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/30949
+#EXTINF:0 group-title="Cognitive",ANIMAL PLANET HD
+#EXTGRP:Cognitive
+http://31.211.56.3:3002/udp/239.103.3.2:2222
+#EXTINF:0 group-title="Cognitive",ANIMAL PLANET HD
+#EXTGRP:Cognitive
+http://178.217.72.66/225.201.2.33/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Cognitive",ANIMAL PLANET HD
+#EXTGRP:Cognitive
+http://83.172.32.25:8012/tv/animalplanethd
+#EXTINF:0 group-title="Cognitive",ANIMAL PLANET HD
+#EXTGRP:Cognitive
+http://164.215.87.225:81/udp/226.100.10.125:1234
+#EXTINF:0 group-title="Cognitive",ANIMAL PLANET HD 1080P
+#EXTGRP:Cognitive
+http://ux.mytvxweb.me:25461/Pr/1234/323398
+#EXTINF:0 group-title="Cognitive",ANIMAL PLANET HD DE
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/13173
+#EXTINF:0 group-title="Cognitive",ANIMAL PLANET HD PL
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/7307
+#EXTINF:0 group-title="Cognitive",ANIMAL PLANET HD TR
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/6916
+#EXTINF:0 group-title="Cognitive",ANIMAL PLANET US
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/6362
+#EXTINF:0 group-title="News",AT   R9
+#EXTGRP:News
+https://ms01.w24.at/R9/smil:liveeventR9.smil/chunklist_w870289389_b2112000_slger.m3u8
+#EXTINF:0 group-title="News",ATR
+#EXTGRP:News
+http://stream.atr.ua/atr/live/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 group-title="News",ATR
+#EXTGRP:News
+https://ch.iptvmate.net/5e9342286d87fa6bc067e536.m3u8
+#EXTINF:0 group-title="News",ATÜRK TV
+#EXTGRP:News
+https://5be5d840359c6.streamlock.net/egeaturktv/egeaturktv/playlist.m3u8
+#EXTINF:0 group-title="News",LA TR3
+#EXTGRP:News
+https://ch.iptvmate.net/5e9367f132df2c060c4913d3.m3u8
+#EXTINF:0 group-title="News",LA TR3
+#EXTGRP:News
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/59654
+#EXTINF:0 group-title="Cognitive",АВТО 24
+#EXTGRP:Cognitive
+http://live02-cdn.tv.ti.ru:80/dtv/id243_NBN_SG--Auto24/03/plst.m3u8
+#EXTINF:0 group-title="Cognitive",АВТО 24
+#EXTGRP:Cognitive
+http://vs-msk-02.tv.ti.ru:80/dtv/id243_NBN_SG--Auto24/03/plst.m3u8
+#EXTINF:0 group-title="Cognitive",АВТО24
+#EXTGRP:Cognitive
+http://83.172.32.25:8004/tv/auto24
+#EXTINF:0 group-title="Cognitive",АВТО24 HD
+#EXTGRP:Cognitive
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4466
+#EXTINF:0 group-title="Cognitive",АВТО ПЛЮС
+#EXTGRP:Cognitive
+http://82.200.127.58:8080/udp/239.54.7.37:1224
+#EXTINF:0 group-title="Cognitive",АВТО ПЛЮС
+#EXTGRP:Cognitive
+http://83.172.32.25:8012/tv/autoplus
+#EXTINF:0 group-title="Cognitive",АВТО ПЛЮС
+#EXTGRP:Cognitive
+http://178.69.23.26:8000/play/36-ntv-avto-plyus-06274d2
+#EXTINF:0 group-title="Cognitive",АВТО ПЛЮС
+#EXTGRP:Cognitive
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4472
+#EXTINF:0 group-title="Cognitive",АВТО ПЛЮС
+#EXTGRP:Cognitive
+http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/123/stream.m3u8
+#EXTINF:0 group-title="Cognitive",АВТО ПЛЮС
+#EXTGRP:Cognitive
+http://persik.by/stream/6606/411484/311.m3u8
+#EXTINF:0 group-title="Cognitive",АВТО ПЛЮС HD
+#EXTGRP:Cognitive
+http://vs-msk-02.tv.ti.ru:80/dtv/id1256_NBN_SG--AutoPlusHD_wflite/04/plst.m3u8
+#EXTINF:0 group-title="News",BBC WORLD NEWS
+#EXTGRP:News
+http://194.44.48.82:8021/play/a017
+#EXTINF:0 group-title="News",BBC WORLD NEWS
+#EXTGRP:News
+http://catchup.iptv.iinet.rs/playlist.m3u8?id=144&token=dG9rZW49LVkzblctbGw0RUdzSWhVWWdDUlNiUjZMbGpBbkVUNzgmaWQ9NzImc2VjcmV0PW90dA==&DVR
+#EXTINF:0 group-title="News",BBC WORLD NEWS
+#EXTGRP:News
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4519
+#EXTINF:0 group-title="News",BBC WORLD NEWS
+#EXTGRP:News
+http://82.200.127.58:8080/udp/239.54.5.180:1234
+#EXTINF:0 group-title="News",BBC WORLD NEWS 36 11900R
+#EXTGRP:News
+http://178.69.23.26:8000/play/36-ntv-bbc-world-news-d9306a7
+#EXTINF:0 group-title="News",BBC WORLD NEWS PT
+#EXTGRP:News
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/12527
+#EXTINF:0 group-title="News",BELARUS 24
+#EXTGRP:News
+http://82.200.127.58:8080/udp/239.54.5.175:1224
+#EXTINF:0 group-title="News",БЕЛАРУСЬ 24
+#EXTGRP:News
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4526
+#EXTINF:0 group-title="News",БЕЛАРУСЬ 24
+#EXTGRP:News
+http://vs-msk-02.tv.ti.ru:80/dtv/id600_NBN_SG--belarus24/03/plst.m3u8
+#EXTINF:0 group-title="News",БЕЛАРУСЬ 24
+#EXTGRP:News
+http://live02-cdn.tv.ti.ru:80/dtv/id600_NBN_SG--belarus24/03/plst.m3u8
+#EXTINF:0 group-title="News",БЕЛАРУСЬ 24 HD
+#EXTGRP:News
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4743
+#EXTINF:0 group-title="News",БЕЛАРУСЬ 5
+#EXTGRP:News
+https://95-213-224-187.livesports24.online/belarusss5.m3u8
+#EXTINF:0 group-title="News",БЕЛАРУСЬ 5
+#EXTGRP:News
+http://persik.by/stream/6606/411484/932.m3u8
+#EXTINF:0 group-title="News",БЕЛАРУСЬ 5
+#EXTGRP:News
+https://95-213-224-183.livesports24.online/belarusss5.m3u8
+#EXTINF:0 group-title="News",БЕЛАРУСЬ ТВ
+#EXTGRP:News
+http://91.215.176.238:8000/8channel
+#EXTINF:0 group-title="News",BLOOMBERG
+#EXTGRP:News
+http://188.187.27.25:81/udp/235.10.10.187:1234
+#EXTINF:0 group-title="News",BLOOMBERG
+#EXTGRP:News
+http://119.153.108.154:9981/stream/channelid/1926134058
+#EXTINF:0 group-title="News",BLOOMBERG (EN)
+#EXTGRP:News
+https://ch.iptvmate.net/5e93680d36123957627ff45a.m3u8
+#EXTINF:0 group-title="News",BLOOMBERG BG
+#EXTGRP:News
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/37965
+#EXTINF:0 group-title="News",BLOOMBERG EUROPE TV
+#EXTGRP:News
+http://77.109.171.36:8000/play/a06s
+#EXTINF:0 group-title="News",BLOOMBERG FHD US
+#EXTGRP:News
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/4940
+#EXTINF:0 group-title="News",BLOOMBERG HD
+#EXTGRP:News
+http://45.15.112.3:8112/http/185.8.177.93:8085/udp/229.157.10.201:1234
+#EXTINF:0 group-title="News",BLOOMBERG HD TR
+#EXTGRP:News
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/6900
+#EXTINF:0 group-title="News",BLOOMBERG PT
+#EXTGRP:News
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/12525
+#EXTINF:0 group-title="News",BLOOMBERG TV
+#EXTGRP:News
+https://ch.iptvmate.net/5e93687ab9de7a3a2438006a.m3u8
+#EXTINF:0 group-title="News",BLOOMBERG TV
+#EXTGRP:News
+https://ch.iptvmate.net/5e936872b9de7a3a24380067.m3u8
+#EXTINF:0 group-title="News",BLOOMBERG TV
+#EXTGRP:News
+https://ch.iptvmate.net/5e934be215251d030838c7f0.m3u8
+#EXTINF:0 group-title="News",BLOOMBERG TV EUROPE
+#EXTGRP:News
+https://ch.iptvmate.net/5e936889b9de7a3a24380071.m3u8
+#EXTINF:0 group-title="News",BLOOMBERG TV EUROPE
+#EXTGRP:News
+https://ch.iptvmate.net/5e933a4a59885475726277db.m3u8
+#EXTINF:0 group-title="News",BOOMERANG
+#EXTGRP:News
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/59540
+#EXTINF:0 group-title="News",BOOMERANG
+#EXTGRP:News
+http://79.133.121.141:81/udp/239.191.254.37:13343
+#EXTINF:0 group-title="News",BOOMERANG
+#EXTGRP:News
+http://vs-msk-02.tv.ti.ru:80/dtv/id142_NBN_SG--boomerang/03/plst.m3u8
+#EXTINF:0 group-title="News",BOOMERANG
+#EXTGRP:News
+http://77.89.204.107:8000/play/a0bm/index.m3u8
+#EXTINF:0 group-title="News",BOOMERANG
+#EXTGRP:News
+http://178.69.23.26:8000/play/36-ntv-boomerang-c2129da
+#EXTINF:0 group-title="News",BOOMERANG
+#EXTGRP:News
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4505
+#EXTINF:0 group-title="News",BOOMERANG
+#EXTGRP:News
+http://live02-cdn.tv.ti.ru:80/dtv/id142_NBN_SG--boomerang/03/plst.m3u8
+#EXTINF:0 group-title="News",БОБЁР
+#EXTGRP:News
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4402
+#EXTINF:0 group-title="News",БОБЁР
+#EXTGRP:News
+http://178.217.72.66:80/225.201.2.209/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="News",БОБЕР
+#EXTGRP:News
+http://83.172.32.25:8012/tv/bober
+#EXTINF:0 group-title="News",БОБЕР
+#EXTGRP:News
+http://178.69.23.26:8000/play/36-ntv-bobyor-b1b7450
+#EXTINF:0 group-title="News",БОБЕР
+#EXTGRP:News
+http://212.19.13.173:4022/udp/239.191.254.179:13343
+#EXTINF:0 group-title="News",БОБЕР
+#EXTGRP:News
+http://89.106.234.3:80/bober_38_39.m3u8
+#EXTINF:0 group-title="XXX",BLUE HUSTLER
+#EXTGRP:XXX
+http://178.217.72.66/225.201.2.61/index.m3u8
+#EXTINF:0 group-title="XXX",BLUE HUSTLER
+#EXTGRP:XXX
+http://78.107.248.201:4022/udp/233.33.221.106:5050
+#EXTINF:0 group-title="XXX",BLUE HUSTLER EUROPE
+#EXTGRP:XXX
+http://195.181.162.217:25461/098038/098038/35603
+#EXTINF:0 group-title="XXX",BLUE HUSTLER EUROPE
+#EXTGRP:XXX
+http://ux.mytvxweb.me:25461/tatiana3/tatiana3/330351
+#EXTINF:0 group-title="Sport",БОКС ТВ
+#EXTGRP:Sport
+http://live02-cdn.tv.ti.ru:80/dtv/id1266_NBN_SG--BoksTV/03/plst.m3u8
+#EXTINF:0 group-title="Sport",БОКС ТВ
+#EXTGRP:Sport
+http://vs-msk-02.tv.ti.ru:80/dtv/id1266_NBN_SG--BoksTV/03/plst.m3u8
+#EXTINF:0 group-title="Sport",БОКС ТВ HD
+#EXTGRP:Sport
+http://mytv.fun:8080/lwt5tj7ww/3k8v6i9a0l/5372
+#EXTINF:0 group-title="Sport",БОКС ТВ HD
+#EXTGRP:Sport
+http://mytv.fun:8080/bcshablcl/h1n49hq8ol/5372
+#EXTINF:0 group-title="XXX",BRAZZERS HD
+#EXTGRP:XXX
+http://62.112.9.63:88/Brazzers/index.m3u8?token=test
+#EXTINF:0 group-title="XXX",BRAZZERS TV
+#EXTGRP:XXX
+http://109.248.79.124:4044/udp/239.195.2.4:1234
+#EXTINF:0 group-title="XXX",BRAZZERS TV EUROPE
+#EXTGRP:XXX
+http://vs-msk-02.tv.ti.ru:80/dtv/id358_NBN_SG--Brazzers/03/plst.m3u8
+#EXTINF:0 group-title="XXX",BRAZZERS TV EUROPE
+#EXTGRP:XXX
+http://live02-cdn.tv.ti.ru:80/dtv/id358_NBN_SG--Brazzers/03/plst.m3u8
+#EXTINF:0 group-title="XXX",BRAZZERS TV EUROPE
+#EXTGRP:XXX
+http://195.181.162.217:80/039456/039456/35604
+#EXTINF:0 group-title="XXX",BRAZZERS TV EUROPE
+#EXTGRP:XXX
+http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/910/index.m3u8
+#EXTINF:0 group-title="Music",BRIDGE TV DANCE
+#EXTGRP:Music
+http://astra.realcrimea.net:8000/play/a0bj
+#EXTINF:0 group-title="Music",BRIDGE TV DANCE
+#EXTGRP:Music
+http://78.107.248.201:4022/udp/233.33.220.43:5050
+#EXTINF:0 group-title="Kids",CARTOON NETWORK
+#EXTGRP:Kids
+http://uk4321.com:8080/P75CX5KoB0/WBdYJjzfHf/762
+#EXTINF:0 group-title="Kids",CARTOON NETWORK
+#EXTGRP:Kids
+http://82.200.127.58:8080/udp/239.54.7.57:1224
+#EXTINF:0 group-title="Kids",CARTOON NETWORK
+#EXTGRP:Kids
+http://live02-cdn.tv.ti.ru:80/dtv/id141_NBN_SG--cartoon/03/plst.m3u8
+#EXTINF:0 group-title="Kids",CARTOON NETWORK
+#EXTGRP:Kids
+http://persik.by/stream/6606/411484/54.m3u8
+#EXTINF:0 group-title="Kids",CARTOON NETWORK
+#EXTGRP:Kids
+http://vs-msk-02.tv.ti.ru:80/dtv/id141_NBN_SG--cartoon/03/plst.m3u8
+#EXTINF:0 group-title="Kids",CARTOON NETWORK
+#EXTGRP:Kids
+http://178.217.72.66/225.201.2.73/index.m3u8
+#EXTINF:0 group-title="Kids",CARTOON NETWORK
+#EXTGRP:Kids
+http://persik.by/stream/6606/411484/805.m3u8
+#EXTINF:0 group-title="Kids",CARTOON NETWORK
+#EXTGRP:Kids
+http://83.172.32.25:8004/tv/cartoonnetwork
+#EXTINF:0 group-title="Kids",CARTOON NETWORK
+#EXTGRP:Kids
+http://178.217.72.66/225.201.2.73/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Kids",CARTOON NETWORK (РЕЗЕРВ2)
+#EXTGRP:Kids
+http://178.69.23.26:8000/play/36-ntv-cartoon-network-da3b63f
+#EXTINF:0 group-title="Kids",CARTOON NETWORK BR
+#EXTGRP:Kids
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/6137
+#EXTINF:0 group-title="Kids",CARTOON NETWORK FHD DE
+#EXTGRP:Kids
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/6257
+#EXTINF:0 group-title="Kids",CARTOON NETWORK FHD FR
+#EXTGRP:Kids
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/12943
+#EXTINF:0 group-title="Kids",CARTOON NETWORK FHD LAM
+#EXTGRP:Kids
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/6689
+#EXTINF:0 group-title="Kids",CARTOON NETWORK FHD PL
+#EXTGRP:Kids
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/9882
+#EXTINF:0 group-title="Kids",CARTOON NETWORK FHD UK
+#EXTGRP:Kids
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/671326
+#EXTINF:0 group-title="Kids",CARTOON NETWORK FHD US
+#EXTGRP:Kids
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/4886
+#EXTINF:0 group-title="Kids",CARTOON NETWORK FR
+#EXTGRP:Kids
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/5695
+#EXTINF:0 group-title="Kids",CARTOON NETWORK HD
+#EXTGRP:Kids
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/58860
+#EXTINF:0 group-title="Kids",CARTOON NETWORK HD
+#EXTGRP:Kids
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4498
+#EXTINF:0 group-title="Kids",CARTOON NETWORK HD 1080P
+#EXTGRP:Kids
+http://ux.mytvxweb.me:25461/Pr/1234/323388
+#EXTINF:0 group-title="Kids",CARTOON NETWORK HD BR
+#EXTGRP:Kids
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/16521
+#EXTINF:0 group-title="Kids",CARTOON NETWORK HD DK
+#EXTGRP:Kids
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/8187
+#EXTINF:0 group-title="Kids",CARTOON NETWORK HD IT
+#EXTGRP:Kids
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/9307
+#EXTINF:0 group-title="Kids",CARTOON NETWORK PT
+#EXTGRP:Kids
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/8804
+#EXTINF:0 group-title="Kids",CARTOON NETWORK SE
+#EXTGRP:Kids
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/6511
+#EXTINF:0 group-title="Kids",CARTOON NETWORK TÜRKIYE
+#EXTGRP:Kids
+http://streams2.livetv.az/turk/cartoon/chunks.m3u8
+#EXTINF:0 group-title="Kids",CARTOON NETWORK VIP DK
+#EXTGRP:Kids
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/672863
+#EXTINF:0 group-title="Humor",ЧЕ
+#EXTGRP:Humor
+http://82.200.127.58:8080/udp/239.54.5.4:1224
+#EXTINF:0 group-title="Humor",ЧЕ
+#EXTGRP:Humor
+http://persik.by/stream/6606/411484/385.m3u8
+#EXTINF:0 group-title="Humor",ЧЕ
+#EXTGRP:Humor
+http://82.200.127.58:8080/udp/239.0.42.104:1224
+#EXTINF:0 group-title="Humor",ЧЕ!
+#EXTGRP:Humor
+http://vs-msk-02.tv.ti.ru:80/dtv/id128_NBN_SG--perez/03/plst.m3u8
+#EXTINF:0 group-title="Humor",ЧЕ!
+#EXTGRP:Humor
+http://178.217.72.66/225.201.2.39/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Humor",ЧЕ!
+#EXTGRP:Humor
+http://live02-cdn.tv.ti.ru:80/dtv/id128_NBN_SG--perez/03/plst.m3u8
+#EXTINF:0 group-title="Humor",ЧЕ!
+#EXTGRP:Humor
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4465
+#EXTINF:0 group-title="News",CNN
+#EXTGRP:News
+http://194.44.48.82:8021/play/a015
+#EXTINF:0 group-title="News",CNN HD US
+#EXTGRP:News
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/4919
+#EXTINF:0 group-title="Humor",COMEDY CENTRAL
+#EXTGRP:Humor
+http://persik.by/stream/6606/411484/10480.m3u8
+#EXTINF:0 group-title="Humor",COMEDY CENTRAL
+#EXTGRP:Humor
+http://uk4321.com:8080/P75CX5KoB0/WBdYJjzfHf/10844
+#EXTINF:0 group-title="Humor",COMEDY CENTRAL / VIVA AT
+#EXTGRP:Humor
+http://77.109.171.36:8000/play/a050
+#EXTINF:0 group-title="Humor",COMEDY CENTRAL 19 11973V
+#EXTGRP:Humor
+http://178.69.23.26:8000/play/19-mtv-networks-europe-comedy-central-b0b8356
+#EXTINF:0 group-title="Humor",COMEDY CENTRAL BR
+#EXTGRP:Humor
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/16518
+#EXTINF:0 group-title="Humor",COMEDY CENTRAL HD 1080P
+#EXTGRP:Humor
+http://ux.mytvxweb.me:25461/Pr/1234/323378
+#EXTINF:0 group-title="Humor",COMEDY CENTRAL HD CO
+#EXTGRP:Humor
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/21328
+#EXTINF:0 group-title="Humor",COMEDY CENTRAL HD ES
+#EXTGRP:Humor
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/7230
+#EXTINF:0 group-title="Humor",COMEDY CENTRAL LAM
+#EXTGRP:Humor
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/6703
+#EXTINF:0 group-title="Humor",COMEDY CENTRAL NEDERLAND
+#EXTGRP:Humor
+http://uk4321.com:8080/P75CX5KoB0/WBdYJjzfHf/1822
+#EXTINF:0 group-title="Humor",COMEDY CENTRAL/VIVA
+#EXTGRP:Humor
+http://77.109.171.36:8000/play/a05a
+#EXTINF:0 group-title="Humor",COMEDYCENTRAL CH HD
+#EXTGRP:Humor
+http://176.10.117.3:5000/play/a03b
+#EXTINF:0 group-title="Humor",COMEDY_CENTRAL_UK HD
+#EXTGRP:Humor
+http://62.112.9.63:88/comedy_central_uk/index.m3u8?token=test
+#EXTINF:0 group-title="Cognitive",ДИАЛОГИ О РЫБАЛКЕ
+#EXTGRP:Cognitive
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4478
+#EXTINF:0 group-title="Cognitive",ДИАЛОГИ О РЫБАЛКЕ
+#EXTGRP:Cognitive
+http://178.217.72.66/225.201.2.96/index.m3u8
+#EXTINF:0 group-title="Cognitive",ДИАЛОГИ О РЫБАЛКЕ
+#EXTGRP:Cognitive
+https://ch.iptvmate.net/5e935a6b1285ad74f42d43a5.m3u8
+#EXTINF:0 group-title="Cognitive",ДИАЛОГИ О РЫБАЛКЕ
+#EXTGRP:Cognitive
+http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/114/stream.m3u8
+#EXTINF:0 group-title="Cognitive",ДИАЛОГИ О РЫБАЛКЕ (РЕЗЕРВ)
+#EXTGRP:Cognitive
+http://178.69.23.26:8000/play/36-ntv-dialogi-o-ribalke-0b52cbd
+#EXTINF:0 group-title="Cognitive",ДИАЛОГИ О РЫБАЛКЕ HD
+#EXTGRP:Cognitive
+http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/2394/index.m3u8
+#EXTINF:0 group-title="Cognitive",ДИКАЯ ОХОТА HD
+#EXTGRP:Cognitive
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4467
+#EXTINF:0 group-title="Cognitive",ДИКАЯ ОХОТА HD
+#EXTGRP:Cognitive
+http://astra.realcrimea.net:8000/play/a0c8
+#EXTINF:0 group-title="Cognitive",ДИКАЯ РЫБАЛКА HD
+#EXTGRP:Cognitive
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4468
+#EXTINF:0 group-title="Cognitive",ДИКАЯ РЫБАЛКА HD
+#EXTGRP:Cognitive
+http://astra.realcrimea.net:8000/play/a0c7
+#EXTINF:0 group-title="Cognitive",ДИКАЯ РЫБАЛКА HD
+#EXTGRP:Cognitive
+http://37.235.199.140:81/udp/225.50.71.9:1234
+#EXTINF:0 group-title="Cognitive",ДИКИЙ
+#EXTGRP:Cognitive
+http://astra.realcrimea.net:8000/play/a0c1
+#EXTINF:0 group-title="Cognitive",ДИКИЙ
+#EXTGRP:Cognitive
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4442
+#EXTINF:0 group-title="Cognitive",ДИКИЙ
+#EXTGRP:Cognitive
+http://178.69.23.26:8000/play/36-ntv-dikiy-0b95b4a
+#EXTINF:0 group-title="Cognitive",DISCOVERY CHANNEL
+#EXTGRP:Cognitive
+http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/140/index.m3u8
+#EXTINF:0 group-title="Cognitive",DISCOVERY CHANNEL
+#EXTGRP:Cognitive
+http://77.89.204.107:8000/play/a0b4/index.m3u8
+#EXTINF:0 group-title="Cognitive",DISCOVERY CHANNEL
+#EXTGRP:Cognitive
+http://uk4321.com:8080/P75CX5KoB0/WBdYJjzfHf/10759
+#EXTINF:0 group-title="Cognitive",DISCOVERY CHANNEL
+#EXTGRP:Cognitive
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4409
+#EXTINF:0 group-title="Cognitive",DISCOVERY CHANNEL
+#EXTGRP:Cognitive
+http://79.142.197.8:8888/Discovery/index.m3u8
+#EXTINF:0 group-title="Cognitive",DISCOVERY CHANNEL FHD
+#EXTGRP:Cognitive
+http://uk4321.com:8080/P75CX5KoB0/WBdYJjzfHf/10829
+#EXTINF:0 group-title="Cognitive",DISCOVERY CHANNEL FHD CH
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/8996
+#EXTINF:0 group-title="Cognitive",DISCOVERY CHANNEL FHD RU
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/36894
+#EXTINF:0 group-title="Cognitive",DISCOVERY CHANNEL FHD UK
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/671421
+#EXTINF:0 group-title="Cognitive",DISCOVERY CHANNEL FI
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/53583
+#EXTINF:0 group-title="Cognitive",DISCOVERY CHANNEL HD
+#EXTGRP:Cognitive
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4410
+#EXTINF:0 group-title="Cognitive",DISCOVERY CHANNEL HD
+#EXTGRP:Cognitive
+http://astra.realcrimea.net:8000/play/a09z
+#EXTINF:0 group-title="Cognitive",DISCOVERY CHANNEL HD
+#EXTGRP:Cognitive
+http://83.172.32.25:8012/tv/discoveryhd
+#EXTINF:0 group-title="Cognitive",DISCOVERY CHANNEL HD
+#EXTGRP:Cognitive
+http://vs-msk-02.tv.ti.ru:80/dtv/id247_NBN_SG--DiscoveryChannelHD/04/plst.m3u8
+#EXTINF:0 group-title="Cognitive",DISCOVERY CHANNEL HD
+#EXTGRP:Cognitive
+http://uk4321.com:8080/P75CX5KoB0/WBdYJjzfHf/1193
+#EXTINF:0 group-title="Cognitive",DISCOVERY CHANNEL HD BR
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/6134
+#EXTINF:0 group-title="Cognitive",DISCOVERY CHANNEL HD SE
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/7072
+#EXTINF:0 group-title="Cognitive",DISCOVERY CHANNEL HU
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/13291
+#EXTINF:0 group-title="Cognitive",DISCOVERY CHANNEL NL
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/5155
+#EXTINF:0 group-title="Cognitive",DISCOVERY CHANNEL PT
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/7523
+#EXTINF:0 group-title="Cognitive",DISCOVERY CHANNEL RO
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/35706
+#EXTINF:0 group-title="Cognitive",DISCOVERY СHANNEL HD
+#EXTGRP:Cognitive
+http://178.69.23.26:8000/play/36-ntv-discovery-channel-fb975ac
+#EXTINF:0 group-title="Cognitive",DISCOVERY
+#EXTGRP:Cognitive
+http://81.24.248.26:9981/stream/channelid/772325611?ticket=22E20C32FEC97160A609AF7716BD753C57D8511A&profile=pass
+#EXTINF:0 group-title="Cognitive",DISCOVERY
+#EXTGRP:Cognitive
+http://178.217.72.66/225.201.2.88/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Cognitive",DISCOVERY
+#EXTGRP:Cognitive
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/40950
+#EXTINF:0 group-title="Cognitive",DISCOVERY HD
+#EXTGRP:Cognitive
+http://178.217.72.66/225.201.2.50/index.m3u8
+#EXTINF:0 group-title="Cognitive",DISCOVERY HD
+#EXTGRP:Cognitive
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/59608
+#EXTINF:0 group-title="Cognitive",DISCOVERY HD
+#EXTGRP:Cognitive
+http://82.200.127.58:8080/udp/239.54.7.86:1224
+#EXTINF:0 group-title="Cognitive",DISCOVERY HD
+#EXTGRP:Cognitive
+http://uk4321.com:8080/P75CX5KoB0/WBdYJjzfHf/1273
+#EXTINF:0 group-title="Cognitive",DISCOVERY SCI HD
+#EXTGRP:Cognitive
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/59609
+#EXTINF:0 group-title="Cognitive",DISCOVERY SCIENCE
+#EXTGRP:Cognitive
+http://178.69.23.26:8000/play/36-ntv-discovery-science-618831f
+#EXTINF:0 group-title="Cognitive",DISCOVERY SCIENCE
+#EXTGRP:Cognitive
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/40949
+#EXTINF:0 group-title="Cognitive",DISCOVERY SCIENCE
+#EXTGRP:Cognitive
+http://178.217.72.66/225.201.2.75/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Cognitive",DISCOVERY SCIENCE
+#EXTGRP:Cognitive
+http://83.172.32.25:8004/tv/discoveryscience
+#EXTINF:0 group-title="Cognitive",DISCOVERY SCIENCE
+#EXTGRP:Cognitive
+http://live02-cdn.tv.ti.ru/dtv/id248_NBN_SG--DiscoveryScienceHD/02/plst.m3u8
+#EXTINF:0 group-title="Cognitive",DISCOVERY SCIENCE AL
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/10101
+#EXTINF:0 group-title="Cognitive",DISCOVERY SCIENCE DK [MULTI-SUB]
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/20069
+#EXTINF:0 group-title="Cognitive",DISCOVERY SCIENCE FHD FR
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/5682
+#EXTINF:0 group-title="Cognitive",DISCOVERY SCIENCE FHD US
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/4887
+#EXTINF:0 group-title="Cognitive",DISCOVERY SCIENCE HD
+#EXTGRP:Cognitive
+http://vs-msk-02.tv.ti.ru:80/dtv/id248_NBN_SG--DiscoveryScienceHD/04/plst.m3u8
+#EXTINF:0 group-title="Cognitive",DISCOVERY SCIENCE HD 1080P
+#EXTGRP:Cognitive
+http://ux.mytvxweb.me:25461/Pr/1234/323372
+#EXTINF:0 group-title="Cognitive",DISCOVERY SCIENCE HD CA
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/37073
+#EXTINF:0 group-title="Cognitive",DISCOVERY SCIENCE HD IT
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/13074
+#EXTINF:0 group-title="Cognitive",DISCOVERY SCIENCE HD VIP SE
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/672683
+#EXTINF:0 group-title="Cognitive",DISCOVERY SCIENCE NL
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/11426
+#EXTINF:0 group-title="Cognitive",DISCOVERY SCIENCE PL
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/5234
+#EXTINF:0 group-title="Cognitive",DISCOVERY SCIENCE SE
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/11018
+#EXTINF:0 group-title="Cognitive",DISCOVERY SCIENCE TR
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/6890
+#EXTINF:0 group-title="Cognitive",DISCOVERY SCIENCE UK
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/6622
+#EXTINF:0 group-title="Cognitive",DISCOVERY SCIENCE VIP DK
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/672815
+#EXTINF:0 group-title="Cognitive",DISCOVERY SCIENCE [MULTI-SUB]
+#EXTGRP:Cognitive
+http://uk4321.com:8080/P75CX5KoB0/WBdYJjzfHf/828
+#EXTINF:0 group-title="Cognitive",DISCOVERY HD SHOWCASE
+#EXTGRP:Cognitive
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4785
+#EXTINF:0 group-title="Cognitive",DISCOVERY SHED
+#EXTGRP:Cognitive
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/40948
+#EXTINF:0 group-title="Cognitive",DISCOVERY SHOWCASE HD
+#EXTGRP:Cognitive
+http://45.88.104.104/play/272/index.m3u8
+#EXTINF:0 group-title="Cognitive",DISCOVERY TURBO
+#EXTGRP:Cognitive
+http://uk4321.com:8080/P75CX5KoB0/WBdYJjzfHf/1088
+#EXTINF:0 group-title="Cognitive",DISCOVERY TURBO HD 720P
+#EXTGRP:Cognitive
+http://ux.mytvxweb.me:25461/Pr/1234/351787
+#EXTINF:0 group-title="Cognitive",DISCOVERY TURBO HD BR
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/16510
+#EXTINF:0 group-title="Cognitive",DISCOVERY TURBO UK
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/6620
+#EXTINF:0 group-title="Kids",DISNEY CHANNEL
+#EXTGRP:Kids
+http://82.200.127.58:8080/udp/239.54.5.67:1224
+#EXTINF:0 group-title="Kids",DISNEY CHANNEL
+#EXTGRP:Kids
+http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/192/stream.m3u8
+#EXTINF:0 group-title="Kids",DISNEY CHANNEL
+#EXTGRP:Kids
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/30916
+#EXTINF:0 group-title="Kids",DISNEY CHANNEL
+#EXTGRP:Kids
+http://77.109.171.36:8000/play/a04q
+#EXTINF:0 group-title="Kids",DISNEY CHANNEL
+#EXTGRP:Kids
+http://176.10.117.3:5000/play/a038
+#EXTINF:0 group-title="Kids",DISNEY CHANNEL
+#EXTGRP:Kids
+http://uk4321.com:8080/P75CX5KoB0/WBdYJjzfHf/758
+#EXTINF:0 group-title="Kids",DISNEY CHANNEL FHD FR
+#EXTGRP:Kids
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/5681
+#EXTINF:0 group-title="Kids",DISNEY CHANNEL FHD UK
+#EXTGRP:Kids
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/6619
+#EXTINF:0 group-title="Kids",DISNEY CHANNEL HD
+#EXTGRP:Kids
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/58865
+#EXTINF:0 group-title="Kids",DISNEY CHANNEL HD BR
+#EXTGRP:Kids
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/16507
+#EXTINF:0 group-title="Kids",DISNEY CHANNEL HD US
+#EXTGRP:Kids
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/14369
+#EXTINF:0 group-title="Kids",DISNEY CHANNEL RO
+#EXTGRP:Kids
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/12068
+#EXTINF:0 group-title="Kids",INTER CHANNEL
+#EXTGRP:Kids
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/59572
+#EXTINF:0 group-title="Kids",DISNEY
+#EXTGRP:Kids
+http://178.163.39.204:4022/udp/234.0.0.198:2000
+#EXTINF:0 group-title="Kids",DISNEY
+#EXTGRP:Kids
+http://188.242.211.89:81/udp/239.239.3.10:5239
+#EXTINF:0 group-title="Kids",DISNEY JR CA
+#EXTGRP:Kids
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/37072
+#EXTINF:0 group-title="Kids",DISNEY XD
+#EXTGRP:Kids
+http://uk4321.com:8080/P75CX5KoB0/WBdYJjzfHf/1164
+#EXTINF:0 group-title="Kids",DISNEY XD AL
+#EXTGRP:Kids
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/10091
+#EXTINF:0 group-title="Kids",DISNEY XD BR
+#EXTGRP:Kids
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/6130
+#EXTINF:0 group-title="Kids",DISNEY XD HD
+#EXTGRP:Kids
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/31052
+#EXTINF:0 group-title="Kids",DISNEY XD HD US
+#EXTGRP:Kids
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/14367
+#EXTINF:0 group-title="Kids",DISNEY XD TR
+#EXTGRP:Kids
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/6888
+#EXTINF:0 group-title="XXX",DORCEL HD
+#EXTGRP:XXX
+http://130.180.93.142:8001/1:0:19:4205:2F44:13E:820000:0:0:0
+#EXTINF:0 group-title="XXX",DORCEL TV HD
+#EXTGRP:XXX
+http://178.132.4.190:8080/BagkijO4TF/1109338580/1203
+#EXTINF:0 group-title="XXX",DORCEL TV HD
+#EXTGRP:XXX
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/874.ts
+#EXTINF:0 group-title="XXX",DORCEL TV HD
+#EXTGRP:XXX
+http://185.229.139.65:8011/play/dorcelhd/index.m3u8
+#EXTINF:0 group-title="Kids",DUCK TV AL
+#EXTGRP:Kids
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/9960
+#EXTINF:0 group-title="Kids",DUCK TV BG
+#EXTGRP:Kids
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/37960
+#EXTINF:0 group-title="Cognitive",ЕДА
+#EXTGRP:Cognitive
+http://195.144.197.170:8886/udp/237.0.1.156:10000
+#EXTINF:0 group-title="Cognitive",ЕДА
+#EXTGRP:Cognitive
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4490
+#EXTINF:0 group-title="Cognitive",ЕДА ТВ
+#EXTGRP:Cognitive
+http://83.172.32.25:8004/tv/edahd
+#EXTINF:0 group-title="Kids",ENGLISH CLUB
+#EXTGRP:Kids
+http://vs-msk-02.tv.ti.ru:80/dtv/id530_NBN_SG--EnglishClub/03/plst.m3u8
+#EXTINF:0 group-title="Kids",ENGLISH CLUB
+#EXTGRP:Kids
+http://live02-cdn.tv.ti.ru:80/dtv/id530_NBN_SG--EnglishClub/03/plst.m3u8
+#EXTINF:0 group-title="Kids",ENGLISH CLUB HD
+#EXTGRP:Kids
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4461
+#EXTINF:0 group-title="Kids",ENGLISH CLUB TV
+#EXTGRP:Kids
+http://178.163.13.244:4022/udp/234.0.0.174:2000
+#EXTINF:0 group-title="Kids",ENGLISH CLUB TV
+#EXTGRP:Kids
+http://195.144.197.170:8886/udp/237.0.1.103:10000
+#EXTINF:0 group-title="Movies",ENTER ФИЛЬМ
+#EXTGRP:Movies
+http://79.142.197.7:8888/Enter_film/mono.m3u8
+#EXTINF:0 group-title="Movies",ENTER-ФІЛЬМ
+#EXTGRP:Movies
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4742
+#EXTINF:0 group-title="XXX",EROXXX HD
+#EXTGRP:XXX
+http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/5015/index.m3u8
+#EXTINF:0 group-title="News",ЕСПРЕСО
+#EXTGRP:News
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4717
+#EXTINF:0 group-title="Music",DELUX MUSIC HD
+#EXTGRP:Music
+http://uk4321.com:8080/P75CX5KoB0/WBdYJjzfHf/1209
+#EXTINF:0 group-title="Music",DELUXE MUSIC
+#EXTGRP:Music
+http://77.109.171.36:8000/play/xxxDeluxeMusicxxx
+#EXTINF:0 group-title="Music",EU MUSIC
+#EXTGRP:Music
+http://46.37.210.19:34040/udp/238.39.40.207:5000
+#EXTINF:0 group-title="Music",EU MUSIC
+#EXTGRP:Music
+http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/925/index.m3u8
+#EXTINF:0 group-title="Music",EU MUSIC
+#EXTGRP:Music
+http://79.135.212.152:4022/udp/238.39.40.207:5000
+#EXTINF:0 group-title="Music",RU TV MUSICA
+#EXTGRP:Music
+http://persik.by/stream/6606/411484/10261.m3u8
+#EXTINF:0 group-title="News",EURONEWS
+#EXTGRP:News
+https://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
+#EXTINF:0 group-title="News",EURONEWS
+#EXTGRP:News
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4545
+#EXTINF:0 group-title="News",EURONEWS
+#EXTGRP:News
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8?checkedby:iptvcat.com
+#EXTINF:0 group-title="News",EURONEWS
+#EXTGRP:News
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 group-title="News",EURONEWS
+#EXTGRP:News
+http://persik.by/stream/6606/411484/525.m3u8
+#EXTINF:0 group-title="News",EURONEWS
+#EXTGRP:News
+http://persik.by/stream/6606/411484/37.m3u8
+#EXTINF:0 group-title="News",EURONEWS
+#EXTGRP:News
+https://ch.iptvmate.net/5e935842a655d41c45676c56.m3u8
+#EXTINF:0 group-title="News",EURONEWS
+#EXTGRP:News
+https://ch.iptvmate.net/5e93528e8f173a1ce731a0b4.m3u8
+#EXTINF:0 group-title="News",EURONEWS
+#EXTGRP:News
+http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/223/stream.m3u8
+#EXTINF:0 group-title="News",EURONEWS
+#EXTGRP:News
+http://79.171.118.17:4022/udp/239.10.32.23:5000
+#EXTINF:0 group-title="News",EURONEWS
+#EXTGRP:News
+http://82.200.127.58:8080/udp/239.54.5.149:1224
+#EXTINF:0 group-title="News",EURONEWS
+#EXTGRP:News
+http://194.44.48.82:8021/play/a018
+#EXTINF:0 group-title="News",EURONEWS
+#EXTGRP:News
+https://ch.iptvmate.net/5e93583ea655d41c45676c53.m3u8
+#EXTINF:0 group-title="News",EURONEWS (ENG)
+#EXTGRP:News
+http://persik.by/stream/6606/411484/10265.m3u8
+#EXTINF:0 group-title="News",EURONEWS DE
+#EXTGRP:News
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/6248
+#EXTINF:0 group-title="News",EURONEWS FHD FR
+#EXTGRP:News
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/5673
+#EXTINF:0 group-title="News",EURONEWS FRANCE
+#EXTGRP:News
+http://188.35.9.5:10020/stolen/510i/hot.dll
+#EXTINF:0 group-title="News",EURONEWS HD
+#EXTGRP:News
+http://89.208.205.165:5050/udp/224.0.42.50:5000
+#EXTINF:0 group-title="News",EURONEWS HD
+#EXTGRP:News
+http://176.10.117.3:5000/play/a02s
+#EXTINF:0 group-title="News",EURONEWS UK
+#EXTGRP:News
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/9545
+#EXTINF:0 group-title="News",EURONEWS РОССИЯ
+#EXTGRP:News
+http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/828/index.m3u8
+#EXTINF:0 group-title="News",H1/EURONEWS
+#EXTGRP:News
+http://livestream.htp.tv/hls-live/livepkgr/_definst_/H1/H1_HQ.m3u8
+#EXTINF:0 group-title="Sport",C MORE SPORT 1 HD
+#EXTGRP:Sport
+http://uk4321.com:8080/P75CX5KoB0/WBdYJjzfHf/10775
+#EXTINF:0 group-title="Sport",EUROSPORT 1
+#EXTGRP:Sport
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4549
+#EXTINF:0 group-title="Sport",EUROSPORT 1
+#EXTGRP:Sport
+https://95-213-224-179.livesports24.online/eurosport1ru.m3u8
+#EXTINF:0 group-title="Sport",EUROSPORT 1
+#EXTGRP:Sport
+http://176.10.117.3:5000/play/a03l
+#EXTINF:0 group-title="Sport",EUROSPORT 1 FHD
+#EXTGRP:Sport
+http://uk4321.com:8080/P75CX5KoB0/WBdYJjzfHf/843
+#EXTINF:0 group-title="Sport",EUROSPORT 1 FHD GR
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/12738
+#EXTINF:0 group-title="Sport",EUROSPORT 1 FHD NL
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/11444
+#EXTINF:0 group-title="Sport",EUROSPORT 1 FHD RO
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/5292
+#EXTINF:0 group-title="Sport",EUROSPORT 1 FHD RU
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/36870
+#EXTINF:0 group-title="Sport",EUROSPORT 1 FHD SE
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/672708
+#EXTINF:0 group-title="Sport",EUROSPORT 1 FHD VIP FI
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/673355
+#EXTINF:0 group-title="Sport",EUROSPORT 1 HD
+#EXTGRP:Sport
+http://universeiptv.com:8000/sarah/sarah/2081
+#EXTINF:0 group-title="Sport",EUROSPORT 1 HD
+#EXTGRP:Sport
+http://live-ng-01.more.tv/hls/Eurosport_Rus_HD/master.m3u8
+#EXTINF:0 group-title="Sport",EUROSPORT 1 HD
+#EXTGRP:Sport
+http://vs-msk-02.tv.ti.ru:80/dtv/id219_NBN_SG--EuroSportHD/04/plst.m3u8
+#EXTINF:0 group-title="Sport",EUROSPORT 1 HD
+#EXTGRP:Sport
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/58871
+#EXTINF:0 group-title="Sport",EUROSPORT 1 HD
+#EXTGRP:Sport
+http://live-ng-01.more.tv/hls/Eurosport_Rus_HD/index_2.m3u8
+#EXTINF:0 group-title="Sport",EUROSPORT 1 HD
+#EXTGRP:Sport
+http://uk4321.com:8080/P75CX5KoB0/WBdYJjzfHf/753
+#EXTINF:0 group-title="Sport",EUROSPORT 1 HD
+#EXTGRP:Sport
+http://uk4321.com:8080/P75CX5KoB0/WBdYJjzfHf/5856
+#EXTINF:0 group-title="Sport",EUROSPORT 1 HD
+#EXTGRP:Sport
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/59579
+#EXTINF:0 group-title="Sport",EUROSPORT 1 HD BG
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/625815
+#EXTINF:0 group-title="Sport",EUROSPORT 1 HD IT
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/13373
+#EXTINF:0 group-title="Sport",EUROSPORT 1 HD PL
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/9878
+#EXTINF:0 group-title="Sport",EUROSPORT 1 HD RO
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/12981
+#EXTINF:0 group-title="Sport",EUROSPORT 1 HD SE
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/13208
+#EXTINF:0 group-title="Sport",EUROSPORT 1 HD TR
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/6879
+#EXTINF:0 group-title="Sport",EUROSPORT 1 IT
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/4321
+#EXTINF:0 group-title="Sport",EUROSPORT 1 VIP DK
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/672813
+#EXTINF:0 group-title="Sport",EUROSPORT 1 [RU] [SD]
+#EXTGRP:Sport
+http://163.172.179.78:8081/tv/eurosport-1/chunks.m3u8
+#EXTINF:0 group-title="Sport",EUROSPORT 1 [RU] [SD]
+#EXTGRP:Sport
+http://188.35.9.11:21111/udp/173e
+#EXTINF:0 group-title="Sport",EUROSPORT 1 [RU] [SD]
+#EXTGRP:Sport
+http://51.15.215.116:8081/tv/eurosport-1/playlist.m3u8
+#EXTINF:0 group-title="Sport",EUROSPORT 1 [RU] [SD]
+#EXTGRP:Sport
+http://92.38.127.16:8000/play/a06u
+#EXTINF:0 group-title="Sport",EUROSPORT PLUSS 1 HD
+#EXTGRP:Sport
+http://uk4321.com:8080/P75CX5KoB0/WBdYJjzfHf/5859
+#EXTINF:0 group-title="Sport",EUROSPORT1HD _295
+#EXTGRP:Sport
+http://srb.00387.info/SR:EuroSport1HD/index.m3u8?token=test
+#EXTINF:0 group-title="Sport",EUROSPORTS 1 FHD UK
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/671327
+#EXTINF:0 group-title="Sport",EUROSPORT
+#EXTGRP:Sport
+http://79.142.197.7:8888/Eurosport/mono.m3u8
+#EXTINF:0 group-title="Sport",EUROSPORT 2
+#EXTGRP:Sport
+http://vs-msk-02.tv.ti.ru:80/dtv/id340_NBN_SG--Eurosport2HD/04/plst.m3u8
+#EXTINF:0 group-title="Sport",EUROSPORT 2
+#EXTGRP:Sport
+http://astra.realcrimea.net:8000/play/a06v
+#EXTINF:0 group-title="Sport",EUROSPORT 2
+#EXTGRP:Sport
+http://188.35.9.11:21141/udp/185v
+#EXTINF:0 group-title="Sport",EUROSPORT 2
+#EXTGRP:Sport
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4567
+#EXTINF:0 group-title="Sport",EUROSPORT 2 FHD
+#EXTGRP:Sport
+http://uk4321.com:8080/P75CX5KoB0/WBdYJjzfHf/844
+#EXTINF:0 group-title="Sport",EUROSPORT 2 FHD PT
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/7518
+#EXTINF:0 group-title="Sport",EUROSPORT 2 HD
+#EXTGRP:Sport
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4572
+#EXTINF:0 group-title="Sport",EUROSPORT 2 HD
+#EXTGRP:Sport
+http://62.122.89.91:2732/udp/239.1.13.2:1234
+#EXTINF:0 group-title="Sport",EUROSPORT 2 HD
+#EXTGRP:Sport
+http://185.229.139.65:8010/play/eurposport2hd/index.m3u8
+#EXTINF:0 group-title="Sport",EUROSPORT 2 HD RO
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/14990
+#EXTINF:0 group-title="Sport",EUROSPORT 2 HD TR
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/6878
+#EXTINF:0 group-title="Sport",EUROSPORT 2 IT
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/4320
+#EXTINF:0 group-title="Sport",EUROSPORT 2 RS
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/5055
+#EXTINF:0 group-title="Sport",EUROSPORT 4K
+#EXTGRP:Sport
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4574
+#EXTINF:0 group-title="Sport",EUROSPORT NEWS PT
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/7517
+#EXTINF:0 group-title="Sport",EUROSPORT PLUSS 3 HD
+#EXTGRP:Sport
+http://uk4321.com:8080/P75CX5KoB0/WBdYJjzfHf/5861
+#EXTINF:0 group-title="Sport",EUROSPORT PLUSS 4 HD
+#EXTGRP:Sport
+http://uk4321.com:8080/P75CX5KoB0/WBdYJjzfHf/5862
+#EXTINF:0 group-title="Sport",EUROSPORTS 2 FHD UK
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/671328
+#EXTINF:0 group-title="Sport",EUROSPORT GOLD
+#EXTGRP:Sport
+http://95.37.178.76:4088/udp/225.52.123.190:5000
+#EXTINF:0 group-title="Sport",EUROSPORT GOLD
+#EXTGRP:Sport
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4550
+#EXTINF:0 group-title="Sport",EUROSPORT GOLD HD
+#EXTGRP:Sport
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4573
+#EXTINF:0 group-title="Movies",ЕВРОКИНО
+#EXTGRP:Movies
+http://live02-cdn.tv.ti.ru:80/dtv/id203_NBN_SG--EuroKino/03/plst.m3u8
+#EXTINF:0 group-title="Movies",ЕВРОКИНО
+#EXTGRP:Movies
+http://vs-msk-02.tv.ti.ru:80/dtv/id203_NBN_SG--EuroKino/03/plst.m3u8
+#EXTINF:0 group-title="Movies",ЕВРОКИНО
+#EXTGRP:Movies
+http://178.217.72.66:80/225.201.2.198/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Music",FASHION 4K
+#EXTGRP:Music
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/playlist.m3u8
+#EXTINF:0 group-title="Music",FASHION HD
+#EXTGRP:Music
+http://185.229.139.65:8013/play/fashionhd/index.m3u8
+#EXTINF:0 group-title="Music",FASHION ONE HD
+#EXTGRP:Music
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/playlist.m3u8
+#EXTINF:0 group-title="Music",FASHION TV
+#EXTGRP:Music
+https://ch.iptvmate.net/5e935884ca80de49cb67aab5.m3u8
+#EXTINF:0 group-title="Music",FASHION TV
+#EXTGRP:Music
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+#EXTINF:0 group-title="Music",FASHION TV
+#EXTGRP:Music
+https://ch.iptvmate.net/5e933a6659885475726277e7.m3u8
+#EXTINF:0 group-title="Music",FASHION TV
+#EXTGRP:Music
+http://live02-cdn.tv.ti.ru:80/dtv/id713_NBN_SG--fashiontv/03/plst.m3u8
+#EXTINF:0 group-title="Music",FASHION TV
+#EXTGRP:Music
+http://vs-msk-02.tv.ti.ru:80/dtv/id713_NBN_SG--fashiontv/03/plst.m3u8
+#EXTINF:0 group-title="Music",FASHION TV (HD)
+#EXTGRP:Music
+https://ch.iptvmate.net/5e9368a9b5bf3d2c8375d1b6.m3u8
+#EXTINF:0 group-title="Music",FASHION TV HD
+#EXTGRP:Music
+http://77.109.171.36:8000/play/a0d1
+#EXTINF:0 group-title="Music",FASHION TV HD
+#EXTGRP:Music
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:0 group-title="Music",FASHION TV PARIS
+#EXTGRP:Music
+https://ch.iptvmate.net/5e9367d6abfc5d5d1e714a45.m3u8
+#EXTINF:0 group-title="Music",FASHION TV PARIS
+#EXTGRP:Music
+https://ch.iptvmate.net/5e9367d5abfc5d5d1e714a41.m3u8
+#EXTINF:0 group-title="Music",FASHION TV PARIS
+#EXTGRP:Music
+https://ch.iptvmate.net/5e9352bf8f173a1ce731a0c3.m3u8
+#EXTINF:0 group-title="Music",FASHION TV PARIS
+#EXTGRP:Music
+https://ch.iptvmate.net/5e933a7359885475726277ee.m3u8
+#EXTINF:0 group-title="Music",FASHION TV PARIS
+#EXTGRP:Music
+https://ch.iptvmate.net/5e9367d4abfc5d5d1e714a40.m3u8
+#EXTINF:0 group-title="Music",FASHION TV PARIS
+#EXTGRP:Music
+https://ch.iptvmate.net/5e93558a7c9770590f6a4c62.m3u8
+#EXTINF:0 group-title="Music",FASHION TV PARIS
+#EXTGRP:Music
+https://ch.iptvmate.net/5e9355877c9770590f6a4c5b.m3u8
+#EXTINF:0 group-title="Music",FASHION TV PARIS
+#EXTGRP:Music
+https://ch.iptvmate.net/5e93558f7c9770590f6a4c6b.m3u8
+#EXTINF:0 group-title="Music",FASHION TV PG13
+#EXTGRP:Music
+https://ch.iptvmate.net/5e9367ccabfc5d5d1e714a3a.m3u8
+#EXTINF:0 group-title="Music",FASHION TV PG13
+#EXTGRP:Music
+https://ch.iptvmate.net/5e933a6959885475726277e8.m3u8
+#EXTINF:0 group-title="Music",FASHION TV PG16
+#EXTGRP:Music
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/playlist.m3u8
+#EXTINF:0 group-title="Music",FASHION TV PG16
+#EXTGRP:Music
+https://ch.iptvmate.net/5e9367d0abfc5d5d1e714a3e.m3u8
+#EXTINF:0 group-title="Music",FASHION TV PG16
+#EXTGRP:Music
+https://ch.iptvmate.net/5e9367cfabfc5d5d1e714a3c.m3u8
+#EXTINF:0 group-title="Music",FASHION TV PG16
+#EXTGRP:Music
+https://ch.iptvmate.net/5e9367d1abfc5d5d1e714a3f.m3u8
+#EXTINF:0 group-title="Music",FASHION TV PG16
+#EXTGRP:Music
+https://ch.iptvmate.net/5e9352c18f173a1ce731a0c5.m3u8
+#EXTINF:0 group-title="Music",FASHION TV PG16
+#EXTGRP:Music
+https://ch.iptvmate.net/5e9355867c9770590f6a4c59.m3u8
+#EXTINF:0 group-title="Music",FASHION TV PG16
+#EXTGRP:Music
+https://ch.iptvmate.net/5e933a6c59885475726277ec.m3u8
+#EXTINF:0 group-title="Music",FASHION UA
+#EXTGRP:Music
+http://95.67.47.114/hls/hdfashion_ua_mid/index.m3u8
+#EXTINF:0 group-title="Movies",FILM UA DRAMA
+#EXTGRP:Movies
+http://77.89.204.107:8000/play/a06t/index.m3u8
+#EXTINF:0 group-title="Cognitive",FOOD NETWORK
+#EXTGRP:Cognitive
+http://182.73.122.74:10003/bysid/916
+#EXTINF:0 group-title="Cognitive",FOOD NETWORK FHD NL
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/11437
+#EXTINF:0 group-title="Cognitive",FOOD NETWORK HD
+#EXTGRP:Cognitive
+http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/121/stream.m3u8
+#EXTINF:0 group-title="Cognitive",FOOD NETWORK HD
+#EXTGRP:Cognitive
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4489
+#EXTINF:0 group-title="Cognitive",FOOD NETWORK HD
+#EXTGRP:Cognitive
+http://83.172.32.25:8012/tv/foodnetworkhd
+#EXTINF:0 group-title="Cognitive",FOOD NETWORK HD 1080P
+#EXTGRP:Cognitive
+http://ux.mytvxweb.me:25461/Pr/1234/323357
+#EXTINF:0 group-title="Cognitive",FOOD NETWORK HD CA
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/632697
+#EXTINF:0 group-title="Cognitive",FOOD NETWORK IT
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/46566
+#EXTINF:0 group-title="Cognitive",FOOD NETWORK RO
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/14989
+#EXTINF:0 group-title="Cognitive",FOOD NETWORK UK
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/6601
+#EXTINF:0 group-title="Movies",FOX
+#EXTGRP:Movies
+http://live-ng-01.more.tv/hls/FOX_HD/index_2.m3u8
+#EXTINF:0 group-title="Movies",FOX
+#EXTGRP:Movies
+http://31.41.98.151:81/udp/225.0.55.234:1234
+#EXTINF:0 group-title="Movies",FOX
+#EXTGRP:Movies
+http://188.35.9.11:2030/udp/032b
+#EXTINF:0 group-title="Movies",FOX
+#EXTGRP:Movies
+http://persik.by/stream/6606/411484/10234.m3u8
+#EXTINF:0 group-title="Movies",FOX
+#EXTGRP:Movies
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/59529
+#EXTINF:0 group-title="Movies",FOX
+#EXTGRP:Movies
+http://178.69.23.26:8000/play/36-ntv-fox-b845428
+#EXTINF:0 group-title="Movies",FOX
+#EXTGRP:Movies
+https://ch.iptvmate.net/5e933ca96eec6b08ec1a8600.m3u8
+#EXTINF:0 group-title="Movies",FOX
+#EXTGRP:Movies
+http://uk4321.com:8080/P75CX5KoB0/WBdYJjzfHf/825
+#EXTINF:0 group-title="Movies",FOX
+#EXTGRP:Movies
+http://31.28.40.231:4022/udp/232.1.20.4:1234
+#EXTINF:0 group-title="Movies",FOX 5
+#EXTGRP:Movies
+https://ch.iptvmate.net/5e9369027587ee5ce73225c0.m3u8
+#EXTINF:0 group-title="Movies",FOX AL
+#EXTGRP:Movies
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/4794
+#EXTINF:0 group-title="Movies",FOX BG
+#EXTGRP:Movies
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/9018
+#EXTINF:0 group-title="Movies",FOX HD
+#EXTGRP:Movies
+http://vs-msk-02.tv.ti.ru:80/dtv/id376_NBN_SG--Fox_HD/04/plst.m3u8
+#EXTINF:0 group-title="Movies",FOX HD
+#EXTGRP:Movies
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4379
+#EXTINF:0 group-title="Movies",FOX HD
+#EXTGRP:Movies
+http://151.252.76.12:4022/udp/236.0.6.253:1120
+#EXTINF:0 group-title="Movies",FOX HD
+#EXTGRP:Movies
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/59531
+#EXTINF:0 group-title="Movies",FOX HD
+#EXTGRP:Movies
+http://178.217.72.66/225.201.2.13/index.m3u8
+#EXTINF:0 group-title="Movies",FOX HD
+#EXTGRP:Movies
+http://188.35.9.11:21141/udp/187g
+#EXTINF:0 group-title="Movies",FOX HD
+#EXTGRP:Movies
+http://83.172.32.25:8012/tv/fox
+#EXTINF:0 group-title="Movies",FOX HD CA
+#EXTGRP:Movies
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/37066
+#EXTINF:0 group-title="Movies",FOX HD DE
+#EXTGRP:Movies
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/6245
+#EXTINF:0 group-title="Movies",FOX TV
+#EXTGRP:Movies
+https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/chunklist_b3128000.m3u8
+#EXTINF:0 group-title="Movies",FOX TV HD
+#EXTGRP:Movies
+http://uk4321.com:8080/P75CX5KoB0/WBdYJjzfHf/750
+#EXTINF:0 group-title="Movies",FOX TV HD
+#EXTGRP:Movies
+http://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/chunklist_b3128000.m3u8
+#EXTINF:0 group-title="Movies",FOX TV HD
+#EXTGRP:Movies
+https://ch.iptvmate.net/5e9363d9b418a166724e1647.m3u8
+#EXTINF:0 group-title="Movies",FOX UK
+#EXTGRP:Movies
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/6604
+#EXTINF:0 group-title="Sport",FOX SOCCER PLUS HD 1080P
+#EXTGRP:Sport
+http://ux.mytvxweb.me:25461/Pr/1234/323352
+#EXTINF:0 group-title="Sport",FOX SOCCER PLUS HD US
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/14408
+#EXTINF:0 group-title="Sport",FLOW SPORTS 1
+#EXTGRP:Sport
+https://ch.iptvmate.net/5e9352cc8f173a1ce731a0ce.m3u8
+#EXTINF:0 group-title="Sport",FLOW SPORTS 1
+#EXTGRP:Sport
+https://ch.iptvmate.net/5e9346ee14739f32bc178b6b.m3u8
+#EXTINF:0 group-title="Sport",FLOW SPORTS 1
+#EXTGRP:Sport
+https://ch.iptvmate.net/edcbae3a552de006fc710afdff799bb5.m3u8
+#EXTINF:0 group-title="Sport",FLOW SPORTS 1
+#EXTGRP:Sport
+https://ch.iptvmate.net/5e9346ed14739f32bc178b6a.m3u8
+#EXTINF:0 group-title="Sport",FLOW SPORTS 1
+#EXTGRP:Sport
+https://ch.iptvmate.net/5e93557f97409a6a1c773e82.m3u8
+#EXTINF:0 group-title="Sport",FLOW SPORTS 1
+#EXTGRP:Sport
+https://ch.iptvmate.net/5e934b7f15251d030838c7de.m3u8
+#EXTINF:0 group-title="Sport",FLOW SPORTS 1
+#EXTGRP:Sport
+http://161.0.157.9/PLTV/88888888/224/3221226899/02.m3u8
+#EXTINF:0 group-title="Sport",FLOW SPORTS 1
+#EXTGRP:Sport
+https://ch.iptvmate.net/5e9346f014739f32bc178b6c.m3u8
+#EXTINF:0 group-title="Sport",FOX SPORT 2 LAM
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/67132
+#EXTINF:0 group-title="Sport",FOX SPORTS 1 HD 1080P
+#EXTGRP:Sport
+http://ux.mytvxweb.me:25461/Pr/1234/323351
+#EXTINF:0 group-title="Sport",FOX SPORTS 1 HD NL
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/5143
+#EXTINF:0 group-title="Sport",FOX SPORTS 2 BR
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/6087
+#EXTINF:0 group-title="Sport",FOX SPORTS 2 FHD NL
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/6486
+#EXTINF:0 group-title="Sport",FOX SPORTS 2 HD 1080P
+#EXTGRP:Sport
+http://ux.mytvxweb.me:25461/Pr/1234/323350
+#EXTINF:0 group-title="Sport",FOX SPORTS 2 HD CO
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/15658
+#EXTINF:0 group-title="Sport",FOX SPORTS 3 FHD
+#EXTGRP:Sport
+http://uk4321.com:8080/P75CX5KoB0/WBdYJjzfHf/1844
+#EXTINF:0 group-title="Sport",FOX SPORTS 3 FHD NL
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/6485
+#EXTINF:0 group-title="Sport",FOX SPORTS 506 HD AU
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/657272
+#EXTINF:0 group-title="Sport",FOX SPORTS 6 HD NL
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/513821
+#EXTINF:0 group-title="Sport",FOX SPORTS BR
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/6126
+#EXTINF:0 group-title="Sport",FOX SPORTS HD BR
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/13626
+#EXTINF:0 group-title="Sport",FOX SPORTS HD***
+#EXTGRP:Sport
+http://data.m2pj.ml/bode/1234/29736
+#EXTINF:0 group-title="Sport",FOX SPORTS LAM
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/67322
+#EXTINF:0 group-title="Sport",FOX SPORTS NEWS
+#EXTGRP:Sport
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:0 group-title="Sport",FOX SPORTS***
+#EXTGRP:Sport
+http://data.m2pj.ml/bode/1234/29737
+#EXTINF:0 group-title="Sport",ФУТБОЛ 2
+#EXTGRP:Sport
+http://91.103.248.82:81/play/a00i
+#EXTINF:0 group-title="Sport",ФУТБОЛ 2 HD
+#EXTGRP:Sport
+http://45.88.104.104/play/411/test/index.m3u8
+#EXTINF:0 group-title="Sport",ФУТБОЛ
+#EXTGRP:Sport
+http://176.197.26.198:81/udp/239.255.42.163:1234
+#EXTINF:0 group-title="Sport",ФУТБОЛ
+#EXTGRP:Sport
+http://82.200.127.58:8080/udp/239.54.7.153:1224
+#EXTINF:0 group-title="Sport",ФУТБОЛ
+#EXTGRP:Sport
+http://persik.by/stream/6606/411484/440.m3u8
+#EXTINF:0 group-title="Sport",ФУТБОЛ 2 UA
+#EXTGRP:Sport
+https://95-213-224-187.livesports24.online/fooootball2.m3u8
+#EXTINF:0 group-title="Sport",ФУТБОЛ HD
+#EXTGRP:Sport
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4564
+#EXTINF:0 group-title="Movies",FOX COMEDY HD
+#EXTGRP:Movies
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/58825
+#EXTINF:0 group-title="Movies",HBO COMEDY FHD US
+#EXTGRP:Movies
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/4921
+#EXTINF:0 group-title="Movies",HBO COMEDY HD 1080P
+#EXTGRP:Movies
+http://ux.mytvxweb.me:25461/Pr/1234/323334
+#EXTINF:0 group-title="Movies",HBO COMEDY HD US
+#EXTGRP:Movies
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/13762
+#EXTINF:0 group-title="Movies",HBO FAMILY BR
+#EXTGRP:Movies
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/6120
+#EXTINF:0 group-title="Movies",HBO FAMILY HD BR
+#EXTGRP:Movies
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/13622
+#EXTINF:0 group-title="Movies",HBOFAMILY HD 1080P
+#EXTGRP:Movies
+http://ux.mytvxweb.me:25461/Pr/1234/323333
+#EXTINF:0 group-title="Movies",HBO
+#EXTGRP:Movies
+http://newmagicbox.entrydns.org:8080/adolfo/adolfo123/2139
+#EXTINF:0 group-title="Movies",HBO 2 HD
+#EXTGRP:Movies
+http://188.35.9.8:21151/udp/157a
+#EXTINF:0 group-title="Movies",HBO BR
+#EXTGRP:Movies
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/6122
+#EXTINF:0 group-title="Movies",HBO HD
+#EXTGRP:Movies
+http://vipeiptv.com:25461/hudson01/hudson01/758056
+#EXTINF:0 group-title="Movies",HBO HD
+#EXTGRP:Movies
+http://185.102.219.13/HBO/index.m3u8?token=test
+#EXTINF:0 group-title="Movies",HBO HD
+#EXTGRP:Movies
+http://pdsrv.io:80/ari123/ari123/6108
+#EXTINF:0 group-title="Movies",HBO HD HR
+#EXTGRP:Movies
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/5041
+#EXTINF:0 group-title="Movies",HBO SI
+#EXTGRP:Movies
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/9119
+#EXTINF:0 group-title="Cognitive",HISTOIRE HD
+#EXTGRP:Cognitive
+http://62.112.9.63:88/histoire/index.m3u8?token=test
+#EXTINF:0 group-title="Cognitive",HISTORIA HD
+#EXTGRP:Cognitive
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/59857
+#EXTINF:0 group-title="Cognitive",HISTORY
+#EXTGRP:Cognitive
+http://85.15.121.27:4022/udp/238.0.2.72:1234
+#EXTINF:0 group-title="Cognitive",HISTORY
+#EXTGRP:Cognitive
+http://182.73.122.74:10002/bysid/1213
+#EXTINF:0 group-title="Cognitive",HISTORY 2 HD
+#EXTGRP:Cognitive
+http://83.172.32.25:8012/tv/history2hd
+#EXTINF:0 group-title="Cognitive",HISTORY 2 HR
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/11044
+#EXTINF:0 group-title="Cognitive",HISTORY CZ
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/18685
+#EXTINF:0 group-title="Cognitive",HISTORY HD
+#EXTGRP:Cognitive
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4415
+#EXTINF:0 group-title="Cognitive",HISTORY HD
+#EXTGRP:Cognitive
+http://151.252.75.222:4022/udp/236.0.6.161:1120
+#EXTINF:0 group-title="Cognitive",HISTORY HD
+#EXTGRP:Cognitive
+http://83.172.32.25:8012/tv/historyhd
+#EXTINF:0 group-title="Cognitive",HISTORY HD
+#EXTGRP:Cognitive
+http://188.35.9.5:10005/stolen/152p/imposter.rar
+#EXTINF:0 group-title="Cognitive",HISTORY HD
+#EXTGRP:Cognitive
+http://uk4321.com:8080/P75CX5KoB0/WBdYJjzfHf/1848
+#EXTINF:0 group-title="Cognitive",HISTORY HD 1080P
+#EXTGRP:Cognitive
+http://ux.mytvxweb.me:25461/Pr/1234/323330
+#EXTINF:0 group-title="Cognitive",HISTORY HD CA
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/37057
+#EXTINF:0 group-title="Cognitive",HISTORY HD IT
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/9314
+#EXTINF:0 group-title="Cognitive",HISTORY HD NL
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/11440
+#EXTINF:0 group-title="Cognitive",HISTORY HD SE
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/672701
+#EXTINF:0 group-title="Cognitive",HISTORY HD US
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/14346
+#EXTINF:0 group-title="Cognitive",HISTORY HU
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/8046
+#EXTINF:0 group-title="Movies",BOLLYWOOD
+#EXTGRP:Movies
+http://178.163.114.237:4022/udp/234.0.0.195:2000
+#EXTINF:0 group-title="Movies",BOLLYWOOD HD
+#EXTGRP:Movies
+https://ch.iptvmate.net/5e93681836123957627ff460.m3u8
+#EXTINF:0 group-title="Movies",BOLLYWOOD HD
+#EXTGRP:Movies
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4363
+#EXTINF:0 group-title="Movies",BOLLYWOOD NOW
+#EXTGRP:Movies
+https://ch.iptvmate.net/5e93567605828438e810944d.m3u8
+#EXTINF:0 group-title="Movies",BOLLYWOOD NOW
+#EXTGRP:Movies
+https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8
+#EXTINF:0 group-title="Movies",GEM BOLLYWOOD
+#EXTGRP:Movies
+http://uk4321.com:8080/P75CX5KoB0/WBdYJjzfHf/796
+#EXTINF:0 group-title="Movies",HOLLYWOOD
+#EXTGRP:Movies
+http://178.69.23.26:8000/play/36-ntv-hollywood-4dfc0aa
+#EXTINF:0 group-title="Movies",HOLLYWOOD
+#EXTGRP:Movies
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/58819
+#EXTINF:0 group-title="Movies",HOLLYWOOD
+#EXTGRP:Movies
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4351
+#EXTINF:0 group-title="Movies",HOLLYWOOD
+#EXTGRP:Movies
+http://83.172.32.25:8012/tv/amc
+#EXTINF:0 group-title="Movies",HOLLYWOOD
+#EXTGRP:Movies
+http://178.217.72.66/225.201.2.76/video.m3u8
+#EXTINF:0 group-title="Movies",HOLLYWOOD
+#EXTGRP:Movies
+http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/557/index.m3u8
+#EXTINF:0 group-title="Movies",HOLLYWOOD HD
+#EXTGRP:Movies
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4350
+#EXTINF:0 group-title="Movies",HOLLYWOOD HD
+#EXTGRP:Movies
+http://83.172.32.25:8012/tv/mgmhd
+#EXTINF:0 group-title="Movies",HOLLYWOOD HD
+#EXTGRP:Movies
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/58820
+#EXTINF:0 group-title="Movies",HOLLYWOOD HD
+#EXTGRP:Movies
+http://80.94.225.126:8080/HollywoodHD/mono.m3u8
+#EXTINF:0 group-title="Cognitive",CITV
+#EXTGRP:Cognitive
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/30895
+#EXTINF:0 group-title="Cognitive",ICTV
+#EXTGRP:Cognitive
+http://79.142.197.7:8888/ICTV/index.m3u8
+#EXTINF:0 group-title="Cognitive",ICTV
+#EXTGRP:Cognitive
+http://188.35.9.11:11043/q
+#EXTINF:0 group-title="Cognitive",ICTV
+#EXTGRP:Cognitive
+http://79.142.197.7:8888/ICTV/mono.m3u8
+#EXTINF:0 group-title="Cognitive",ICTV HD
+#EXTGRP:Cognitive
+http://193.33.39.107:8088/ictvhd/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Cognitive",ICTV HD
+#EXTGRP:Cognitive
+http://193.33.39.107:8088/ictvhd/tracks-v1a1/mono.m3u8?seg-user-tsn-v1-a1.m3u8
+#EXTINF:0 group-title="News",IНТЕР
+#EXTGRP:News
+https://ch.iptvmate.net/8377426e7750baafc0df5d7b34c0b177.m3u8
+#EXTINF:0 group-title="News",IНТЕР
+#EXTGRP:News
+http://109.68.41.148:1935/live/inter_3/playlist-%D0%A0%D2%91%D0%A0%C2%B0.m3u8
+#EXTINF:0 group-title="News",IНТЕР
+#EXTGRP:News
+https://ch.iptvmate.net/5e93424914739f32bc178b05.m3u8
+#EXTINF:0 group-title="News",IНТЕР
+#EXTGRP:News
+https://ch.iptvmate.net/5e9356058f173a1ce731a17e.m3u8
+#EXTINF:0 group-title="News",IНТЕР
+#EXTGRP:News
+http://109.68.41.148:1935/live/inter_3/playlist-%D0%B4%D0%B0.m3u8
+#EXTINF:0 group-title="News",IНТЕР
+#EXTGRP:News
+http://109.68.41.148:1935/live/inter_3/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 group-title="News",ІНТЕР
+#EXTGRP:News
+http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/937/index.m3u8
+#EXTINF:0 group-title="News",ИНТЕР
+#EXTGRP:News
+https://ch.iptvmate.net/5e93663a46695161f31a8a7f.m3u8
+#EXTINF:0 group-title="News",ИНТЕР
+#EXTGRP:News
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4725
+#EXTINF:0 group-title="Cognitive",K1
+#EXTGRP:Cognitive
+http://109.68.40.67/life/k1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 group-title="Cognitive",K1
+#EXTGRP:Cognitive
+http://109.68.40.67:80/life/k1_3/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 group-title="Cognitive",K1
+#EXTGRP:Cognitive
+https://ch.iptvmate.net/5e93424a14739f32bc178b07.m3u8
+#EXTINF:0 group-title="Cognitive",K1
+#EXTGRP:Cognitive
+https://ch.iptvmate.net/5e93424914739f32bc178b06.m3u8
+#EXTINF:0 group-title="Cognitive",K1
+#EXTGRP:Cognitive
+https://ch.iptvmate.net/5e93565c8f173a1ce731a192.m3u8
+#EXTINF:0 group-title="Cognitive",К1
+#EXTGRP:Cognitive
+http://109.68.40.72/life/k1_3/index.m3u8
+#EXTINF:0 group-title="Cognitive",К1
+#EXTGRP:Cognitive
+http://edge3.iptv.macc.com.ua/life/k1_3/index.m3u8
+#EXTINF:0 group-title="Cognitive",К1
+#EXTGRP:Cognitive
+http://edge1.iptv.macc.com.ua/life/k1_3/index.m3u8
+#EXTINF:0 group-title="Cognitive",К1
+#EXTGRP:Cognitive
+https://ch.iptvmate.net/5e935a9aee54cf53415610c2.m3u8
+#EXTINF:0 group-title="Cognitive",К1
+#EXTGRP:Cognitive
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4727
+#EXTINF:0 group-title="Cognitive",К1
+#EXTGRP:Cognitive
+https://edge3.iptv.macc.com.ua/life/k1_3/index.m3u8
+#EXTINF:0 group-title="Cognitive",К1
+#EXTGRP:Cognitive
+https://edge3.iptv.macc.com.ua/life/k1_2/index.m3u8
+#EXTINF:0 group-title="Cognitive",К1
+#EXTGRP:Cognitive
+http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/51/stream.m3u8
+#EXTINF:0 group-title="Cognitive",К1
+#EXTGRP:Cognitive
+https://ch.iptvmate.net/5e93508aa43a417fdb4fca92.m3u8
+#EXTINF:0 group-title="Cognitive",К2
+#EXTGRP:Cognitive
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4728
+#EXTINF:0 group-title="Cognitive",К2
+#EXTGRP:Cognitive
+http://79.142.197.7:8888/K2/index.m3u8
+#EXTINF:0 group-title="Kids",KANAL DISNEY
+#EXTGRP:Kids
+http://217.25.226.215:4022/udp/235.1.10.22:10000
+#EXTINF:0 group-title="Kids",КАНАЛ DISNEY
+#EXTGRP:Kids
+http://live02-cdn.tv.ti.ru:80/dtv/id139_NBN_SG--disney/03/plst.m3u8
+#EXTINF:0 group-title="Kids",КАНАЛ DISNEY
+#EXTGRP:Kids
+http://178.69.23.26:8000/play/36-ntv-kanal-disney-3c2bcff
+#EXTINF:0 group-title="Kids",КАНАЛ DISNEY
+#EXTGRP:Kids
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4493
+#EXTINF:0 group-title="Kids",КАНАЛ DISNEY
+#EXTGRP:Kids
+http://94.241.0.44:8888/udp/225.33.23.223:5000
+#EXTINF:0 group-title="Kids",КАНАЛ DISNEY
+#EXTGRP:Kids
+http://vs-msk-02.tv.ti.ru:80/dtv/id139_NBN_SG--disney/03/plst.m3u8
+#EXTINF:0 group-title="Kids",КАНАЛ DISNEY
+#EXTGRP:Kids
+http://193.233.170.46:999/udp/239.191.254.147:13343
+#EXTINF:0 group-title="Humor",КИНОКАМЕДИЯ
+#EXTGRP:Humor
+http://persik.by/stream/6606/411484/292.m3u8
+#EXTINF:0 group-title="Humor",КИНОКОМЕДИЯ
+#EXTGRP:Humor
+http://live02-cdn.tv.ti.ru:80/dtv/id135_NBN_SG--komediya_tv/03/plst.m3u8
+#EXTINF:0 group-title="Humor",КИНОКОМЕДИЯ
+#EXTGRP:Humor
+http://persik.by/stream/6606/411484/10333.m3u8
+#EXTINF:0 group-title="Humor",КИНОКОМЕДИЯ
+#EXTGRP:Humor
+http://83.172.32.25:8012/tv/komediatv
+#EXTINF:0 group-title="Humor",КИНОКОМЕДИЯ
+#EXTGRP:Humor
+http://178.163.13.244:4022/udp/234.0.0.118:2000
+#EXTINF:0 group-title="Humor",КИНОКОМЕДИЯ
+#EXTGRP:Humor
+http://178.217.72.66/225.201.2.177/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Humor",КИНОКОМЕДИЯ
+#EXTGRP:Humor
+http://178.163.48.108:81/udp/234.0.0.118:2000
+#EXTINF:0 group-title="Humor",КИНОКОМЕДИЯ
+#EXTGRP:Humor
+http://78.107.248.201:4022/udp/233.33.210.57:5050
+#EXTINF:0 group-title="Humor",КИНОКОМЕДИЯ
+#EXTGRP:Humor
+http://178.217.72.66/225.201.2.177/index.m3u8
+#EXTINF:0 group-title="Humor",КИНОКОМЕДИЯ
+#EXTGRP:Humor
+http://178.69.23.26:8000/play/36-ntv-kinokomediya-9d23dbe
+#EXTINF:0 group-title="Humor",КИНОКОМЕДИЯ
+#EXTGRP:Humor
+http://vs-msk-02.tv.ti.ru:80/dtv/id135_NBN_SG--komediya_tv/03/plst.m3u8
+#EXTINF:0 group-title="Humor",КИНОКОМЕДИЯ
+#EXTGRP:Humor
+http://79.133.121.141:81/udp/239.191.255.39:13343
+#EXTINF:0 group-title="Humor",КИНОКОМЕДИЯ
+#EXTGRP:Humor
+http://37.235.150.21:81/udp/225.50.64.36:1234
+#EXTINF:0 group-title="Humor",КИНОКОМЕДИЯ
+#EXTGRP:Humor
+http://178.163.104.215:81/udp/234.0.0.118:2000
+#EXTINF:0 group-title="Humor",КИНОКОМЕДИЯ HD
+#EXTGRP:Humor
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4341
+#EXTINF:0 group-title="Humor",КВАРТАЛ ТВ
+#EXTGRP:Humor
+http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/932/index.m3u8
+#EXTINF:0 group-title="Kids",MAЛЯТКО TV
+#EXTGRP:Kids
+http://193.33.39.107:8088/malyatko/index.m3u8
+#EXTINF:0 group-title="Sport",МАТЧ АРЕНА
+#EXTGRP:Sport
+http://persik.by/stream/6606/411484/724.m3u8
+#EXTINF:0 group-title="Sport",МАТЧ! АРЕНА
+#EXTGRP:Sport
+http://176.110.252.65:34040/udp/238.1.1.23:1234
+#EXTINF:0 group-title="Sport",МАТЧ! АРЕНА
+#EXTGRP:Sport
+https://95-213-224-187.livesports24.online/rumatcharena.m3u8
+#EXTINF:0 group-title="Sport",МАТЧ! АРЕНА
+#EXTGRP:Sport
+http://82.200.127.58:8080/udp/239.54.7.85:1224
+#EXTINF:0 group-title="Sport",МАТЧ! АРЕНА
+#EXTGRP:Sport
+https://95-213-224-179.livesports24.online/rumatcharena.m3u8
+#EXTINF:0 group-title="Sport",МАТЧ! АРЕНА
+#EXTGRP:Sport
+http://178.217.72.66/225.201.2.4/index.m3u8
+#EXTINF:0 group-title="Sport",МАТЧ! АРЕНА
+#EXTGRP:Sport
+http://persik.by/stream/6606/411484/261.m3u8
+#EXTINF:0 group-title="Sport",МАТЧ! АРЕНА 36 11785R
+#EXTGRP:Sport
+http://178.69.23.26:8000/play/36-ntv-match%21-arena-3ded120
+#EXTINF:0 group-title="Sport",МАТЧ! АРЕНА HD
+#EXTGRP:Sport
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4555
+#EXTINF:0 group-title="Sport",МАТЧ! АРЕНА HD
+#EXTGRP:Sport
+http://mytv.fun:8080/lwt5tj7ww/3k8v6i9a0l/36895
+#EXTINF:0 group-title="Sport",МАТЧ! АРЕНА HD
+#EXTGRP:Sport
+http://mytv.fun:8080/bcshablcl/h1n49hq8ol/36895
+#EXTINF:0 group-title="Sport",МАТЧ! АРЕНА HD
+#EXTGRP:Sport
+http://178.217.72.66/225.201.2.84/index.m3u8
+#EXTINF:0 group-title="Sport",МАТЧ! АРЕНА HD
+#EXTGRP:Sport
+http://151.252.76.12:4022/udp/236.0.6.104:1120
+#EXTINF:0 group-title="Sport",МАТЧ! АРЕНА [SD]
+#EXTGRP:Sport
+http://51.15.8.25:25461/YaDpiIV5za/zvdYEzFsAJ/52495?play_token=vykt4a6DsE&token=ShdRVxJZRlwUAAgBAAhcVVNSUF1RVQwFB1ZUAANRCF1TVgoBWQgFAAZGHRYRRBdWB1prUQISDwJTAABTGhBESlRHZl8FE15EB1ACB1UCRx9EQ11VAxIPBlQMAlkPAgIPCBkbRghVRlxYEV1YThIASxJSRlYHXGpTBENbAlMQC1dEWVUaQ14KOVIBXFUMVEcJRAYWFERZRkdDD1wUWl4dG1NcTUQARQFEDApEWA4cR1AJQlpMFEkXDUNnZ0MaEFRBRVBXRQheCkQMRkVHQBxHWhVoRl0VREdSAFhXExQIEwkTGRtbAEk7BVkKX1EBRAxcCEQWAkQBFxtDWF0PX0ZeS25FUFJDCwoTWghM
+#EXTINF:0 group-title="Sport",МАТЧ! АРЕНА [SD]
+#EXTGRP:Sport
+http://178.217.72.66/225.201.2.4/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Sport",МАТЧ БОЕЦ
+#EXTGRP:Sport
+http://vs-msk-02.tv.ti.ru:80/dtv/id1089_NBN_SG--MatchBoec/03/plst.m3u8
+#EXTINF:0 group-title="Sport",МАТЧ! БОЕЦ
+#EXTGRP:Sport
+https://95-213-224-187.livesports24.online/matchboetsru.m3u8
+#EXTINF:0 group-title="Sport",МАТЧ! БОЕЦ
+#EXTGRP:Sport
+http://82.200.127.58:8080/udp/239.54.7.21:1224
+#EXTINF:0 group-title="Sport",МАТЧ! БОЕЦ
+#EXTGRP:Sport
+https://95-213-224-179.livesports24.online/matchboetsru.m3u8
+#EXTINF:0 group-title="Sport",МАТЧ! БОЕЦ
+#EXTGRP:Sport
+http://uk4321.com:8080/P75CX5KoB0/WBdYJjzfHf/1739
+#EXTINF:0 group-title="Sport",МАТЧ! БОЕЦ
+#EXTGRP:Sport
+http://178.217.72.66/225.201.2.184/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Sport",МАТЧ! БОЕЦ [HQ]
+#EXTGRP:Sport
+http://persik.by/stream/6606/411484/310.m3u8
+#EXTINF:0 group-title="Sport",МАТЧ! БОЕЦ [SD]
+#EXTGRP:Sport
+http://92.38.127.16:8000/play/a0b9
+#EXTINF:0 group-title="Sport",МАТЧ ФУТБОЛ 1 HD
+#EXTGRP:Sport
+http://vs-msk-02.tv.ti.ru:80/dtv/id472_NBN_SG--NTVFutbol1/04/plst.m3u8
+#EXTINF:0 group-title="Sport",МАТЧ! НТВ ФУТБОЛ 1
+#EXTGRP:Sport
+https://95-213-224-179.livesports24.online/ntvmatchfoot1.m3u8
+#EXTINF:0 group-title="Sport",МАТЧ! НТВ ФУТБОЛ 1
+#EXTGRP:Sport
+https://95-213-224-187.livesports24.online/ntvmatchfoot1.m3u8
+#EXTINF:0 group-title="Sport",МАТЧ! ФУТБОЛ 1
+#EXTGRP:Sport
+http://persik.by/stream/6606/411484/346.m3u8
+#EXTINF:0 group-title="Sport",МАТЧ! ФУТБОЛ 1
+#EXTGRP:Sport
+http://89.208.205.165:5050/udp/230.3.4.61:5678
+#EXTINF:0 group-title="Sport",МАТЧ! ФУТБОЛ 1
+#EXTGRP:Sport
+http://178.217.72.66:80/225.201.2.53/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Sport",МАТЧ! ФУТБОЛ 1 HD
+#EXTGRP:Sport
+http://mytv.fun:8080/AugustinJauregui/t0ycvumr7d/36898
+#EXTINF:0 group-title="Sport",МАТЧ! ФУТБОЛ 1 HD
+#EXTGRP:Sport
+http://212.19.23.86:666/udp/239.191.255.132:15283
+#EXTINF:0 group-title="Sport",МАТЧ! ФУТБОЛ 1 HD
+#EXTGRP:Sport
+http://persik.by/stream/6606/411484/10266.m3u8
+#EXTINF:0 group-title="Sport",МАТЧ! ФУТБОЛ 1 [FHD]
+#EXTGRP:Sport
+http://188.35.9.11:2010
+#EXTINF:0 group-title="Sport",МАТЧ! ФУТБОЛ 1 [FHD]
+#EXTGRP:Sport
+http://91.103.248.82:81/play/c1
+#EXTINF:0 group-title="Sport",МАТЧ! ФУТБОЛ 1 [HD]
+#EXTGRP:Sport
+http://51.15.8.25:25461/YaDpiIV5za/zvdYEzFsAJ/52462?play_token=vykt4a6DsE&token=ShdRVxJZRlwUAAgBAAhcVVNSUF1RVQwFB1ZUAANRCF1TVgoBWQgFAAZGHRYRRBdWB1prUQISDwJTAABTGhBESlRHZl8FE15EB1ACB1UCRx9EQ11VAxIPBlQMAlkPAgIPCBkbRghVRlxYEV1YThIASxJSRlYHXGpTBENbAlMQC1dEWVUaQ14KOVIBXFUMVEcJRAYWFERZRkdDD1wUWl4dG1NcTUQARQFEDApEWA4cR1AJQlpMFEkXDUNnZ0MaEFRBRVBXRQheCkQMRkVHQBxHWhVoRl0VREdSAFhXExQIEwkTGRtbAEk7BVkKX1EBRAxcCEQWAkQBFxtDWF0PX0ZeS25FUFJDCwoTWghM
+#EXTINF:0 group-title="Sport",МАТЧ ФУТБОЛ 2 HD
+#EXTGRP:Sport
+http://vs-msk-02.tv.ti.ru:80/dtv/id473_NBN_SG--NTVFootball2/04/plst.m3u8
+#EXTINF:0 group-title="Sport",МАТЧ! НТВ ФУТБОЛ 2
+#EXTGRP:Sport
+https://95-213-224-187.livesports24.online/mfootball2rus.m3u8
+#EXTINF:0 group-title="Sport",МАТЧ! НТВ ФУТБОЛ 2
+#EXTGRP:Sport
+https://95-213-224-179.livesports24.online/mfootball2rus.m3u8
+#EXTINF:0 group-title="Sport",МАТЧ! ФУТБОЛ 2
+#EXTGRP:Sport
+http://178.69.23.26:8000/play/36-ntv-match%21-futbol-2-d5fc7df
+#EXTINF:0 group-title="Sport",МАТЧ! ФУТБОЛ 2
+#EXTGRP:Sport
+http://persik.by/stream/6606/411484/10217.m3u8
+#EXTINF:0 group-title="Sport",МАТЧ! ФУТБОЛ 2 HD
+#EXTGRP:Sport
+http://212.19.19.73:999/udp/239.191.255.133:15283
+#EXTINF:0 group-title="Sport",МАТЧ! ФУТБОЛ 2 HD
+#EXTGRP:Sport
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4558
+#EXTINF:0 group-title="Sport",МАТЧ! ФУТБОЛ 2 [HD]
+#EXTGRP:Sport
+http://51.15.8.25:25461/YaDpiIV5za/zvdYEzFsAJ/52461?play_token=vykt4a6DsE&token=ShdRVxJZRlwUAAgBAAhcVVNSUF1RVQwFB1ZUAANRCF1TVgoBWQgFAAZGHRYRRBdWB1prUQISDwJTAABTGhBESlRHZl8FE15EB1ACB1UCRx9EQ11VAxIPBlQMAlkPAgIPCBkbRghVRlxYEV1YThIASxJSRlYHXGpTBENbAlMQC1dEWVUaQ14KOVIBXFUMVEcJRAYWFERZRkdDD1wUWl4dG1NcTUQARQFEDApEWA4cR1AJQlpMFEkXDUNnZ0MaEFRBRVBXRQheCkQMRkVHQBxHWhVoRl0VREdSAFhXExQIEwkTGRtbAEk7BVkKX1EBRAxcCEQWAkQBFxtDWF0PX0ZeS25FUFJDCwoTWghM
+#EXTINF:0 group-title="Sport",МАТЧ ФУТБОЛ 3 HD
+#EXTGRP:Sport
+http://live02-cdn.tv.ti.ru:80/dtv/id471_NBN_SG--NTV_Futbol_3/04/plst.m3u8
+#EXTINF:0 group-title="Sport",МАТЧ! НТВ ФУТБОЛ 3
+#EXTGRP:Sport
+https://95-213-224-179.livesports24.online/rumatchf3.m3u8
+#EXTINF:0 group-title="Sport",МАТЧ! НТВ ФУТБОЛ 3
+#EXTGRP:Sport
+http://vs-msk-02.tv.ti.ru:80/dtv/id471_NBN_SG--NTV_Futbol_3/04/plst.m3u8
+#EXTINF:0 group-title="Sport",МАТЧ! ФУТБОЛ 1 36 11785R
+#EXTGRP:Sport
+http://178.69.23.26:8000/play/36-ntv-match%21-futbol-1-b273610
+#EXTINF:0 group-title="Sport",МАТЧ! ФУТБОЛ 3
+#EXTGRP:Sport
+http://persik.by/stream/6606/411484/10218.m3u8
+#EXTINF:0 group-title="Sport",МАТЧ! ФУТБОЛ 3
+#EXTGRP:Sport
+http://178.217.72.66:80/225.201.2.102/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Sport",МАТЧ! ФУТБОЛ 3
+#EXTGRP:Sport
+http://178.217.72.66/225.201.2.102/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Sport",МАТЧ! ФУТБОЛ 3
+#EXTGRP:Sport
+http://188.35.9.26:13051/udp/238.0.13.3:69000
+#EXTINF:0 group-title="Sport",МАТЧ! ФУТБОЛ 3 36 11785R
+#EXTGRP:Sport
+http://178.69.23.26:8000/play/36-ntv-match%21-futbol-3-b1f79e5
+#EXTINF:0 group-title="Sport",МАТЧ! ФУТБОЛ 3 HD
+#EXTGRP:Sport
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4559
+#EXTINF:0 group-title="Sport",МАТЧ! ФУТБОЛ 3 [HD]
+#EXTGRP:Sport
+http://51.15.8.25:25461/YaDpiIV5za/zvdYEzFsAJ/52460?play_token=vykt4a6DsE&token=ShdRVxJZRlwUAAgBAAhcVVNSUF1RVQwFB1ZUAANRCF1TVgoBWQgFAAZGHRYRRBdWB1prUQISDwJTAABTGhBESlRHZl8FE15EB1ACB1UCRx9EQ11VAxIPBlQMAlkPAgIPCBkbRghVRlxYEV1YThIASxJSRlYHXGpTBENbAlMQC1dEWVUaQ14KOVIBXFUMVEcJRAYWFERZRkdDD1wUWl4dG1NcTUQARQFEDApEWA4cR1AJQlpMFEkXDUNnZ0MaEFRBRVBXRQheCkQMRkVHQBxHWhVoRl0VREdSAFhXExQIEwkTGRtbAEk7BVkKX1EBRAxcCEQWAkQBFxtDWF0PX0ZeS25FUFJDCwoTWghM
+#EXTINF:0 group-title="Sport",МАТЧ! ФУТБОЛ 3 [SD]
+#EXTGRP:Sport
+http://92.38.127.16:8000/play/a031
+#EXTINF:0 group-title="Sport",MATCH! IGRA FHD RU
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/36891
+#EXTINF:0 group-title="Sport",МАТЧ ИГРА
+#EXTGRP:Sport
+http://vs-msk-02.tv.ti.ru:80/dtv/id474_NBN_SG--Sport/03/plst.m3u8
+#EXTINF:0 group-title="Sport",МАТЧ ИГРА
+#EXTGRP:Sport
+http://live02-cdn.tv.ti.ru:80/dtv/id474_NBN_SG--Sport/03/plst.m3u8
+#EXTINF:0 group-title="Sport",МАТЧ! ИГРА
+#EXTGRP:Sport
+http://178.163.55.234:4022/udp/234.0.0.211:2000
+#EXTINF:0 group-title="Sport",МАТЧ! ИГРА HD
+#EXTGRP:Sport
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4553
+#EXTINF:0 group-title="Sport",МАТЧ! ИГРА HD
+#EXTGRP:Sport
+http://212.19.13.173:4022/udp/239.191.255.144:15283
+#EXTINF:0 group-title="Sport",МАТЧ! ИГРА HD
+#EXTGRP:Sport
+http://mytv.fun:8080/bcshablcl/h1n49hq8ol/5374
+#EXTINF:0 group-title="Sport",МАТЧ! ИГРА [HQ]
+#EXTGRP:Sport
+http://persik.by/stream/6606/411484/10270.m3u8
+#EXTINF:0 group-title="Sport",МАТЧ СТРАНА
+#EXTGRP:Sport
+http://vs-msk-02.tv.ti.ru:80/dtv/id475_NBN_SG--telekanalsport/03/plst.m3u8
+#EXTINF:0 group-title="Sport",МАТЧ СТРАНА
+#EXTGRP:Sport
+http://live02-cdn.tv.ti.ru:80/dtv/id475_NBN_SG--telekanalsport/03/plst.m3u8
+#EXTINF:0 group-title="Sport",МАТЧ! СТРАНА
+#EXTGRP:Sport
+http://188.35.9.5:10007/stolen/124n/parasite.install
+#EXTINF:0 group-title="Sport",МАТЧ! СТРАНА
+#EXTGRP:Sport
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4554
+#EXTINF:0 group-title="Sport",МАТЧ! СТРАНА 36 11785R
+#EXTGRP:Sport
+http://178.69.23.26:8000/play/36-ntv-match%21-strana-87f8575
+#EXTINF:0 group-title="Sport",МАТЧ!
+#EXTGRP:Sport
+http://82.200.127.58:8080/udp/239.0.14.45:1224
+#EXTINF:0 group-title="Sport",МАТЧ!
+#EXTGRP:Sport
+http://178.69.23.26:8000/play/36-ntv-match%21-d649cee
+#EXTINF:0 group-title="Sport",МАТЧ!
+#EXTGRP:Sport
+http://82.200.127.58:8080/udp/239.0.23.8:1224
+#EXTINF:0 group-title="Sport",МАТЧ!
+#EXTGRP:Sport
+http://82.200.127.58:8080/udp/239.0.42.83:1224
+#EXTINF:0 group-title="Sport",МАТЧ!
+#EXTGRP:Sport
+http://178.163.56.58:81/udp/234.0.0.204:2000
+#EXTINF:0 group-title="Sport",МАТЧ!
+#EXTGRP:Sport
+http://82.200.127.58:8080/udp/239.0.42.53:1224
+#EXTINF:0 group-title="Sport",МАТЧ!
+#EXTGRP:Sport
+http://178.163.48.108:81/udp/234.0.0.204:2000
+#EXTINF:0 group-title="Sport",МАТЧ! HD
+#EXTGRP:Sport
+http://mytv.fun:8080/0olr9fa6w/2yb2lxkep7/5375
+#EXTINF:0 group-title="Sport",МАТЧ! HD
+#EXTGRP:Sport
+http://195.191.208.80:80/jwt/4497e44f4252b7acb1d1412d7e0fd83b882181e9-520-0-24h502315-None-90559203-1587035792--v2A0n6gqPo7LzFYq89o-QvUbXYdxs_gCJqlVLkKfy5o-0
+#EXTINF:0 group-title="Sport",МАТЧ! HD
+#EXTGRP:Sport
+http://82.200.127.58:8080/udp/239.54.7.152:1224
+#EXTINF:0 group-title="Sport",МАТЧ! [HD]
+#EXTGRP:Sport
+http://51.15.8.25:25461/YaDpiIV5za/zvdYEzFsAJ/52457?play_token=vykt4a6DsE&token=ShdRVxJZRlwUAAgBAAhcVVNSUF1RVQwFB1ZUAANRCF1TVgoBWQgFAAZGHRYRRBdWB1prUQISDwJTAABTGhBESlRHZl8FE15EB1ACB1UCRx9EQ11VAxIPBlQMAlkPAgIPCBkbRghVRlxYEV1YThIASxJSRlYHXGpTBENbAlMQC1dEWVUaQ14KOVIBXFUMVEcJRAYWFERZRkdDD1wUWl4dG1NcTUQARQFEDApEWA4cR1AJQlpMFEkXDUNnZ0MaEFRBRVBXRQheCkQMRkVHQBxHWhVoRl0VREdSAFhXExQIEwkTGRtbAEk7BVkKX1EBRAxcCEQWAkQBFxtDWF0PX0ZeS25FUFJDCwoTWghM
+#EXTINF:0 group-title="Sport",МАТЧ! [HQ]
+#EXTGRP:Sport
+http://persik.by/stream/6606/411484/1077.m3u8
+#EXTINF:0 group-title="Sport",МАТЧ! [SD]
+#EXTGRP:Sport
+http://92.38.127.16:8000/play/a037
+#EXTINF:0 group-title="Sport",МАТЧ! [SD]
+#EXTGRP:Sport
+http://92.38.127.16:8000/play/a07k
+#EXTINF:0 group-title="Sport",МАТЧ! ТВ
+#EXTGRP:Sport
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4551
+#EXTINF:0 group-title="Sport",МАТЧ! ТВ HD
+#EXTGRP:Sport
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4552
+#EXTINF:0 group-title="Sport",MATCH RU
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/5375
+#EXTINF:0 group-title="Sport",МАТЧ ТВ
+#EXTGRP:Sport
+http://vs-msk-02.tv.ti.ru:80/dtv/id166_NBN_SG--Rossia2/03/plst.m3u8
+#EXTINF:0 group-title="Sport",МАТЧ ТВ
+#EXTGRP:Sport
+http://178.163.58.72:4022/udp/234.0.0.204:2000
+#EXTINF:0 group-title="Cognitive",MEGA ES
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/8760
+#EXTINF:0 group-title="Cognitive",MEGA TV
+#EXTGRP:Cognitive
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/59872
+#EXTINF:0 group-title="Cognitive",MEGA TV GR
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/7973
+#EXTINF:0 group-title="Sport",МОТОРСПОРТ ТВ
+#EXTGRP:Sport
+http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/361/stream.m3u8
+#EXTINF:0 group-title="Sport",МОТОРСПОРТ ТВ HD
+#EXTGRP:Sport
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4568
+#EXTINF:0 group-title="Sport",МОТОРСПОРТ.ТВ
+#EXTGRP:Sport
+https://strm.yandex.ru/kal/motosport/motosport0_169_360p.json/index-v1-a1.m3u8
+#EXTINF:0 group-title="Music",MTV DANCE
+#EXTGRP:Music
+http://178.217.72.66/225.201.2.77/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Music",MTV DANCE
+#EXTGRP:Music
+http://vs-msk-02.tv.ti.ru:80/dtv/id211_NBN_SG--MTVDance/03/plst.m3u8
+#EXTINF:0 group-title="Music",MTV DANCE
+#EXTGRP:Music
+http://178.217.72.66/225.201.2.77/index.m3u8
+#EXTINF:0 group-title="Music",MTV DANCE
+#EXTGRP:Music
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4598
+#EXTINF:0 group-title="Music",MTV DANCE
+#EXTGRP:Music
+http://live02-cdn.tv.ti.ru:80/dtv/id211_NBN_SG--MTVDance/03/plst.m3u8
+#EXTINF:0 group-title="Music",MTV DANCE
+#EXTGRP:Music
+http://83.172.32.25:8012/tv/mtvdance
+#EXTINF:0 group-title="Music",MTV DANCE HR
+#EXTGRP:Music
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/657470
+#EXTINF:0 group-title="Music",MTV HITS
+#EXTGRP:Music
+http://vs-msk-02.tv.ti.ru:80/dtv/id210_NBN_SG--MTVHits/03/plst.m3u8
+#EXTINF:0 group-title="Music",MTV HITS
+#EXTGRP:Music
+http://live02-cdn.tv.ti.ru:80/dtv/id210_NBN_SG--MTVHits/03/plst.m3u8
+#EXTINF:0 group-title="Music",MTV HITS
+#EXTGRP:Music
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4599
+#EXTINF:0 group-title="Music",MTV HITS LAM
+#EXTGRP:Music
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/6756
+#EXTINF:0 group-title="Music",MTV HITS UK
+#EXTGRP:Music
+http://mytv.fun:8080/fmlcmgbr4a/c5sldjwbui/15816
+#EXTINF:0 group-title="Music",MTV HITS UK
+#EXTGRP:Music
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/15816
+#EXTINF:0 group-title="Music",MTV LIVE FHD UK
+#EXTGRP:Music
+http://mytv.fun:8080/fmlcmgbr4a/c5sldjwbui/671334
+#EXTINF:0 group-title="Music",MTV LIVE HD
+#EXTGRP:Music
+http://83.172.32.25:8012/tv/mtvlivehd
+#EXTINF:0 group-title="Music",MTV LIVE HD
+#EXTGRP:Music
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4611
+#EXTINF:0 group-title="Music",MTV LIVE HD
+#EXTGRP:Music
+http://178.69.23.26:8000/play/36-ntv-mtv-live-hd-f93f2fc
+#EXTINF:0 group-title="Music",MTV LIVE HD
+#EXTGRP:Music
+http://vs-msk-02.tv.ti.ru:80/dtv/id409_NBN_SG--MTV_Live_HD/04/plst.m3u8
+#EXTINF:0 group-title="Music",MTV LIVE HD UK
+#EXTGRP:Music
+http://mytv.fun:8080/fmlcmgbr4a/c5sldjwbui/9540
+#EXTINF:0 group-title="Music",MTV LIVE UK
+#EXTGRP:Music
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/9543
+#EXTINF:0 group-title="Music",MTV LIVE UK
+#EXTGRP:Music
+http://mytv.fun:8080/fmlcmgbr4a/c5sldjwbui/9543
+#EXTINF:0 group-title="Music",MTVLIVE HD 1080P
+#EXTGRP:Music
+http://ux.mytvxweb.me:25461/Pr/1234/323316
+#EXTINF:0 group-title="Music",MTV ROCKS
+#EXTGRP:Music
+http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/213/stream.m3u8
+#EXTINF:0 group-title="Music",MTV ROCKS
+#EXTGRP:Music
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4600
+#EXTINF:0 group-title="Music",MTV ROCKS
+#EXTGRP:Music
+http://82.200.127.58:8080/udp/239.54.7.3:1224
+#EXTINF:0 group-title="Music",MTV ROCKS
+#EXTGRP:Music
+http://live02-cdn.tv.ti.ru:80/dtv/id212_NBN_SG--MTVRocks/03/plst.m3u8
+#EXTINF:0 group-title="Music",MTV ROCKS
+#EXTGRP:Music
+http://vs-msk-02.tv.ti.ru:80/dtv/id212_NBN_SG--MTVRocks/03/plst.m3u8
+#EXTINF:0 group-title="Music",MTV ROCKS
+#EXTGRP:Music
+http://178.217.72.66/225.201.2.202/video.m3u8
+#EXTINF:0 group-title="Music",MTV ROCKS
+#EXTGRP:Music
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/31109
+#EXTINF:0 group-title="Music",MTV ROCKS
+#EXTGRP:Music
+http://178.69.23.26:8000/play/36-ntv-mtv-rocks-21c00d3
+#EXTINF:0 group-title="Music",MTV ROCKS UK
+#EXTGRP:Music
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/15845
+#EXTINF:0 group-title="Music",MTV ROCKS UK
+#EXTGRP:Music
+http://mytv.fun:8080/fmlcmgbr4a/c5sldjwbui/15845
+#EXTINF:0 group-title="Movies",МУЖСКОЕ КИНО
+#EXTGRP:Movies
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4476
+#EXTINF:0 group-title="Movies",МУЖСКОЕ КИНО
+#EXTGRP:Movies
+http://live02-cdn.tv.ti.ru:80/dtv/id653_NBN_SG--MuzskoeKino/03/plst.m3u8
+#EXTINF:0 group-title="Movies",МУЖСКОЕ КИНО
+#EXTGRP:Movies
+http://vs-msk-02.tv.ti.ru:80/dtv/id653_NBN_SG--MuzskoeKino/03/plst.m3u8
+#EXTINF:0 group-title="Movies",МУЖСКОЕ КИНО
+#EXTGRP:Movies
+http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/164/index.m3u8
+#EXTINF:0 group-title="Movies",МУЖСКОЕ КИНО
+#EXTGRP:Movies
+http://178.217.72.66/225.201.2.182/index.m3u8
+#EXTINF:0 group-title="Movies",МУЖСКОЕ КИНО
+#EXTGRP:Movies
+http://83.172.32.25:8012/tv/muzhskoekino
+#EXTINF:0 group-title="Movies",МУЖСКОЕ КИНО
+#EXTGRP:Movies
+http://79.133.121.141:81/udp/239.191.254.87:13343
+#EXTINF:0 group-title="Movies",МУЖСКОЕ КИНО
+#EXTGRP:Movies
+http://82.200.127.58:8080/udp/239.54.7.1:1224
+#EXTINF:0 group-title="Movies",МУЖСКОЕ КИНО
+#EXTGRP:Movies
+http://178.163.64.93:4022/udp/234.0.0.213:2000
+#EXTINF:0 group-title="Movies",МУЖСКОЕ КИНО
+#EXTGRP:Movies
+http://persik.by/stream/6606/411484/10025.m3u8
+#EXTINF:0 group-title="Movies",МУЖСКОЕ КИНО
+#EXTGRP:Movies
+http://178.163.44.13:4022/udp/234.0.0.213:2000
+#EXTINF:0 group-title="Movies",МУЖСКОЕ КИНО HD
+#EXTGRP:Movies
+http://89.106.234.4:80/Mujskoe_kino_hd.m3u8
+#EXTINF:0 group-title="Movies",МУЖСКОЕ КИНО HD
+#EXTGRP:Movies
+http://79.133.121.141:81/udp/239.191.255.89:15283
+#EXTINF:0 group-title="Movies",МУЖСКОЕ КИНО HD
+#EXTGRP:Movies
+http://95.85.95.179:4422/udp/239.191.255.89:15283
+#EXTINF:0 group-title="Movies",МУЖСКОЕ КИНО HD
+#EXTGRP:Movies
+http://178.69.23.26:8000/play/36-ntv-muzhskoe-kino-8d400a1
+#EXTINF:0 group-title="Cognitive",МУЖСКОЙ
+#EXTGRP:Cognitive
+http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/2047/index.m3u8
+#EXTINF:0 group-title="Cognitive",МУЖСКОЙ
+#EXTGRP:Cognitive
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4475
+#EXTINF:0 group-title="Cognitive",МУЖСКОЙ
+#EXTGRP:Cognitive
+http://vs-msk-02.tv.ti.ru:80/dtv/id370_NBN_SG--Muzhskoy/03/plst.m3u8
+#EXTINF:0 group-title="Music",MUSIC BOX GOLD RUSSIA HD
+#EXTGRP:Music
+http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/568/stream.m3u8
+#EXTINF:0 group-title="Music",MUSIC BOX TV
+#EXTGRP:Music
+http://128.72.206.254:4022/udp/233.33.210.70:5050
+#EXTINF:0 group-title="Music",MUSIC BOX TV
+#EXTGRP:Music
+http://89.179.67.107:4022/udp/233.33.210.70:5050
+#EXTINF:0 group-title="Music",MUSIC BOX UA HD
+#EXTGRP:Music
+http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/1036/index.m3u8
+#EXTINF:0 group-title="Music",MUSICBOX
+#EXTGRP:Music
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4581
+#EXTINF:0 group-title="Music",MUSICBOX
+#EXTGRP:Music
+http://hls.clubplus.eu/ch09/index.m3u8
+#EXTINF:0 group-title="Cognitive",NASA TV
+#EXTGRP:Cognitive
+http://wowza-feed09-nasa.pluto.tv/feed09/ngrp:nasa_all/playlist.m3u8
+#EXTINF:0 group-title="Cognitive",NASA TV HD
+#EXTGRP:Cognitive
+http://151.237.78.12:7902
+#EXTINF:0 group-title="Cognitive",NASA US
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/4941
+#EXTINF:0 group-title="Cognitive",НАША ТВ
+#EXTGRP:Cognitive
+http://stream.nasatv.com.mk/hls/nasatv_live.m3u8
+#EXTINF:0 group-title="News",НАСТОЯЩЕЕ ВРЕМЯ
+#EXTGRP:News
+http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_0540_av-p.m3u8
+#EXTINF:0 group-title="News",НАСТОЯЩЕЕ ВРЕМЯ HD
+#EXTGRP:News
+https://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_1080_av-p.m3u8
+#EXTINF:0 group-title="Cognitive",NAT GEO HD IT
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/46120
+#EXTINF:0 group-title="Cognitive",NAT GEO WILD
+#EXTGRP:Cognitive
+http://uk4321.com:8080/P75CX5KoB0/WBdYJjzfHf/2318
+#EXTINF:0 group-title="Cognitive",NAT GEO WILD
+#EXTGRP:Cognitive
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4423
+#EXTINF:0 group-title="Cognitive",NAT GEO WILD
+#EXTGRP:Cognitive
+http://uk4321.com:8080/P75CX5KoB0/WBdYJjzfHf/1858
+#EXTINF:0 group-title="Cognitive",NAT GEO WILD DE
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/5085
+#EXTINF:0 group-title="Cognitive",NAT GEO WILD ES
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/7188
+#EXTINF:0 group-title="Cognitive",NAT GEO WILD FHD
+#EXTGRP:Cognitive
+http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/2415/index.m3u8
+#EXTINF:0 group-title="Cognitive",NAT GEO WILD FHD DE
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/6227
+#EXTINF:0 group-title="Cognitive",NAT GEO WILD FHD FR
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/16906
+#EXTINF:0 group-title="Cognitive",NAT GEO WILD FHD NL
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/5135
+#EXTINF:0 group-title="Cognitive",NAT GEO WILD FHD RU
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/5352
+#EXTINF:0 group-title="Cognitive",NAT GEO WILD HD
+#EXTGRP:Cognitive
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4422
+#EXTINF:0 group-title="Cognitive",NAT GEO WILD HD
+#EXTGRP:Cognitive
+http://vs-msk-02.tv.ti.ru:80/dtv/id374_NBN_SG--NatGeo_Wild_HD/04/plst.m3u8
+#EXTINF:0 group-title="Cognitive",NAT GEO WILD HD DE
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/9136
+#EXTINF:0 group-title="Cognitive",NAT GEO WILD HD TR
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/6844
+#EXTINF:0 group-title="Cognitive",NAT GEO WILD HD VIP SC
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/17013
+#EXTINF:0 group-title="Cognitive",NAT GEO WILD HU
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/13269
+#EXTINF:0 group-title="Cognitive",NATGEO WILD
+#EXTGRP:Cognitive
+http://persik.by/stream/6606/411484/10446.m3u8
+#EXTINF:0 group-title="Cognitive",NATGEO WILD HD
+#EXTGRP:Cognitive
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/59613
+#EXTINF:0 group-title="Cognitive",NATIIONAL GEOGRAFIC
+#EXTGRP:Cognitive
+http://persik.by/stream/6606/411484/10210.m3u8
+#EXTINF:0 group-title="Cognitive",NATIONAL GEO HD
+#EXTGRP:Cognitive
+http://uk4321.com:8080/P75CX5KoB0/WBdYJjzfHf/1859
+#EXTINF:0 group-title="Cognitive",NATIONAL GEO HD PL
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/7288
+#EXTINF:0 group-title="Cognitive",NATIONAL GEOGRAFIC HD
+#EXTGRP:Cognitive
+http://persik.by/stream/6606/411484/10016.m3u8
+#EXTINF:0 group-title="Cognitive",NATIONAL GEOGRAPHIC
+#EXTGRP:Cognitive
+http://37.235.150.21:81/udp/225.50.64.69:1234
+#EXTINF:0 group-title="Cognitive",NATIONAL GEOGRAPHIC
+#EXTGRP:Cognitive
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4421
+#EXTINF:0 group-title="Cognitive",NATIONAL GEOGRAPHIC
+#EXTGRP:Cognitive
+http://178.69.23.26:8000/play/36-ntv-national-geographic-750eedd
+#EXTINF:0 group-title="Cognitive",NATIONAL GEOGRAPHIC
+#EXTGRP:Cognitive
+http://hlstv.kem.211.ru/239.211.211.40/stream.m3u8
+#EXTINF:0 group-title="Cognitive",NATIONAL GEOGRAPHIC  FHD
+#EXTGRP:Cognitive
+http://uk4321.com:8080/P75CX5KoB0/WBdYJjzfHf/1194
+#EXTINF:0 group-title="Cognitive",NATIONAL GEOGRAPHIC ABU DHABI
+#EXTGRP:Cognitive
+https://ch.iptvmate.net/5e9368374c52ce21881bf86a.m3u8
+#EXTINF:0 group-title="Cognitive",NATIONAL GEOGRAPHIC BR
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/6114
+#EXTINF:0 group-title="Cognitive",NATIONAL GEOGRAPHIC DK
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/8176
+#EXTINF:0 group-title="Cognitive",NATIONAL GEOGRAPHIC ES
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/16270
+#EXTINF:0 group-title="Cognitive",NATIONAL GEOGRAPHIC FHD
+#EXTGRP:Cognitive
+http://uk4321.com:8080/P75CX5KoB0/WBdYJjzfHf/1095
+#EXTINF:0 group-title="Cognitive",NATIONAL GEOGRAPHIC FHD CZ
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/6061
+#EXTINF:0 group-title="Cognitive",NATIONAL GEOGRAPHIC FHD US
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/4881
+#EXTINF:0 group-title="Cognitive",NATIONAL GEOGRAPHIC HD
+#EXTGRP:Cognitive
+http://uk4321.com:8080/P75CX5KoB0/WBdYJjzfHf/10732
+#EXTINF:0 group-title="Cognitive",NATIONAL GEOGRAPHIC HD
+#EXTGRP:Cognitive
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/59610
+#EXTINF:0 group-title="Cognitive",NATIONAL GEOGRAPHIC HD
+#EXTGRP:Cognitive
+http://live-ng-01.more.tv/hls/NGC_HD/index_2.m3u8
+#EXTINF:0 group-title="Cognitive",NATIONAL GEOGRAPHIC HD
+#EXTGRP:Cognitive
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4420
+#EXTINF:0 group-title="Cognitive",NATIONAL GEOGRAPHIC HD
+#EXTGRP:Cognitive
+http://188.35.9.11:21031/udp/034x
+#EXTINF:0 group-title="Cognitive",NATIONAL GEOGRAPHIC HD
+#EXTGRP:Cognitive
+http://hlstv.kem.211.ru/239.211.200.16/stream.m3u8
+#EXTINF:0 group-title="Cognitive",NATIONAL GEOGRAPHIC HD
+#EXTGRP:Cognitive
+http://vs-msk-02.tv.ti.ru:80/dtv/id373_NBN_SG--Nat_Geo_HD/04/plst.m3u8
+#EXTINF:0 group-title="Cognitive",NATIONAL GEOGRAPHIC HD DE
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/6226
+#EXTINF:0 group-title="Cognitive",NATIONAL GEOGRAPHIC HD NL
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/5136
+#EXTINF:0 group-title="Cognitive",NATIONAL GEOGRAPHIC HD UK
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/6574
+#EXTINF:0 group-title="Cognitive",NATIONAL GEOGRAPHIC HD VIP FI
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/673361
+#EXTINF:0 group-title="Cognitive",NATIONAL GEOGRAPHIC HR
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/5028
+#EXTINF:0 group-title="Cognitive",NATIONAL GEOGRAPHIC RO
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/5288
+#EXTINF:0 group-title="Cognitive",NATIONAL GEOGRAPHIC VIP DK
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/672859
+#EXTINF:0 group-title="Cognitive",NATIONAL GEOGRAPHIC WILD
+#EXTGRP:Cognitive
+http://live02-cdn.tv.ti.ru:80/dtv/id374_NBN_SG--NatGeo_Wild_HD/04/plst.m3u8
+#EXTINF:0 group-title="Cognitive",NATIONAL GEOGRAPHIC WILD
+#EXTGRP:Cognitive
+http://188.35.9.5:10020/stolen/487n/hot.dll
+#EXTINF:0 group-title="Cognitive",NATIONAL GEOGRAPHIC WILD HD
+#EXTGRP:Cognitive
+http://uk4321.com:8080/P75CX5KoB0/WBdYJjzfHf/10733
+#EXTINF:0 group-title="Cognitive",NATIONAL GEOGRAPHIC WILD HD
+#EXTGRP:Cognitive
+http://188.35.9.5:10005/stolen/149u/imposter.rar?checkedby:iptvcat.com
+#EXTINF:0 group-title="Cognitive",НАУКА 2.0
+#EXTGRP:Cognitive
+http://vs-msk-02.tv.ti.ru:80/dtv/id240_NBN_SG--Nauka/03/plst.m3u8
+#EXTINF:0 group-title="Cognitive",НАУКА 2.0
+#EXTGRP:Cognitive
+http://178.69.23.26:8000/play/36-ntv-nauka-2.0-074c037
+#EXTINF:0 group-title="Cognitive",НАУКА 2.0
+#EXTGRP:Cognitive
+http://178.163.65.169:4022/udp/234.0.0.226:2000
+#EXTINF:0 group-title="Cognitive",НАУКА 2.0
+#EXTGRP:Cognitive
+http://82.200.127.58:8080/udp/239.54.7.51:1224
+#EXTINF:0 group-title="Cognitive",НАУКА 2.0
+#EXTGRP:Cognitive
+http://live02-cdn.tv.ti.ru:80/dtv/id240_NBN_SG--Nauka/03/plst.m3u8
+#EXTINF:0 group-title="Cognitive",НАУКА 2.0
+#EXTGRP:Cognitive
+http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/92/stream.m3u8
+#EXTINF:0 group-title="Cognitive",НАУКА
+#EXTGRP:Cognitive
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4450
+#EXTINF:0 group-title="Cognitive",НАУКА
+#EXTGRP:Cognitive
+http://188.35.9.11:11152/q
+#EXTINF:0 group-title="Cognitive",НАУКА HD
+#EXTGRP:Cognitive
+http://195.144.197.170:8886/udp/237.0.1.153:10000
+#EXTINF:0 group-title="Kids",NICKELODEON
+#EXTGRP:Kids
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4492
+#EXTINF:0 group-title="Kids",NICKELODEON
+#EXTGRP:Kids
+http://178.163.39.204:4022/udp/234.0.0.153:2000
+#EXTINF:0 group-title="Kids",NICKELODEON
+#EXTGRP:Kids
+http://uk4321.com:8080/P75CX5KoB0/WBdYJjzfHf/841
+#EXTINF:0 group-title="Kids",NICKELODEON
+#EXTGRP:Kids
+http://128.72.167.117:1/udp/233.33.210.80:5050
+#EXTINF:0 group-title="Kids",NICKELODEON
+#EXTGRP:Kids
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/31074
+#EXTINF:0 group-title="Kids",NICKELODEON
+#EXTGRP:Kids
+http://178.163.48.108:81/udp/234.0.0.153:2000
+#EXTINF:0 group-title="Kids",NICKELODEON
+#EXTGRP:Kids
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/59548
+#EXTINF:0 group-title="Kids",NICKELODEON
+#EXTGRP:Kids
+http://83.172.32.25:8004/tv/nickelodeon
+#EXTINF:0 group-title="Kids",NICKELODEON
+#EXTGRP:Kids
+http://78.107.248.201:4022/udp/233.33.210.81:5050?checkedby:iptvcat.com
+#EXTINF:0 group-title="Kids",NICKELODEON
+#EXTGRP:Kids
+http://78.107.248.201:4022/udp/233.33.210.81:5050
+#EXTINF:0 group-title="Kids",NICKELODEON
+#EXTGRP:Kids
+http://95.28.97.61:1234/udp/233.33.210.80:5050
+#EXTINF:0 group-title="Kids",NICKELODEON
+#EXTGRP:Kids
+http://178.217.72.66:80/225.201.2.152/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Kids",NICKELODEON
+#EXTGRP:Kids
+http://82.200.127.58:8080/udp/239.54.7.69:1224
+#EXTINF:0 group-title="Kids",NICKELODEON +1
+#EXTGRP:Kids
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/31073
+#EXTINF:0 group-title="Kids",NICKELODEON AT
+#EXTGRP:Kids
+http://77.109.171.36:8000/play/a051
+#EXTINF:0 group-title="Kids",NICKELODEON CZ
+#EXTGRP:Kids
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/6058
+#EXTINF:0 group-title="Kids",NICKELODEON DE
+#EXTGRP:Kids
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/6224
+#EXTINF:0 group-title="Kids",NICKELODEON DK
+#EXTGRP:Kids
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/11607
+#EXTINF:0 group-title="Kids",NICKELODEON FHD US
+#EXTGRP:Kids
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/638822
+#EXTINF:0 group-title="Kids",NICKELODEON FR
+#EXTGRP:Kids
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/5643
+#EXTINF:0 group-title="Kids",NICKELODEON HD
+#EXTGRP:Kids
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4513
+#EXTINF:0 group-title="Kids",NICKELODEON HD
+#EXTGRP:Kids
+http://vs-msk-02.tv.ti.ru:80/dtv/id385_NBN_SG--Nickelodeon_HD/04/plst.m3u8
+#EXTINF:0 group-title="Kids",NICKELODEON HD
+#EXTGRP:Kids
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/58859
+#EXTINF:0 group-title="Kids",NICKELODEON HD
+#EXTGRP:Kids
+http://83.172.32.25:8012/tv/nickelodeonhd
+#EXTINF:0 group-title="Kids",NICKELODEON HD
+#EXTGRP:Kids
+http://uk4321.com:8080/P75CX5KoB0/WBdYJjzfHf/1210
+#EXTINF:0 group-title="Kids",NICKELODEON HD
+#EXTGRP:Kids
+http://178.217.72.66/225.201.2.35/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Kids",NICKELODEON HD
+#EXTGRP:Kids
+http://persik.by/stream/6606/411484/10420.m3u8
+#EXTINF:0 group-title="Kids",NICKELODEON HD 1080P
+#EXTGRP:Kids
+http://ux.mytvxweb.me:25461/Pr/1234/323588
+#EXTINF:0 group-title="Kids",NICKELODEON HD ES
+#EXTGRP:Kids
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/16268
+#EXTINF:0 group-title="Kids",NICKELODEON HR
+#EXTGRP:Kids
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/9380
+#EXTINF:0 group-title="Kids",NICKELODEON JUNIOR FR
+#EXTGRP:Kids
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/5642
+#EXTINF:0 group-title="Kids",NICKELODEON PT
+#EXTGRP:Kids
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/7502
+#EXTINF:0 group-title="Kids",NICKELODEON TR
+#EXTGRP:Kids
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/6843
+#EXTINF:0 group-title="Kids",NICKELODEON TURKIYE
+#EXTGRP:Kids
+http://uk4321.com:8080/P75CX5KoB0/WBdYJjzfHf/728
+#EXTINF:0 group-title="Kids",NICKELODEON UK
+#EXTGRP:Kids
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/6572
+#EXTINF:0 group-title="Kids",NICKELODEON VIP NO
+#EXTGRP:Kids
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/673334
+#EXTINF:0 group-title="Kids",NICK JR
+#EXTGRP:Kids
+http://83.172.32.25:8012/tv/nickjr
+#EXTINF:0 group-title="Kids",NICK JR
+#EXTGRP:Kids
+http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/198/stream.m3u8
+#EXTINF:0 group-title="Kids",NICK JR
+#EXTGRP:Kids
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/30929
+#EXTINF:0 group-title="Kids",NICK JR BR
+#EXTGRP:Kids
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/16467
+#EXTINF:0 group-title="Kids",NICK JR HD UK
+#EXTGRP:Kids
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/15806
+#EXTINF:0 group-title="Kids",NICK JR TR
+#EXTGRP:Kids
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/6923
+#EXTINF:0 group-title="Kids",NICK JR UK
+#EXTGRP:Kids
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/15807
+#EXTINF:0 group-title="Kids",NICK JR.
+#EXTGRP:Kids
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4503
+#EXTINF:0 group-title="Kids",NICK JR.
+#EXTGRP:Kids
+http://82.200.127.58:8080/udp/239.54.7.5:1224
+#EXTINF:0 group-title="Kids",NICK JR. HD 1080P
+#EXTGRP:Kids
+http://ux.mytvxweb.me:25461/Pr/1234/323301
+#EXTINF:0 group-title="Cognitive",НОВИЙ КАНАЛ
+#EXTGRP:Cognitive
+http://51.15.176.84/hls/novy-1/index.m3u8
+#EXTINF:0 group-title="Cognitive",НОВЫЙ КАНАЛ -
+#EXTGRP:Cognitive
+http://82.200.127.58:8080/udp/239.0.47.33:1224
+#EXTINF:0 group-title="Cognitive",НОВЫЙ КАНАЛ -
+#EXTGRP:Cognitive
+http://82.200.127.58:8080/udp/239.0.47.37:1224
+#EXTINF:0 group-title="Cognitive",НОВЫЙ КАНАЛ -
+#EXTGRP:Cognitive
+http://82.200.127.58:8080/udp/239.0.47.42:1224
+#EXTINF:0 group-title="Cognitive",НОВЫЙ КАНАЛ -
+#EXTGRP:Cognitive
+http://82.200.127.58:8080/udp/239.0.47.34:1224
+#EXTINF:0 group-title="Cognitive",НОВЫЙ КАНАЛ -
+#EXTGRP:Cognitive
+http://82.200.127.58:8080/udp/239.0.47.50:1224
+#EXTINF:0 group-title="Cognitive",НОВЫЙ КАНАЛ -
+#EXTGRP:Cognitive
+http://82.200.127.58:8080/udp/239.0.47.32:1224
+#EXTINF:0 group-title="Cognitive",НОВЫЙ КАНАЛ -
+#EXTGRP:Cognitive
+http://82.200.127.58:8080/udp/239.0.47.40:1224
+#EXTINF:0 group-title="Cognitive",НОВЫЙ КАНАЛ -
+#EXTGRP:Cognitive
+http://82.200.127.58:8080/udp/239.0.47.47:1224
+#EXTINF:0 group-title="Cognitive",НОВЫЙ КАНАЛ -
+#EXTGRP:Cognitive
+http://82.200.127.58:8080/udp/239.0.47.31:1224
+#EXTINF:0 group-title="Cognitive",НОВЫЙ КАНАЛ -
+#EXTGRP:Cognitive
+http://82.200.127.58:8080/udp/239.0.47.43:1224
+#EXTINF:0 group-title="Cognitive",НОВЫЙ КАНАЛ -
+#EXTGRP:Cognitive
+http://82.200.127.58:8080/udp/239.0.47.48:1224
+#EXTINF:0 group-title="Cognitive",НОВЫЙ КАНАЛ -
+#EXTGRP:Cognitive
+http://82.200.127.58:8080/udp/239.0.47.39:1224
+#EXTINF:0 group-title="Cognitive",НОВЫЙ КАНАЛ -
+#EXTGRP:Cognitive
+http://82.200.127.58:8080/udp/239.0.47.46:1224
+#EXTINF:0 group-title="Cognitive",НОВЫЙ КАНАЛ -
+#EXTGRP:Cognitive
+http://82.200.127.58:8080/udp/239.0.47.38:1224
+#EXTINF:0 group-title="Cognitive",НОВЫЙ КАНАЛ -
+#EXTGRP:Cognitive
+http://82.200.127.58:8080/udp/239.0.47.44:1224
+#EXTINF:0 group-title="Cognitive",НОВЫЙ КАНАЛ -
+#EXTGRP:Cognitive
+http://82.200.127.58:8080/udp/239.0.47.41:1224
+#EXTINF:0 group-title="News",НТА (ЛЬВІВ)
+#EXTGRP:News
+http://95.67.106.10/hls/nta_ua_low/index.m3u8
+#EXTINF:0 group-title="News",НТА (ЛЬВІВ) HD
+#EXTGRP:News
+http://95.67.106.10/hls/nta_ua_hi/index.m3u8
+#EXTINF:0 group-title="News",НТА
+#EXTGRP:News
+http://95.67.106.10/hls/nta_ua_mid/index.m3u8
+#EXTINF:0 group-title="News",НТА
+#EXTGRP:News
+http://nta-hls1.cosmonova.net.ua/hls/nta_ua_mid/index.m3u8
+#EXTINF:0 group-title="News",НТН
+#EXTGRP:News
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4726
+#EXTINF:0 group-title="News",НТН
+#EXTGRP:News
+http://109.68.41.148:1935/live/ntn_3/playlist-%D0%A0%D2%91%D0%A0%C2%B0.m3u8
+#EXTINF:0 group-title="News",НТН
+#EXTGRP:News
+http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/936/index.m3u8
+#EXTINF:0 group-title="News",НТН
+#EXTGRP:News
+https://ch.iptvmate.net/4603bde36dc850f6cc670ba3e0a6ad81.m3u8
+#EXTINF:0 group-title="XXX",NURTV HD
+#EXTGRP:XXX
+http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/565/stream.m3u8
+#EXTINF:0 group-title="XXX",NUR TV
+#EXTGRP:XXX
+http://185.57.68.33:8091/228/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="XXX",НЮ АРТ ТВ
+#EXTGRP:XXX
+http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/229/stream.m3u8
+#EXTINF:0 group-title="XXX",НЮАРТ TV
+#EXTGRP:XXX
+http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/2057/index.m3u8
+#EXTINF:0 group-title="News",OBOZ TV
+#EXTGRP:News
+http://player.obozrevatel.com/live2/stream.m3u8
+#EXTINF:0 group-title="News",ОБОЗ ТВ
+#EXTGRP:News
+https://player.obozrevatel.com/live1/stream.m3u8
+#EXTINF:0 group-title="Cognitive",ОХОТА И РЫБАЛКА
+#EXTGRP:Cognitive
+http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/112/stream.m3u8
+#EXTINF:0 group-title="Cognitive",ОХОТА И РЫБАЛКА
+#EXTGRP:Cognitive
+http://82.200.127.58:8080/udp/239.54.7.26:1224
+#EXTINF:0 group-title="Cognitive",ОХОТА И РЫБАЛКА
+#EXTGRP:Cognitive
+http://live02-cdn.tv.ti.ru:80/dtv/id1281_NBN_SG--Ohota_Rybalka/03/plst.m3u8
+#EXTINF:0 group-title="Cognitive",ОХОТА И РЫБАЛКА
+#EXTGRP:Cognitive
+http://176.114.130.10:81/udp/239.100.8.4:1234
+#EXTINF:0 group-title="Cognitive",ОХОТА И РЫБАЛКА
+#EXTGRP:Cognitive
+http://vs-msk-02.tv.ti.ru:80/dtv/id1281_NBN_SG--Ohota_Rybalka/03/plst.m3u8
+#EXTINF:0 group-title="Cognitive",OХОТНИК И РЫБОЛОВ HD
+#EXTGRP:Cognitive
+https://strm.yandex.ru/kal/ohotnik/ohotnik0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0 group-title="Cognitive",OХОТНИК И РЫБОЛОВ HD
+#EXTGRP:Cognitive
+https://stream3.itv.uz/1001-1500k/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="Cognitive",ОХОТНИК И РЫБОЛОВ
+#EXTGRP:Cognitive
+http://176.110.252.65:34040/udp/238.1.2.9:1234
+#EXTINF:0 group-title="Cognitive",ОХОТНИК И РЫБОЛОВ HD
+#EXTGRP:Cognitive
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4469
+#EXTINF:0 group-title="Cognitive",ОХОТНИК И РЫБОЛОВ HD
+#EXTGRP:Cognitive
+http://178.163.48.195:4022/udp/234.0.0.98:2000
+#EXTINF:0 group-title="Cognitive",ОХОТНИК И РЫБОЛОВ HD
+#EXTGRP:Cognitive
+http://83.172.32.25:8012/tv/okhotnikirybolovhd
+#EXTINF:0 group-title="Cognitive",ОХОТНИК И РЫБОЛОВ HD
+#EXTGRP:Cognitive
+http://178.163.81.20:4022/udp/234.0.0.98:2000
+#EXTINF:0 group-title="Cognitive",ОХОТНИК И РЫБОЛОВ HD
+#EXTGRP:Cognitive
+http://178.163.70.178:4022/udp/234.0.0.98:2000
+#EXTINF:0 group-title="Cognitive",ОХОТНИК И РЫБОЛОВ HD
+#EXTGRP:Cognitive
+http://178.163.47.192:4022/udp/234.0.0.98:2000
+#EXTINF:0 group-title="Cognitive",ОХОТНИК И РЫБОЛОВ INT (HD)
+#EXTGRP:Cognitive
+https://strm.yandex.ru/kal/ohotnik/ohotnik0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:0 group-title="Cognitive",ОРУЖИЕ
+#EXTGRP:Cognitive
+http://46.8.46.4:8080/Oruzhie/playlist.m3u8
+#EXTINF:0 group-title="Cognitive",ОРУЖИЕ
+#EXTGRP:Cognitive
+http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/94/stream.m3u8
+#EXTINF:0 group-title="Cognitive",ОРУЖИЕ
+#EXTGRP:Cognitive
+http://83.172.32.25:8012/tv/oruzhie
+#EXTINF:0 group-title="Cognitive",ОРУЖИЕ
+#EXTGRP:Cognitive
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4474
+#EXTINF:0 group-title="Sport",OUTDOOR CHANNEL
+#EXTGRP:Sport
+http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/117/stream.m3u8
+#EXTINF:0 group-title="Sport",OUTDOOR CHANNEL
+#EXTGRP:Sport
+http://uk4321.com:8080/P75CX5KoB0/WBdYJjzfHf/10845
+#EXTINF:0 group-title="Sport",OUTDOOR CHANNEL
+#EXTGRP:Sport
+http://vs-msk-02.tv.ti.ru:80/dtv/id1122_NBN_SG--OutdoorSD/03/plst.m3u8
+#EXTINF:0 group-title="Sport",OUTDOOR CHANNEL
+#EXTGRP:Sport
+http://live02-cdn.tv.ti.ru:80/dtv/id1122_NBN_SG--OutdoorSD/03/plst.m3u8
+#EXTINF:0 group-title="Sport",OUTDOOR CHANNEL FHD NL
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/13110
+#EXTINF:0 group-title="Sport",OUTDOOR CHANNEL HD 1080P
+#EXTGRP:Sport
+http://ux.mytvxweb.me:25461/Pr/1234/323298
+#EXTINF:0 group-title="Sport",OUTDOOR CHANNEL HD US
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/14325
+#EXTINF:0 group-title="Sport",OUTDOOR СHANNEL
+#EXTGRP:Sport
+http://persik.by/stream/6606/411484/10246.m3u8
+#EXTINF:0 group-title="Movies",PARAMOUNT CHANNEL
+#EXTGRP:Movies
+http://live02-cdn.tv.ti.ru:80/dtv/id986_NBN_SG--Paramount/03/plst.m3u8
+#EXTINF:0 group-title="Movies",PARAMOUNT CHANNEL
+#EXTGRP:Movies
+http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/2055/index.m3u8
+#EXTINF:0 group-title="Movies",PARAMOUNT CHANNEL
+#EXTGRP:Movies
+http://vs-msk-02.tv.ti.ru:80/dtv/id986_NBN_SG--Paramount/03/plst.m3u8
+#EXTINF:0 group-title="Movies",PARAMOUNT CHANNEL
+#EXTGRP:Movies
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4356
+#EXTINF:0 group-title="Movies",PARAMOUNT CHANNEL BR
+#EXTGRP:Movies
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/6112
+#EXTINF:0 group-title="Movies",PARAMOUNT CHANNEL ES
+#EXTGRP:Movies
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/8769
+#EXTINF:0 group-title="Movies",PARAMOUNT CHANNEL FHD FR
+#EXTGRP:Movies
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/16896
+#EXTINF:0 group-title="Movies",PARAMOUNT CHANNEL HD
+#EXTGRP:Movies
+http://78.107.248.201:4022/udp/233.33.210.9:5050
+#EXTINF:0 group-title="Movies",PARAMOUNT CHANNEL HD
+#EXTGRP:Movies
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4355
+#EXTINF:0 group-title="Movies",PARAMOUNT CHANNEL HD
+#EXTGRP:Movies
+http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/5063/index.m3u8
+#EXTINF:0 group-title="Movies",PARAMOUNT CHANNEL HD BR
+#EXTGRP:Movies
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/13611
+#EXTINF:0 group-title="Movies",PARAMOUNT CHANNEL HD FR
+#EXTGRP:Movies
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/5627
+#EXTINF:0 group-title="Movies",PARAMOUNT
+#EXTGRP:Movies
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/59789
+#EXTINF:0 group-title="Movies",PARAMOUNT COMEDY
+#EXTGRP:Movies
+http://77.89.204.107:8000/play/a04f/index.m3u8
+#EXTINF:0 group-title="Movies",PARAMOUNT COMEDY
+#EXTGRP:Movies
+http://176.197.77.101:81/udp/239.255.42.16:1234
+#EXTINF:0 group-title="Movies",PARAMOUNT COMEDY
+#EXTGRP:Movies
+http://hlstv.kem.211.ru/239.211.211.73/stream.m3u8
+#EXTINF:0 group-title="Movies",PARAMOUNT COMEDY
+#EXTGRP:Movies
+http://151.252.76.175:4545/udp/236.0.6.137:1120
+#EXTINF:0 group-title="Movies",PARAMOUNT COMEDY HD
+#EXTGRP:Movies
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4371
+#EXTINF:0 group-title="Movies",PARAMOUNT COMEDY HD
+#EXTGRP:Movies
+http://83.172.32.25:8012/tv/paramountcomedy
+#EXTINF:0 group-title="Movies",PARAMOUNT COMEDY HD
+#EXTGRP:Movies
+http://vs-msk-02.tv.ti.ru:80/dtv/id275_NBN_SG--ParamountComedy/04/plst.m3u8
+#EXTINF:0 group-title="Movies",PARAMOUNT COMEDY HD
+#EXTGRP:Movies
+http://82.200.127.58:8080/udp/239.54.7.117:1234
+#EXTINF:0 group-title="Movies",PARAMOUT COMEDY HD
+#EXTGRP:Movies
+http://live02-cdn.tv.ti.ru:80/dtv/id275_NBN_SG--ParamountComedy/04/plst.m3u8
+#EXTINF:0 group-title="Humor",ПЯТНИЦА
+#EXTGRP:Humor
+http://live02-cdn.tv.ti.ru:80/dtv/id127_NBN_SG--pjatnica/03/plst.m3u8
+#EXTINF:0 group-title="Humor",ПЯТНИЦА
+#EXTGRP:Humor
+http://109.248.66.98:4044/udp/239.195.32.32:1234
+#EXTINF:0 group-title="Humor",ПЯТНИЦА
+#EXTGRP:Humor
+http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/16/stream.m3u8
+#EXTINF:0 group-title="Humor",ПЯТНИЦА
+#EXTGRP:Humor
+http://stream3.kuvalda.tv/hls/pyatnica.m3u8
+#EXTINF:0 group-title="Humor",ПЯТНИЦА
+#EXTGRP:Humor
+http://vs-msk-02.tv.ti.ru:80/dtv/id127_NBN_SG--pjatnica/03/plst.m3u8
+#EXTINF:0 group-title="Humor",ПЯТНИЦА
+#EXTGRP:Humor
+https://rtmp.radiogroup.com.ua:8080/live/pt/index.m3u8
+#EXTINF:0 group-title="Humor",ПЯТНИЦА
+#EXTGRP:Humor
+http://persik.by/stream/6606/411484/459.m3u8
+#EXTINF:0 group-title="Humor",ПЯТНИЦА
+#EXTGRP:Humor
+http://82.200.127.58:8080/udp/239.0.42.96:1224
+#EXTINF:0 group-title="Humor",ПЯТНИЦА HD
+#EXTGRP:Humor
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4765
+#EXTINF:0 group-title="Humor",ПЯТНИЦА!
+#EXTGRP:Humor
+http://82.200.127.58:8080/udp/239.0.23.17:1224
+#EXTINF:0 group-title="Humor",ПЯТНИЦА!
+#EXTGRP:Humor
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4397
+#EXTINF:0 group-title="Humor",ПЯТНИЦА!
+#EXTGRP:Humor
+http://82.200.127.58:8080/udp/239.0.14.52:1224
+#EXTINF:0 group-title="Humor",ПЯТНИЦА! (+4)
+#EXTGRP:Humor
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4692
+#EXTINF:0 group-title="Humor",ПЯТНИЦА! (+7)
+#EXTGRP:Humor
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4693
+#EXTINF:0 group-title="XXX",PENTHOUSE GOLD HD
+#EXTGRP:XXX
+http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/5011/index.m3u8
+#EXTINF:0 group-title="XXX",PENTHOUSE HD
+#EXTGRP:XXX
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/875.ts
+#EXTINF:0 group-title="XXX",PENTHOUSE TV
+#EXTGRP:XXX
+http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/1073/index.m3u8
+#EXTINF:0 group-title="News",ПЕРШИЙ ЗАХІДНИЙ (ЛЬВІВ)
+#EXTGRP:News
+http://hls.cdn.ua/1zahid.com_live/_definst_/livestream/chunklist_w406301318.m3u8
+#EXTINF:0 group-title="News",ПЕРШИЙ ЗАХІДНИЙ (ЛЬВОВ)
+#EXTGRP:News
+http://rtmp.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8
+#EXTINF:0 group-title="News",ПЕРШИЙ ЗАХІДНИЙ (ЛЬВОВ)
+#EXTGRP:News
+http://hls.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8
+#EXTINF:0 group-title="Cognitive",ПЕРВЫЙ ОБРАЗОВАТЕЛЬНЫЙ
+#EXTGRP:Cognitive
+http://vs-msk-02.tv.ti.ru:80/dtv/id523_NBN_SG--pervobraz/03/plst.m3u8
+#EXTINF:0 group-title="Cognitive",ПЕРВЫЙ ОБРАЗОВАТЕЛЬНЫЙ
+#EXTGRP:Cognitive
+http://live02-cdn.tv.ti.ru:80/dtv/id523_NBN_SG--pervobraz/03/plst.m3u8
+#EXTINF:0 group-title="Cognitive",ПЕРВЫЙ ОБРАЗОВАТЕЛЬНЫЙ
+#EXTGRP:Cognitive
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4462
+#EXTINF:0 group-title="Cognitive",ПЕРВЫЙ ОБРАЗОВАТЕЛЬНЫЙ
+#EXTGRP:Cognitive
+http://178.69.23.26:8000/play/36-ntv-perviy-obrazovatelniy-4e5954f
+#EXTINF:0 group-title="Cognitive",ПЕРШИЙ АВТОМОБIЛЬНИЙ
+#EXTGRP:Cognitive
+http://79.135.212.152:4022/udp/238.39.40.218:5000
+#EXTINF:0 group-title="Kids",ПИКСЕЛЬ ТВ
+#EXTGRP:Kids
+http://79.142.197.7:8888/Piksel/mono.m3u8
+#EXTINF:0 group-title="Cognitive",PLANET HD
+#EXTGRP:Cognitive
+http://uk4321.com:8080/P75CX5KoB0/WBdYJjzfHf/1197
+#EXTINF:0 group-title="Cognitive",PLANETA BG
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/5972
+#EXTINF:0 group-title="Cognitive",PLANETE A&E HD FR
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/8563
+#EXTINF:0 group-title="Cognitive",PLANETE+AE HD
+#EXTGRP:Cognitive
+http://62.112.9.63:88/Planete+AE/index.m3u8?token=test
+#EXTINF:0 group-title="Sport",PLANET SPORT  PROMO
+#EXTGRP:Sport
+http://hrv.00387.info/PlanetSport3HD/index.m3u8?token=test
+#EXTINF:0 group-title="Sport",PLANET SPORT 1 HD _198
+#EXTGRP:Sport
+http://hrv.00387.info/PlanetSport1HD/index.m3u8?token=test
+#EXTINF:0 group-title="Sport",PLANET SPORT 2 HD _199
+#EXTGRP:Sport
+http://hrv.00387.info/PlanetSport2HD/index.m3u8?token=test
+#EXTINF:0 group-title="Cognitive",ПЛАНЕТА HD
+#EXTGRP:Cognitive
+http://31.131.95.131:81/udp/239.195.4.50:1234
+#EXTINF:0 group-title="XXX",PLAY TV
+#EXTGRP:XXX
+https://ch.iptvmate.net/5e933cda85266b43961c605a.m3u8
+#EXTINF:0 group-title="XXX",PLAYBOY
+#EXTGRP:XXX
+http://188.35.9.12:21101/udp/127h
+#EXTINF:0 group-title="XXX",PLAYBOY TV
+#EXTGRP:XXX
+http://37.235.150.21:81/udp/225.50.70.2:1234
+#EXTINF:0 group-title="XXX",PLAYBOY TV
+#EXTGRP:XXX
+http://109.248.79.124:4044/udp/239.195.2.5:1234
+#EXTINF:0 group-title="XXX",PLAYBOY TV HD (18+)
+#EXTGRP:XXX
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/19674
+#EXTINF:0 group-title="XXX",PLAYBOY(18+)
+#EXTGRP:XXX
+http://45.88.104.104/play/242/test/index.m3u8
+#EXTINF:0 group-title="Cognitive",ПОЕХАЛИ!
+#EXTGRP:Cognitive
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4449
+#EXTINF:0 group-title="Cognitive",ПОЕХАЛИ!
+#EXTGRP:Cognitive
+https://sc.id-tv.kz/poehali_38_39.m3u8
+#EXTINF:0 group-title="Cognitive",ПОЕХАЛИ!
+#EXTGRP:Cognitive
+http://83.172.32.25:8012/tv/poehali
+#EXTINF:0 group-title="Cognitive",ПОЕХАЛИ!
+#EXTGRP:Cognitive
+http://sc.id-tv.kz:80/poehali_38_39.m3u8
+#EXTINF:0 group-title="Cognitive",ПОЕХАЛИ!
+#EXTGRP:Cognitive
+https://ch.iptvmate.net/5e933c8323af692ade6d5a93.m3u8
+#EXTINF:0 group-title="Cognitive",ПОЕХАЛИ!
+#EXTGRP:Cognitive
+http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/135/index.m3u8
+#EXTINF:0 group-title="News",ПРЯМИЙ
+#EXTGRP:News
+http://prm-hls1.cosmonova.net.ua/hls/prm_ua_low/index.m3u8
+#EXTINF:0 group-title="News",ПРЯМИЙ
+#EXTGRP:News
+http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
+#EXTINF:0 group-title="News",ПРЯМИЙ
+#EXTGRP:News
+https://ch.iptvmate.net/836b02fefce4b476051f9e114df4e22c.m3u8
+#EXTINF:0 group-title="News",ПРЯМИЙ
+#EXTGRP:News
+http://95.67.21.100/hls/prm_ua_hi/index.m3u8
+#EXTINF:0 group-title="News",ПРЯМИЙ
+#EXTGRP:News
+http://prm-hls3.cosmonova.net.ua/hls/prm_ua_low/index.m3u8
+#EXTINF:0 group-title="News",ПРЯМИЙ HD
+#EXTGRP:News
+http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/1015/index.m3u8
+#EXTINF:0 group-title="News",ПРЯМИЙ HD
+#EXTGRP:News
+http://prm-hls3.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
+#EXTINF:0 group-title="News",ПРЯМОЙ
+#EXTGRP:News
+http://prm-hls1.cosmonova.net.ua/hls/prm_ua_mid/index.m3u8
+#EXTINF:0 group-title="News",ПРЯМЫЙ
+#EXTGRP:News
+https://ch.iptvmate.net/5e93508d9600f15ae365787c.m3u8
+#EXTINF:0 group-title="News",ПРАВДА ТУТ
+#EXTGRP:News
+https://ch.iptvmate.net/5e9350699600f15ae3657877.m3u8
+#EXTINF:0 group-title="News",ПРАВДА ТУТ
+#EXTGRP:News
+http://pravdatytkievshina-hls3.cosmonova.net.ua/hls/pravdatytkievshina_ua_mid/index.m3u8
+#EXTINF:0 group-title="News",ПРАВДА ТУТ
+#EXTGRP:News
+https://ch.iptvmate.net/5b63e1c4a874312b16fa57efe7e06d99.m3u8
+#EXTINF:0 group-title="News",ПРАВДА ТУТ HD
+#EXTGRP:News
+http://pravdatytkievshina-hls1.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:0 group-title="News",ПРАВДА ТУТ HD
+#EXTGRP:News
+http://pravdatytkievshina-hls3.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:0 group-title="News",ПРАВДА ТУТ HD
+#EXTGRP:News
+http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:0 group-title="Cognitive",ПРИКЛЮЧЕНИЯ HD
+#EXTGRP:Cognitive
+http://217.70.122.1:8085/travel/mono.m3u8
+#EXTINF:0 group-title="XXX",PRIVATE HD
+#EXTGRP:XXX
+http://130.180.93.142:8001/1:0:19:4225:2f44:13e:820000:0:0:0
+#EXTINF:0 group-title="Sport",REAL MADRID TV (ENGLISH)
+#EXTGRP:Sport
+https://ch.iptvmate.net/5e935f077105fc39963852f6.m3u8
+#EXTINF:0 group-title="Sport",REAL MADRID HD
+#EXTGRP:Sport
+https://ch.iptvmate.net/5e935ef9ee54cf5341561202.m3u8
+#EXTINF:0 group-title="Sport",REAL MADRID TV
+#EXTGRP:Sport
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+#EXTINF:0 group-title="Sport",REAL MADRID TV
+#EXTGRP:Sport
+https://ch.iptvmate.net/5e935ef67105fc39963852ef.m3u8
+#EXTINF:0 group-title="Sport",RUSSIAN EXTREME RU
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/5338
+#EXTINF:0 group-title="Sport",RUSSIAN EXTREME ULTRA HD
+#EXTGRP:Sport
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4577
+#EXTINF:0 group-title="Cognitive",SILENCE TV
+#EXTGRP:Cognitive
+https://ch.iptvmate.net/e0d590edcb1bc67b9a845d06b138e1cd.m3u8
+#EXTINF:0 group-title="Cognitive",SILENCE TV
+#EXTGRP:Cognitive
+https://ch.iptvmate.net/5e936038ee54cf5341561277.m3u8
+#EXTINF:0 group-title="Sport",SETANTA SPORT HD
+#EXTGRP:Sport
+http://cloudcdn.tk:80/wW73pkysbdWD900/MLInUC1apkLP106/23829
+#EXTINF:0 group-title="Sport",SETANTA SPORTS + HD
+#EXTGRP:Sport
+http://185.220.35.73:3000/xdh0m4/duduKBnd/348
+#EXTINF:0 group-title="Sport",SETANTA SPORTS + HD
+#EXTGRP:Sport
+http://fr01.spr24.net/934/index.m3u8?token=rCEqTFvRhtEvXt
+#EXTINF:0 group-title="Sport",SETANTA SPORTS EE
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/50109
+#EXTINF:0 group-title="Sport",SETANTA SPORTS HD
+#EXTGRP:Sport
+http://fr01.spr24.net/17434/index.m3u8?token=rCEqTFvRhtEvXt
+#EXTINF:0 group-title="Sport",SETANTA SPORTS+
+#EXTGRP:Sport
+http://195.158.29.129/live_360/live.stream+_360p.m3u8
+#EXTINF:0 group-title="Sport",♧ SETANTA SPORTS UA [FHD]
+#EXTGRP:Sport
+http://188.35.9.12:2028
+#EXTINF:0 group-title="Sport",SETANTA SPORTS UKRAINE HD
+#EXTGRP:Sport
+http://46.160.96.206:4022/udp/239.1.0.136:1234
+#EXTINF:0 group-title="Sport",СЕТАНТА СПОРТ
+#EXTGRP:Sport
+https://95-213-224-179.livesports24.online/rusetantaeurasia.m3u8
+#EXTINF:0 group-title="Sport",СЕТАНТА СПОРТ UA
+#EXTGRP:Sport
+http://193.34.172.141:8000/play/Setanta/index.m3u8
+#EXTINF:0 group-title="Movies",SHOWTIME (EAST)
+#EXTGRP:Movies
+http://uk4321.com:8080/P75CX5KoB0/WBdYJjzfHf/6239
+#EXTINF:0 group-title="Movies",SHOWTIME EAST CA
+#EXTGRP:Movies
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/624313
+#EXTINF:0 group-title="Movies",SHOWTIME FHD US
+#EXTGRP:Movies
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/13735
+#EXTINF:0 group-title="Movies",SHOWTIME HD 1080P
+#EXTGRP:Movies
+http://ux.mytvxweb.me:25461/Pr/1234/323280
+#EXTINF:0 group-title="Movies",SHOWTIME WEST HD US
+#EXTGRP:Movies
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/14321
+#EXTINF:0 group-title="News",SKRYPIN UA
+#EXTGRP:News
+https://open-cdn.lanet.tv/live/1008.m3u8?checkedby:iptvcat.com
+#EXTINF:0 group-title="News",SKRYPIN UA
+#EXTGRP:News
+https://ch.iptvmate.net/5e9342649f226459246208bb.m3u8
+#EXTINF:0 group-title="Sport",SKY SPORT 1
+#EXTGRP:Sport
+http://220.81.169.165:9981/stream/channelid/1072084575
+#EXTINF:0 group-title="Sport",SKY SPORT 1 HD
+#EXTGRP:Sport
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/59561
+#EXTINF:0 group-title="Sport",SKY SPORT 1 HD 1080P
+#EXTGRP:Sport
+http://uk4321.com:8080/P75CX5KoB0/WBdYJjzfHf/1220
+#EXTINF:0 group-title="Sport",SKY SPORT 1 HD DE
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/6184
+#EXTINF:0 group-title="Sport",SKY SPORT 251 FHD IT
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/644199
+#EXTINF:0 group-title="Sport",SKY SPORT F1 FHD IT
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/644208
+#EXTINF:0 group-title="Sport",SKY SPORT F1 IT
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/4326
+#EXTINF:0 group-title="Sport",SKY SPORT FORMULA 1 HD
+#EXTGRP:Sport
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/59564
+#EXTINF:0 group-title="Sport",SKY SPORTS F1
+#EXTGRP:Sport
+http://wearemuttsnuts.for-more.biz:8080/Leeannboy/20masonstv20/950
+#EXTINF:0 group-title="Sport",SKY SPORT
+#EXTGRP:Sport
+http://rocksat.ddns.net:25461/3mfvbsvk/578jtxaw/55705
+#EXTINF:0 group-title="Sport",SKY SPORT 2 FHD DE
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/7362
+#EXTINF:0 group-title="Sport",SKY SPORT 2 HD
+#EXTGRP:Sport
+http://uk4321.com:8080/P75CX5KoB0/WBdYJjzfHf/1221
+#EXTINF:0 group-title="Sport",SKY SPORT 24 HD
+#EXTGRP:Sport
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/59562
+#EXTINF:0 group-title="Sport",SKY SPORT 4 FHD DE
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/13562
+#EXTINF:0 group-title="Sport",SKY SPORT MOTOGP
+#EXTGRP:Sport
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/59565
+#EXTINF:0 group-title="Sport",SKY SPORT NBA HD IT
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/46538
+#EXTINF:0 group-title="Sport",SKY SPORT NEWS HD
+#EXTGRP:Sport
+http://178.199.75.214:3000/play/ccSkyNEwscc
+#EXTINF:0 group-title="Sport",SKY SPORT NEWS HD
+#EXTGRP:Sport
+http://213.195.125.255:9981/stream/channelid/833999403
+#EXTINF:0 group-title="Sport",SKY SPORT NEWS HD
+#EXTGRP:Sport
+http://217.92.144.59:9981/stream/channelid/368731981
+#EXTINF:0 group-title="Sport",SKY SPORTS 2
+#EXTGRP:Sport
+http://fr01.spr24.net/1367/index.m3u8?token=rCEqTFvRhtEvXt
+#EXTINF:0 group-title="Sport",SKY SPORTS MIX UK
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/6534
+#EXTINF:0 group-title="Sport",SKY_SPORT_254 HD
+#EXTGRP:Sport
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/59602
+#EXTINF:0 group-title="Sport",SKY_SPORT_UNO HD
+#EXTGRP:Sport
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/59567
+#EXTINF:0 group-title="Sport",SKY SPORTS PREMIER LEAGUE FHD
+#EXTGRP:Sport
+http://uk4321.com:8080/P75CX5KoB0/WBdYJjzfHf/2352
+#EXTINF:0 group-title="Movies",SONY CHANNEL
+#EXTGRP:Movies
+http://176.197.77.101:81/udp/239.255.42.42:1234
+#EXTINF:0 group-title="Movies",SONY CHANNEL
+#EXTGRP:Movies
+http://212.19.23.86:666/udp/239.191.254.48:13343
+#EXTINF:0 group-title="Movies",SONY CHANNEL
+#EXTGRP:Movies
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4382
+#EXTINF:0 group-title="Movies",SONY CHANNEL HD
+#EXTGRP:Movies
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4381
+#EXTINF:0 group-title="Movies",SONY CHANNEL HD
+#EXTGRP:Movies
+http://vs-msk-02.tv.ti.ru:80/dtv/id397_NBN_SG--SETHD/04/plst.m3u8
+#EXTINF:0 group-title="Movies",SONY CHANNEL HD
+#EXTGRP:Movies
+http://live02-cdn.tv.ti.ru:80/dtv/id397_NBN_SG--SETHD/04/plst.m3u8
+#EXTINF:0 group-title="Movies",SONY CHANNEL HD
+#EXTGRP:Movies
+http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/2062/index.m3u8
+#EXTINF:0 group-title="Movies",SONY CHANNEL UK
+#EXTGRP:Movies
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/6525
+#EXTINF:0 group-title="Movies",SONY SCI FI
+#EXTGRP:Movies
+http://195.144.197.170:8886/udp/237.0.1.31:10000
+#EXTINF:0 group-title="Movies",SONY SCI-FI
+#EXTGRP:Movies
+http://83.172.32.25:8012/tv/sonyscifi
+#EXTINF:0 group-title="Movies",SONY SCI-FI
+#EXTGRP:Movies
+http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/110/index.m3u8
+#EXTINF:0 group-title="Movies",SONY SCI-FI
+#EXTGRP:Movies
+http://79.142.197.7:8888/Sony_Sci_Fi/mono.m3u8
+#EXTINF:0 group-title="Movies",SONY SCI-FI
+#EXTGRP:Movies
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4383
+#EXTINF:0 group-title="Movies",SONY SCI-FI
+#EXTGRP:Movies
+http://live02-cdn.tv.ti.ru:80/dtv/id158_NBN_SG--SonySciFi/03/plst.m3u8
+#EXTINF:0 group-title="Movies",SONY SCI-FI
+#EXTGRP:Movies
+http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/152/stream.m3u8
+#EXTINF:0 group-title="Movies",SONY SCI-FI
+#EXTGRP:Movies
+http://79.142.197.7:8888/Sony_Sci_Fi/index.m3u8
+#EXTINF:0 group-title="Movies",SONY SCI-FI
+#EXTGRP:Movies
+http://vs-msk-02.tv.ti.ru:80/dtv/id158_NBN_SG--SonySciFi/03/plst.m3u8
+#EXTINF:0 group-title="Movies",SONY SCI-FI
+#EXTGRP:Movies
+http://82.200.127.58:8080/udp/239.54.7.50:1224
+#EXTINF:0 group-title="Movies",SONY SCI-FI
+#EXTGRP:Movies
+http://85.15.121.27:4022/udp/238.0.2.122:1234
+#EXTINF:0 group-title="Movies",SONY TURBO
+#EXTGRP:Movies
+http://79.133.121.141:81/udp/239.191.254.135:13343
+#EXTINF:0 group-title="Movies",SONY TURBO
+#EXTGRP:Movies
+http://31.41.100.190:81/udp/225.0.55.151:1234
+#EXTINF:0 group-title="Movies",SONY TURBO
+#EXTGRP:Movies
+http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/150/stream.m3u8
+#EXTINF:0 group-title="Movies",SONY TURBO
+#EXTGRP:Movies
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4384
+#EXTINF:0 group-title="Movies",SONY TURBO
+#EXTGRP:Movies
+http://178.217.72.66/225.201.2.213/index.m3u8
+#EXTINF:0 group-title="Movies",SONY TURBO
+#EXTGRP:Movies
+http://vs-msk-02.tv.ti.ru:80/dtv/id157_NBN_SG--SonyTurbo/02/plst.m3u8
+#EXTINF:0 group-title="Movies",SONY TURBO
+#EXTGRP:Movies
+http://195.144.197.170:8886/udp/237.0.1.29:10000
+#EXTINF:0 group-title="Movies",SONY TURBO
+#EXTGRP:Movies
+http://82.200.127.58:8080/udp/239.54.7.54:1224
+#EXTINF:0 group-title="Movies",SONY TURBO
+#EXTGRP:Movies
+http://83.172.32.25:8012/tv/sonyturbo
+#EXTINF:0 group-title="Movies",5SPIKE UK
+#EXTGRP:Movies
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/6531
+#EXTINF:0 group-title="Movies",SPIKE
+#EXTGRP:Movies
+http://live02-cdn.tv.ti.ru:80/dtv/id505_NBN_SG--Spike/03/plst.m3u8
+#EXTINF:0 group-title="Movies",SPIKE
+#EXTGRP:Movies
+http://vs-msk-02.tv.ti.ru:80/dtv/id505_NBN_SG--Spike/03/plst.m3u8
+#EXTINF:0 group-title="Movies",SPIKE
+#EXTGRP:Movies
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/59431
+#EXTINF:0 group-title="Movies",SPIKE
+#EXTGRP:Movies
+http://178.217.72.66:80/225.201.2.6/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Movies",SPIKE
+#EXTGRP:Movies
+http://79.133.110.11:999/udp/239.191.255.3:13343
+#EXTINF:0 group-title="Movies",SPIKE
+#EXTGRP:Movies
+http://hlstv.kem.211.ru/239.211.211.149/stream.m3u8
+#EXTINF:0 group-title="Movies",SPIKE HD
+#EXTGRP:Movies
+http://62.122.89.91:2732/udp/239.1.10.10:1234
+#EXTINF:0 group-title="Movies",SPIKE HD
+#EXTGRP:Movies
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4386
+#EXTINF:0 group-title="Movies",SPIKE HD US
+#EXTGRP:Movies
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/14319
+#EXTINF:0 group-title="Movies",SPIKE NL
+#EXTGRP:Movies
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/13125
+#EXTINF:0 group-title="Sport",СПОРТ 2 УКРАИНА
+#EXTGRP:Sport
+http://persik.by/stream/6606/411484/91.m3u8
+#EXTINF:0 group-title="Sport",1+1 СПОРТ HD
+#EXTGRP:Sport
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4739
+#EXTINF:0 group-title="Sport",A SPOR
+#EXTGRP:Sport
+https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_hd.smil/chunklist_b2064000.m3u8
+#EXTINF:0 group-title="Sport",A SPOR
+#EXTGRP:Sport
+https://ch.iptvmate.net/5e933c776eec6b08ec1a85e1.m3u8
+#EXTINF:0 group-title="Sport",A SPOR
+#EXTGRP:Sport
+https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_hd.smil/chunklist_b3128000.m3u8
+#EXTINF:0 group-title="Sport",A SPOR
+#EXTGRP:Sport
+https://ch.iptvmate.net/5e933271ce242243e92511fe.m3u8
+#EXTINF:0 group-title="Sport",A SPOR HD
+#EXTGRP:Sport
+http://uk4321.com:8080/P75CX5KoB0/WBdYJjzfHf/771
+#EXTINF:0 group-title="Sport",A SPOR HD TR
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/8726
+#EXTINF:0 group-title="Sport",AD SPORTS 1
+#EXTGRP:Sport
+http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:0 group-title="Sport",AD SPORTS 3
+#EXTGRP:Sport
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
+#EXTINF:0 group-title="Sport",AD SPORTS 3 HD
+#EXTGRP:Sport
+http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:0 group-title="Sport",AD SPORTS 4
+#EXTGRP:Sport
+https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
+#EXTINF:0 group-title="Sport",AD SPORTS 4 HD
+#EXTGRP:Sport
+http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:0 group-title="Sport",ALL SPORTS
+#EXTGRP:Sport
+https://ch.iptvmate.net/5e9355c75914264cd175c204.m3u8
+#EXTINF:0 group-title="Sport",ALL SPORTS
+#EXTGRP:Sport
+http://livecdn1.irib.ir/video/mp4:block.mp4/playlist.m3u8
+#EXTINF:0 group-title="Sport",ALL SPORTS
+#EXTGRP:Sport
+https://ch.iptvmate.net/5e933c172fcd8672fb13db95.m3u8
+#EXTINF:0 group-title="Sport",ALL SPORTS
+#EXTGRP:Sport
+https://ch.iptvmate.net/b1a2ada64d570540a6b0779888a946ea.m3u8
+#EXTINF:0 group-title="Sport",SPORTSKOOL
+#EXTGRP:Sport
+https://ch.iptvmate.net/5e936838f4e3df61f35f5906.m3u8
+#EXTINF:0 group-title="Sport",SPORTSKOOL
+#EXTGRP:Sport
+https://ch.iptvmate.net/5e93556497409a6a1c773e72.m3u8
+#EXTINF:0 group-title="Sport",SPORTSKOOL TV
+#EXTGRP:Sport
+https://a.jsrdn.com/broadcast/22697/+0000/c.m3u8
+#EXTINF:0 group-title="Sport",DSPORT
+#EXTGRP:Sport
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+#EXTINF:0 group-title="Sport",MYSPORTS
+#EXTGRP:Sport
+https://ch.iptvmate.net/5e93529dc0a94d7631571795.m3u8
+#EXTINF:0 group-title="Sport",S SPORT HD TR
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/8729
+#EXTINF:0 group-title="Sport",SPORT
+#EXTGRP:Sport
+http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
+#EXTINF:0 group-title="Sport",SPORT 1 CZ
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/6051
+#EXTINF:0 group-title="Sport",SPORT 1 FHD
+#EXTGRP:Sport
+http://uk4321.com:8080/P75CX5KoB0/WBdYJjzfHf/1214
+#EXTINF:0 group-title="Sport",SPORT 1 HD
+#EXTGRP:Sport
+http://185.229.139.65:8013/play/sport1hd/index.m3u8
+#EXTINF:0 group-title="Sport",SPORT 1 HD CZ
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/18672
+#EXTINF:0 group-title="Sport",SPORT 2 HD
+#EXTGRP:Sport
+http://185.229.139.65:8013/play/sport2hd/index.m3u8
+#EXTINF:0 group-title="Sport",SPORT 2 HD CZ
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/6050
+#EXTINF:0 group-title="Sport",SPORT 3 HD
+#EXTGRP:Sport
+http://185.229.139.65:8013/play/sport3hd/index.m3u8
+#EXTINF:0 group-title="Sport",SPORT 5 CZ
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/6049
+#EXTINF:0 group-title="Sport",SPORT MAX
+#EXTGRP:Sport
+http://161.0.157.8/PLTV/88888888/224/3221226766/index.m3u8
+#EXTINF:0 group-title="Sport",SPORT TV 1
+#EXTGRP:Sport
+http://194.44.48.82:8018/play/a011
+#EXTINF:0 group-title="Sport",SPORT TV 1
+#EXTGRP:Sport
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/58879
+#EXTINF:0 group-title="Sport",SPORT TV 1 HD
+#EXTGRP:Sport
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/31368
+#EXTINF:0 group-title="Sport",SPORT TV 1 HD SI
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/9101
+#EXTINF:0 group-title="Sport",SPORT TV 2
+#EXTGRP:Sport
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/58881
+#EXTINF:0 group-title="Sport",SPORT TV 2 BR
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/6108
+#EXTINF:0 group-title="Sport",SPORT TV 3 BR
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/6107
+#EXTINF:0 group-title="Sport",SPORT TV 3 HD
+#EXTGRP:Sport
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/58882
+#EXTINF:0 group-title="Sport",SPORT TV 3 HD PT
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/8813
+#EXTINF:0 group-title="Sport",SPORT TV 3 PT
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/13091
+#EXTINF:0 group-title="Sport",SPORT TV 4
+#EXTGRP:Sport
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/58885
+#EXTINF:0 group-title="Sport",SPORT TV 4 PT
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/13089
+#EXTINF:0 group-title="Sport",SPORT TV 5
+#EXTGRP:Sport
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/58887
+#EXTINF:0 group-title="Sport",SPORT TV 5
+#EXTGRP:Sport
+http://194.44.48.82:8021/play/a019
+#EXTINF:0 group-title="Sport",SPORT TV+
+#EXTGRP:Sport
+http://194.44.48.82:8021/play/a00z
+#EXTINF:0 group-title="Sport",SPORT1
+#EXTGRP:Sport
+http://77.109.171.36:8000/play/xxSport1xx
+#EXTINF:0 group-title="Sport",SPORT1 DE
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/6173
+#EXTINF:0 group-title="Sport",SPORT1HD
+#EXTGRP:Sport
+http://176.10.117.3:5000/play/a03k
+#EXTINF:0 group-title="Sport",SPORTING TV
+#EXTGRP:Sport
+http://194.44.48.82:8021/play/a01d
+#EXTINF:0 group-title="Sport",SPORTS 13
+#EXTGRP:Sport
+http://iptv.rent:8080/nrfnj5xbvb/ghjkmt6534/663994
+#EXTINF:0 group-title="Sport",SPORTS 4
+#EXTGRP:Sport
+http://185.229.139.65:8010/play/beinsports4/index.m3u8
+#EXTINF:0 group-title="Sport",SPORTS TV
+#EXTGRP:Sport
+http://uk4321.com:8080/P75CX5KoB0/WBdYJjzfHf/720
+#EXTINF:0 group-title="Sport",SPORTV 2 HD BR
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/13604
+#EXTINF:0 group-title="Sport",SPORTV BR
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/13601
+#EXTINF:0 group-title="Sport",SPORTVL
+#EXTGRP:Sport
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/59577
+#EXTINF:0 group-title="Sport",TV 2 SPORT 1
+#EXTGRP:Sport
+http://uk4321.com:8080/P75CX5KoB0/WBdYJjzfHf/2145
+#EXTINF:0 group-title="Sport",TV3 SPORT HD
+#EXTGRP:Sport
+http://uk4321.com:8080/P75CX5KoB0/WBdYJjzfHf/807
+#EXTINF:0 group-title="Sport",VIASPORT 1
+#EXTGRP:Sport
+http://uk4321.com:8080/P75CX5KoB0/WBdYJjzfHf/2148
+#EXTINF:0 group-title="Sport",VIASPORT 3
+#EXTGRP:Sport
+http://uk4321.com:8080/P75CX5KoB0/WBdYJjzfHf/2150
+#EXTINF:0 group-title="Sport",СПОРТ 1
+#EXTGRP:Sport
+http://persik.by/stream/6606/411484/270.m3u8
+#EXTINF:0 group-title="Sport",СПОРТ 1 HD
+#EXTGRP:Sport
+http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8
+#EXTINF:0 group-title="Sport",СПОРТ 2
+#EXTGRP:Sport
+http://46.160.166.9:81/udp/239.254.2.145:1234
+#EXTINF:0 group-title="Sport",СПОРТ MAX HD
+#EXTGRP:Sport
+http://161.0.157.9/PLTV/88888888/224/3221226766/index.m3u8
+#EXTINF:0 group-title="Sport",СПОРТ MAX HD
+#EXTGRP:Sport
+http://161.0.157.8/PLTV/88888888/224/3221226766/01.m3u8
+#EXTINF:0 group-title="Sport",СПОРТ1
+#EXTGRP:Sport
+http://45.88.104.104/play/479/test/index.m3u8
+#EXTINF:0 group-title="Sport",ФАН СПОРТ.
+#EXTGRP:Sport
+https://live-k2311-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:0 group-title="Movies",ART CINEMA AR
+#EXTGRP:Movies
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/5839
+#EXTINF:0 group-title="Movies",STAR CINEMA
+#EXTGRP:Movies
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4361
+#EXTINF:0 group-title="Movies",STAR CINEMA 2 AR
+#EXTGRP:Movies
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/5824
+#EXTINF:0 group-title="Movies",STAR CINEMA HD
+#EXTGRP:Movies
+http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/169/stream.m3u8
+#EXTINF:0 group-title="Movies",STAR_CINEMA2
+#EXTGRP:Movies
+http://62.112.9.63:88/Star_cinema2/index.m3u8?token=test
+#EXTINF:0 group-title="Movies",ARY FAMILY
+#EXTGRP:Movies
+https://ch.iptvmate.net/5e935f88ee54cf5341561236.m3u8
+#EXTINF:0 group-title="Movies",STAR FAMILY
+#EXTGRP:Movies
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4362
+#EXTINF:0 group-title="Movies",STAR FAMILY
+#EXTGRP:Movies
+http://77.89.204.107:8000/play/a06p/index.m3u8
+#EXTINF:0 group-title="Movies",STAR FAMILY HD
+#EXTGRP:Movies
+http://220.81.169.165:9981/stream/channelid/4432981
+#EXTINF:0 group-title="Movies",STAR FAMILY HD UA
+#EXTGRP:Movies
+http://ru.cdntv.online/high/apjbm16wtn/508.m3u8
+#EXTINF:0 group-title="Movies",STARZ FAMILY HD 1080P
+#EXTGRP:Movies
+http://ux.mytvxweb.me:25461/Pr/1234/323576
+#EXTINF:0 group-title="Cognitive",СТB
+#EXTGRP:Cognitive
+http://212.98.171.116/HLS/ctvby/playlist.m3u8
+#EXTINF:0 group-title="Cognitive",СТБ
+#EXTGRP:Cognitive
+http://51.15.176.84/hls/stb-1/index.m3u8
+#EXTINF:0 group-title="Cognitive",СТБ
+#EXTGRP:Cognitive
+http://193.33.39.107:8088/stbhd/index.m3u8
+#EXTINF:0 group-title="Cognitive",СТБ HD
+#EXTGRP:Cognitive
+http://193.33.39.107:8088/stbhd/index.m3u8?seg-user-tsn-v1-a1.m3u8
+#EXTINF:0 group-title="Movies",STS
+#EXTGRP:Movies
+http://92.61.69.31:34040/udp/224.0.42.19:5000
+#EXTINF:0 group-title="Movies",СТС
+#EXTGRP:Movies
+http://82.200.127.58:8080/udp/239.0.42.63:1224
+#EXTINF:0 group-title="Movies",СТС
+#EXTGRP:Movies
+http://82.200.127.58:8080/udp/239.0.23.16:1224
+#EXTINF:0 group-title="Movies",СТС
+#EXTGRP:Movies
+http://vs-msk-02.tv.ti.ru:80/dtv/id121_NBN_SG--sts/03/plst.m3u8
+#EXTINF:0 group-title="Movies",СТС
+#EXTGRP:Movies
+http://178.217.72.66/225.201.2.24/index.m3u8
+#EXTINF:0 group-title="Movies",СТС
+#EXTGRP:Movies
+https://cdn.mytouchtv.tv/hlsl/10/STS/STS_3/index.m3u8
+#EXTINF:0 group-title="Movies",СТС
+#EXTGRP:Movies
+http://82.200.127.58:8080/udp/239.0.42.35:1224
+#EXTINF:0 group-title="Movies",СТС
+#EXTGRP:Movies
+https://cdn.mytouchtv.tv/hlsl/10/STS/STS_1/index.m3u8
+#EXTINF:0 group-title="Movies",СТС
+#EXTGRP:Movies
+http://178.69.23.26:8000/play/36-ntv-sts-36e9af6
+#EXTINF:0 group-title="Movies",СТС
+#EXTGRP:Movies
+http://37.235.219.25:81/udp/225.50.66.53:1234
+#EXTINF:0 group-title="Movies",СТС
+#EXTGRP:Movies
+http://176.101.224.21:8080/udp/239.195.32.8:1234
+#EXTINF:0 group-title="Movies",СТС
+#EXTGRP:Movies
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4395
+#EXTINF:0 group-title="Movies",СТС
+#EXTGRP:Movies
+http://82.200.127.58:8080/udp/239.0.42.30:1224
+#EXTINF:0 group-title="Movies",СТС
+#EXTGRP:Movies
+https://cdn.mytouchtv.tv/hlsl/10/STS/STS_2/index.m3u8
+#EXTINF:0 group-title="Movies",СТС
+#EXTGRP:Movies
+http://82.200.127.58:8080/udp/239.0.14.44:1224
+#EXTINF:0 group-title="Movies",СТС
+#EXTGRP:Movies
+http://82.200.127.58:8080/udp/239.0.42.93:1224
+#EXTINF:0 group-title="Movies",СТС
+#EXTGRP:Movies
+http://79.105.96.45:5055/udp/239.4.0.208:2020
+#EXTINF:0 group-title="Movies",СТС
+#EXTGRP:Movies
+http://persik.by/stream/6606/411484/17.m3u8
+#EXTINF:0 group-title="Movies",СТС
+#EXTGRP:Movies
+http://live02-cdn.tv.ti.ru:80/dtv/id121_NBN_SG--sts/03/plst.m3u8
+#EXTINF:0 group-title="Movies",СТС +4
+#EXTGRP:Movies
+http://82.200.127.58:8080/udp/239.54.5.235:1234
+#EXTINF:0 group-title="Movies",СТС 10
+#EXTGRP:Movies
+http://79.135.71.195:8010
+#EXTINF:0 group-title="Movies",СТС HD
+#EXTGRP:Movies
+http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/13/stream.m3u8
+#EXTINF:0 group-title="Movies",ТЕЛЕВСЕСВИТ
+#EXTGRP:Movies
+http://media.nmu.net.ua/televsesvit/index.m3u8
+#EXTINF:0 group-title="Humor",COMEDY
+#EXTGRP:Humor
+http://persik.by/stream/6606/411484/10235.m3u8
+#EXTINF:0 group-title="Humor",CNN INTERNATIONAL
+#EXTGRP:Humor
+http://178.69.23.26:8000/play/36-ntv-cnn-international-e8bc8b4
+#EXTINF:0 group-title="Humor",CNN INTERNATIONAL
+#EXTGRP:Humor
+http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/225/stream.m3u8
+#EXTINF:0 group-title="Humor",CNN INTERNATIONAL
+#EXTGRP:Humor
+http://vs-msk-02.tv.ti.ru:80/dtv/id388_NBN_SG--CNN/03/plst.m3u8
+#EXTINF:0 group-title="Humor",CNN INTERNATIONAL
+#EXTGRP:Humor
+http://82.200.127.58:8080/udp/239.54.7.60:1224
+#EXTINF:0 group-title="Humor",CNN INTERNATIONAL
+#EXTGRP:Humor
+http://live02-cdn.tv.ti.ru:80/dtv/id388_NBN_SG--CNN/03/plst.m3u8
+#EXTINF:0 group-title="Humor",ТНТ INTERNATIONAL
+#EXTGRP:Humor
+http://87.252.227.150:7000/tnt
+#EXTINF:0 group-title="Humor",TNT
+#EXTGRP:Humor
+http://82.200.127.58:8080/udp/239.0.42.69:1224
+#EXTINF:0 group-title="Humor",TNT HD SE
+#EXTGRP:Humor
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/6453
+#EXTINF:0 group-title="Humor",TNT RU
+#EXTGRP:Humor
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/15582
+#EXTINF:0 group-title="Humor",TNT4
+#EXTGRP:Humor
+http://82.200.127.58:8080/udp/239.0.23.31:1224
+#EXTINF:0 group-title="Humor",ТНТ
+#EXTGRP:Humor
+http://live02-cdn.tv.ti.ru:80/dtv/id119_NBN_SG--tnt/03/plst.m3u8
+#EXTINF:0 group-title="Humor",ТНТ
+#EXTGRP:Humor
+http://178.163.48.108:81/udp/234.0.0.9:2000
+#EXTINF:0 group-title="Humor",ТНТ
+#EXTGRP:Humor
+http://37.235.219.25:81/udp/225.50.66.59:1234
+#EXTINF:0 group-title="Humor",ТНТ
+#EXTGRP:Humor
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4394
+#EXTINF:0 group-title="Humor",ТНТ
+#EXTGRP:Humor
+https://cdn.mytouchtv.tv/hlsl/10/TNT/TNT_2/index.m3u8
+#EXTINF:0 group-title="Humor",ТНТ
+#EXTGRP:Humor
+http://82.200.127.58:8080/udp/239.0.42.99:1224
+#EXTINF:0 group-title="Humor",ТНТ
+#EXTGRP:Humor
+https://cdn.mytouchtv.tv/hlsl/10/TNT/TNT_3/index.m3u8
+#EXTINF:0 group-title="Humor",ТНТ
+#EXTGRP:Humor
+http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/502/index.m3u8
+#EXTINF:0 group-title="Humor",ТНТ
+#EXTGRP:Humor
+https://cdn.mytouchtv.tv/hlsl/10/TNT/TNT_1/index.m3u8
+#EXTINF:0 group-title="Humor",ТНТ
+#EXTGRP:Humor
+http://persik.by/stream/6606/411484/981.m3u8
+#EXTINF:0 group-title="Humor",ТНТ
+#EXTGRP:Humor
+http://vs-msk-02.tv.ti.ru:80/dtv/id119_NBN_SG--tnt/03/plst.m3u8
+#EXTINF:0 group-title="Humor",ТНТ
+#EXTGRP:Humor
+http://92.61.69.31:34040/udp/224.0.42.15:5000
+#EXTINF:0 group-title="Humor",ТНТ
+#EXTGRP:Humor
+http://persik.by/stream/6606/411484/14.m3u8
+#EXTINF:0 group-title="Humor",ТНТ
+#EXTGRP:Humor
+http://82.200.127.58:8080/udp/239.0.47.23:1224
+#EXTINF:0 group-title="Humor",ТНТ
+#EXTGRP:Humor
+http://82.200.127.58:8080/udp/239.0.14.46:1224
+#EXTINF:0 group-title="Humor",ТНТ
+#EXTGRP:Humor
+http://82.200.127.58:8080/udp/239.0.47.14:1224
+#EXTINF:0 group-title="Humor",ТНТ
+#EXTGRP:Humor
+http://82.200.127.58:8080/udp/239.0.23.13:1224
+#EXTINF:0 group-title="Humor",ТНТ
+#EXTGRP:Humor
+http://82.200.127.58:8080/udp/239.0.42.123:1224
+#EXTINF:0 group-title="Humor",ТНТ
+#EXTGRP:Humor
+http://82.200.127.58:8080/udp/239.0.42.23:1224
+#EXTINF:0 group-title="Humor",ТНТ
+#EXTGRP:Humor
+http://178.163.51.197:4022/udp/234.0.0.9:2000
+#EXTINF:0 group-title="Humor",ТНТ
+#EXTGRP:Humor
+http://uk4321.com:8080/P75CX5KoB0/WBdYJjzfHf/1797
+#EXTINF:0 group-title="Humor",ТНТ
+#EXTGRP:Humor
+http://82.200.127.58:8080/udp/239.0.12.39:1224
+#EXTINF:0 group-title="Humor",ТНТ +4
+#EXTGRP:Humor
+http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/tnt/playlist.m3u8
+#EXTINF:0 group-title="Humor",ТНТ -
+#EXTGRP:Humor
+http://82.200.127.58:8080/udp/239.0.47.49:1224
+#EXTINF:0 group-title="Humor",ТНТ 18
+#EXTGRP:Humor
+http://stream3.kuvalda.tv/hls/tnt.m3u8
+#EXTINF:0 group-title="Humor",ТНТ 4
+#EXTGRP:Humor
+http://82.200.127.58:8080/udp/239.54.5.36:1234
+#EXTINF:0 group-title="Humor",ТНТ 4
+#EXTGRP:Humor
+https://cdn.mytouchtv.tv/hlsl/10/TNT4/TNT4_3/index.m3u8
+#EXTINF:0 group-title="Humor",ТНТ 4
+#EXTGRP:Humor
+https://cdn.mytouchtv.tv/hlsl/10/TNT4/TNT4_1/index.m3u8
+#EXTINF:0 group-title="Humor",ТНТ 4
+#EXTGRP:Humor
+http://188.35.9.11:11061/z
+#EXTINF:0 group-title="Humor",ТНТ 4
+#EXTGRP:Humor
+https://cdn.mytouchtv.tv/hlsl/10/TNT4/TNT4_2/index.m3u8
+#EXTINF:0 group-title="Humor",ТНТ HD
+#EXTGRP:Humor
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4393
+#EXTINF:0 group-title="Humor",ТНТ4
+#EXTGRP:Humor
+http://82.200.127.58:8080/udp/239.54.7.36:1224
+#EXTINF:0 group-title="Humor",ТНТ4
+#EXTGRP:Humor
+http://vs-msk-02.tv.ti.ru:80/dtv/id258_NBN_SG--tnt_comedy/03/plst.m3u8
+#EXTINF:0 group-title="Humor",ТНТ4
+#EXTGRP:Humor
+http://79.133.121.141:81/udp/239.191.254.66:13343
+#EXTINF:0 group-title="Humor",ТНТ4
+#EXTGRP:Humor
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4399
+#EXTINF:0 group-title="Humor",ТНТ4
+#EXTGRP:Humor
+http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/36/stream.m3u8
+#EXTINF:0 group-title="Humor",ТНТ4
+#EXTGRP:Humor
+http://live02-cdn.tv.ti.ru:80/dtv/id258_NBN_SG--tnt_comedy/03/plst.m3u8
+#EXTINF:0 group-title="Humor",ТНТ4 HD
+#EXTGRP:Humor
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4768
+#EXTINF:0 group-title="Movies",CINEMA
+#EXTGRP:Movies
+http://live02-cdn.tv.ti.ru:80/dtv/id1258_NBN_SG--CinemaTV/03/plst.m3u8
+#EXTINF:0 group-title="Movies",CINEMA
+#EXTGRP:Movies
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4370
+#EXTINF:0 group-title="Movies",CINEMA
+#EXTGRP:Movies
+http://178.69.23.26:8000/play/36-ntv-star-cinema-b933fa8
+#EXTINF:0 group-title="Movies",CINEMA
+#EXTGRP:Movies
+http://astra.realcrimea.net:8000/play/a01n
+#EXTINF:0 group-title="Movies",CINEMA
+#EXTGRP:Movies
+http://83.172.32.25:8012/tv/parkrazvlecheniy
+#EXTINF:0 group-title="Movies",CINEMA
+#EXTGRP:Movies
+http://vs-msk-02.tv.ti.ru:80/dtv/id1258_NBN_SG--CinemaTV/03/plst.m3u8
+#EXTINF:0 group-title="Movies",CINEMA HD
+#EXTGRP:Movies
+http://topchantv.net:3456/kasparov13/PjeRoWeI1w/1611
+#EXTINF:0 group-title="Cognitive",TRAVEL CHANNEL
+#EXTGRP:Cognitive
+http://212.19.13.173:4022/udp/239.191.254.134:13343
+#EXTINF:0 group-title="Cognitive",TRAVEL CHANNEL
+#EXTGRP:Cognitive
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4424
+#EXTINF:0 group-title="Cognitive",TRAVEL CHANNEL
+#EXTGRP:Cognitive
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/40935
+#EXTINF:0 group-title="Cognitive",TRAVEL CHANNEL
+#EXTGRP:Cognitive
+http://persik.by/stream/6606/411484/424.m3u8
+#EXTINF:0 group-title="Cognitive",TRAVEL CHANNEL
+#EXTGRP:Cognitive
+http://persik.by/stream/6606/411484/88.m3u8
+#EXTINF:0 group-title="Cognitive",TRAVEL CHANNEL
+#EXTGRP:Cognitive
+http://178.217.72.66:80/225.201.2.3/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Cognitive",TRAVEL CHANNEL
+#EXTGRP:Cognitive
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/31096
+#EXTINF:0 group-title="Cognitive",TRAVEL CHANNEL AL
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/4817
+#EXTINF:0 group-title="Cognitive",TRAVEL CHANNEL CH.DE
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/9134
+#EXTINF:0 group-title="Cognitive",TRAVEL CHANNEL FHD
+#EXTGRP:Cognitive
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/58854
+#EXTINF:0 group-title="Cognitive",TRAVEL CHANNEL FHD PT
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/7472
+#EXTINF:0 group-title="Cognitive",TRAVEL CHANNEL HD
+#EXTGRP:Cognitive
+http://62.78.38.68:4022/udp/224.0.90.252:1234
+#EXTINF:0 group-title="Cognitive",TRAVEL CHANNEL HD
+#EXTGRP:Cognitive
+http://79.142.197.7:8888/Travel_HD/mono.m3u8
+#EXTINF:0 group-title="Cognitive",TRAVEL CHANNEL HD GR
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/7633
+#EXTINF:0 group-title="Cognitive",TRAVEL CHANNEL HD UK
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/9517
+#EXTINF:0 group-title="Cognitive",TRAVEL CHANNEL HU
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/14087
+#EXTINF:0 group-title="Cognitive",TRAVEL CHANNEL US
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/32381
+#EXTINF:0 group-title="Cognitive",TRAVEL CHANNEL VIP DK
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/672821
+#EXTINF:0 group-title="Cognitive",TRAVEL CHANNEL [HD]
+#EXTGRP:Cognitive
+http://31.13.223.104:1935/travel/community.stream/chunklist_w79979599.m3u8
+#EXTINF:0 group-title="Cognitive",TRAVEL
+#EXTGRP:Cognitive
+http://79.133.121.141:81/udp/239.191.254.134:13343
+#EXTINF:0 group-title="Cognitive",TRAVEL TV
+#EXTGRP:Cognitive
+https://ch.iptvmate.net/5e934c6fe9b7a714853c353d.m3u8
+#EXTINF:0 group-title="Cognitive",TRAVEL TV
+#EXTGRP:Cognitive
+https://ch.iptvmate.net/5e9350408beb894140336004.m3u8
+#EXTINF:0 group-title="News",ТРК РАI
+#EXTGRP:News
+https://stream.rai.ua/rai/stream.m3u8
+#EXTINF:0 group-title="News",ТРК РУДАНА HD
+#EXTGRP:News
+https://live.rudana.com.ua/hls/stream_FHD.m3u8
+#EXTINF:0 group-title="News",ТРК РУДАНА HD
+#EXTGRP:News
+https://live.rudana.com.ua/hls/stream_HD.m3u8
+#EXTINF:0 group-title="Movies",TV 1000 ACTION HD
+#EXTGRP:Movies
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4334
+#EXTINF:0 group-title="Movies",TV1000 ACTION
+#EXTGRP:Movies
+http://82.200.127.58:8080/udp/239.54.7.111:1234
+#EXTINF:0 group-title="Movies",TV1000 ACTION
+#EXTGRP:Movies
+http://astra.realcrimea.net:8000/play/a08k
+#EXTINF:0 group-title="Movies",TV1000 ACTION RU
+#EXTGRP:Movies
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/5367
+#EXTINF:0 group-title="Movies",TV1000 COMEDY FHD RU
+#EXTGRP:Movies
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/5365
+#EXTINF:0 group-title="Movies",TV1000 PREMIUM HD
+#EXTGRP:Movies
+http://astra.realcrimea.net:8000/play/a0a9
+#EXTINF:0 group-title="Movies",TV1000 PREMIUM HD
+#EXTGRP:Movies
+http://46.160.96.206:4022/udp/239.1.0.114:1234
+#EXTINF:0 group-title="Movies",TV 100
+#EXTGRP:Movies
+https://ch.iptvmate.net/5e936821d02ea970ee6d4c7b.m3u8
+#EXTINF:0 group-title="Movies",TV 100
+#EXTGRP:Movies
+https://ch.iptvmate.net/5e93529d8fc6d3622e36beb5.m3u8
+#EXTINF:0 group-title="Movies",TV 1000
+#EXTGRP:Movies
+http://82.200.127.58:8080/udp/239.54.5.91:1234
+#EXTINF:0 group-title="Movies",TV 1000
+#EXTGRP:Movies
+http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/132/index.m3u8
+#EXTINF:0 group-title="Movies",TV 1000 HD
+#EXTGRP:Movies
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4333
+#EXTINF:0 group-title="Movies",TV 1000 HR
+#EXTGRP:Movies
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/9372
+#EXTINF:0 group-title="Movies",TV 1000 RO
+#EXTGRP:Movies
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/5310
+#EXTINF:0 group-title="Movies",TV100
+#EXTGRP:Movies
+https://ch.iptvmate.net/5e9358d38f689e2c1721f574.m3u8
+#EXTINF:0 group-title="Movies",TV1000
+#EXTGRP:Movies
+http://82.200.127.58:8080/udp/239.54.7.91:1234
+#EXTINF:0 group-title="Movies",TV1000
+#EXTGRP:Movies
+http://176.114.130.10:81/udp/239.100.3.2:1234
+#EXTINF:0 group-title="Movies",TV1000 HD
+#EXTGRP:Movies
+http://195.191.208.78:8080/tv1000hd/index.m3u8
+#EXTINF:0 group-title="Movies",TV1000 WORLD KINO
+#EXTGRP:Movies
+http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/1065/index.m3u8
+#EXTINF:0 group-title="Movies",ULTRA HD CINEMA
+#EXTGRP:Movies
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4354
+#EXTINF:0 group-title="Movies",ULTRA HD CINEMA
+#EXTGRP:Movies
+http://188.35.9.18:16050/udp/238.0.16.1:69000
+#EXTINF:0 group-title="Humor",MOR TV
+#EXTGRP:Humor
+http://live.arkumedia.com:1935/tvmor/tvmor/chunklist.m3u8
+#EXTINF:0 group-title="Humor",ЮМОР
+#EXTGRP:Humor
+http://82.200.127.58:8080/udp/239.54.5.5:1224
+#EXTINF:0 group-title="Humor",ЮМОР ТВ
+#EXTGRP:Humor
+http://178.163.48.195:4022/udp/234.0.0.101:2000
+#EXTINF:0 group-title="Humor",ЮМОР ТВ
+#EXTGRP:Humor
+http://178.163.118.78:81/udp/234.0.0.101:2000
+#EXTINF:0 group-title="News",SUN TV IN
+#EXTGRP:News
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/3974
+#EXTINF:0 group-title="News",UNICANAL
+#EXTGRP:News
+https://ch.iptvmate.net/5e935034f4bdc2680145d579.m3u8
+#EXTINF:0 group-title="News",UNICANAL
+#EXTGRP:News
+http://45.55.127.106/live/unicanal_src.m3u8
+#EXTINF:0 group-title="News",УНІАН
+#EXTGRP:News
+http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/1023/index.m3u8
+#EXTINF:0 group-title="News",УНИАН
+#EXTGRP:News
+http://193.33.39.107:8088/unian/index.m3u8
+#EXTINF:0 group-title="Cognitive",VIASAT EXPLORE
+#EXTGRP:Cognitive
+http://92.38.127.16:8000/play/a073
+#EXTINF:0 group-title="Cognitive",VIASAT EXPLORE
+#EXTGRP:Cognitive
+http://82.200.127.58:8080/udp/239.54.7.92:1234
+#EXTINF:0 group-title="Cognitive",VIASAT EXPLORE
+#EXTGRP:Cognitive
+http://82.200.127.58:8080/udp/239.54.5.92:1234
+#EXTINF:0 group-title="Cognitive",VIASAT EXPLORE (РЕЗЕРВ1)
+#EXTGRP:Cognitive
+http://188.35.9.5:10020/stolen/485v/hot.dll
+#EXTINF:0 group-title="Cognitive",VIASAT EXPLORE DK
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/8155
+#EXTINF:0 group-title="Cognitive",VIASAT EXPLORE HD
+#EXTGRP:Cognitive
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4430
+#EXTINF:0 group-title="Cognitive",VIASAT EXPLORE SE
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/7046
+#EXTINF:0 group-title="Cognitive",VIASAT EXPLORER FHD
+#EXTGRP:Cognitive
+http://uk4321.com:8080/P75CX5KoB0/WBdYJjzfHf/859
+#EXTINF:0 group-title="Cognitive",VIASAT EXPLORER FHD VIP SE
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/672751
+#EXTINF:0 group-title="Sport",VIASAT FOTBOLL
+#EXTGRP:Sport
+http://uk4321.com:8080/P75CX5KoB0/WBdYJjzfHf/866
+#EXTINF:0 group-title="Sport",VIASAT GOLF (B) SE
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/13198
+#EXTINF:0 group-title="Sport",VIASAT GOLF HD VIP SC
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/17122
+#EXTINF:0 group-title="Sport",VIASAT GOLF SE
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/5421
+#EXTINF:0 group-title="Sport",VIASAT GOLF SE
+#EXTGRP:Sport
+http://iptv.rent:8080/nrfnj5xbvb/ghjkmt6534/5421
+#EXTINF:0 group-title="Sport",VIASAT GOLF VIP SE
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/672752
+#EXTINF:0 group-title="Cognitive",VIASAT HISTORY
+#EXTGRP:Cognitive
+http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/104/stream.m3u8
+#EXTINF:0 group-title="Cognitive",VIASAT HISTORY
+#EXTGRP:Cognitive
+http://92.38.127.16:8000/play/a074
+#EXTINF:0 group-title="Cognitive",VIASAT HISTORY
+#EXTGRP:Cognitive
+http://82.200.127.58:8080/udp/239.54.7.93:1234
+#EXTINF:0 group-title="Cognitive",VIASAT HISTORY (РЕЗЕРВ)
+#EXTGRP:Cognitive
+http://195.144.197.170:8886/udp/237.0.1.37:10000
+#EXTINF:0 group-title="Cognitive",VIASAT HISTORY HD
+#EXTGRP:Cognitive
+http://195.144.197.170:8886/udp/237.0.1.83:10000
+#EXTINF:0 group-title="Cognitive",VIASAT HISTORY HD
+#EXTGRP:Cognitive
+http://82.200.127.58:8080/udp/239.54.5.93:1234
+#EXTINF:0 group-title="Cognitive",VIASAT HISTORY HD
+#EXTGRP:Cognitive
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4418
+#EXTINF:0 group-title="Cognitive",VIASAT HISTORY MK
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/657482
+#EXTINF:0 group-title="Cognitive",VIASAT HISTORY VIP FI
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/673367
+#EXTINF:0 group-title="Sport",VIASAT HOCKEY HD VIP FI
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/673368
+#EXTINF:0 group-title="Sport",VIASAT HOCKEY HD VIP SE
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/672697
+#EXTINF:0 group-title="Cognitive",VIASAT NATURE/HISTORY HD
+#EXTGRP:Cognitive
+http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/203/index.m3u8
+#EXTINF:0 group-title="Cognitive",VIASAT NATURE
+#EXTGRP:Cognitive
+http://82.200.127.58:8080/udp/239.54.5.90:1234
+#EXTINF:0 group-title="Cognitive",VIASAT NATURE
+#EXTGRP:Cognitive
+http://82.200.127.58:8080/udp/239.54.7.90:1234
+#EXTINF:0 group-title="Cognitive",VIASAT NATURE FHD
+#EXTGRP:Cognitive
+http://uk4321.com:8080/P75CX5KoB0/WBdYJjzfHf/861
+#EXTINF:0 group-title="Cognitive",VIASAT NATURE HD
+#EXTGRP:Cognitive
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4426
+#EXTINF:0 group-title="Cognitive",VIASAT NATURE HR
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/16421
+#EXTINF:0 group-title="Cognitive",VIASAT NATURE VIP NO
+#EXTGRP:Cognitive
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/673342
+#EXTINF:0 group-title="Sport",VIASAT SPORT PREMIUM
+#EXTGRP:Sport
+http://uk4321.com:8080/P75CX5KoB0/WBdYJjzfHf/869
+#EXTINF:0 group-title="Sport",VIASAT SPOR
+#EXTGRP:Sport
+http://82.200.127.58:8080/udp/239.54.5.94:1234
+#EXTINF:0 group-title="Sport",VIASAT SPORT
+#EXTGRP:Sport
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4562
+#EXTINF:0 group-title="Sport",VIASAT SPORT
+#EXTGRP:Sport
+http://82.200.127.58:8080/udp/239.54.7.41:1234
+#EXTINF:0 group-title="Sport",VIASAT SPORT
+#EXTGRP:Sport
+http://109.239.208.82:80/viasatshd/index.m3u8
+#EXTINF:0 group-title="Sport",VIASAT SPORT FHD RU
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/36879
+#EXTINF:0 group-title="Sport",VIASAT SPORT HD
+#EXTGRP:Sport
+http://78.107.248.201:4022/udp/233.33.221.31:5050
+#EXTINF:0 group-title="Sport",VIASAT SPORT HD
+#EXTGRP:Sport
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4575
+#EXTINF:0 group-title="Sport",VIASAT SPORT HD
+#EXTGRP:Sport
+http://live-ng-01.more.tv/hls/Viasat_Sport_HD/master.m3u8
+#EXTINF:0 group-title="Sport",VIASAT SPORT NO
+#EXTGRP:Sport
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/5175
+#EXTINF:0 group-title="Sport",VIASAT SPORT РОССИЯ
+#EXTGRP:Sport
+http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/179/stream.m3u8
+#EXTINF:0 group-title="Movies",IBC COMEDY
+#EXTGRP:Movies
+https://ch.iptvmate.net/5e93588bca80de49cb67aabe.m3u8
+#EXTINF:0 group-title="Movies",IBC COMEDY
+#EXTGRP:Movies
+https://ibccomedy-origin.ibctamil.com/transcode/ibccomedy_std.m3u8
+#EXTINF:0 group-title="Movies",IBC COMEDY
+#EXTGRP:Movies
+https://ch.iptvmate.net/5e9354b78f173a1ce731a15c.m3u8
+#EXTINF:0 group-title="Movies",VIP COMEDY
+#EXTGRP:Movies
+http://195.144.197.170:8886/udp/237.0.1.86:10000
+#EXTINF:0 group-title="Movies",VIP COMEDY HD
+#EXTGRP:Movies
+http://78.107.248.201:4022/udp/233.33.210.15:5050
+#EXTINF:0 group-title="Movies",VIP COMEDY HD
+#EXTGRP:Movies
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4338
+#EXTINF:0 group-title="Movies",VIP COMEDY HD
+#EXTGRP:Movies
+http://178.217.72.66/225.201.2.170/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Movies",VIP MEGAHIT HD
+#EXTGRP:Movies
+http://178.217.72.66/225.201.2.171/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Movies",VIP MEGAXIT HD
+#EXTGRP:Movies
+http://188.35.9.5:10020/stolen/403x/hot.dll
+#EXTINF:0 group-title="Movies",VIP PREMIERE
+#EXTGRP:Movies
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4336
+#EXTINF:0 group-title="Movies",VIP PREMIERE HD
+#EXTGRP:Movies
+http://188.35.9.15:2013
+#EXTINF:0 group-title="Movies",VIP PREMIERE HD
+#EXTGRP:Movies
+http://195.144.197.170:8886/udp/237.0.1.84:10000
+#EXTINF:0 group-title="News",ZIK
+#EXTGRP:News
+http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/1008/index.m3u8
+#EXTINF:-1 group-title="Radio", DISCO.FM
+#EXTGRP:Radio
+http://stream.polskastacja.pl/ps27_mp3
+#EXTINF:-1 group-title="Radio", ROCKS.FM
+#EXTGRP:Radio
+http://online.radioroks.ua/RadioROKS_Live
+#EXTINF:-1 group-title="Radio", KISS.FM
+#EXTGRP:Radio
+http://online.kissfm.ua/KissFM_Live
+#EXTINF:-1 group-title="Radio", RETRO.FM
+#EXTGRP:Radio
+http://cast.retro.ua/retro.m3u
+#EXTINF:-1 group-title="Radio", TECHNOBASE.FM
+#EXTGRP:Radio
+http://mp3.stream.tb-group.fm/tb.mp3
+#EXTINF:-1 group-title="Radio", TRANCEBASE.FM
+#EXTGRP:Radio
+http://mp3.stream.tb-group.fm/trb.mp3
+#EXTINF:-1 group-title="Radio", CLUBTIME.FM
+#EXTGRP:Radio
+http://mp3.stream.tb-group.fm/clt.mp3
 
