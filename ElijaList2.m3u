@@ -119,6 +119,10 @@ http://178.217.72.66:80/225.201.2.54/tracks-v1a1/mono.m3u8
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4341
 #EXTINF:-1 group-title="Фильмы",Кинокомедия
 http://83.172.32.25:8012/tv/komediatv
+#EXTINF:-1 group-title="Фильмы",Кинокомедия
+http://live02-cdn.tv.ti.ru:80/dtv/id135_NBN_SG--komediya_tv/03/plst.m3u8
+#EXTINF:-1 group-title="Фильмы",Кинокомедия
+http://178.217.72.66/225.201.2.177/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Фильмы",Киносвидание HD
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4342
 #EXTINF:251 group-title="Фильмы" tvg-logo="http://ttv.run/uploads/NwSI2onGJ8tZkGOciU7jIgGT7sAhJl.png",Киносвидание
