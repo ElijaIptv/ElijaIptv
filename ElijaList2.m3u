@@ -183,7 +183,7 @@ http://178.217.72.66:80/225.201.2.198/tracks-v1a1/mono.m3u8
 http://live02-cdn.tv.ti.ru:80/dtv/id203_NBN_SG--EuroKino/03/plst.m3u8
 #EXTINF:-1 group-title="Фильмы",ЕвроКино
 http://vs-msk-02.tv.ti.ru:80/dtv/id203_NBN_SG--EuroKino/03/plst.m3u8
-#EXTINF:-1 group-title="Фильмы",Cinema
+#EXTINF:-1 group-title="Фильмы",Cinema HD
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4370
 #EXTINF:-1 group-title="Фильмы",Cinema
 http://83.172.32.25:8012/tv/parkrazvlecheniy
