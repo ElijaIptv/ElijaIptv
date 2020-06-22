@@ -7,7 +7,7 @@ http://vs-msk-02.tv.ti.ru:80/dtv/id397_NBN_SG--SETHD/04/plst.m3u8
 http://live02-cdn.tv.ti.ru:80/dtv/id397_NBN_SG--SETHD/04/plst.m3u8
 #EXTINF:-1 group-title="Фильмы",Sony Channel
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4382
-#EXTINF:-1 tvg-id="sony-scifi",group-title="Фильмы",Sony Sci-Fi
+#EXTINF:-1 group-title="Фильмы",Sony Sci-Fi
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4383
 #EXTINF:152 group-title="Фильмы" tvg-logo="http://ttv.run/uploads/zLWEgf9BbxBr1TR2Qj2NxVQBuPecEP.png",Sony Sci-Fi
 http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/152/stream.m3u8
