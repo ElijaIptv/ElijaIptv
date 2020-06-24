@@ -127,6 +127,8 @@ http://178.163.56.58:81/udp/234.0.0.204:2000
 https://ch.iptvmate.net/5e935ac9d3e2460fcd4db847.m3u8
 #EXTINF:0 group-title="Матч", Матч! [14]
 http://92.38.127.16:8000/play/a07k
+#EXTINF:0 group-title="Матч", Матч! [15]
+http://uiptv.do.am/1ufc/000000003/playlist.m3u8
 
 #EXTINF:0 group-title="Матч", Матч! HD [01]
 http://178.217.72.66/225.201.2.72/tracks-v1a1/mono.m3u8
