@@ -104,7 +104,7 @@ http://178.217.72.66/225.201.2.143/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="МатчПремьер", Матч! Премьер HD [02]
 #http://85.192.50.107:5050/udp/230.3.4.175:5678
 #EXTINF:0 group-title="МатчПремьер", Матч! Премьер HD [03]
-#http://hlstv.kem.211.ru/239.211.200.170/stream.m3u8
+http://hlstv.kem.211.ru/239.211.200.170/stream.m3u8
 
 #EXTINF:0 group-title="Матч", Матч! [02]
 http://vs-msk-02.tv.ti.ru:80/dtv/id166_NBN_SG--Rossia2/03/plst.m3u8
