@@ -16,9 +16,9 @@ http://83.172.32.25:8012/tv/sonyscifi
 http://85.15.111.40:4022/udp/238.0.2.122:1234
 #EXTINF:-1 group-title="Фильмы",Sony Sci-Fi
 http://79.142.197.7:8888/Sony_Sci_Fi/index.m3u8
-
-#EXTINF:-1 group-title="Фильмы",Sony Turbo
+#EXTINF:-1 group-title="Фильмы",Sony Sci-Fi
 http://live02-cdn.tv.ti.ru:80/dtv/id158_NBN_SG--SonySciFi/03/plst.m3u8
+
 #EXTINF:-1 group-title="Фильмы",Sony Turbo
 http://vs-msk-02.tv.ti.ru:80/dtv/id157_NBN_SG--SonyTurbo/02/plst.m3u8
 #EXTINF:-1 group-title="Фильмы",Sony Turbo
