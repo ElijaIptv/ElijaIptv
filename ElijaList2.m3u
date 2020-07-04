@@ -18,6 +18,8 @@ http://85.15.111.40:4022/udp/238.0.2.122:1234
 http://79.142.197.7:8888/Sony_Sci_Fi/index.m3u8
 
 #EXTINF:-1 group-title="Фильмы",Sony Turbo
+http://live02-cdn.tv.ti.ru:80/dtv/id158_NBN_SG--SonySciFi/03/plst.m3u8
+#EXTINF:-1 group-title="Фильмы",Sony Turbo
 http://vs-msk-02.tv.ti.ru:80/dtv/id157_NBN_SG--SonyTurbo/02/plst.m3u8
 #EXTINF:-1 group-title="Фильмы",Sony Turbo
 http://83.172.32.25:8012/tv/sonyturbo
@@ -43,9 +45,16 @@ http://5.128.172.161:1234/udp/239.1.17.5:1234
 http://astra.realcrimea.net:8000/play/a0aq
 #EXTINF:-1 group-title="Фильмы",Fox HD
 http://164.138.90.87:4022/udp/239.191.254.232:15283
+#EXTINF:-1 group-title="Фильмы",Fox HD
+http://83.172.32.25:8012/tv/fox
 
 #EXTINF:-1 group-title="Фильмы",Fox Life
 http://178.217.72.66:80/225.201.2.203/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Фильмы",Fox Life HD
+http://live-ng-01.more.tv/hls/Fox_Life_HD/index_1.m3u8
+#EXTINF:-1 group-title="Фильмы",Fox Life HD
+http://83.172.32.25:8012/tv/foxlife
 
 #EXTINF:-1 group-title="Фильмы",Paramount Channel
 http://live02-cdn.tv.ti.ru:80/dtv/id986_NBN_SG--Paramount/03/plst.m3u8
@@ -81,10 +90,19 @@ http://astra.realcrimea.net:8000/play/a072
 #EXTINF:-1 group-title="Фильмы",ViP Premiere HD
 http://astra.realcrimea.net:8000/play/a0a9
 
+#EXTINF:-1 group-title="Фильмы",ViP Premiere
+http://live-ng-01.more.tv/hls/ViP_Premiere_HD/index_1.m3u8
+
+#EXTINF:-1 group-title="Фильмы",VIP Megahit
+http://live-ng-01.more.tv/hls/ViP_Megahit_HD/index_1.m3u8
+
 #EXTINF:-1 group-title="Фильмы",VIP Megahit HD
 http://188.35.9.5:10020/stolen/403x/hot.dll
 #EXTINF:-1 group-title="Фильмы",VIP Megahit HD
 http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/201/index.m3u8
+
+#EXTINF:-1 group-title="Фильмы",ViP Comedy
+http://live-ng-01.more.tv/hls/ViP_Comedy_HD/index_1.m3u8
 
 #EXTINF:-1 group-title="Фильмы",ViP Comedy HD
 http://195.144.197.170:8886/udp/237.0.1.86:10000
@@ -94,6 +112,7 @@ http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/200/index.m3u8
 http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/5080/index.m3u8
 
 #EXTINF:-1 group-title="Фильмы",ViP Serial
+http://live-ng-01.more.tv/hls/VIP_SERIAL/index_1.m3u8
 
 #EXTINF:-1 group-title="Фильмы",Amedia Hit
 http://178.217.72.66:80/225.201.2.66/tracks-v1a1/mono.m3u8
@@ -145,8 +164,12 @@ http://195.191.208.78:8080/tv1000hd/index.m3u8
 
 #EXTINF:-1 group-title="Фильмы",TV 1000 Action
 http://82.200.127.58:8080/udp/239.54.5.111:1234
+#EXTINF:-1 group-title="Фильмы",TV 1000 Action
 http://astra.realcrimea.net:8000/play/a06y
+#EXTINF:-1 group-title="Фильмы",TV 1000 Action
 http://astra.realcrimea.net:8000/play/a08k
+#EXTINF:-1 group-title="Фильмы",TV 1000 Action
+http://live-ng-01.more.tv/hls/TV1000_Action_HD/index_1.m3u8
 
 #EXTINF:-1 group-title="Фильмы",TV 1000 WORLD KINO
 http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/1065/index.m3u8
@@ -168,9 +191,14 @@ http://62.122.89.91:2732/udp/239.1.10.10:1234
 http://83.172.32.25:8012/tv/kinohit
 #EXTINF:-1 group-title="Фильмы",Кинохит
 http://178.217.72.66:80/225.201.2.44/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Фильмы",Кинохит
+http://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
 
 #EXTINF:-1 group-title="Фильмы",Киносемья
 http://178.217.72.66:80/225.201.2.54/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Фильмы",Киносемья HD
+http://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
 
 #EXTINF:-1 group-title="Фильмы",Кинокомедия
 http://83.172.32.25:8012/tv/komediatv
@@ -189,11 +217,20 @@ http://178.163.44.13:4022/udp/234.0.0.118:2000
 #EXTINF:-1 group-title="Фильмы",Кинокомедия
 http://178.163.13.244:4022/udp/234.0.0.118:2000
 
+#EXTINF:-1 group-title="Фильмы",Кинокомедия HD
+http://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
+
 #EXTINF:-1 group-title="Фильмы",Киносвидание
 http://178.217.72.66:80/225.201.2.55/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="Фильмы",Киносвидание HD
+http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
+
 #EXTINF:-1 group-title="Фильмы",Кинопремьера
 http://178.217.72.66:80/225.201.2.46/playlist.m3u8
+
+#EXTINF:-1 group-title="Фильмы",Кинопремьера HD
+https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
 
 #EXTINF:-1 group-title="Фильмы",Киноужас HD
 
@@ -201,6 +238,9 @@ http://178.217.72.66:80/225.201.2.46/playlist.m3u8
 http://178.217.72.66:80/225.201.2.60/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Фильмы",Киномикс
 http://83.172.32.25:8012/tv/kinoplus
+
+#EXTINF:-1 group-title="Фильмы",Киномикс HD
+http://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
 
 #EXTINF:-1 group-title="Фильмы",Киносерия
 http://178.217.72.66:80/225.201.2.181/tracks-v1a1/mono.m3u8
