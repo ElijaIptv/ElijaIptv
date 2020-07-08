@@ -368,6 +368,41 @@ http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/673369
 #EXTINF:0 group-title="ViasatSportPremium", VIASAT Sport Premium HD FI [01]
 http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/5418
 
+#EXTINF:0 group-title="SkySportsPremierLeague", Sky Sports Premier League HD UK [01]
+#http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/671420
+#EXTINF:0 group-title="SkySportsPremierLeague", Sky Sports Premier League HD UK [02]
+#http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/671301
+#EXTINF:0 group-title="SkySportsPremierLeague", Sky Sports Premier League HD UK [03]
+http://mytv.fun:8080/pbxarj1mwi/q9x3r6mgr/671301
+
+#EXTINF:0 group-title="SkySportsFootball", Sky Sports Football UK [01]
+http://mytv.fun:8080/pbxarj1mwi/q9x3r6mgr/625258
+
+#EXTINF:0 group-title="SkySportsNews", Sky Sports News UK [01]
+http://mytv.fun:8080/pbxarj1mwi/q9x3r6mgr/671300
+
+#EXTINF:0 group-title="SkySportsMainEvent", Sky Sports Main Event UK [01]
+http://mytv.fun:8080/pbxarj1mwi/q9x3r6mgr/671299
+
+#EXTINF:0 group-title="SkySportsArena", Sky Sports Arena UK [01]
+http://mytv.fun:8080/pbxarj1mwi/q9x3r6mgr/671298
+
+#EXTINF:0 group-title="SkySportsMix", Sky Sports Mix UK [01]
+http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/6534
+
+#EXTINF:0 group-title="SkySports1", Sky Sports 1 HD DE [01]
+http://rocksat.ddns.net:25461/3mfvbsvk/578jtxaw/55705
+#EXTINF:0 group-title="SkySports1", Sky Sports 1 HD DE [02]
+http://topiptv.net:5890/aliali123/aliali123/1293
+
+#EXTINF:0 group-title="SkySports2", Sky Sports 2 HD [01]
+http://srb.00387.info/GER:SKYSPORT2UHD/index.m3u8?token=test
+
+#EXTINF:0 group-title="SkySportsNews", Sky Spors News DE [01]
+http://178.199.75.214:3000/play/ccSkyNEwscc
+#EXTINF:0 group-title="SkySportsNews", Sky Sports News DE [02]
+http://31.177.62.139:8008/play/s25
+
 #EXTINF:0 group-title="СилаТВ", Сила ТВ [01]
 
 #EXTINF:0 group-title="Футбол1UA", Футбол 1 UA [01]
@@ -423,32 +458,8 @@ http://strm.yandex.ru/kal/start/start0_169_1080p.json/index-v1-a1.m3u8
 #EXTINF:0 group-title="Canal+Sport", Canal+ Sport [01]
 http://62.112.9.63:88/canal+_sport/index.m3u8?token=test
 
-#EXTINF:0 group-title="SkySportsPremierLeague", Sky Sports Premier League HD UK [01]
-#http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/671420
-#EXTINF:0 group-title="SkySportsPremierLeague", Sky Sports Premier League HD UK [02]
-#http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/671301
-
-#EXTINF:0 group-title="SkySportsFootball", Sky Sports Football UK [01]
-
-#EXTINF:0 group-title="SkySportsMix", Sky Sports Mix UK [01]
-http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/6534
-
-#EXTINF:0 group-title="SkySports1", Sky Sports 1 HD DE [01]
-http://rocksat.ddns.net:25461/3mfvbsvk/578jtxaw/55705
-#EXTINF:0 group-title="SkySports1", Sky Sports 1 HD DE [02]
-http://topiptv.net:5890/aliali123/aliali123/1293
-
-#EXTINF:0 group-title="SkySports2", Sky Sports 2 HD [01]
-http://srb.00387.info/GER:SKYSPORT2UHD/index.m3u8?token=test
-
-#EXTINF:0 group-title="SkySportsNews", Sky Spors News DE [01]
-http://178.199.75.214:3000/play/ccSkyNEwscc
-#EXTINF:0 group-title="SkySportsNews", Sky Sports News DE [02]
-http://31.177.62.139:8008/play/s25
-
-#EXTINF:0 group-title="SkySportsNews", Sky Sports News UK [01]
-
-#EXTINF:0 group-title="SkySportsMainEvent", Sky Sports Main Event UK [01]
+#EXTINF:0 group-title="SportEspn", Sport ESPN [01]
+http://mytv.fun:8080/pbxarj1mwi/q9x3r6mgr/6643
 
 #EXTINF:0 group-title="FoxSports", Fox Sports [01]
 http://45.58.62.92:8080
@@ -483,10 +494,8 @@ http://mytv.fun:8080/b44gc1lbn95/z35org5l1b/67132
 #EXTINF:0 group-title="BeinSports", Bein Sports [01]
 http://localhd.tv:8081/sonic-eg.com/SaL57OxhWi/892
 
-#EXTINF:0 group-title="BtSport1", BT Sport 1 [01]
-http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/383
 #EXTINF:0 group-title="BtSport1", BT Sport 1 HD [01]
-http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/384
+http://mytv.fun:8080/pbxarj1mwi/q9x3r6mgr/6646
 
 #EXTINF:0 group-title="SportTv1", Sport Tv 1 [01]
 http://85.244.70.140:8000/play/a00r
