@@ -18,6 +18,8 @@ http://85.15.111.40:4022/udp/238.0.2.122:1234
 http://79.142.197.7:8888/Sony_Sci_Fi/index.m3u8
 #EXTINF:-1 group-title="Фильмы",Sony Sci-Fi
 http://live02-cdn.tv.ti.ru:80/dtv/id158_NBN_SG--SonySciFi/03/plst.m3u8
+#EXTINF:-1 group-title="Фильмы",Sony Sci-Fi
+http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/152/stream.m3u8
 
 #EXTINF:-1 group-title="Фильмы",Sony Turbo
 http://vs-msk-02.tv.ti.ru:80/dtv/id157_NBN_SG--SonyTurbo/02/plst.m3u8
@@ -29,6 +31,8 @@ http://195.144.197.170:8886/udp/237.0.1.29:10000
 http://82.200.127.58:8080/udp/239.54.7.54:1224
 #EXTINF:-1 group-title="Фильмы",Sony Turbo
 http://astra.realcrimea.net:8000/play/a09g
+#EXTINF:-1 group-title="Фильмы",Sony Turbo
+http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/150/stream.m3u8
 
 #EXTINF:-1 group-title="Фильмы",Fox
 http://live-ng-01.more.tv/hls/FOX_HD/index_1.m3u8
@@ -47,6 +51,8 @@ http://astra.realcrimea.net:8000/play/a0aq
 http://164.138.90.87:4022/udp/239.191.254.232:15283
 #EXTINF:-1 group-title="Фильмы",Fox HD
 http://83.172.32.25:8012/tv/fox
+#EXTINF:-1 group-title="Фильмы",Fox HD
+http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/148/stream.m3u8
 
 #EXTINF:-1 group-title="Фильмы",Fox Life
 http://178.217.72.66:80/225.201.2.203/tracks-v1a1/mono.m3u8
@@ -55,6 +61,8 @@ http://178.217.72.66:80/225.201.2.203/tracks-v1a1/mono.m3u8
 http://live-ng-01.more.tv/hls/Fox_Life_HD/index_1.m3u8
 #EXTINF:-1 group-title="Фильмы",Fox Life HD
 http://83.172.32.25:8012/tv/foxlife
+#EXTINF:-1 group-title="Фильмы",Fox Life HD
+http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/149/stream.m3u8
 
 #EXTINF:-1 group-title="Фильмы",Paramount Channel
 http://live02-cdn.tv.ti.ru:80/dtv/id986_NBN_SG--Paramount/03/plst.m3u8
@@ -151,6 +159,8 @@ http://83.172.32.25:8012/tv/amedia1
 
 #EXTINF:-1 group-title="Фильмы",Amedia 2
 http://83.172.32.25:8012/tv/amedia2
+#EXTINF:-1 group-title="Фильмы",Amedia 2
+http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/423/stream.m3u8
 
 #EXTINF:-1 group-title="Фильмы",TV 1000
 http://82.200.127.58:8080/udp/239.54.5.91:1234
@@ -186,6 +196,8 @@ http://178.217.72.66:80/225.201.2.6/tracks-v1a1/mono.m3u8
 http://213.234.9.46:7088/udp/239.1.10.10:1234
 #EXTINF:-1 group-title="Фильмы",Spike
 http://62.122.89.91:2732/udp/239.1.10.10:1234
+#EXTINF:-1 group-title="Фильмы",Spike
+http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/165/stream.m3u8
 
 #EXTINF:-1 group-title="Фильмы",КиноХит
 http://83.172.32.25:8012/tv/kinohit
@@ -222,6 +234,8 @@ http://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
 
 #EXTINF:-1 group-title="Фильмы",Киносвидание
 http://178.217.72.66:80/225.201.2.55/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Фильмы",Киносвидание
+http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/251/stream.m3u8
 
 #EXTINF:-1 group-title="Фильмы",Киносвидание HD
 http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
@@ -244,18 +258,26 @@ http://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
 
 #EXTINF:-1 group-title="Фильмы",Киносерия
 http://178.217.72.66:80/225.201.2.181/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Фильмы",Киносерия
+http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/431/stream.m3u8
 
 #EXTINF:-1 group-title="Фильмы",Кинопоказ
 http://83.172.32.25:8012/tv/kinopokaz
 
 #EXTINF:-1 group-title="Фильмы",Hollywood
 http://46.8.46.4:8080/amc/index.m3u8
+#EXTINF:-1 group-title="Фильмы",Hollywood
 http://178.217.72.66/225.201.2.76/video.m3u8
+#EXTINF:-1 group-title="Фильмы",Hollywood
 http://83.172.32.25:8012/tv/amc
+#EXTINF:-1 group-title="Фильмы",Hollywood
+http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/712/stream.m3u8
 
 #EXTINF:-1 group-title="Фильмы",Hollywood HD
 http://83.172.32.25:8012/tv/mgmhd
+#EXTINF:-1 group-title="Фильмы",Hollywood HD
 http://80.94.225.126:8080/HollywoodHD/mono.m3u8
+#EXTINF:-1 group-title="Фильмы",Hollywood HD
 http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/209/index.m3u8
 
 #EXTINF:-1 group-title="Фильмы",ЕвроКино
@@ -268,6 +290,8 @@ http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/549/index.m3u8
 http://astra.realcrimea.net:8000/play/a08s
 #EXTINF:-1 group-title="Фильмы",ЕвроКино
 http://astra.realcrimea.net:8000/play/a01h
+#EXTINF:-1 group-title="Фильмы",ЕвроКино
+http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/691/stream.m3u8
 
 #EXTINF:-1 group-title="Фильмы",ЕвроКино HD
 http://93.94.155.151:8080/eurokino/tracks-v1a1/mono.m3u8
