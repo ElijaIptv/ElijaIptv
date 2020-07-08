@@ -97,6 +97,8 @@ http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/5079/index.m3u8
 http://astra.realcrimea.net:8000/play/a072
 #EXTINF:-1 group-title="Фильмы",ViP Premiere HD
 http://astra.realcrimea.net:8000/play/a0a9
+#EXTINF:-1 group-title="Фильмы",ViP Premiere HD
+http://main.simpletv.eu:8080/HDTV1000P/index.m3u8?token=aeeabd8568a1bc3a99054c15ed4b3e7f
 
 #EXTINF:-1 group-title="Фильмы",ViP Premiere
 http://live-ng-01.more.tv/hls/ViP_Premiere_HD/index_1.m3u8
@@ -108,6 +110,8 @@ http://live-ng-01.more.tv/hls/ViP_Megahit_HD/index_1.m3u8
 http://188.35.9.5:10020/stolen/403x/hot.dll
 #EXTINF:-1 group-title="Фильмы",VIP Megahit HD
 http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/201/index.m3u8
+#EXTINF:-1 group-title="Фильмы",VIP Megahit HD
+http://main.simpletv.eu:8080/HDTV1000M/index.m3u8?token=9f609e5e1732c9a040e3c92f80190c0a
 
 #EXTINF:-1 group-title="Фильмы",ViP Comedy
 http://live-ng-01.more.tv/hls/ViP_Comedy_HD/index_1.m3u8
@@ -118,9 +122,14 @@ http://195.144.197.170:8886/udp/237.0.1.86:10000
 http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/200/index.m3u8
 #EXTINF:-1 group-title="Фильмы",ViP Comedy HD
 http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/5080/index.m3u8
+#EXTINF:-1 group-title="Фильмы",ViP Comedy HD
+http://main.simpletv.eu:8080/HDTV1000C/index.m3u8?token=150650efb697e0c5b0fe6583e471929a
 
 #EXTINF:-1 group-title="Фильмы",ViP Serial
 http://live-ng-01.more.tv/hls/VIP_SERIAL/index_1.m3u8
+
+#EXTINF:-1 group-title="Фильмы",ViP Serial HD
+http://main.simpletv.eu:8080/ru-VIP-Serial/index.m3u8?token=a5e39d00a9454e0202f526c92820932e
 
 #EXTINF:-1 group-title="Фильмы",Amedia Hit
 http://178.217.72.66:80/225.201.2.66/tracks-v1a1/mono.m3u8
