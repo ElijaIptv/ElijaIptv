@@ -307,6 +307,8 @@ http://51.15.8.25:25461/YaDpiIV5za/zvdYEzFsAJ/52459?play_token=vykt4a6DsE&token=
 
 #EXTINF:0 group-title="SetantaSports2", SETANTA SPORTS 2 HD [01]
 #http://s03.iptvx.tv:8090/s/882ff861/setanta-sport-plus-hd-orig.m3u8
+#EXTINF:0 group-title="SetantaSports2", SETANTA SPORTS 2 HD [02]
+https://95-213-224-186.livesports24.online/setantaplusru.m3u8
 
 #EXTINF:0 group-title="SetantaSportsPlus", SETANTA SPORTS+ [01]
 http://195.158.29.129/live_360/live.stream+_360p.m3u8
