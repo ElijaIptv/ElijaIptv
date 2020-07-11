@@ -512,7 +512,7 @@ http://live-ng-01.more.tv/hls/UFC/master.m3u8
 #EXTINF:0 group-title="Ufc", UFC HD [02]
 #http://s03.iptvx.tv:8090/s/882ff861/ufc-hd.m3u8
 #EXTINF:0 group-title="Ufc", UFC HD [03]
-http://live-ng-01.more.tv/hls/UFC/master.m3u8
+http://mytv.fun:8080/40f8pgqcxi/pps9ocglb/16617
 
 
 #EXTINF:0 group-title="M1Global", M1 Global [01]
