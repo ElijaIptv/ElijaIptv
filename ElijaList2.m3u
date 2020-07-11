@@ -155,6 +155,8 @@ http://178.163.13.205:4022/udp/234.0.0.169:2000
 http://178.217.72.66/225.201.2.66/index.m3u8
 #EXTINF:-1 group-title="Фильмы",Amedia Hit
 http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/556/index.m3u8
+#EXTINF:-1 group-title="Фильмы",Amedia Hit
+http://sc.id-tv.kz:80/amedia_hit_hd_38_39.m3u8
 
 #EXTINF:-1 group-title="Фильмы",Amedia Hit HD
 http://188.35.9.11:21131/udp/164g
@@ -192,6 +194,10 @@ http://83.172.32.25:8012/tv/amedia2
 http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/423/stream.m3u8
 #EXTINF:-1 group-title="Фильмы",Amedia 2
 http://hlstv.kem.211.ru/239.211.211.82/stream.m3u8
+#EXTINF:-1 group-title="Фильмы",Amedia 2
+http://sc.id-tv.kz/A2_34_35.m3u8
+#EXTINF:-1 group-title="Фильмы",Amedia 2
+http://sc.id-tv.kz/A2_36_37.m3u8
 
 #EXTINF:-1 group-title="Фильмы",TV 1000
 http://82.200.127.58:8080/udp/239.54.5.91:1234
