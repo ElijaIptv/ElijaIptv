@@ -124,6 +124,8 @@ http://188.35.9.5:10020/stolen/403x/hot.dll
 http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/201/index.m3u8
 #EXTINF:-1 group-title="Фильмы",VIP Megahit HD
 http://main.simpletv.eu:8080/HDTV1000M/index.m3u8?token=9f609e5e1732c9a040e3c92f80190c0a
+#EXTINF:-1 group-title="Фильмы",VIP Megahit HD
+http://188.35.9.11:2016
 
 #EXTINF:-1 group-title="Фильмы",ViP Comedy
 http://live-ng-01.more.tv/hls/ViP_Comedy_HD/index_1.m3u8
@@ -318,6 +320,9 @@ http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/431/stream.m3u
 http://83.172.32.25:8012/tv/kinopokaz
 #EXTINF:-1 group-title="Фильмы",Кинопоказ
 http://31.128.159.9:80/kinopokaz/mpegts
+
+#EXTINF:-1 group-title="Фильмы",Кинопремиум HD
+http://188.35.9.11:2017
 
 #EXTINF:-1 group-title="Фильмы",Hollywood
 http://46.8.46.4:8080/amc/index.m3u8
