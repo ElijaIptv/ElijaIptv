@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [01]
 http://178.69.23.26:8000/play/36-ntv-match%21-futbol-1-b273610
 #EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [02]
@@ -16,6 +15,12 @@ http://178.217.72.66/225.201.2.53/tracks-v1a1/mono.m3u8
 https://95-213-224-187.livesports24.online/ntvmatchfoot1.m3u8
 #EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [08]
 http://188.35.9.11:2025
+#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [9]
+https://95-213-224-186.livesports24.online/ntvmatchfoot1.m3u8
+#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [10]
+http://astra.realcrimea.net:8000/play/a06a
+#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [11]
+http://mytv.fun:8080/v5bqtzaker/oj3hf0zc4o/36898
 
 #EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 HD [01]
 http://vs-msk-02.tv.ti.ru:80/dtv/id472_NBN_SG--NTVFutbol1/04/plst.m3u8
@@ -35,6 +40,8 @@ http://178.217.72.66/225.201.2.34/tracks-v1a1/mono.m3u8
 #http://51.15.8.25:25461/YaDpiIV5za/zvdYEzFsAJ/52462?play_token=vykt4a6DsE&token=ShdRVxJZRlwUAAgBAAhcVVNSUF1RVQwFB1ZUAANRCF1TVgoBWQgFAAZGHRYRRBdWB1prUQISDwJTAABTGhBESlRHZl8FE15EB1ACB1UCRx9EQ11VAxIPBlQMAlkPAgIPCBkbRghVRlxYEV1YThIASxJSRlYHXGpTBENbAlMQC1dEWVUaQ14KOVIBXFUMVEcJRAYWFERZRkdDD1wUWl4dG1NcTUQARQFEDApEWA4cR1AJQlpMFEkXDUNnZ0MaEFRBRVBXRQheCkQMRkVHQBxHWhVoRl0VREdSAFhXExQIEwkTGRtbAEk7BVkKX1EBRAxcCEQWAkQBFxtDWF0PX0ZeS25FUFJDCwoTWghM
 #EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 HD [08]
 http://tviptv.iptv-channel.ru:8000/live/test/test/85.ts
+#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 HD [09]
+http://astra.realcrimea.net:8000/play/a09t
 
 #EXTINF:0 group-title="МатчФутбол2", Матч! Футбол 2 [01]
 http://178.217.72.66/225.201.2.100/tracks-v1a1/mono.m3u8
