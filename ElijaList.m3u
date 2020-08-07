@@ -57,6 +57,12 @@ http://92.38.127.16:8000/play/a030
 #http://188.35.9.18:12050/udp/238.0.12.3:69000
 #EXTINF:0 group-title="МатчФутбол2", Матч! Футбол 2 [07]
 https://95-213-224-187.livesports24.online/mfootball2rus.m3u8
+#EXTINF:0 group-title="МатчФутбол2", Матч! Футбол 2 [08]
+https://95-213-224-186.livesports24.online/mfootball2rus.m3u8
+#EXTINF:0 group-title="МатчФутбол2", Матч! Футбол 2 [09]
+https://95-213-224-179.livesports24.online/mfootball2rus.m3u8
+#EXTINF:0 group-title="МатчФутбол2", Матч! Футбол 2 [10]
+http://astra.realcrimea.net:8000/play/a030
 
 #EXTINF:0 group-title="МатчФутбол2", Матч! Футбол 2 HD [01]
 http://vs-msk-02.tv.ti.ru:80/dtv/id473_NBN_SG--NTVFootball2/04/plst.m3u8
@@ -72,6 +78,10 @@ http://live02-cdn.tv.ti.ru:80/dtv/id473_NBN_SG--NTVFootball2/04/plst.m3u8
 #http://51.15.8.25:25461/YaDpiIV5za/zvdYEzFsAJ/52461?play_token=vykt4a6DsE&token=ShdRVxJZRlwUAAgBAAhcVVNSUF1RVQwFB1ZUAANRCF1TVgoBWQgFAAZGHRYRRBdWB1prUQISDwJTAABTGhBESlRHZl8FE15EB1ACB1UCRx9EQ11VAxIPBlQMAlkPAgIPCBkbRghVRlxYEV1YThIASxJSRlYHXGpTBENbAlMQC1dEWVUaQ14KOVIBXFUMVEcJRAYWFERZRkdDD1wUWl4dG1NcTUQARQFEDApEWA4cR1AJQlpMFEkXDUNnZ0MaEFRBRVBXRQheCkQMRkVHQBxHWhVoRl0VREdSAFhXExQIEwkTGRtbAEk7BVkKX1EBRAxcCEQWAkQBFxtDWF0PX0ZeS25FUFJDCwoTWghM
 #EXTINF:0 group-title="МатчФутбол2", Матч! Футбол 2 HD [07]
 http://tviptv.iptv-channel.ru:8000/live/test/test/86.ts
+#EXTINF:0 group-title="МатчФутбол2", Матч! Футбол 2 HD [08]
+http://mytv.fun:8080/AugustinJauregui/t0ycvumr7d/36897
+#EXTINF:0 group-title="МатчФутбол2", Матч! Футбол 2 HD [09]
+http://astra.realcrimea.net:8000/play/a09u
 
 #EXTINF:0 group-title="МатчФутбол3", Матч! Футбол 3 [01]
 http://178.217.72.66/225.201.2.102/tracks-v1a1/mono.m3u8
