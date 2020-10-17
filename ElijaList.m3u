@@ -90,11 +90,11 @@ http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/871
 #EXTINF:0 group-title="Eurosport1", EUROSPORT 1 [06]
 http://46.8.46.4/eurosport/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 group-title="Eurosport1", EUROSPORT 2 [01]
+#EXTINF:0 group-title="Eurosport2", EUROSPORT 2 [01]
 https://95-213-224-176.livesports24.online/ruseurosport2.m3u8
-#EXTINF:0 group-title="Eurosport1", EUROSPORT 2 [02]
+#EXTINF:0 group-title="Eurosport2", EUROSPORT 2 [02]
 https://95-213-224-179.livesports24.online/ruseurosport2.m3u8
-#EXTINF:0 group-title="Eurosport1", EUROSPORT 2 [03]
+#EXTINF:0 group-title="Eurosport2", EUROSPORT 2 [03]
 https://46-166-139-84.livesports24.online/ruseurosport2.m3u8
 
 #EXTINF:0 group-title="SetantaSports1", SETANTA SPORTS 1 HD [01]
