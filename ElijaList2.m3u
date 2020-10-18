@@ -8,13 +8,13 @@ http://176.197.77.101:81/udp/239.255.42.42:1234
 http://84.201.130.61:8080/314/index.m3u8
 
 #EXTINF:-1 group-title="Фильмы",Sony Sci-Fi
-http://185.181.43.126:8008/play/sony_sci_fi/index.m3u8
-#EXTINF:-1 group-title="Фильмы",Sony Sci-Fi
-http://188.168.24.1:81/udp/233.12.144.17:5050
+http://158.46.111.172:9999/udp/239.255.42.48:1234
 #EXTINF:-1 group-title="Фильмы",Sony Sci-Fi
 http://37.17.12.118:8907/play/a009
 #EXTINF:-1 group-title="Фильмы",Sony Sci-Fi
-http://158.46.111.172:9999/udp/239.255.42.48:1234
+http://185.181.43.126:8008/play/sony_sci_fi/index.m3u8
+#EXTINF:-1 group-title="Фильмы",Sony Sci-Fi
+http://188.168.24.1:81/udp/233.12.144.17:5050
 
 #EXTINF:-1 group-title="Фильмы",Sony Turbo
 http://176.115.152.6:4000/play/a005/index.m3u8
@@ -36,17 +36,17 @@ http://51.195.44.53:8081/tv/fox/playlist.m3u8
 http://89.189.191.250/239.211.200.17/stream.m3u8
 
 #EXTINF:-1 group-title="Фильмы",Fox Life
-http://185.181.43.126:8008/play/fox_life/index.m3u8
-#EXTINF:-1 group-title="Фильмы",Fox Life
 http://89.189.191.250/239.211.211.92/stream.m3u8
+#EXTINF:-1 group-title="Фильмы",Fox Life
+http://185.181.43.126:8008/play/fox_life/index.m3u8
 
 #EXTINF:-1 group-title="Фильмы",Fox Life HD
 http://89.189.191.250/239.211.200.18/stream.m3u8
 
 #EXTINF:-1 group-title="Фильмы",Paramount Channel
-http://182.73.122.74:10004/bysid/1105
-#EXTINF:-1 group-title="Фильмы",Paramount Channel
 http://176.122.202.5:9006/play/k41
+#EXTINF:-1 group-title="Фильмы",Paramount Channel
+http://182.73.122.74:10004/bysid/1105
 
 #EXTINF:-1 group-title="Фильмы",Paramount Comedy
 http://82.200.127.58:8080/udp/239.54.6.38:1224
