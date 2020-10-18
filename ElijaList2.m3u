@@ -1,7 +1,14 @@
 #EXTM3U
 #EXTINF:-1 group-title="Фильмы",Sony Channel
+http://46.8.46.4/sonytv/index.m3u8
+#EXTINF:-1 group-title="Фильмы",Sony Channel
 http://176.197.77.101:81/udp/239.255.42.42:1234
 
+#EXTINF:-1 group-title="Фильмы",Sony Channel HD
+http://84.201.130.61:8080/314/index.m3u8
+
+#EXTINF:-1 group-title="Фильмы",Sony Sci-Fi
+http://185.181.43.126:8008/play/sony_sci_fi/index.m3u8
 #EXTINF:-1 group-title="Фильмы",Sony Sci-Fi
 http://188.168.24.1:81/udp/233.12.144.17:5050
 #EXTINF:-1 group-title="Фильмы",Sony Sci-Fi
@@ -10,8 +17,12 @@ http://37.17.12.118:8907/play/a009
 http://158.46.111.172:9999/udp/239.255.42.48:1234
 
 #EXTINF:-1 group-title="Фильмы",Sony Turbo
+http://176.115.152.6:4000/play/a005/index.m3u8
+#EXTINF:-1 group-title="Фильмы",Sony Turbo
 http://158.46.111.172:9999/udp/239.255.42.93:1234
 
+#EXTINF:-1 group-title="Фильмы",Fox
+http://e01.plius.tv:64144/n67/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Фильмы",Fox
 http://178.163.13.244:4022/udp/234.0.0.184:2000
 #EXTINF:-1 group-title="Фильмы",Fox
@@ -21,8 +32,16 @@ http://178.163.118.78:81/udp/234.0.0.184:2000
 #EXTINF:-1 group-title="Фильмы",Fox
 http://51.195.44.53:8081/tv/fox/playlist.m3u8
 
+#EXTINF:-1 group-title="Фильмы",Fox HD
+http://89.189.191.250/239.211.200.17/stream.m3u8
+
+#EXTINF:-1 group-title="Фильмы",Fox Life
+http://185.181.43.126:8008/play/fox_life/index.m3u8
 #EXTINF:-1 group-title="Фильмы",Fox Life
 http://89.189.191.250/239.211.211.92/stream.m3u8
+
+#EXTINF:-1 group-title="Фильмы",Fox Life HD
+http://89.189.191.250/239.211.200.18/stream.m3u8
 
 #EXTINF:-1 group-title="Фильмы",Paramount Channel
 http://182.73.122.74:10004/bysid/1105
@@ -31,206 +50,95 @@ http://176.122.202.5:9006/play/k41
 
 #EXTINF:-1 group-title="Фильмы",Paramount Comedy
 http://82.200.127.58:8080/udp/239.54.6.38:1224
+#EXTINF:-1 group-title="Фильмы",Paramount Comedy
+http://89.189.191.250/239.211.211.73/stream.m3u8
 
 #EXTINF:-1 group-title="Фильмы",ViP Premiere HD
-http://195.144.197.170:8886/udp/237.0.1.84:10000
-#EXTINF:-1 group-title="Фильмы",ViP Premiere HD
-http://188.35.9.15:2013
-#EXTINF:-1 group-title="Фильмы",ViP Premiere HD
-http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/5079/index.m3u8
-#EXTINF:-1 group-title="Фильмы",ViP Premiere HD
-http://astra.realcrimea.net:8000/play/a072
-#EXTINF:-1 group-title="Фильмы",ViP Premiere HD
-http://astra.realcrimea.net:8000/play/a0a9
-#EXTINF:-1 group-title="Фильмы",ViP Premiere HD
-http://main.simpletv.eu:8080/HDTV1000P/index.m3u8?token=aeeabd8568a1bc3a99054c15ed4b3e7f
-#EXTINF:-1 group-title="Фильмы",ViP Premiere HD
-http://tviptv.iptv-channel.ru:8000/live/test/test/27.ts
+http://37.193.132.221:81/udp/239.1.21.38:1234
 
-#EXTINF:-1 group-title="Фильмы",ViP Premiere
-http://live-ng-01.more.tv/hls/ViP_Premiere_HD/index_1.m3u8
-#EXTINF:-1 group-title="Фильмы",ViP Premiere
-http://live-ng-01.more.tv/hls/ViP_Premiere_HD/master.m3u8
-
-#EXTINF:-1 group-title="Фильмы",VIP Megahit
-http://live-ng-01.more.tv/hls/ViP_Megahit_HD/index_1.m3u8
-
-#EXTINF:-1 group-title="Фильмы",VIP Megahit HD
-http://live-ng-01.more.tv/hls/ViP_Megahit_HD/master.m3u8
 #EXTINF:-1 group-title="Фильмы",VIP Megahit HD
 http://188.35.9.5:10020/stolen/403x/hot.dll
 #EXTINF:-1 group-title="Фильмы",VIP Megahit HD
-http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/201/index.m3u8
-#EXTINF:-1 group-title="Фильмы",VIP Megahit HD
-http://main.simpletv.eu:8080/HDTV1000M/index.m3u8?token=9f609e5e1732c9a040e3c92f80190c0a
-#EXTINF:-1 group-title="Фильмы",VIP Megahit HD
 http://188.35.9.11:2016
 #EXTINF:-1 group-title="Фильмы",VIP Megahit HD
-http://tviptv.iptv-channel.ru:8000/live/test/test/28.ts
-
-#EXTINF:-1 group-title="Фильмы",ViP Comedy
-http://live-ng-01.more.tv/hls/ViP_Comedy_HD/index_1.m3u8
+http://37.193.132.221:81/udp/239.1.21.39:1234
 
 #EXTINF:-1 group-title="Фильмы",ViP Comedy HD
-http://live-ng-01.more.tv/hls/ViP_Comedy_HD/master.m3u8
+http://e01.plius.tv:64144/n208/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Фильмы",ViP Comedy HD
-http://195.144.197.170:8886/udp/237.0.1.86:10000
-#EXTINF:-1 group-title="Фильмы",ViP Comedy HD
-http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/200/index.m3u8
-#EXTINF:-1 group-title="Фильмы",ViP Comedy HD
-http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/5080/index.m3u8
-#EXTINF:-1 group-title="Фильмы",ViP Comedy HD
-http://main.simpletv.eu:8080/HDTV1000C/index.m3u8?token=150650efb697e0c5b0fe6583e471929a
-#EXTINF:-1 group-title="Фильмы",ViP Comedy HD
-http://tviptv.iptv-channel.ru:8000/live/test/test/29.ts
+http://37.193.132.221:81/udp/239.1.21.40:1234
 
 #EXTINF:-1 group-title="Фильмы",ViP Serial
-http://live-ng-01.more.tv/hls/VIP_SERIAL/index_1.m3u8
+http://mnogotv.club:8084/tv/ch962/playlist.m3u8
 
-#EXTINF:-1 group-title="Фильмы",ViP Serial HD
-http://live-ng-01.more.tv/hls/VIP_SERIAL/master.m3u8
-#EXTINF:-1 group-title="Фильмы",ViP Serial HD
-http://main.simpletv.eu:8080/ru-VIP-Serial/index.m3u8?token=a5e39d00a9454e0202f526c92820932e
+#EXTINF:-1 group-title="Фильмы",VIP Hit
+http://188.93.95.83/healthtv/index.m3u8
 
 #EXTINF:-1 group-title="Фильмы",Amedia Hit
-http://178.217.72.66:80/225.201.2.66/tracks-v1a1/mono.m3u8
+http://176.122.202.5:9015/play/k10
 #EXTINF:-1 group-title="Фильмы",Amedia Hit
-http://178.163.13.205:4022/udp/234.0.0.169:2000
+http://109.239.208.82/amediahit/index.m3u8
 #EXTINF:-1 group-title="Фильмы",Amedia Hit
-http://178.217.72.66/225.201.2.66/index.m3u8
+http://178.163.13.244:4022/udp/234.0.0.169:2000
 #EXTINF:-1 group-title="Фильмы",Amedia Hit
-http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/556/index.m3u8
+http://185.36.100.33/amediahit/mpegts
 #EXTINF:-1 group-title="Фильмы",Amedia Hit
-http://sc.id-tv.kz:80/amedia_hit_hd_38_39.m3u8
-
-#EXTINF:-1 group-title="Фильмы",Amedia Hit HD
-http://188.35.9.11:21131/udp/164g
-#EXTINF:-1 group-title="Фильмы",Amedia Hit HD
-http://83.172.32.25:8012/tv/amediahithd
-#EXTINF:-1 group-title="Фильмы",Amedia Hit HD
-http://89.106.234.4:80/amedia_hit_hd_34_35.m3u8
-#EXTINF:-1 group-title="Фильмы",Amedia Hit HD
-http://tviptv.iptv-channel.ru:8000/live/test/test/54.ts
+http://93.158.222.99/amediahit/index.m3u8
+#EXTINF:-1 group-title="Фильмы",Amedia Hit
+http://109.239.208.82/amediahit/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Фильмы",Amedia Hit
+http://93.158.222.99/amediahit/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="Фильмы",Amedia Premium
-http://178.217.72.66:80/225.201.2.67/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Фильмы",Amedia Premium
-http://178.69.23.26:8000/play/36-ntv-amedia-premium-52cf229
-#EXTINF:-1 group-title="Фильмы",Amedia Premium
-http://178.217.72.66/225.201.2.67/index.m3u8
-#EXTINF:-1 group-title="Фильмы",Amedia Premium
-http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/555/index.m3u8
+http://176.122.202.5:9015/play/k7
 
 #EXTINF:-1 group-title="Фильмы",Amedia Premium HD
-http://83.172.32.25:8012/tv/amediapremiumhd
+http://109.239.208.82/amediapremium/index.m3u8
 #EXTINF:-1 group-title="Фильмы",Amedia Premium HD
-http://178.57.121.38:8080/amediapremiumhd/index.m3u8
-#EXTINF:-1 group-title="Фильмы",Amedia Premium HD
-http://astra.realcrimea.net:8000/play/a0a3
-#EXTINF:-1 group-title="Фильмы",Amedia Premium HD
-http://hlstv.kem.211.ru/239.211.211.171/stream.m3u8
-#EXTINF:-1 group-title="Фильмы",Amedia Premium HD
-http://tviptv.iptv-channel.ru:8000/live/test/test/55.ts
+http://109.239.208.82/amediapremium/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Фильмы",Amedia 1
-http://178.217.72.66:80/225.201.2.65/tracks-v1a1/mono.m3u8
+http://176.122.202.5:9015/play/k8
 #EXTINF:-1 group-title="Фильмы",Amedia 1
-http://83.172.32.25:8012/tv/amedia1
+http://178.163.13.244:4022/udp/234.0.0.155:2000
+#EXTINF:-1 group-title="Фильмы",Amedia 1
+http://185.36.100.33/amedia/mpegts
+#EXTINF:-1 group-title="Фильмы",Amedia 1
+http://93.158.222.99/amedia/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="Фильмы",Amedia 1 HD
+http://109.239.208.82/amedia1/index.m3u8
+#EXTINF:-1 group-title="Фильмы",Amedia 1 HD
+http://188.168.24.1:81/udp/233.12.144.134:5050
 
 #EXTINF:-1 group-title="Фильмы",Amedia 2
-http://83.172.32.25:8012/tv/amedia2
+http://176.122.202.5:9015/play/k9
 #EXTINF:-1 group-title="Фильмы",Amedia 2
-http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/423/stream.m3u8
+http://89.189.191.250/239.211.211.82/stream.m3u8
 #EXTINF:-1 group-title="Фильмы",Amedia 2
-http://hlstv.kem.211.ru/239.211.211.82/stream.m3u8
+http://109.239.208.82/amedia2/index.m3u8
 #EXTINF:-1 group-title="Фильмы",Amedia 2
-http://sc.id-tv.kz/A2_34_35.m3u8
-#EXTINF:-1 group-title="Фильмы",Amedia 2
-http://sc.id-tv.kz/A2_36_37.m3u8
+http://182.73.122.74:10000/bysid/306
 
 #EXTINF:-1 group-title="Фильмы",TV 1000
 http://82.200.127.58:8080/udp/239.54.5.91:1234
-#EXTINF:-1 group-title="Фильмы",TV 1000
-http://astra.realcrimea.net:8000/play/a06x
-#EXTINF:-1 group-title="Фильмы",TV 1000
-http://astra.realcrimea.net:8000/play/a08j
 
 #EXTINF:-1 group-title="Фильмы",TV 1000 HD
-http://live-ng-01.more.tv/hls/TV1000_HD/master.m3u8
-#EXTINF:-1 group-title="Фильмы",TV 1000 HD
 http://195.191.208.78:8080/tv1000hd/index.m3u8
-#EXTINF:-1 group-title="Фильмы",TV 1000 HD
-http://tviptv.iptv-channel.ru:8000/live/test/test/23.ts
 
 #EXTINF:-1 group-title="Фильмы",TV 1000 Action
 http://82.200.127.58:8080/udp/239.54.5.111:1234
-#EXTINF:-1 group-title="Фильмы",TV 1000 Action
-http://astra.realcrimea.net:8000/play/a06y
-#EXTINF:-1 group-title="Фильмы",TV 1000 Action
-http://astra.realcrimea.net:8000/play/a08k
-#EXTINF:-1 group-title="Фильмы",TV 1000 Action
-http://live-ng-01.more.tv/hls/TV1000_Action_HD/index_1.m3u8
-
-#EXTINF:-1 group-title="Фильмы",TV 1000 Action HD
-http://tviptv.iptv-channel.ru:8000/live/test/test/24.ts
 
 #EXTINF:-1 group-title="Фильмы",TV 1000 WORLD KINO
-http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/1065/index.m3u8
 
 #EXTINF:-1 group-title="Фильмы",TV 1000 Русское кино HD
-http://tviptv.iptv-channel.ru:8000/live/test/test/25.ts
 
 #EXTINF:-1 group-title="Фильмы",Spike
-http://vs-msk-02.tv.ti.ru:80/dtv/id505_NBN_SG--Spike/03/plst.m3u8
-#EXTINF:-1 group-title="Фильмы",Spike
-http://live02-cdn.tv.ti.ru:80/dtv/id505_NBN_SG--Spike/03/plst.m3u8
-#EXTINF:-1 group-title="Фильмы",Spike
-http://178.217.72.66:80/225.201.2.6/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Фильмы",Spike
-http://213.234.9.46:7088/udp/239.1.10.10:1234
-#EXTINF:-1 group-title="Фильмы",Spike
-http://62.122.89.91:2732/udp/239.1.10.10:1234
-#EXTINF:-1 group-title="Фильмы",Spike
-http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/165/stream.m3u8
-#EXTINF:-1 group-title="Фильмы",Spike
-http://hlstv.kem.211.ru/239.211.211.149/stream.m3u8
 
 #EXTINF:-1 group-title="Фильмы",КиноХит
-http://83.172.32.25:8012/tv/kinohit
-#EXTINF:-1 group-title="Фильмы",Кинохит
-http://178.217.72.66:80/225.201.2.44/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Фильмы",Кинохит
-http://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
-
-#EXTINF:-1 group-title="Фильмы",Кинохит HD
-http://vs-msk-02.tv.ti.ru:80/dtv/id1264_NBN_SG--KinohitHD_wflite/04/plst.m3u8
-#EXTINF:-1 group-title="Фильмы",Кинохит HD
-http://tviptv.iptv-channel.ru:8000/live/test/test/37.ts
 
 #EXTINF:-1 group-title="Фильмы",Киносемья
-http://178.217.72.66:80/225.201.2.54/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Фильмы",Киносемья HD
-http://vs-msk-02.tv.ti.ru:80/dtv/id1261_NBN_SG--KinosemHD_wflite/04/plst.m3u8
-#EXTINF:-1 group-title="Фильмы",Киносемья HD
-http://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
-#EXTINF:-1 group-title="Фильмы",Киносемья HD
-http://tviptv.iptv-channel.ru:8000/live/test/test/38.ts
-
-#EXTINF:-1 group-title="Фильмы",Кинокомедия
-http://83.172.32.25:8012/tv/komediatv
-#EXTINF:-1 group-title="Фильмы",Кинокомедия
-http://live02-cdn.tv.ti.ru:80/dtv/id135_NBN_SG--komediya_tv/03/plst.m3u8
-#EXTINF:-1 group-title="Фильмы",Кинокомедия
-http://178.217.72.66/225.201.2.177/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Фильмы",Кинокомедия
-http://178.163.56.136:81/udp/234.0.0.118:2000
-#EXTINF:-1 group-title="Фильмы",Кинокомедия
-http://vs-msk-02.tv.ti.ru:80/dtv/id135_NBN_SG--komediya_tv/03/plst.m3u8
-#EXTINF:-1 group-title="Фильмы",Кинокомедия
-http://178.69.23.26:8000/play/36-ntv-kinokomediya-9d23dbe
-#EXTINF:-1 group-title="Фильмы",Кинокомедия
-http://178.163.44.13:4022/udp/234.0.0.118:2000
 #EXTINF:-1 group-title="Фильмы",Кинокомедия
 http://178.163.13.244:4022/udp/234.0.0.118:2000
 
