@@ -1,24 +1,30 @@
 #EXTM3U
 
 #EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [01]
+https://95-213-224-183.livesports24.online/ntvmatchfoot1.m3u8
+#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [02]
 http://mytv.fun:8080/v5bqtzaker/oj3hf0zc4o/36898
 
 #EXTINF:0 group-title="МатчФутбол2", Матч! Футбол 2 [01]
-https://95-213-224-176.livesports24.online/mfootball2rus.m3u8 
+https://95-213-224-183.livesports24.online/mfootball2rus.m3u8
 #EXTINF:0 group-title="МатчФутбол2", Матч! Футбол 2 [02]
-https://95-213-224-179.livesports24.online/mfootball2rus.m3u8
+https://95-213-224-176.livesports24.online/mfootball2rus.m3u8 
 #EXTINF:0 group-title="МатчФутбол2", Матч! Футбол 2 [03]
-https://95-213-224-187.livesports24.online/mfootball2rus.m3u8
+https://95-213-224-179.livesports24.online/mfootball2rus.m3u8
 #EXTINF:0 group-title="МатчФутбол2", Матч! Футбол 2 [04]
-https://95-213-224-186.livesports24.online/mfootball2rus.m3u8
+https://95-213-224-187.livesports24.online/mfootball2rus.m3u8
 #EXTINF:0 group-title="МатчФутбол2", Матч! Футбол 2 [05]
+https://95-213-224-186.livesports24.online/mfootball2rus.m3u8
+#EXTINF:0 group-title="МатчФутбол2", Матч! Футбол 2 [06]
 https://95-213-172-213.livesports24.online/mfootball2rus.m3u8
 
 #EXTINF:0 group-title="МатчФутбол3", Матч! Футбол 3 [01]
-https://95-213-224-176.livesports24.online/rumatchf3.m3u8
+https://95-213-224-183.livesports24.online/rumatchf3.m3u8
 #EXTINF:0 group-title="МатчФутбол3", Матч! Футбол 3 [02]
-https://95-213-224-179.livesports24.online/rumatchf3.m3u8
+https://95-213-224-176.livesports24.online/rumatchf3.m3u8
 #EXTINF:0 group-title="МатчФутбол3", Матч! Футбол 3 [03]
+https://95-213-224-179.livesports24.online/rumatchf3.m3u8
+#EXTINF:0 group-title="МатчФутбол3", Матч! Футбол 3 [04]
 https://95-213-172-213.livesports24.online/rumatchf3.m3u8
 
 #EXTINF:0 group-title="МатчПремьер", Матч! Премьер [01]
