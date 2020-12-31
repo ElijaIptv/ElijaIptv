@@ -1,9 +1,15 @@
 #EXTM3U
 #EXTINF:-1 group-title="Фильмы",Sony Channel
 http://84.201.130.61:8080/314/index.m3u8
+#EXTINF:-1 group-title="Фильмы",Sony Channel
+http://193.151.107.120:8000/play/166/index.m3u8
+#EXTINF:-1 group-title="Фильмы",Sony Channel
+http://84.201.130.61:8080/314/index.m3u8
 
 #EXTINF:-1 group-title="Фильмы",Sony Sci-Fi
 http://37.17.12.118:8907/play/a009
+#EXTINF:-1 group-title="Фильмы",Sony Sci-Fi
+http://109.248.83.75:4044/udp/239.195.0.61:1234
 
 #EXTINF:-1 group-title="Фильмы",Sony Turbo
 http://176.115.152.6:4000/play/a005/index.m3u8
