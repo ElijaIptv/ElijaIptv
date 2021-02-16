@@ -73,25 +73,23 @@ http://212.66.58.100:8000/play/a13u
 http://91.201.177.2:2517/udp/239.192.2.11:2121
 
 #EXTINF:-1 group-title="Фильмы",ViP Premiere
-http://195.189.105.158:9050/134/index.m3u8
-#EXTINF:-1 group-title="Фильмы",ViP Premiere
 http://91.201.177.2:2517/udp/239.192.4.94:2121
 #EXTINF:-1 group-title="Фильмы",ViP Premiere
 http://213.109.61.150:4777/udp/239.255.0.160:1234
 #EXTINF:-1 group-title="Фильмы",ViP Premiere
 http://88.218.240.11:80/vip-premiere/index.m3u8
+#EXTINF:-1 group-title="Фильмы",ViP Premiere
+http://195.189.105.158:9050/134/index.m3u8
 
-#EXTINF:-1 group-title="Фильмы",VIP Megahit
-http://195.189.105.158:9050/133/index.m3u8
 #EXTINF:-1 group-title="Фильмы",VIP Megahit
 http://91.201.177.2:2517/udp/239.192.4.95:2121
 #EXTINF:-1 group-title="Фильмы",VIP Megahit
 http://213.109.61.150:4777/udp/239.255.0.159:1234
 #EXTINF:-1 group-title="Фильмы",VIP Megahit
 http://88.218.240.11:80/vip-megahit/index.m3u8
+#EXTINF:-1 group-title="Фильмы",VIP Megahit
+http://195.189.105.158:9050/133/index.m3u8
 
-#EXTINF:-1 group-title="Фильмы",ViP Comedy
-http://195.189.105.158:9050/132/index.m3u8
 #EXTINF:-1 group-title="Фильмы",ViP Comedy
 https://hls1.sweet.tv/stream/ippj3bak87gvm9xvvyqqr759h39a4enszf35t6ibs7txzbtc67cf2acqpffhax45wrdys5fdjnqzxdbimpu7nerf6xv76thxmqmxe99x4trgi38patbwm4g4.m3u8
 #EXTINF:-1 group-title="Фильмы",ViP Comedy
@@ -100,6 +98,8 @@ http://91.201.177.2:2517/udp/239.192.4.93:2121
 http://91.235.189.246:4777/udp/239.255.0.153:1234
 #EXTINF:-1 group-title="Фильмы",ViP Comedy
 http://88.218.240.11:80/vip-comedy/video.m3u8
+#EXTINF:-1 group-title="Фильмы",ViP Comedy
+http://195.189.105.158:9050/132/index.m3u8
 
 #EXTINF:-1 group-title="Фильмы",ViP Serial
 http://88.218.240.11:80/vip-serial/index.m3u8
