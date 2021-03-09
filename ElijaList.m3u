@@ -39,37 +39,21 @@ https://95-213-224-179.livesports24.online/rumatchf3.m3u8
 #EXTINF:0 group-title="МатчФутбол3", Матч! Футбол 3 [06]
 https://95-213-172-213.livesports24.online/rumatchf3.m3u8
 
-#EXTINF:0 group-title="МатчПремьер", Матч! Премьер [01]
-http://83.222.205.10:38080/mpremier/index.m3u8
 #EXTINF:0 group-title="МатчПремьер", Матч! Премьер [02]
 https://95-213-224-176.livesports24.online/mpremierrus.m3u8
 #EXTINF:0 group-title="МатчПремьер", Матч! Премьер [03]
 https://95-213-172-213.livesports24.online/mpremierrus.m3u8
 #EXTINF:0 group-title="МатчПремьер", Матч! Премьер [04]
 https://95-213-224-186.livesports24.online/mpremierrus.m3u8
-#EXTINF:0 group-title="МатчПремьер", Матч! Премьер [05]
-http://91.201.177.2:2517/udp/239.192.4.89:2121
 
 #EXTINF:0 group-title="Матч", Матч! [01]
 http://31.210.208.168:8080/match_hd/index.m3u8
-#EXTINF:0 group-title="Матч", Матч! [02]
-http://88.218.240.11:80/match-tvhd/tracks-v1a1/index.m3u8
-#EXTINF:0 group-title="Матч", Матч! [03]
-http://88.218.240.11:80/match-tv/tracks-v1a1/index.m3u8
 #EXTINF:0 group-title="Матч", Матч! [04]
 https://95-213-224-176.livesports24.online/ooomatch.m3u8
 #EXTINF:0 group-title="Матч", Матч! [05]
 https://95-213-224-186.livesports24.online/ooomatch.m3u8
-#EXTINF:0 group-title="Матч", Матч! [06]
-http://iptv.ktkru.ru:8003/index.m3u8
-#EXTINF:0 group-title="Матч", Матч! [07]
-http://uiptv.do.am/1ufc/000000003/playlist.m3u8
 #EXTINF:0 group-title="Матч", Матч! [08]
 http://cdn.nexttvnet.ru/hlsl/10/Match_TV/index.m3u8
-#EXTINF:0 group-title="Матч", Матч! [09]
-http://194.106.98.71:9202
-#EXTINF:0 group-title="Матч", Матч! [10]
-http://iptv.media-ix.com:11375/3/index.m3u8?bw876312520986.m3u8
 
 #EXTINF:0 group-title="МатчАрена", Матч! Арена [01]
 http://88.218.240.11:80/match-arenahd/tracks-v1a1/index.m3u8
