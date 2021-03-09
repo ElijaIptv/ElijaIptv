@@ -3,15 +3,11 @@
 https://edge04.beetv.kz/btv/SWM/Sony/Sony_576p_2000kbps.m3u8
 
 #EXTINF:-1 group-title="Фильмы",Sony Sci-Fi
-http://91.201.177.2:2517/udp/239.192.3.107:2121
-#EXTINF:-1 group-title="Фильмы",Sony Sci-Fi
 http://91.192.168.242:9091
 
 #EXTINF:-1 group-title="Фильмы",Sony Turbo
 http://212.79.122.24:7009/sony_turbo
 
-#EXTINF:-1 group-title="Фильмы",Fox
-http://91.201.177.2:2517/udp/239.192.4.27:2121
 #EXTINF:-1 group-title="Фильмы",Fox
 https://edge04.beetv.kz/btv/SWM/FOX/FOX_1080p_5000kbps.m3u8
 #EXTINF:-1 group-title="Фильмы",Fox
@@ -28,50 +24,18 @@ http://51.68.140.190:8081/tv/fox/playlist.m3u8
 #EXTINF:-1 group-title="Фильмы",Fox Life
 http://cdn.nexttvnet.ru/hlsl/1/Fox_Life_HD/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Фильмы",Fox Life
-http://212.66.58.100:8000/play/a13z
-#EXTINF:-1 group-title="Фильмы",Fox Life
 http://109.200.130.124:7006/play/a00z
-#EXTINF:-1 group-title="Фильмы",Fox Life
-http://212.79.122.24:7052/atr
-#EXTINF:-1 group-title="Фильмы",Fox Life
-http://91.201.177.2:2517/udp/239.192.1.42:2121
 
-#EXTINF:-1 group-title="Фильмы",Paramount Channel
-http://212.79.122.24:7056/Paramount_Channel
 #EXTINF:-1 group-title="Фильмы",Paramount Channel
 http://109.200.130.124:7000/play/a00m
-#EXTINF:-1 group-title="Фильмы",Paramount Channel
-http://212.66.58.100:8000/play/a19s
-#EXTINF:-1 group-title="Фильмы",Paramount Channel
-http://91.201.177.2:2517/udp/239.192.2.9:2121
 
 #EXTINF:-1 group-title="Фильмы",Paramount Comedy
-http://212.79.122.24:7039/Paramount_Comedy
-#EXTINF:-1 group-title="Фильмы",Paramount Comedy
-http://212.66.58.100:8000/play/a13u
-#EXTINF:-1 group-title="Фильмы",Paramount Comedy
-http://91.201.177.2:2517/udp/239.192.2.11:2121
 
 #EXTINF:-1 group-title="Фильмы",ViP Premiere
-http://91.201.177.2:2517/udp/239.192.4.94:2121
-#EXTINF:-1 group-title="Фильмы",ViP Premiere
-http://213.109.61.150:4777/udp/239.255.0.160:1234
-#EXTINF:-1 group-title="Фильмы",ViP Premiere
-http://195.189.105.158:9050/134/index.m3u8
 
-#EXTINF:-1 group-title="Фильмы",VIP Megahit
-http://91.201.177.2:2517/udp/239.192.4.95:2121
-#EXTINF:-1 group-title="Фильмы",VIP Megahit
-http://213.109.61.150:4777/udp/239.255.0.159:1234
 #EXTINF:-1 group-title="Фильмы",VIP Megahit
 http://195.189.105.158:9050/133/index.m3u8
 
-#EXTINF:-1 group-title="Фильмы",ViP Comedy
-https://hls1.sweet.tv/stream/ippj3bak87gvm9xvvyqqr759h39a4enszf35t6ibs7txzbtc67cf2acqpffhax45wrdys5fdjnqzxdbimpu7nerf6xv76thxmqmxe99x4trgi38patbwm4g4.m3u8
-#EXTINF:-1 group-title="Фильмы",ViP Comedy
-http://91.201.177.2:2517/udp/239.192.4.93:2121
-#EXTINF:-1 group-title="Фильмы",ViP Comedy
-http://91.235.189.246:4777/udp/239.255.0.153:1234
 #EXTINF:-1 group-title="Фильмы",ViP Comedy
 http://195.189.105.158:9050/132/index.m3u8
 
@@ -83,15 +47,11 @@ http://195.189.105.158:9050/132/index.m3u8
 
 #EXTINF:-1 group-title="Фильмы",Amedia Hit
 http://212.79.122.24:7125/amedia_hit
-#EXTINF:-1 group-title="Фильмы",Amedia Hit
-http://91.201.177.2:2517/udp/239.192.3.156:2121
 
 #EXTINF:-1 group-title="Фильмы",Amedia Premium
 http://212.79.122.24:7126/amedia_premium
 #EXTINF:-1 group-title="Фильмы",Amedia Premium
 http://109.200.130.124:7006/play/a02m
-#EXTINF:-1 group-title="Фильмы",Amedia Premium
-http://91.201.177.2:2517/udp/239.192.4.88:2121
 
 #EXTINF:-1 group-title="Фильмы",Amedia 1
 https://edge04.beetv.kz/btv/SWM/A1/A1_1080p_5000kbps.m3u8
@@ -99,17 +59,11 @@ https://edge04.beetv.kz/btv/SWM/A1/A1_1080p_5000kbps.m3u8
 http://cdn.nexttvnet.ru/hlsl/1/amedia_1/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Фильмы",Amedia 1
 http://109.200.130.124:7006/play/a02j
-#EXTINF:-1 group-title="Фильмы",Amedia 1
-http://185.245.187.150:80/Amedia1/index.m3u8
 
 #EXTINF:-1 group-title="Фильмы",Amedia 2
 https://edge04.beetv.kz/btv/SWM/A2/A2_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="Фильмы",Amedia 2
-http://89.189.191.250/239.211.211.82/stream.m3u8
-#EXTINF:-1 group-title="Фильмы",Amedia 2
 http://109.200.130.124:7006/play/a02k
-#EXTINF:-1 group-title="Фильмы",Amedia 2
-http://91.201.177.2:2517/udp/239.192.4.81:2121
 
 #EXTINF:-1 group-title="Фильмы",TV 1000
 https://s4.idata.uz/TV1000/tracks-v1a1/rewind-7200.m3u8
@@ -117,7 +71,6 @@ https://s4.idata.uz/TV1000/tracks-v1a1/rewind-7200.m3u8
 http://109.200.130.124:7000/play/a003
 
 #EXTINF:-1 group-title="Фильмы",TV 1000 Action
-http://212.66.58.100:8000/play/a14l
 
 #EXTINF:-1 group-title="Фильмы",TV 1000 WORLD KINO
 http://195.189.105.158:9050/121/index.m3u8
@@ -128,15 +81,12 @@ http://185.74.7.220:8080/tv1000ru/tracks-v1a1/index.m3u8
 https://s4.idata.uz/tv1000ru/rewind-7200.m3u8
 
 #EXTINF:-1 group-title="Фильмы",Spike
-http://212.66.58.100:8000/play/a19t
 
 #EXTINF:-1 group-title="Фильмы",КиноХит
 
 #EXTINF:-1 group-title="Фильмы",Киносемья
-http://23.111.81.228:1893/ch-870/tracks-v1a1/index.m3u8?token=test
 
 #EXTINF:-1 group-title="Фильмы",Кинокомедия
-http://89.189.191.250/239.211.211.139/stream.m3u8
 
 #EXTINF:-1 group-title="Фильмы",Киносвидание
 http://185.74.7.220:8080/kinosvidanie/tracks-v1a1/index.m3u8
@@ -148,20 +98,12 @@ http://185.74.7.220:8080/kinopremyera/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="Фильмы",Киноужас
 http://31.210.208.168:8080/kinouzhas/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Фильмы",Киноужас
-http://212.66.58.100:8000/play/a13v
 
 #EXTINF:-1 group-title="Фильмы",Киномикс
-
 
 #EXTINF:-1 group-title="Фильмы",Киносерия
 
 #EXTINF:-1 group-title="Фильмы",Кинопоказ
-http://185.74.5.142/dars9/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Фильмы",Кинопоказ
-http://31.210.208.168:8080/kinopokaz/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Фильмы",Кинопоказ
-http://185.74.7.220:8080/kinopokaz/index.m3u8
 
 #EXTINF:-1 group-title="Фильмы",Кинопремиум
 
