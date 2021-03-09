@@ -166,6 +166,8 @@ http://185.74.7.220:8080/kinopremyera/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="Фильмы",Киноужас
 http://31.210.208.168:8080/kinouzhas/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Фильмы",Киноужас
+http://109.248.92.178:47055/udp/239.195.1.212:1234
 
 #EXTINF:-1 group-title="Фильмы",Киномикс
 
@@ -179,6 +181,7 @@ http://31.210.208.168:8080/kinouzhas/tracks-v1a1/index.m3u8
 http://109.200.130.124:7006/play/a02n
 
 #EXTINF:-1 group-title="Фильмы",ЕвроКино
+http://195.49.206.244:90/Evrokino/index.m3u8
 
 #EXTINF:-1 group-title="Фильмы",Кино ТВ
 
