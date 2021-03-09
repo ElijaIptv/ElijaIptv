@@ -6,6 +6,8 @@ https://95-213-172-213.livesports24.online/ntvmatchfoot1.m3u8
 http://31.210.208.168:8080/match_futbol_1/index.m3u8
 #EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [03]
 https://s1.idata.uz/stch_temp4/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 HD [04]
+http://37.193.229.234:81/udp/239.1.23.1:1234
 
 #EXTINF:0 group-title="МатчФутбол2", Матч! Футбол 2 [01]
 https://95-213-172-213.livesports24.online/mfootball2rus.m3u8
@@ -15,17 +17,25 @@ http://31.210.208.168:8080/match_futbol_2/index.m3u8
 https://s4.idata.uz/football2/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="МатчФутбол2", Матч! Футбол 2 [04]
 http://185.74.7.220:8080/football2/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="МатчФутбол2", Матч! Футбол 2 HD [05]
+http://37.193.229.234:81/udp/239.1.23.2:1234
 
 #EXTINF:0 group-title="МатчФутбол3", Матч! Футбол 3 [01]
 https://95-213-172-213.livesports24.online/rumatchf3.m3u8
 #EXTINF:0 group-title="МатчФутбол3", Матч! Футбол 3 [02]
 http://31.210.208.166:8080/match_futbol_3/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="МатчФутбол3", Матч! Футбол 3 HD [03]
+http://37.193.229.234:81/udp/239.1.23.3:1234
 
 #EXTINF:0 group-title="МатчПремьер", Матч! Премьер [01]
 https://95-213-172-213.livesports24.online/mpremierrus.m3u8
 #EXTINF:0 group-title="МатчПремьер", Матч! Премьер [02]
 http://31.210.173.69:8000/play/a00g/index.m3u8?token=gsfjkfr47vdh6853hck
-#EXTINF:0 group-title="МатчПремьер", Матч! Премьер HD [03]
+#EXTINF:0 group-title="МатчПремьер", Матч! Премьер [03]
+http://37.193.231.136:81/udp/239.1.20.11:1234
+#EXTINF:0 group-title="МатчПремьер", Матч! Премьер HD [04]
+http://37.193.231.136:81/udp/239.1.16.1:1234
+#EXTINF:0 group-title="МатчПремьер", Матч! Премьер HD [05]
 http://94.156.59.233:8899/udp/224.2.2.25:1234
 
 #EXTINF:0 group-title="Матч", Матч! [01]
@@ -34,8 +44,16 @@ https://95-213-172-213.livesports24.online/ooomatch.m3u8
 http://31.210.208.168:8080/match_hd/index.m3u8
 #EXTINF:0 group-title="Матч", Матч! [03]
 http://cdn.nexttvnet.ru/hlsl/10/Match_TV/index.m3u8
-#EXTINF:0 group-title="Матч", Матч! HD [04]
+#EXTINF:0 group-title="Матч", Матч! [04]
+http://185.134.38.242:4022/udp/234.0.0.204:2000
+#EXTINF:0 group-title="Матч", Матч! [05]
+http://37.193.134.225:81/udp/239.1.15.16:1234
+#EXTINF:0 group-title="Матч", Матч! HD [06]
 http://31.210.208.188:8080/match_hd/index.m3u8
+#EXTINF:0 group-title="Матч", Матч! HD [07]
+http://92.240.135.169:4022/udp/232.0.2.63:1234
+#EXTINF:0 group-title="Матч", Матч! HD [08]
+http://37.193.229.234:81/udp/239.1.15.23:1234
 
 #EXTINF:0 group-title="МатчАрена", Матч! Арена [01]
 https://95-213-172-213.livesports24.online/rumatcharena.m3u8
@@ -78,20 +96,32 @@ http://86.57.174.73:14000/bel5
 
 #EXTINF:0 group-title="Eurosport1", EUROSPORT 1 [01]
 https://95-213-172-213.livesports24.online/eurosport1ru.m3u8
-#EXTINF:0 group-title="Eurosport1", EUROSPORT 1 [04]
+#EXTINF:0 group-title="Eurosport1", EUROSPORT 1 [02]
 https://s1.idata.uz/stch_temp21/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Eurosport1", EUROSPORT 1 HD [04]
+#EXTINF:0 group-title="Eurosport1", EUROSPORT 1 [03]
+http://176.51.73.63:1234/udp/233.7.70.13:5000
+#EXTINF:0 group-title="Eurosport1", EUROSPORT 1 [04]
+http://176.51.95.192:1234/udp/233.7.70.13:5000
+#EXTINF:0 group-title="Eurosport1", EUROSPORT 1 HD [05]
 http://94.232.127.13/z3/eurosport1hd/stream.m3u8
-#EXTINF:0 group-title="Eurosport1", EUROSPORT 1 GCN [05]
+#EXTINF:0 group-title="Eurosport1", EUROSPORT 1 HD [06]
+http://37.193.231.136:81/udp/239.1.11.6:1234
+#EXTINF:0 group-title="Eurosport1", EUROSPORT 1 GCN [07]
 http://edge04.beetv.kz/btv/SWM/Eurosport/Eurosport_576p_2000kbps.m3u8
-#EXTINF:0 group-title="Eurosport1", EUROSPORT 1 GCN HD [05]
+#EXTINF:0 group-title="Eurosport1", EUROSPORT 1 GCN HD [08]
 https://hls1.sweet.tv/stream/dxijidrbkimic4jcpe6qguvjjrhdbp9vk3sgd9hbgijdkvfvmj6nsxw7jzcspbsc279zex2295nuimzfjn5qzmx2dgrpimtxygvhuejsfk7q9anthm2m7na=.m3u8
 
 #EXTINF:0 group-title="Eurosport2", EUROSPORT 2 [01]
 https://95-213-172-213.livesports24.online/ruseurosport2.m3u8
-#EXTINF:0 group-title="Eurosport2", EUROSPORT 2 HD [02]
+#EXTINF:0 group-title="Eurosport2", EUROSPORT 2 [02]
+http://176.51.73.63:1234/udp/233.7.70.14:5000
+#EXTINF:0 group-title="Eurosport2", EUROSPORT 2 [03]
+http://176.51.95.192:1234/udp/233.7.70.14:5000
+#EXTINF:0 group-title="Eurosport2", EUROSPORT 2 [04]
+http://37.193.231.136:81/udp/239.1.12.4:1234
+#EXTINF:0 group-title="Eurosport2", EUROSPORT 2 HD [05]
 http://94.232.127.13/z3/eurosport2hd/stream.m3u8
-#EXTINF:0 group-title="Eurosport2", EUROSPORT 2 HD [03]
+#EXTINF:0 group-title="Eurosport2", EUROSPORT 2 HD [06]
 https://hls1.sweet.tv/stream/femuhbup8hivhqv2xqwp29j4s9wpe9s2swysuhfrmxnhx9qp7ez38cudrpdq73r4a4a2mmi7k3jun8q6vf42mbnva29zbgwhf4csq8gshjyffe2psqv3vjnn.m3u8
 
 #EXTINF:0 group-title="SetantaSports1", SETANTA SPORTS 1 HD [01]
