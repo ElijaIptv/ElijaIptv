@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:0 group-title="РЕН ТВ", РЕН ТВ [01]
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8?token=gelow74
+#EXTINF:0 group-title="РЕН ТВ", РЕН ТВ [02]
+http://91.231.200.2:9000/play/ch_102/index.m3u8?token=gelow74
+
 #EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [01]
 https://95-213-172-213.livesports24.online/ntvmatchfoot1.m3u8
 #EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 HD [02]
