@@ -1,15 +1,8 @@
 #EXTM3U
 
-#EXTINF:0 group-title="РЕН ТВ", РЕН ТВ [01]
-http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8?token=gelow74
-#EXTINF:0 group-title="РЕН ТВ", РЕН ТВ [02]
-http://91.231.200.2:9000/play/ch_102/index.m3u8?token=gelow74
-
 #EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [01]
 https://95-213-172-213.livesports24.online/ntvmatchfoot1.m3u8
-#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 HD [02]
-http://78.30.254.135/653/index.m3u8?token=gelow74
-#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [03]
+#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [02]
 https://s1.idata.uz/stch_temp4/tracks-v1a1/mono.m3u8?token=gelow74
 
 #EXTINF:0 group-title="МатчФутбол2", Матч! Футбол 2 [01]
@@ -23,63 +16,31 @@ http://185.74.7.220:8080/football2/tracks-v1a1/index.m3u8
 
 #EXTINF:0 group-title="МатчФутбол3", Матч! Футбол 3 [01]
 https://95-213-172-213.livesports24.online/rumatchf3.m3u8
-#EXTINF:0 group-title="МатчФутбол3", Матч! Футбол 3 HD [02]
-http://78.30.254.135/1930/index.m3u8?token=gelow74
 
 #EXTINF:0 group-title="МатчПремьер", Матч! Премьер [01]
 https://95-213-172-213.livesports24.online/mpremierrus.m3u8
-#EXTINF:0 group-title="МатчПремьер", Матч! Премьер HD [02]
-http://91.231.200.2:9000/play/ch_193/index.m3u8?token=gelow74
-#EXTINF:0 group-title="МатчПремьер", Матч! Премьер HD [03]
-http://78.30.254.135/2202/index.m3u8?token=gelow74
 
 #EXTINF:0 group-title="Матч", Матч! [01]
 https://95-213-172-213.livesports24.online/ooomatch.m3u8
-#EXTINF:0 group-title="Матч", Матч! HD [02]
-http://31.210.208.168:8080/match_hd/index.m3u8
-#EXTINF:0 group-title="Матч", Матч! [03]
-http://185.134.38.242:4022/udp/234.0.0.204:2000
-#EXTINF:0 group-title="Матч", Матч! [04]
-http://37.193.134.225:81/udp/239.1.15.16:1234
-#EXTINF:0 group-title="Матч", Матч! [05]
-http://flu.ttk.mx:9090/MatchTV/index.m3u8
-#EXTINF:0 group-title="Матч", Матч! [06]
-http://80.89.192.109/239.201.90.3/stream.m3u8
-#EXTINF:0 group-title="Матч", Матч! [07]
-http://cdn.nexttvnet.ru/hlsl/10/Match_TV/index.m3u8
-#EXTINF:0 group-title="Матч", Матч! [08]
+#EXTINF:0 group-title="Матч", Матч! [02]
 https://bl.uma.media/live/133529/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
 
 #EXTINF:0 group-title="МатчАрена", Матч! Арена [01]
 https://95-213-172-213.livesports24.online/rumatcharena.m3u8
-#EXTINF:0 group-title="МатчАрена", Матч! Арена [03]
-http://94.230.240.12:8080/sport1/tracks-v1a1/index.m3u8
-#EXTINF:0 group-title="МатчАрена", Матч! Арена [04]
+#EXTINF:0 group-title="МатчАрена", Матч! Арена [02]
 http://185.74.7.220:8080/arena/tracks-v1a1/index.m3u8
-#EXTINF:0 group-title="МатчАрена", Матч! Арена [05]
+#EXTINF:0 group-title="МатчАрена", Матч! Арена [03]
 https://s4.idata.uz/arena/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="МатчАрена", Матч! Арена HD [06]
-http://94.232.127.13/z3/matcharenahd/stream.m3u8
 
 #EXTINF:0 group-title="МатчИгра", Матч! Игра [01]
 https://95-213-172-213.livesports24.online/migra.m3u8
 #EXTINF:0 group-title="МатчИгра", Матч! Игра [02]
-http://31.210.208.168:8080/match_igra/tracks-v1a1/index.m3u8
-#EXTINF:0 group-title="МатчИгра", Матч! Игра [03]
 https://s1.idata.uz/stch_temp19/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="МатчИгра", Матч! Игра [04]
-http://94.230.240.12:8080/sport2/tracks-v1a1/index.m3u8
-#EXTINF:0 group-title="МатчИгра", Матч! Игра HD [05]
-http://94.156.59.233:8899/udp/224.2.2.26:1234
 
-#EXTINF:0 group-title="МатчСтрана", Матч! Страна [05]
-https://95-213-172-213.livesports24.online/mnashsport.m3u8
-#EXTINF:0 group-title="МатчСтрана", Матч! Страна [06]
-http://31.210.208.168:8080/match_nashsport/index.m3u8
 #EXTINF:0 group-title="МатчСтрана", Матч! Страна [01]
-http://94.230.240.12:8080/sportplus/tracks-v1a1/index.m3u8
+https://95-213-172-213.livesports24.online/mnashsport.m3u8
 
-#EXTINF:0 group-title="МатчПланета", Матч! Планета [03]
+#EXTINF:0 group-title="МатчПланета", Матч! Планета [01]
 https://95-213-172-213.livesports24.online/matchplanetarus.m3u8
 
 #EXTINF:0 group-title="Беларусь5", БЕЛАРУСЬ 5 HD [01]
@@ -91,31 +52,11 @@ http://86.57.174.73:14000/bel5
 https://95-213-172-213.livesports24.online/eurosport1ru.m3u8
 #EXTINF:0 group-title="Eurosport1", EUROSPORT 1 [02]
 https://s1.idata.uz/stch_temp21/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Eurosport1", EUROSPORT 1 [03]
-http://176.51.73.63:1234/udp/233.7.70.13:5000
-#EXTINF:0 group-title="Eurosport1", EUROSPORT 1 [04]
-http://176.51.95.192:1234/udp/233.7.70.13:5000
-#EXTINF:0 group-title="Eurosport1", EUROSPORT 1 HD [05]
-http://94.232.127.13/z3/eurosport1hd/stream.m3u8
-#EXTINF:0 group-title="Eurosport1", EUROSPORT 1 HD [06]
-http://37.193.231.136:81/udp/239.1.11.6:1234
-#EXTINF:0 group-title="Eurosport1", EUROSPORT 1 GCN [07]
-http://edge04.beetv.kz/btv/SWM/Eurosport/Eurosport_576p_2000kbps.m3u8
-#EXTINF:0 group-title="Eurosport1", EUROSPORT 1 GCN HD [08]
-https://hls1.sweet.tv/stream/dxijidrbkimic4jcpe6qguvjjrhdbp9vk3sgd9hbgijdkvfvmj6nsxw7jzcspbsc279zex2295nuimzfjn5qzmx2dgrpimtxygvhuejsfk7q9anthm2m7na=.m3u8
 
 #EXTINF:0 group-title="Eurosport2", EUROSPORT 2 [01]
 https://95-213-172-213.livesports24.online/ruseurosport2.m3u8
 #EXTINF:0 group-title="Eurosport2", EUROSPORT 2 [02]
-http://176.51.73.63:1234/udp/233.7.70.14:5000
-#EXTINF:0 group-title="Eurosport2", EUROSPORT 2 [03]
-http://176.51.95.192:1234/udp/233.7.70.14:5000
-#EXTINF:0 group-title="Eurosport2", EUROSPORT 2 [04]
-http://37.193.231.136:81/udp/239.1.12.4:1234
-#EXTINF:0 group-title="Eurosport2", EUROSPORT 2 HD [05]
-http://94.232.127.13/z3/eurosport2hd/stream.m3u8
-#EXTINF:0 group-title="Eurosport2", EUROSPORT 2 HD [06]
-https://hls1.sweet.tv/stream/femuhbup8hivhqv2xqwp29j4s9wpe9s2swysuhfrmxnhx9qp7ez38cudrpdq73r4a4a2mmi7k3jun8q6vf42mbnva29zbgwhf4csq8gshjyffe2psqv3vjnn.m3u8
+http://46.34.209.243/btv/SWM/Eurosport2/Eurosport2_576p_2000kbps.m3u8
 
 #EXTINF:0 group-title="SetantaSports1", SETANTA SPORTS 1 HD [01]
 https://95-213-172-213.livesports24.online/rusetantaeurasia.m3u8 
@@ -123,19 +64,8 @@ https://95-213-172-213.livesports24.online/rusetantaeurasia.m3u8
 #EXTINF:0 group-title="SetantaSports2", SETANTA SPORTS 2 HD [01]
 https://95-213-172-213.livesports24.online/setantaplusru.m3u8
 
-#EXTINF:0 group-title="SetantaSportsPlus", SETANTA SPORTS+ [01]
-http://195.158.29.129/live_360/live.stream+_360p.m3u8
-
 #EXTINF:0 group-title="SetantaSportsUA", SETANTA SPORTS UA HD [01]
 https://95-213-172-213.livesports24.online/setantaukraine.m3u8
-#EXTINF:0 group-title="SetantaSportsUA", SETANTA SPORTS UA HD [02]
-https://hls1.sweet.tv/stream/ryakahp4hk44zgx7quwhpyb6xw4sjfun6uftj8vmfecaacq75wf96swthxpeqnhiyf84p5e9b682xz4352w4cq44ytndtzfvg8mg2vyckwwxsa8spdrrg===.m3u8
-
-#EXTINF:0 group-title="SetantaSportsPlusUA", SETANTA SPORTS+ UA [01]
-https://hls1.sweet.tv/stream/mk2fa5nmi77thdhie3sy9uq59dqipuepkkske9buk699czk725kwxtx5s52z6z3ddei3pksmewd6y5uyuuzvmuki5iup89wy5zg6hdn9hjxjmax6wzxs====.m3u8
-
-#EXTINF:0 group-title="ViasatSport", VIASAT Sport [01]
-http://109.200.130.124:7000/play/a009
 
 #EXTINF:0 group-title="Sport1UA", Sport 1 UA [01]
 https://95-213-172-213.livesports24.online/sport1ua.m3u8
@@ -148,9 +78,6 @@ https://95-213-172-213.livesports24.online/football3ua.m3u8
 
 #EXTINF:0 group-title="ФутболRU", Футбол RU [01]
 https://95-213-172-213.livesports24.online/footballrus.m3u8
-
-#EXTINF:0 group-title="TeleSport", TeleSport [01]
-https://cdn1-2.tele-sport.ru/abr/line2/live/line2_1080p/chunks.m3u8
 
 #EXTINF:0 group-title="Старт", Старт HD [01]
 http://strm.yandex.ru/kal/start/start0_169_1080p.json/index-v1-a1.m3u8
