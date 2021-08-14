@@ -1,5 +1,15 @@
 #EXTM3U
 
+#EXTINF:0 group-title="Первый", Первый канал HD [01]
+http://185.97.150.19:8082/228
+#EXTINF:0 group-title="Первый", Первый канал [02]
+http://31.128.159.41:8080/perviykanal/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 group-title="Россия1", Россия 1 HD [01]
+http://radio-live-mg.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
+#EXTINF:0 group-title="Россия1", Россия 1 [02]
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_3.m3u8
+
 #EXTINF:0 group-title="Беларусь5", БЕЛАРУСЬ 5 HD [01]
 https://95-213-172-213.livesports24.online/belarusss5.m3u8
 #EXTINF:0 group-title="Беларусь5", БЕЛАРУСЬ 5 HD [02]
@@ -40,19 +50,6 @@ https://95-213-172-213.livesports24.online/matchplanetarus.m3u8
 #EXTINF:0 group-title="МатчПланета", Матч! Планета [02]
 http://37.17.12.119:8907/play/a00k
 
-#EXTINF:0 group-title="Беларусь2", БЕЛАРУСЬ 2 HD [01]
-http://86.57.174.73:14000/bel2
-
-#EXTINF:0 group-title="Первый", Первый HD [01]
-http://185.97.150.19:8082/228
-#EXTINF:0 group-title="Первый", Первый [02]
-http://31.128.159.41:8080/perviykanal/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 group-title="Россия1", Россия 1 HD [01]
-http://radio-live-mg.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
-#EXTINF:0 group-title="Россия1", Россия 1 HD [02]
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_3.m3u8
-
 #EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [01]
 https://95-213-172-213.livesports24.online/ntvmatchfoot1.m3u8
 #EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [02]
@@ -91,9 +88,6 @@ https://95-213-172-213.livesports24.online/ruseurosport2.m3u8
 #EXTINF:0 group-title="Eurosport2", EUROSPORT 2 [04]
 http://46.34.209.243/btv/SWM/Eurosport2/Eurosport2_576p_2000kbps.m3u8
 
-#EXTINF:0 group-title="ViasataSport", VIASAT SPORT HD [01]
-http://185.97.150.19:8082/979
-
 #EXTINF:0 group-title="SetantaSports1", SETANTA SPORTS 1 HD [01]
 https://95-213-172-213.livesports24.online/rusetantaeurasia.m3u8 
 
@@ -102,6 +96,9 @@ https://95-213-172-213.livesports24.online/setantaplusru.m3u8
 
 #EXTINF:0 group-title="SetantaSportsUA", SETANTA SPORTS UA HD [01]
 https://95-213-172-213.livesports24.online/setantaukraine.m3u8
+
+#EXTINF:0 group-title="ViasatSport", VIASAT SPORT HD [01]
+http://185.97.150.19:8082/979
 
 #EXTINF:0 group-title="Sport1UA", Sport 1 UA [01]
 https://95-213-172-213.livesports24.online/sport1ua.m3u8
@@ -112,7 +109,7 @@ https://95-213-172-213.livesports24.online/fooootball2.m3u8
 #EXTINF:0 group-title="Футбол3UA", Футбол 3 UA [01]
 https://95-213-172-213.livesports24.online/football3ua.m3u8
 
-#EXTINF:0 group-title="ФутболRU", Футбол RU [01]
+#EXTINF:0 group-title="ФутболRU", Футбол Россия [01]
 https://95-213-172-213.livesports24.online/footballrus.m3u8
 
 #EXTINF:0 group-title="Старт", Старт HD [01]
