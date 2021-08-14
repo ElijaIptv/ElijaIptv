@@ -1,11 +1,11 @@
 #EXTM3U
 
-#EXTINF:0 group-title="Первый", Первый канал HD [01]
+#EXTINF:0 group-title="Первый", Первый канал [01]
 http://185.97.150.19:8082/228
 #EXTINF:0 group-title="Первый", Первый канал [02]
 http://31.128.159.41:8080/perviykanal/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 group-title="Россия1", Россия 1 HD [01]
+#EXTINF:0 group-title="Россия1", Россия 1 [01]
 http://radio-live-mg.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
 #EXTINF:0 group-title="Россия1", Россия 1 [02]
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_3.m3u8
