@@ -97,7 +97,7 @@ http://185.97.150.19:8082/979
 #EXTINF:0 group-title="SetantaSports1", SETANTA SPORTS 1 HD [01]
 https://95-213-172-213.livesports24.online/rusetantaeurasia.m3u8 
 
-#EXTINF:0 group-title="SetantaSports2", SETANTA SPORTS 2 HD [01]
+#EXTINF:0 group-title="SetantaSports+", SETANTA SPORTS+ HD [01]
 https://95-213-172-213.livesports24.online/setantaplusru.m3u8
 
 #EXTINF:0 group-title="SetantaSportsUA", SETANTA SPORTS UA HD [01]
