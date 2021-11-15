@@ -754,7 +754,7 @@ http://46.149.58.4:4000/play/a00h/index.m3u8
 #EXTINF:-1 group-title="Украина",2+2
 http://185.185.253.125:8000/play/a00d/index.m3u8
 #EXTINF:-1 group-title="Украина",2+2
-https://95-213-224-181.livesports24.online/ua2plus2.m3u8
+https://5-61-37-241.livesports24.online/ua2plus2.m3u8
 #EXTINF:-1 group-title="Украина",AVERS
 https://avers.pp.ua/hls/efir.m3u8?token=gelow74
 #EXTINF:-1 group-title="Украина",ОЦЕ HD
@@ -822,7 +822,7 @@ https://stream.uagit.tv/gittv.m3u8?token=gelow74
 #EXTINF:-1 group-title="Спорт",Eurosport 1
 http://46.34.209.243/btv/SWM/Eurosport/Eurosport_576p_2000kbps.m3u8?token=gelow74
 #EXTINF:-1 group-title="Спорт",Eurosport 1
-https://95-213-224-181.livesports24.online/eurosport1ru.m3u8
+https://5-61-37-241.livesports24.online/eurosport1ru.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 1
 http://31.131.191.7:8000/play/a03y
 #EXTINF:-1 group-title="Спорт",Eurosport 1
@@ -832,7 +832,7 @@ http://185.228.135.48:8080/tv_eurosport_1_hd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 2
 http://46.34.209.243/btv/SWM/Eurosport2/Eurosport2_576p_2000kbps.m3u8?token=gelow74
 #EXTINF:-1 group-title="Спорт",Eurosport 2
-https://95-213-224-181.livesports24.online/ruseurosport2.m3u8
+https://5-61-37-241.livesports24.online/ruseurosport2.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 2 HD
 http://185.228.135.48:8080/tv_eurosport_2_hd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 4K HD
@@ -864,11 +864,11 @@ http://shingaliptv.ru.com/MATCH_ARENA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Арена
 http://185.129.1.242:80/matcharena/mpegts
 #EXTINF:-1 group-title="Спорт",Матч! Арена
-https://95-213-224-181.livesports24.online/rumatcharena.m3u8
+https://5-61-37-241.livesports24.online/rumatcharena.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Арена
 http://194.246.92.128:1240
 #EXTINF:-1 group-title="Спорт",Матч! Боец
-https://95-213-224-181.livesports24.online/matchboetsru.m3u8
+https://5-61-37-241.livesports24.online/matchboetsru.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Боец
 http://185.228.135.48:8080/tv_match_boets_sd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Боец
@@ -884,13 +884,13 @@ http://185.129.1.242:80/matchiqrahd/mpegts
 #EXTINF:-1 group-title="Спорт",Матч! Игра
 http://31.131.191.7:8000/play/a03a
 #EXTINF:-1 group-title="Спорт",Матч! Игра
-https://95-213-224-181.livesports24.online/migra.m3u8
+https://5-61-37-241.livesports24.online/migra.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Игра
 http://178.65.85.232:82/play/a02u
 #EXTINF:-1 group-title="Спорт",Матч! Страна
 https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Страна
-https://95-213-224-181.livesports24.online/mnashsport.m3u8
+https://5-61-37-241.livesports24.online/mnashsport.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Страна
 http://185.228.135.48:8080/tv_match_strana_sd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Страна
@@ -902,13 +902,13 @@ http://188.232.102.173:9981/stream/channelid/1261617792
 #EXTINF:-1 group-title="Спорт",Матч!Премьер HD
 https://okkotv-live.cdnvideo.ru/channel/Nash_Football.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Планета
-https://95-213-224-181.livesports24.online/matchplanetarus.m3u8\
+https://5-61-37-241.livesports24.online/matchplanetarus.m3u8\
 #EXTINF:-1 group-title="Спорт",Мир баскетбола HD
 http://46.174.83.66/MirBasketbola/mpegts
 #EXTINF:-1 group-title="Спорт",Беларусь 5
 http://86.57.174.73:14000/bel5?token=gelow74
 #EXTINF:-1 group-title="Спорт",Беларусь 5 HD
-https://95-213-224-181.livesports24.online/belarusss5.m3u8
+https://5-61-37-241.livesports24.online/belarusss5.m3u8
 #EXTINF:-1 group-title="Спорт",Хоккейный HD
 http://31.128.159.41:8080/hokkeyniyhd/index.m3u8
 #EXTINF:-1 group-title="Спорт",INSPORT TV
@@ -922,7 +922,7 @@ http://185.228.135.48:8080/tv_viasat_sport_hd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спорт",Телеканал Футбол
 http://176.197.77.101:81/udp/239.255.42.163:1234
 #EXTINF:-1 group-title="Спорт",Телеканал Футбол
-https://95-213-224-181.livesports24.online/footballrus.m3u8
+https://5-61-37-241.livesports24.online/footballrus.m3u8
 #EXTINF:-1 group-title="Спорт",Телеканал Футбол
 http://185.129.1.242:80/futbol/mpegts
 #EXTINF:-1 group-title="Спорт",Телеканал Футбол HD
@@ -974,7 +974,7 @@ http://178.124.152.238:8088/khl
 #EXTINF:-1 group-title="Спорт",КХЛ ТВ
 http://185.228.135.48:8080/tv_telekanal_khl_sd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спорт",КХЛ ТВ HD
-https://95-213-224-181.livesports24.online/khlhdru.m3u8
+https://5-61-37-241.livesports24.online/khlhdru.m3u8
 #EXTINF:-1 group-title="Спорт",Точка отрыва
 http://46.34.209.243/btv/SWM/Tochka_Otriva/Tochka_Otriva.m3u8?token=gelow74
 #EXTINF:-1 group-title="Спорт",Точка отрыва
@@ -998,27 +998,27 @@ https://v2.catcast.tv/content/270/index.m3u8?token=gelow74
 #EXTINF:-1 group-title="Спорт",Конный Мир
 http://cdn-01.bonus-tv.ru/konnyimir/tracks-v1a1/mono.m3u8?token=gelow74
 #EXTINF:-1 group-title="Спорт",Setanta Sports+ HD
-https://95-213-224-181.livesports24.online/rusetantaeurasia.m3u8
+https://5-61-37-241.livesports24.online/rusetantaeurasia.m3u8
 #EXTINF:-1 group-title="Спорт",Setanta Sports 2 HD
-https://95-213-224-181.livesports24.online/setantaplusru.m3u8
+https://5-61-37-241.livesports24.online/setantaplusru.m3u8
 #EXTINF:-1 group-title="Спорт",Setanta Ukraine HD
-https://95-213-224-181.livesports24.online/setantaukraine.m3u8?token=gelow74
+https://5-61-37-241.livesports24.online/setantaukraine.m3u8?token=gelow74
 #EXTINF:-1 group-title="Спорт",Футбол 1 Украина
-https://95-213-224-181.livesports24.online/uafootballua1.m3u8?924798156404a
+https://5-61-37-241.livesports24.online/uafootballua1.m3u8?925535785472a
 #EXTINF:-1 group-title="Спорт",Футбол 1 Украина
 http://185.228.135.48:8080/tv_setanta_sport_ua_hd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спорт",Футбол 2 Украина
-https://95-213-224-181.livesports24.online/fooootball2.m3u8
+https://5-61-37-241.livesports24.online/fooootball2.m3u8
 #EXTINF:-1 group-title="Спорт",Футбол 2 Украина
 http://194.246.92.128:8008/play/a164/index.m3u8
 #EXTINF:-1 group-title="Спорт",Футбол 3 Украина
-https://95-213-224-181.livesports24.online/football3ua.m3u8?924798156404a
+https://5-61-37-241.livesports24.online/football3ua.m3u8?925535785472a
 #EXTINF:-1 group-title="Спорт",Футбол 2 Украина HD
-https://95-213-224-181.livesports24.online/fooootball2.m3u8
+https://5-61-37-241.livesports24.online/fooootball2.m3u8
 #EXTINF:-1 group-title="Спорт",Футбол 3 Украина HD
-https://95-213-224-181.livesports24.online/football3ua.m3u8?924798156404a
+https://5-61-37-241.livesports24.online/football3ua.m3u8?925535785472a
 #EXTINF:-1 group-title="Спорт",Sport 1 Украина
-https://95-213-224-181.livesports24.online/sport1ua.m3u8?924798156404a
+https://5-61-37-241.livesports24.online/sport1ua.m3u8?925535785472a
 #EXTINF:-1 group-title="Спорт",Sport 1 Baltic
 http://185.185.253.125:8000/play/a024/index.m3u8
 #EXTINF:-1 group-title="Спорт",Sport 2 Baltic
@@ -1082,9 +1082,9 @@ http://stream.tvtap.live:8081/live/de-sky1.stream/chunks.m3u8
 #EXTINF:-1 group-title="Спорт",Turkmenistan Sport HD
 https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8?token=gelow74
 #EXTINF:-1 group-title="Спорт",Red Bull TV HD
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?924798156404.m3u8
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?925535785472.m3u8
 #EXTINF:-1 group-title="Спорт",Red Bull TV UHD
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?924798156404.m3u8
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?925535785472.m3u8
 #EXTINF:-1 group-title="Спорт",Arryadia Sport
 http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8?token=gelow74
 #EXTINF:-1 group-title="Спорт",Dubai Racing HD
@@ -1158,7 +1158,7 @@ http://199.127.62.234:2082/streams/352_.m3u8
 #EXTINF:-1 group-title="Спорт",Sky Sports F1 HD
 http://199.127.62.234:2082/streams/335_.m3u8
 #EXTINF:-1 group-title="Компьютерные игры",Mobcrush HD
-https://ott.mobcrush.com/hls/0/ott.m3u8?924798156404.m3u8?token=gelow74
+https://ott.mobcrush.com/hls/0/ott.m3u8?925535785472.m3u8?token=gelow74
 #EXTINF:-1 group-title="Компьютерные игры",Game Show
 http://176.197.77.101:81/udp/239.255.42.200:1234
 #EXTINF:-1 group-title="Компьютерные игры",Game Show
