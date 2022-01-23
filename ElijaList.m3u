@@ -74,6 +74,8 @@ http://37.187.28.95:2022/matchplaneta/mpegts
 
 #EXTINF:0 group-title="МатчБоец", Матч! Боец [01]
 http://95.141.128.163:8004/play/a0oc?token=gelow74
+#EXTINF:0 group-title="МатчБоец", Матч! Боец [02]
+http://46.181.193.122:81/udp/239.255.42.61:1234?token=gelow74
 
 #EXTINF:0 group-title="Eurosport1", EUROSPORT 1 [01]
 https://95-213-172-213.livesports24.online/eurosport1ru.m3u8
