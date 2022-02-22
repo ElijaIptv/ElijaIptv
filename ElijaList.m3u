@@ -1,16 +1,14 @@
 #EXTM3U
 
-#EXTINF:0 group-title="Беларусь5", БЕЛАРУСЬ 5 HD [01]
-http://srv-6-streaming.iptvin.ru:34768/bel5_hd/video.m3u8?token=fc0aea3f6a0b49fce66268b30c6968f5979b72fe-5535786420-1645125791-1645039391
-#EXTINF:0 group-title="Беларусь5", БЕЛАРУСЬ 5 HD [02]
-http://srv-5-streaming.iptvin.ru:34768/bel5sd/video.m3u8?token=1a75bcdca31dd50958438e8d6df347a842855505-5535786420-1645125791-1645039391
-#EXTINF:0 group-title="Беларусь5", БЕЛАРУСЬ 5 HD [03]
-http://86.57.174.73:14000/bel5
+#EXTINF:0 group-title="Беларусь5", БЕЛАРУСЬ 5 [01]
+http://srv-6-streaming.iptvin.ru:34768/bel5_hd/video.m3u8?token=1c29ff927568a57dc8c62a6974c251f0a36f4a8e-5535786420-1645639907-1645553507
+#EXTINF:0 group-title="Беларусь5", БЕЛАРУСЬ 5 [02]
+http://srv-5-streaming.iptvin.ru:34768/bel5sd/video.m3u8?token=658fc71da0c5387457f543a238ddde232a3bb288-5535786420-1645639907-1645553507
 
 #EXTINF:0 group-title="Матч", Матч! [01]
-http://srv-2-streaming.iptvin.ru:8080/matchhd/video.m3u8?token=66434b9158a4cc7f364e05bf6b82a002e1f1eb9d-5535786420-1645125791-1645039391
+http://srv-2-streaming.iptvin.ru:8080/matchhd/video.m3u8?token=485701e970e42b8d19f04d3eb9993e51b98e930a-5535786420-1645639907-1645553507
 #EXTINF:0 group-title="Матч", Матч! [02]
-http://srv-8-streaming.iptvin.ru:9013/match_fhd/video.m3u8?token=808e2fc4a2971df8afd049ac99a6fe13be17e104-5535786420-1645125791-1645039391
+http://srv-8-streaming.iptvin.ru:9013/match_fhd/video.m3u8?token=5de7fb06c02d5b49dc922811cc0f914a32a8917b-5535786420-1645639907-1645553507
 #EXTINF:0 group-title="Матч", Матч! [03]
 https://95-213-172-213.livesports24.online/ooomatch.m3u8
 #EXTINF:0 group-title="Матч", Матч! [04]
@@ -21,42 +19,44 @@ https://bl.uma.media/live/133529/HLS/4614144_3,2883584_2,1153024_1/1613109268/2f
 https://bl.uma.media/live/133529/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
 
 #EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [01]
-http://srv-5-streaming.iptvin.ru:34768/football1_hd/video.m3u8?token=4e14d5195fdf85ddd44fd7ff3de38292f72c17b0-5535786420-1645125791-1645039391
+http://srv-5-streaming.iptvin.ru:34768/football1_hd/video.m3u8?token=b25a96136a8ce3c1f28541c8262b6002cb92c88c-5535786420-1645639907-1645553507
 #EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [02]
+http://srv-4-streaming.iptvin.ru:8080/football1_rus/video.m3u8?token=84b8ec142dbacd519a80fcb482fa68b7c7fe844f-5535786420-1645639907-1645553507
+#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [03]
 https://95-213-172-213.livesports24.online/ntvmatchfoot1.m3u8
 
 #EXTINF:0 group-title="МатчФутбол2", Матч! Футбол 2 [01]
-http://srv-6-streaming.iptvin.ru:34768/football2_hdr/video.m3u8?token=926a7dadb735dde1997d1907ea2c9b6b4d0d8f4a-5535786420-1645125791-1645039391
+http://srv-6-streaming.iptvin.ru:34768/football2_hdr/video.m3u8?token=d71bf933adedeb3c5fbf0ccacccc4a929122f0ab-5535786420-1645639907-1645553507
 #EXTINF:0 group-title="МатчФутбол2", Матч! Футбол 2 [02]
+http://srv-4-streaming.iptvin.ru:8080/football2_rus/video.m3u8?token=461fc69f2c9599d3b307317d7136d08b9a0a130b-5535786420-1645639907-1645553507
+#EXTINF:0 group-title="МатчФутбол2", Матч! Футбол 2 [03]
 https://95-213-172-213.livesports24.online/mfootball2rus.m3u8
 
 #EXTINF:0 group-title="МатчФутбол3", Матч! Футбол 3 [01]
-http://srv-5-streaming.iptvin.ru:34768/football3_hd/video.m3u8?token=67d8e2dd52385fcfcf6f922453398f4e628007d4-5535786420-1645125791-1645039391
+http://srv-5-streaming.iptvin.ru:34768/football3_hd/video.m3u8?token=b89277e2e1b9ef3e90f42a5aced0622e9a4972d5-5535786420-1645639907-1645553507
 #EXTINF:0 group-title="МатчФутбол3", Матч! Футбол 3 [02]
+http://srv-4-streaming.iptvin.ru:8080/football3_rus/video.m3u8?token=76599d214aa73009917b432bbf1859ef6ca26338-5535786420-1645639907-1645553507
+#EXTINF:0 group-title="МатчФутбол3", Матч! Футбол 3 [03]
 https://95-213-172-213.livesports24.online/rumatchf3.m3u8
 
 #EXTINF:0 group-title="МатчПремьер", Матч! Премьер [01]
-http://srv-3-streaming.iptvin.ru:8080/matchp/video.m3u8?token=d90748e8ab419cd10d9342aaec33d707abd49868-5535786420-1645125791-1645039391
+http://srv-3-streaming.iptvin.ru:8080/matchp/video.m3u8?token=608fcddecfda1a84b3fe5f986891c5de11197c08-5535786420-1645639907-1645553507
 #EXTINF:0 group-title="МатчПремьер", Матч! Премьер [02]
-http://srv-5-streaming.iptvin.ru:34768/match_p/video.m3u8?token=2d0c901ff33d6cb60c13a2ec7bd2f46ccc49cc72-5535786420-1645125791-1645039391
+http://srv-5-streaming.iptvin.ru:34768/match_p/video.m3u8?token=7bb4a5f8e012314f78d1e556d5d3edc64d150e92-5535786420-1645639907-1645553507
 #EXTINF:0 group-title="МатчПремьер", Матч! Премьер [03]
 https://95-213-172-213.livesports24.online/mpremierrus.m3u8
-#EXTINF:0 group-title="МатчПремьер", Матч! Премьер [04]
-http://37.187.28.95:2022/Matchpremyer/mpegts
 
 #EXTINF:0 group-title="МатчАрена", Матч! Арена [01]
-http://srv-9-streaming.iptvin.ru:9013/matcharenahd/video.m3u8?token=78b00ca81dd1600d98a68079ae86241cdaea608a-5535786420-1645125791-1645039391
+http://srv-9-streaming.iptvin.ru:9013/matcharenahd/video.m3u8?token=43f94ea9b9646a5d0d738ecddeb57b38ef185063-5535786420-1645639907-1645553507
 #EXTINF:0 group-title="МатчАрена", Матч! Арена [02]
-https://95-213-172-213.livesports24.online/rumatcharena.m3u8
+http://158.101.218.99:2134/channel/dcc081/index.m3u8?q=f34b3d2dc463990f4fd3e79b5c5fe4a5
 #EXTINF:0 group-title="МатчАрена", Матч! Арена [03]
-http://37.187.28.95:2022/matc_arena/mpegts
+https://95-213-172-213.livesports24.online/rumatcharena.m3u8
 
 #EXTINF:0 group-title="МатчИгра", Матч! Игра [01]
-http://srv-9-streaming.iptvin.ru:9013/matchgamehd/video.m3u8?token=e1d96124f91480e34d9e66ff092228cb20fec146-5535786420-1645125791-1645039391
+http://srv-9-streaming.iptvin.ru:9013/matchgamehd/video.m3u8?token=3075a6a218044c3cd7b01aaee28aa45656de061a-5535786420-1645639907-1645553507
 #EXTINF:0 group-title="МатчИгра", Матч! Игра [02
 https://95-213-172-213.livesports24.online/migra.m3u8
-#EXTINF:0 group-title="МатчИгра", Матч! Игра [03]
-http://37.187.28.95:2022/Matc_igra_hd/mpegts
 
 #EXTINF:0 group-title="МатчСтрана", Матч! Страна [01]
 https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
@@ -64,60 +64,58 @@ https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2f
 https://95-213-172-213.livesports24.online/mnashsport.m3u8
 
 #EXTINF:0 group-title="МатчПланета", Матч! Планета [01]
-http://srv-3-streaming.iptvin.ru:8080/MATCHPLANETA_HD/video.m3u8?token=c2f745a70a3f700e80e67ce51a17b073fd1a006d-5535786420-1645125791-1645039391
+http://srv-3-streaming.iptvin.ru:8080/MATCHPLANETA_HD/video.m3u8?token=16f0e50f603b05475dac56e8285fb7a3b8248484-5535786420-1645639907-1645553507
 #EXTINF:0 group-title="МатчПланета", Матч! Планета [02]
 https://95-213-172-213.livesports24.online/matchplanetarus.m3u8
-#EXTINF:0 group-title="МатчПланета", Матч! Планета [03]
-http://37.187.28.95:2022/matchplaneta/mpegts
 
 #EXTINF:0 group-title="Eurosport1", EUROSPORT 1 [01]
-http://srv-4-streaming.iptvin.ru:8080/eurosport1_hd/video.m3u8?token=375c7f4a4475593c0894e988c193783b5781ea8e-5535786420-1645125791-1645039391
+http://srv-4-streaming.iptvin.ru:8080/eurosport1_hd/video.m3u8?token=632d0f290f638251631bac9e078dba131aed16e5-5535786420-1645639907-1645553507
 #EXTINF:0 group-title="Eurosport1", EUROSPORT 1 [02]
 https://95-213-172-213.livesports24.online/eurosport1ru.m3u8
 
 #EXTINF:0 group-title="Eurosport1", EUROSPORT 1 CEE [01]
-http://srv-5-streaming.iptvin.ru:34768/eurosport1_hd_cee/tracks-v1a1/mono.m3u8?token=e1cf1ba1e4011f433eaa4cfe6e8d849cb0e7e770-5535786420-1645125791-1645039391
+http://srv-5-streaming.iptvin.ru:34768/eurosport1_hd_cee/tracks-v1a1/mono.m3u8?token=de05d56b63b752c9239ea26274bc7e1726b0047e-5535786420-1645639907-1645553507
 #EXTINF:0 group-title="Eurosport1", EUROSPORT 1 CEE [02]
-http://srv-5-streaming.iptvin.ru:34768/Eurosport1/video.m3u8?token=6f8f93b468f445d6e1a7c071404ee4ec18eb8d11-5535786420-1645125791-1645039391
+http://srv-5-streaming.iptvin.ru:34768/Eurosport1/video.m3u8?token=cf0f7af98da91ae31a5a7e935f527baa0f12d0e4-5535786420-1645639907-1645553507
 
 #EXTINF:0 group-title="Eurosport2", EUROSPORT 2 [01]
-http://srv-4-streaming.iptvin.ru:8080/eurosport2_hd/tracks-v1a1/mono.m3u8?token=a9e7b1e31ec1c6b9e2f33d916aeebada177a1c72-5535786420-1645125791-1645039391
+http://srv-4-streaming.iptvin.ru:8080/eurosport2_hd/tracks-v1a1/mono.m3u8?token=02c2f9cfb36f5e186e199166126feb375da96827-5535786420-1645639907-1645553507
 #EXTINF:0 group-title="Eurosport2", EUROSPORT 2 [02]
 https://95-213-172-213.livesports24.online/ruseurosport2.m3u8
 
 #EXTINF:0 group-title="Eurosport2", EUROSPORT 2 CEE [01]
-http://srv-5-streaming.iptvin.ru:34768/eurosport2_hd_cee/tracks-v1a1/mono.m3u8?token=5f3e16b9a87023ffe232ea681d6a9c09bbdcd6ae-5535786420-1645125791-1645039391
+http://srv-5-streaming.iptvin.ru:34768/eurosport2_hd_cee/tracks-v1a1/mono.m3u8?token=5b277e88e8eadad33062cf530c959be7b9908617-5535786420-1645639907-1645553507
 
 #EXTINF:0 group-title="Eurosport2", EUROSPORT GOLD [01]
-http://srv-3-streaming.iptvin.ru:8080/esportgold/video.m3u8?token=8287b53077a9b5ec8fefd9c7d3735b19f371b2e4-5535786420-1645125791-1645039391
+http://srv-3-streaming.iptvin.ru:8080/esportgold/video.m3u8?token=57bebf4c39164fe475535407c1d54f845cabeaf8-5535786420-1645639907-1645553507
 
 #EXTINF:0 group-title="SetantaSports1", SETANTA SPORTS 1 HD [01]
-http://srv-2-streaming.iptvin.ru:8080/satanta1ru/video.m3u8?token=0d841dc90b317e8534569dfa851062741923a30f-5535786420-1645125791-1645039391
+http://srv-2-streaming.iptvin.ru:8080/satanta1ru/video.m3u8?token=27b998efabef0665c22d83bde5d739f8a806ed99-5535786420-1645639907-1645553507
 #EXTINF:0 group-title="SetantaSports1", SETANTA SPORTS 1 HD [02]
 https://95-213-172-213.livesports24.online/rusetantaeurasia.m3u8 
 
 #EXTINF:0 group-title="SetantaSports2", SETANTA SPORTS 2 HD [01]
-http://srv-6-streaming.iptvin.ru:34768/setanta2ru/video.m3u8?token=f3cd1e38129d4d432ec30856a054ab3ca527b2ec-5535786420-1645125791-1645039391
+http://srv-6-streaming.iptvin.ru:34768/setanta2ru/video.m3u8?token=472d289f36eac8543e8c780ef043d064dc193556-5535786420-1645639907-1645553507
 #EXTINF:0 group-title="SetantaSports2", SETANTA SPORTS 2 HD [02]
 https://95-213-172-213.livesports24.online/setantaplusru.m3u8
 
 #EXTINF:0 group-title="SetantaSportsUA", SETANTA SPORTS UA HD [01]
-http://srv-4-streaming.iptvin.ru:8080/setantaua/index.m3u8?token=7e7149d54de89008914c86ddc06f8f7d06be4d2e-5535786420-1645125791-1645039391
+http://srv-4-streaming.iptvin.ru:8080/setantaua/index.m3u8?token=f84e5ed47b28ff4572834d26eab86918c1bbf9d5-5535786420-1645639907-1645553507
 #EXTINF:0 group-title="SetantaSportsUA", SETANTA SPORTS UA HD [02]
 https://95-213-172-213.livesports24.online/setantaukraine.m3u8
 
 #EXTINF:0 group-title="SetantaSports+UA", SETANTA SPORTS+ UA HD [01]
-http://srv-4-streaming.iptvin.ru:8080/setantauaplus/index.m3u8?token=57f3250d8724a28aefe1290ca774b0acf7526fa4-5535786420-1645125791-1645039391
+http://srv-4-streaming.iptvin.ru:8080/setantauaplus/index.m3u8?token=f1518c02a7b0851b722998a5048b4e8917934b47-5535786420-1645639907-1645553507
 #EXTINF:0 group-title="SetantaSports+UA", SETANTA SPORTS+ UA HD [02]
 https://95-213-224-179.livesports24.online/setantaplusukr.m3u8
 
 #EXTINF:0 group-title="SetantaSportsKZ", SETANTA SPORTS KZ [01]
-http://srv-4-streaming.iptvin.ru:8080/setanta_qas/video.m3u8?token=c903ea8f33b38f8f67a2ba7af6c9ab69cf39117b-5535786420-1645125791-1645039391
+http://srv-4-streaming.iptvin.ru:8080/setanta_qas/video.m3u8?token=e7cd3da9e1a955ad5fe1e639cfa13cd151a4c422-5535786420-1645639907-1645553507
 #EXTINF:0 group-title="SetantaSportsKZ", SETANTA SPORTS KZ [02]
 http://195.245.97.133:8800/play/SetantaKAZ/index.m3u8
 
 #EXTINF:0 group-title="ViasatSport", VIASAT SPORT [01]
-http://srv-5-streaming.iptvin.ru:34768/VIASATSPORT/video.m3u8?token=600199e9d89d7704ba7769ea0c91560d319c2243-5535786420-1645125791-1645039391
+http://srv-5-streaming.iptvin.ru:34768/VIASATSPORT/video.m3u8?token=7baa2bc757eae807291ae77abbc8bc28d990f64f-5535786420-1645639907-1645553507
 #EXTINF:0 group-title="ViasatSport", VIASAT SPORT [02]
 http://195.245.97.133:8800/play/Viasat_Sport/index.m3u8
 #EXTINF:0 group-title="ViasatSport", VIASAT SPORT [03]
@@ -130,24 +128,24 @@ http://109.200.130.124:15500/viasatsport
 #EXTINF:0 group-title="Qazsport", Qazsport HD [01]
 http://92.46.127.146:8080/qazsport/index.m3u8
 
-#EXTINF:0 group-title="Sport1UA", Sport 1 UA [01]
-http://srv-2-streaming.iptvin.ru:8080/football1hd/video.m3u8?token=22199505dbd7814366690b07a7e915b01ba4ab9c-5535786420-1645125791-1645039391
-#EXTINF:0 group-title="Sport1UA", Sport 1 UA [02]
-http://srv-5-streaming.iptvin.ru:34768/football1/video.m3u8?token=0296705b10509e49f846b96268f82fa55a076a90-5535786420-1645125791-1645039391
-#EXTINF:0 group-title="Sport1UA", Sport 1 UA [03]
+#EXTINF:0 group-title="Футбол1UA", Футбол 1 UA [01]
+http://srv-2-streaming.iptvin.ru:8080/football1hd/video.m3u8?token=1ed4b32fc70075b795fe73e046f5fa5e0d0b3af9-5535786420-1645639907-1645553507
+#EXTINF:0 group-title="Футбол1UA", Футбол 1 UA [02]
+http://srv-5-streaming.iptvin.ru:34768/football1/video.m3u8?token=f70a22d9639792c0b6b9fb6e93dab2c3feac24b8-5535786420-1645639907-1645553507
+#EXTINF:0 group-title="Футбол1UA", Футбол 1 UA [03]
 https://95-213-172-213.livesports24.online/sport1ua.m3u8
 
 #EXTINF:0 group-title="Футбол2UA", Футбол 2 UA [01]
-http://srv-5-streaming.iptvin.ru:34768/football2hd/video.m3u8?token=8debb3a434783a0f2ff119d93448e0e846506925-5535786420-1645125791-1645039391
+http://srv-5-streaming.iptvin.ru:34768/football2hd/video.m3u8?token=6898fe2caa0d4e102a246c21118c65c9087e830a-5535786420-1645639907-1645553507
 #EXTINF:0 group-title="Футбол2UA", Футбол 2 UA [02]
-http://srv-5-streaming.iptvin.ru:34768/football2/video.m3u8?token=587dc8a715673263d9a5b5e6c3e5ee5865d26b6d-5535786420-1645125791-1645039391
+http://srv-5-streaming.iptvin.ru:34768/football2/video.m3u8?token=9d4e38127f3cf4c2003fa56c14edeaddac8a5a39-5535786420-1645639907-1645553507
 #EXTINF:0 group-title="Футбол2UA", Футбол 2 UA [03]
 https://95-213-172-213.livesports24.online/fooootball2.m3u8
 
 #EXTINF:0 group-title="Футбол3UA", Футбол 3 UA [01]
-http://srv-4-streaming.iptvin.ru:8080/football3hd/video.m3u8?token=cb8d0c2299142df943593f4959d66da11e46c13f-5535786420-1645125791-1645039391
+http://srv-4-streaming.iptvin.ru:8080/football3hd/video.m3u8?token=63ada03efaee51c1a65593c2ad24b879408a61ef-5535786420-1645639907-1645553507
 #EXTINF:0 group-title="Футбол3UA", Футбол 3 UA [02]
-http://srv-5-streaming.iptvin.ru:34768/Football3/video.m3u8?token=a65c841cec342ca9b96d99b4185cc63e250df133-5535786420-1645125791-1645039391
+http://srv-5-streaming.iptvin.ru:34768/Football3/video.m3u8?token=c39292e9b1f315bf2be6713cc4d4b7fa376542d1-5535786420-1645639907-1645553507
 #EXTINF:0 group-title="Футбол3UA", Футбол 3 UA [03]
 https://95-213-172-213.livesports24.online/football3ua.m3u8
 
@@ -162,6 +160,6 @@ http://strm.yandex.ru/kal/start/start0_169_720p.json/index-v1-a1.m3u8
 #EXTINF:0 group-title="UFC", UFC ТВ [01]
 
 #EXTINF:0 group-title="МатчБоец", Матч! Боец [01]
-http://srv-6-streaming.iptvin.ru:34768/boec_hd/video.m3u8?token=6029ee528e4b95f616ce09a455b3ba037567e5d6-5535786420-1645125791-1645039391
+http://srv-6-streaming.iptvin.ru:34768/boec_hd/video.m3u8?token=1e24d4d5a5771a865aef8cc0f8f99844f1a99c3a-5535786420-1645639907-1645553507
 #EXTINF:0 group-title="МатчБоец", Матч! Боец [02]
-http://srv-5-streaming.iptvin.ru:34768/boec/video.m3u8?token=2b2801a37706e0fe6480d77c1c94c6a7a620d8ef-5535786420-1645125791-1645039391
+http://srv-5-streaming.iptvin.ru:34768/boec/video.m3u8?token=629e9f136f6d306db29fb1d42bc3610e4ce8bbfd-5535786420-1645639907-1645553507
