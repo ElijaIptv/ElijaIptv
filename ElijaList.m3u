@@ -1,14 +1,14 @@
 #EXTM3U
 
 #EXTINF:0 group-title="Беларусь5", БЕЛАРУСЬ 5 [01]
-http://srv-6-streaming.iptvin.ru:34768/bel5_hd/video.m3u8?token=1c29ff927568a57dc8c62a6974c251f0a36f4a8e-5535786420-1645639907-1645553507
+http://srv-6-streaming.iptvin.ru:34768/bel5_hd/video.m3u8?token=69cedbdede8de06c226435eadab8db404c472a98-5535786420-1645741967-1645655567
 #EXTINF:0 group-title="Беларусь5", БЕЛАРУСЬ 5 [02]
-http://srv-5-streaming.iptvin.ru:34768/bel5sd/video.m3u8?token=658fc71da0c5387457f543a238ddde232a3bb288-5535786420-1645639907-1645553507
+http://srv-5-streaming.iptvin.ru:34768/bel5sd/video.m3u8?token=690ec1f977391197019155100a8927f356b601ff-5535786420-1645741967-1645655567
 
 #EXTINF:0 group-title="Матч", Матч! [01]
-http://srv-2-streaming.iptvin.ru:8080/matchhd/video.m3u8?token=485701e970e42b8d19f04d3eb9993e51b98e930a-5535786420-1645639907-1645553507
+http://srv-2-streaming.iptvin.ru:8080/matchhd/video.m3u8?token=459e85dc29e92beef8c12b64f9d55fd8072ef14b-5535786420-1645741967-1645655567
 #EXTINF:0 group-title="Матч", Матч! [02]
-http://srv-8-streaming.iptvin.ru:9013/match_fhd/video.m3u8?token=5de7fb06c02d5b49dc922811cc0f914a32a8917b-5535786420-1645639907-1645553507
+http://srv-8-streaming.iptvin.ru:9013/match_fhd/video.m3u8?token=48f159bd06969f5909c60756f2f50194ecaaea04-5535786420-1645741967-1645655567
 #EXTINF:0 group-title="Матч", Матч! [03]
 https://95-213-172-213.livesports24.online/ooomatch.m3u8
 #EXTINF:0 group-title="Матч", Матч! [04]
@@ -19,30 +19,30 @@ https://bl.uma.media/live/133529/HLS/4614144_3,2883584_2,1153024_1/1613109268/2f
 https://bl.uma.media/live/133529/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
 
 #EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [01]
-http://srv-5-streaming.iptvin.ru:34768/football1_hd/video.m3u8?token=b25a96136a8ce3c1f28541c8262b6002cb92c88c-5535786420-1645639907-1645553507
+http://srv-5-streaming.iptvin.ru:34768/football1_hd/video.m3u8?token=c273ecd9ff80df793b5b32f59a98da7f6329cadc-5535786420-1645741967-1645655567
 #EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [02]
-http://srv-4-streaming.iptvin.ru:8080/football1_rus/video.m3u8?token=84b8ec142dbacd519a80fcb482fa68b7c7fe844f-5535786420-1645639907-1645553507
+http://srv-4-streaming.iptvin.ru:8080/football1_rus/video.m3u8?token=da898f5538fe65df72a3ad8352d5cbb8ceeb2b49-5535786420-1645741967-1645655567
 #EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [03]
 https://95-213-172-213.livesports24.online/ntvmatchfoot1.m3u8
 
 #EXTINF:0 group-title="МатчФутбол2", Матч! Футбол 2 [01]
-http://srv-6-streaming.iptvin.ru:34768/football2_hdr/video.m3u8?token=d71bf933adedeb3c5fbf0ccacccc4a929122f0ab-5535786420-1645639907-1645553507
+http://srv-6-streaming.iptvin.ru:34768/football2_hdr/video.m3u8?token=532ea5870334e2ebf603ec30ec0b185826559f0d-5535786420-1645741967-1645655567
 #EXTINF:0 group-title="МатчФутбол2", Матч! Футбол 2 [02]
-http://srv-4-streaming.iptvin.ru:8080/football2_rus/video.m3u8?token=461fc69f2c9599d3b307317d7136d08b9a0a130b-5535786420-1645639907-1645553507
+http://srv-4-streaming.iptvin.ru:8080/football2_rus/video.m3u8?token=a6a4edf9be3adcfb3f60989a98404ae72d0c64b6-5535786420-1645741967-1645655567
 #EXTINF:0 group-title="МатчФутбол2", Матч! Футбол 2 [03]
 https://95-213-172-213.livesports24.online/mfootball2rus.m3u8
 
 #EXTINF:0 group-title="МатчФутбол3", Матч! Футбол 3 [01]
-http://srv-5-streaming.iptvin.ru:34768/football3_hd/video.m3u8?token=b89277e2e1b9ef3e90f42a5aced0622e9a4972d5-5535786420-1645639907-1645553507
+http://srv-5-streaming.iptvin.ru:34768/football3_hd/video.m3u8?token=419079de89063b5a4e4f8b29fb9af670c98fd384-5535786420-1645741967-1645655567
 #EXTINF:0 group-title="МатчФутбол3", Матч! Футбол 3 [02]
-http://srv-4-streaming.iptvin.ru:8080/football3_rus/video.m3u8?token=76599d214aa73009917b432bbf1859ef6ca26338-5535786420-1645639907-1645553507
+http://srv-4-streaming.iptvin.ru:8080/football3_rus/video.m3u8?token=57ef8e435121b8c8d8a08faf93a134f2f5d4c461-5535786420-1645741967-1645655567
 #EXTINF:0 group-title="МатчФутбол3", Матч! Футбол 3 [03]
 https://95-213-172-213.livesports24.online/rumatchf3.m3u8
 
 #EXTINF:0 group-title="МатчПремьер", Матч! Премьер [01]
-http://srv-3-streaming.iptvin.ru:8080/matchp/video.m3u8?token=608fcddecfda1a84b3fe5f986891c5de11197c08-5535786420-1645639907-1645553507
+http://srv-3-streaming.iptvin.ru:8080/matchp/video.m3u8?token=8f5320fdb7c106ae8a2e929a4d7cce8d4e100d7e-5535786420-1645741967-1645655567
 #EXTINF:0 group-title="МатчПремьер", Матч! Премьер [02]
-http://srv-5-streaming.iptvin.ru:34768/match_p/video.m3u8?token=7bb4a5f8e012314f78d1e556d5d3edc64d150e92-5535786420-1645639907-1645553507
+http://srv-5-streaming.iptvin.ru:34768/match_p/video.m3u8?token=43bcf5836f2d766c112f5f006c766e877979ec65-5535786420-1645741967-1645655567
 #EXTINF:0 group-title="МатчПремьер", Матч! Премьер [03]
 https://95-213-172-213.livesports24.online/mpremierrus.m3u8
 
